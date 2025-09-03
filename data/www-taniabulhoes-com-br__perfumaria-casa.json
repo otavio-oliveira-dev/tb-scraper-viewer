@@ -1,0 +1,419 @@
+{
+  "url": "https://www.taniabulhoes.com.br/perfumaria-casa",
+  "title": "Perfumaria Casa - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Kit Floresta",
+      "text_blocks": [
+        "Kit Floresta",
+        "Uma escolha que vai além do presente: um convite a sentir, respirar e recordar."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 92
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "O clássico frescor da Lavanda em uma embalagem exclusiva",
+      "text_blocks": [
+        "Para Presentear",
+        "O clássico frescor da Lavanda em uma embalagem exclusiva",
+        "Inspire-se"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 83
+    },
+    {
+      "selector": "#\\37 3",
+      "attrs": {
+        "id": "73",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Para Ambientes",
+      "text_blocks": [
+        "Para Ambientes",
+        "Sala de Estar",
+        "Escritório",
+        "Campo e Praia"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+          "alt": "Sala de Estar "
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+          "alt": "Escritório"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "alt": "Campo e Praia"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
+          "alt": "Lavabo"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+        "https://static.taniabulhoes.com.br/BANNER_MOBILE_PROTEA_798f749985.jpg",
+        "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+        "https://static.taniabulhoes.com.br/000003166_Figo_Negro_Sabonete_Liquido_290ml_3_c58fd9f6ab.jpg",
+        "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+        "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+        "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
+        "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg"
+      ],
+      "html": null,
+      "score": 453
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria.",
+      "text_blocks": [
+        "Difusor de Porcelana Camélia",
+        "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 162
+    },
+    {
+      "selector": "#\\37 1",
+      "attrs": {
+        "id": "71",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Chá Branco",
+      "text_blocks": [
+        "Chá Branco",
+        "Uma combinação harmoniosa de notas cítricas, florais e um toque levemente adocicado.",
+        "Chá Branco Difusor para Ambiente 290ml",
+        "Chá Branco Sabonete Líquido Com Vitamina E 290ml",
+        "Chá Branco Aromatizador de Ambiente 290ml",
+        "Chá Branco Hidratante para Mãos e Corpo 290g",
+        "Chá Branco Vela Porcelana Branca 220g",
+        "Chá Branco Veludo Hidratante 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191655-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-1.jpg?v=638792040489970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191655-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-1.jpg?v=638792040489970000",
+          "alt": "Chá Branco Aromatizador de Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191656-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-2.jpg?v=638792040490130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191656-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-2.jpg?v=638792040490130000",
+          "alt": "Chá Branco Aromatizador de Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+          "alt": "Chá Branco Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+          "alt": "Chá Branco Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191655-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-1.jpg?v=638792040489970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191656-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-2.jpg?v=638792040490130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000"
+      ],
+      "html": null,
+      "score": 943
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso.",
+      "text_blocks": [
+        "SABONETES E HIDRATANTES",
+        "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 123
+    },
+    {
+      "selector": "#\\37 2",
+      "attrs": {
+        "id": "72",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Difusores de Vareta",
+      "text_blocks": [
+        "Difusores de Vareta",
+        "Chá Verde Difusor para Ambiente 290ml",
+        "Figo Negro Difusor para Ambiente 290ml",
+        "Lavanda Difusor para Ambiente 290ml",
+        "Floresta Difusor para Ambiente 290ml",
+        "Jade Difusor para Ambiente 290ml",
+        "Pássaros do Brasil Difusor para Ambiente 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+          "alt": "Chá Verde Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+          "alt": "Chá Verde Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192428-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192428-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000",
+          "alt": "Figo Negro Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192429-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192429-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000",
+          "alt": "Figo Negro Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191824-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-1.jpg?v=638784343218070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191824-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-1.jpg?v=638784343218070000",
+          "alt": "Lavanda Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191825-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-2.jpg?v=638784343218070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191825-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-2.jpg?v=638784343218070000",
+          "alt": "Lavanda Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+          "alt": "Floresta Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+          "alt": "Floresta Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191714-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191714-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000",
+          "alt": "Casa das Orquídeas Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191715-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191715-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000",
+          "alt": "Casa das Orquídeas Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+          "alt": "Jade Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000",
+          "alt": "Jade Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192214-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-1.jpg?v=638810172073970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192214-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-1.jpg?v=638810172073970000",
+          "alt": "Pássaros do Brasil Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192215-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-2.jpg?v=638810172073970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192215-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-2.jpg?v=638810172073970000",
+          "alt": "Pássaros do Brasil Difusor para Ambiente 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192428-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192429-620-auto/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191824-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-1.jpg?v=638784343218070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191825-620-auto/lavanda-difusor-para-ambiente-290ml-002l01300037-2.jpg?v=638784343218070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191714-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191715-620-auto/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192214-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-1.jpg?v=638810172073970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192215-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-2.jpg?v=638810172073970000"
+      ],
+      "html": null,
+      "score": 1049
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(9)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente.",
+      "text_blocks": [
+        "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 105
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:47:35.430Z",
+  "totalSections": 8
+}

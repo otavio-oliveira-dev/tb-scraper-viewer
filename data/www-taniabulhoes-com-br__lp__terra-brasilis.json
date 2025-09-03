@@ -1,0 +1,270 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/terra-brasilis",
+  "title": "Tania Bulhões - Terra Brasilis",
+  "sections": [
+    {
+      "selector": "#\\31 77",
+      "attrs": {
+        "id": "177",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Coleção Terra Brasilis",
+      "text_blocks": [
+        "Coleção Terra Brasilis",
+        "Uma coleção criada para tornar os momentos de celebração ainda mais especiais.",
+        "Set Xícara de Chá Terra Brasilis 4 Peças",
+        "Prato Raso Terra Brasilis",
+        "INDISPONÍVEL",
+        "Aparelho de Jantar Terra Brasilis 18 peças",
+        "Sousplat Terra Brasilis"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200230-620-auto/1002301048K_Set_Xicara_Cha_Terra_Brasilis.png?v=638848132036500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200230-620-auto/1002301048K_Set_Xicara_Cha_Terra_Brasilis.png?v=638848132036500000",
+          "alt": "Set Xícara de Chá Terra Brasilis 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200231-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638848132036670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200231-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638848132036670000",
+          "alt": "Set Xícara de Chá Terra Brasilis 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+          "alt": "Prato Raso Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+          "alt": "Prato Raso Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197074-620-auto/001002301045KTB_Aparelho_Jantar_Terra_Brasilis.png?v=638650420545770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197074-620-auto/001002301045KTB_Aparelho_Jantar_Terra_Brasilis.png?v=638650420545770000",
+          "alt": "Aparelho de Jantar Terra Brasilis 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197075-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613616170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197075-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613616170000",
+          "alt": "Aparelho de Jantar Terra Brasilis 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197043-620-auto/1002301044_Sousplat_Terra_Brasilis--1-.png?v=638650404989330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197043-620-auto/1002301044_Sousplat_Terra_Brasilis--1-.png?v=638650404989330000",
+          "alt": "Sousplat Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197044-620-auto/1002301044_Sousplat_Terra_Brasilis_2.jpg?v=638763614156130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197044-620-auto/1002301044_Sousplat_Terra_Brasilis_2.jpg?v=638763614156130000",
+          "alt": "Sousplat Terra Brasilis"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200230-620-auto/1002301048K_Set_Xicara_Cha_Terra_Brasilis.png?v=638848132036500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200231-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638848132036670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197074-620-auto/001002301045KTB_Aparelho_Jantar_Terra_Brasilis.png?v=638650420545770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197075-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613616170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197043-620-auto/1002301044_Sousplat_Terra_Brasilis--1-.png?v=638650404989330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197044-620-auto/1002301044_Sousplat_Terra_Brasilis_2.jpg?v=638763614156130000"
+      ],
+      "html": null,
+      "score": 648
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Terra Brasilis",
+      "text_blocks": [
+        "Terra Brasilis",
+        "Uma ode à exuberância da natureza brasileira: Terra Brasilis traz para a mesa de Natal o frescor e a singularidade do nosso clima tropical."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 154
+    },
+    {
+      "selector": "#\\31 78",
+      "attrs": {
+        "id": "178",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Cores e formas que celebram a beleza da natureza para um receber surpreendente.",
+      "text_blocks": [
+        "Cores e formas que celebram a beleza da natureza para um receber surpreendente.",
+        "Set Xícara de Café Terra Brasilis 4 Peças",
+        "Prato de Sobremesa Terra Brasilis",
+        "Bowl Terra Brasilis",
+        "Set Prato de Pão Terra Brasilis 2 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199807-620-auto/1002301049_Xicara_Cafe_Terra_Brasilis_5.png?v=638830010429700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199807-620-auto/1002301049_Xicara_Cafe_Terra_Brasilis_5.png?v=638830010429700000",
+          "alt": "Set Xícara de Café Terra Brasilis 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199808-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638830010430000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199808-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638830010430000000",
+          "alt": "Set Xícara de Café Terra Brasilis 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197059-620-auto/1002301046_Prato_Sobremesa_Terra_Brasilis.png?v=638650411388700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197059-620-auto/1002301046_Prato_Sobremesa_Terra_Brasilis.png?v=638650411388700000",
+          "alt": "Prato de Sobremesa Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197060-620-auto/1000200718_Vide_Poche_Terra_Brasilis_5.jpg?v=638763616234200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197060-620-auto/1000200718_Vide_Poche_Terra_Brasilis_5.jpg?v=638763616234200000",
+          "alt": "Prato de Sobremesa Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197108-620-auto/1002301047_Bowl_Terra_Brasilis_3.png?v=638650436235030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197108-620-auto/1002301047_Bowl_Terra_Brasilis_3.png?v=638650436235030000",
+          "alt": "Bowl Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197166-620-auto/1002301047_Bowl_Terra_Brasilis_6.jpg?v=638763616525400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197166-620-auto/1002301047_Bowl_Terra_Brasilis_6.jpg?v=638763616525400000",
+          "alt": "Bowl Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200178-620-auto/1002301050K_Set_Prato_de_Pao_Terra_Brasilis.png?v=638848084202230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200178-620-auto/1002301050K_Set_Prato_de_Pao_Terra_Brasilis.png?v=638848084202230000",
+          "alt": "Set Prato de Pão Terra Brasilis 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200179-620-auto/1002301050_Prato_de_Pao_Terra_Brasilis_5.jpg?v=638848084202370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200179-620-auto/1002301050_Prato_de_Pao_Terra_Brasilis_5.jpg?v=638848084202370000",
+          "alt": "Set Prato de Pão Terra Brasilis 2 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199807-620-auto/1002301049_Xicara_Cafe_Terra_Brasilis_5.png?v=638830010429700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199808-620-auto/001002401148_Mini_Murano_Terra_Brasilis_Verde_3.jpg?v=638830010430000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197059-620-auto/1002301046_Prato_Sobremesa_Terra_Brasilis.png?v=638650411388700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197060-620-auto/1000200718_Vide_Poche_Terra_Brasilis_5.jpg?v=638763616234200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197108-620-auto/1002301047_Bowl_Terra_Brasilis_3.png?v=638650436235030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197166-620-auto/1002301047_Bowl_Terra_Brasilis_6.jpg?v=638763616525400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200178-620-auto/1002301050K_Set_Prato_de_Pao_Terra_Brasilis.png?v=638848084202230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200179-620-auto/1002301050_Prato_de_Pao_Terra_Brasilis_5.jpg?v=638848084202370000"
+      ],
+      "html": null,
+      "score": 615
+    },
+    {
+      "selector": "#\\31 79",
+      "attrs": {
+        "id": "179",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Cada peça da coleção Terra Brasilis foi criada para transportar a atmosfera tropical para a mesa.",
+      "text_blocks": [
+        "Cada peça da coleção Terra Brasilis foi criada para transportar a atmosfera tropical para a mesa.",
+        "Set Guardanapo Terra Brasilis 4 peças",
+        "Vide Poche Terra Brasilis",
+        "Set Vaso Terra Brasilis P 2 Peças",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197140-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis--1-.png?v=638651326780700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197140-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis--1-.png?v=638651326780700000",
+          "alt": "Set Guardanapo Terra Brasilis 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197461-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis_4.jpg?v=638763613240730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197461-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis_4.jpg?v=638763613240730000",
+          "alt": "Set Guardanapo Terra Brasilis 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198360-620-auto/1000200718_Vide_Poche_Terra_Brasilis--2---1-.png?v=638748984692770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198360-620-auto/1000200718_Vide_Poche_Terra_Brasilis--2---1-.png?v=638748984692770000",
+          "alt": "Vide Poche Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198361-620-auto/1000200718_Vide_Poche_Terra_Brasilis_4.jpg?v=638763616773800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198361-620-auto/1000200718_Vide_Poche_Terra_Brasilis_4.jpg?v=638763616773800000",
+          "alt": "Vide Poche Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197306-620-auto/1002401147_Vaso_P_Terra_Brasilis.png?v=638653127979970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197306-620-auto/1002401147_Vaso_P_Terra_Brasilis.png?v=638653127979970000",
+          "alt": "Set Vaso Terra Brasilis P 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197307-620-auto/1002401147_Vaso_P_Terra_Brasilis_3.jpg?v=638763612965000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197307-620-auto/1002401147_Vaso_P_Terra_Brasilis_3.jpg?v=638763612965000000",
+          "alt": "Set Vaso Terra Brasilis P 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197099-620-auto/001000100984_Set_Pt_Guardanapo_Terra_Brasilis.png?v=638650431611070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197099-620-auto/001000100984_Set_Pt_Guardanapo_Terra_Brasilis.png?v=638650431611070000",
+          "alt": "Set Porta Guardanapo Terra Brasilis 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197100-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613102800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197100-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613102800000",
+          "alt": "Set Porta Guardanapo Terra Brasilis 4 peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197140-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis--1-.png?v=638651326780700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197461-620-auto/001000100983_Set_Guardanapo_Terra_Brasilis_4.jpg?v=638763613240730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198360-620-auto/1000200718_Vide_Poche_Terra_Brasilis--2---1-.png?v=638748984692770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198361-620-auto/1000200718_Vide_Poche_Terra_Brasilis_4.jpg?v=638763616773800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197306-620-auto/1002401147_Vaso_P_Terra_Brasilis.png?v=638653127979970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197307-620-auto/1002401147_Vaso_P_Terra_Brasilis_3.jpg?v=638763612965000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197099-620-auto/001000100984_Set_Pt_Guardanapo_Terra_Brasilis.png?v=638650431611070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197100-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613102800000"
+      ],
+      "html": null,
+      "score": 608
+    }
+  ],
+  "scrapedAt": "2025-09-03T23:01:21.920Z",
+  "totalSections": 4
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraper Content Viewer - Tania Bulhões</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <h1>📱 Content Viewer</h1>
+            <div class="search-container">
+                <input type="text" id="search" placeholder="Buscar páginas ou conteúdo..." />
+                <button id="search-btn">🔍</button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h3>📄 Páginas</h3>
+                    <div class="page-count">
+                        <span id="page-count">0 páginas</span>
+                    </div>
+                </div>
+                
+                <div class="pages-list" id="pages-list">
+                    <div class="loading">Carregando páginas...</div>
+                </div>
+            </aside>
+
+            <!-- Content Area -->
+            <main class="content-area">
+                <div class="welcome-screen" id="welcome-screen">
+                    <div class="welcome-content">
+                        <h2>👋 Bem-vindo ao Content Viewer</h2>
+                        <p>Selecione uma página na barra lateral para visualizar o conteúdo extraído do scraper.</p>
+                        <div class="stats">
+                            <div class="stat-item">
+                                <span class="stat-number" id="total-pages">0</span>
+                                <span class="stat-label">Páginas</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-number" id="total-sections">0</span>
+                                <span class="stat-label">Seções</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="page-content" id="page-content" style="display: none;">
+                    <!-- Page Header -->
+                    <div class="page-header">
+                        <div class="page-info">
+                            <h2 id="page-title">Título da Página</h2>
+                            <div class="page-meta">
+                                <span class="page-url" id="page-url">URL</span>
+                                <span class="page-date" id="page-date">Data</span>
+                                <span class="sections-count" id="sections-count">0 seções</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sections -->
+                    <div class="sections-container" id="sections-container">
+                        <!-- Sections will be populated by JavaScript -->
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Toast for copy feedback -->
+    <div class="toast" id="toast">
+        <span class="toast-message">Copiado para a área de transferência!</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

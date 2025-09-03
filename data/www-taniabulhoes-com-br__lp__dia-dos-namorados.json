@@ -1,0 +1,136 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/dia-dos-namorados",
+  "title": "Tania Bulhões - Dia dos Namorados",
+  "sections": [
+    {
+      "selector": "article[data-cy=\"double-brand-section-container\"]",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Compre o Kit Hidratante e Ganhe um Mimo Especial",
+      "text_blocks": [
+        "Compre o Kit Hidratante e Ganhe um Mimo Especial",
+        "Na compra de um Kit Hidratante, você ganha um Creme para Mãos na mesma fragrância - um gesto a mais para tornar o presente ainda mais especial.",
+        "Compre e surpreenda"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 212
+    },
+    {
+      "selector": "article[data-sentry-component=\"TemplateSection\"]",
+      "attrs": {
+        "id": "293",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Kit Hidratante Chá Branco 150g",
+      "text_blocks": [
+        "Kit Hidratante Chá Branco 150g",
+        "Kit Hidratante 1989 150g",
+        "Kit Hidratante Rosas Roubadas 150g",
+        "Kit Hidratante À Francesa 150g",
+        "Kit Hidratante Ventos de Lavanda 150g",
+        "Kit Hidratante Meu Verde 150g",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+          "alt": "Kit Hidratante Chá Branco 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+          "alt": "Kit Hidratante Chá Branco 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+          "alt": "Kit Hidratante 1989 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+          "alt": "Kit Hidratante 1989 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+          "alt": "Kit Hidratante Rosas Roubadas 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+          "alt": "Kit Hidratante Rosas Roubadas 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+          "alt": "Kit Hidratante À Francesa 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+          "alt": "Kit Hidratante À Francesa 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+          "alt": "Kit Hidratante Ventos de Lavanda 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+          "alt": "Kit Hidratante Ventos de Lavanda 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+          "alt": "Kit Hidratante Meu Verde 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000",
+          "alt": "Kit Hidratante Meu Verde 150g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000"
+      ],
+      "html": null,
+      "score": 802
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:53:11.335Z",
+  "totalSections": 2
+}

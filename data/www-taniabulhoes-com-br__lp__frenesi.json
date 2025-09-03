@@ -1,0 +1,24 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/frenesi",
+  "title": "Tania Bulhões - Frenesi",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "É sobre conforto de habitar a própria pele.",
+      "text_blocks": [
+        "Uma fragrância sem gênero, sensual e fresca, que te convida a sentir a maciez do toque através do olfato, com notas que abraçam, cativam e te conectam com o seu verdadeiro eu, como a inquietação envolvente de um sonho que flerta com a realidade."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 245
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:54:54.744Z",
+  "totalSections": 1
+}

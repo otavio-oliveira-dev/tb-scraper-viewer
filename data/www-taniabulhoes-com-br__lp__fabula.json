@@ -1,0 +1,338 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/fabula",
+  "title": "Tania Bulhões - Fábula",
+  "sections": [
+    {
+      "selector": "#\\32 25",
+      "attrs": {
+        "id": "225",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Fábula",
+      "text_blocks": [
+        "Histórias contadas através de narrativas familiares são a inspiração por trás da Coleção Fábula.",
+        "Inspire-se",
+        "Bowl Fábula",
+        "Taça de Cristal Fábula",
+        "Prato Raso Fábula",
+        "INDISPONÍVEL",
+        "Prato de Sobremesa Fábula",
+        "Aparelho de Jantar Fábula 18 peças",
+        "Sousplat Fábula",
+        "Copo de Cristal Fábula",
+        "Prato de Pão Fábula"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+          "alt": "Bowl Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+          "alt": "Bowl Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194330-620-auto/taca-de-cristal-fabula-001001000557-2.jpg?v=638782685372830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194330-620-auto/taca-de-cristal-fabula-001001000557-2.jpg?v=638782685372830000",
+          "alt": "Taça de Cristal Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194329-620-auto/taca-de-cristal-fabula-001001000557-1.jpg?v=638782685373000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194329-620-auto/taca-de-cristal-fabula-001001000557-1.jpg?v=638782685373000000",
+          "alt": "Taça de Cristal Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+          "alt": "Prato Raso Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+          "alt": "Prato Raso Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193057-620-auto/prato-de-sobremesa-fabula-001002300716-1.jpg?v=638782685550770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193057-620-auto/prato-de-sobremesa-fabula-001002300716-1.jpg?v=638782685550770000",
+          "alt": "Prato de Sobremesa Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193058-620-auto/prato-de-sobremesa-fabula-001002300716-2.jpg?v=638782685550770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193058-620-auto/prato-de-sobremesa-fabula-001002300716-2.jpg?v=638782685550770000",
+          "alt": "Prato de Sobremesa Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194377-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-1.jpg?v=638782688007100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194377-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-1.jpg?v=638782688007100000",
+          "alt": "Aparelho de Jantar Fábula 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194378-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-2.jpg?v=638782688007270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194378-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-2.jpg?v=638782688007270000",
+          "alt": "Aparelho de Jantar Fábula 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191739-620-auto/sousplat-fabula-001002300413-1.jpg?v=638782685704430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191739-620-auto/sousplat-fabula-001002300413-1.jpg?v=638782685704430000",
+          "alt": "Sousplat Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191740-620-auto/sousplat-fabula-001002300413-2.jpg?v=638782685704430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191740-620-auto/sousplat-fabula-001002300413-2.jpg?v=638782685704430000",
+          "alt": "Sousplat Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194335-620-auto/copo-de-cristal-fabula-001001000556-1.jpg?v=638782686396800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194335-620-auto/copo-de-cristal-fabula-001001000556-1.jpg?v=638782686396800000",
+          "alt": "Copo de Cristal Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194336-620-auto/copo-de-cristal-fabula-001001000556-2.jpg?v=638782686396800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194336-620-auto/copo-de-cristal-fabula-001001000556-2.jpg?v=638782686396800000",
+          "alt": "Copo de Cristal Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193934-620-auto/prato-de-pao-fabula-001002300311-1.jpg?v=638782687858800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193934-620-auto/prato-de-pao-fabula-001002300311-1.jpg?v=638782687858800000",
+          "alt": "Prato de Pão Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193935-620-auto/prato-de-pao-fabula-001002300311-2.jpg?v=638782687858800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193935-620-auto/prato-de-pao-fabula-001002300311-2.jpg?v=638782687858800000",
+          "alt": "Prato de Pão Fábula"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194330-620-auto/taca-de-cristal-fabula-001001000557-2.jpg?v=638782685372830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194329-620-auto/taca-de-cristal-fabula-001001000557-1.jpg?v=638782685373000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193057-620-auto/prato-de-sobremesa-fabula-001002300716-1.jpg?v=638782685550770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193058-620-auto/prato-de-sobremesa-fabula-001002300716-2.jpg?v=638782685550770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194377-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-1.jpg?v=638782688007100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194378-620-auto/aparelho-de-jantar-fabula-18-pecas-000003899k-2.jpg?v=638782688007270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191739-620-auto/sousplat-fabula-001002300413-1.jpg?v=638782685704430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191740-620-auto/sousplat-fabula-001002300413-2.jpg?v=638782685704430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194335-620-auto/copo-de-cristal-fabula-001001000556-1.jpg?v=638782686396800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194336-620-auto/copo-de-cristal-fabula-001001000556-2.jpg?v=638782686396800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193934-620-auto/prato-de-pao-fabula-001002300311-1.jpg?v=638782687858800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193935-620-auto/prato-de-pao-fabula-001002300311-2.jpg?v=638782687858800000"
+      ],
+      "html": null,
+      "score": 1093
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "A Coleção Fábula é uma experiência completa:",
+      "text_blocks": [
+        "A Coleção Fábula é uma experiência completa:",
+        "Desde pratos e xícaras até acessórios encantadores, cada peça foi idealizada para ajudar a compor uma mesa charmosa e inusitada."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 173
+    },
+    {
+      "selector": "#\\32 27",
+      "attrs": {
+        "id": "227",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "A Coleção Fábula é uma ode à magia dos contos de fadas. Uma obra de arte por si só.",
+      "text_blocks": [
+        "A Coleção Fábula é uma ode à magia dos contos de fadas. Uma obra de arte por si só.",
+        "Fruteira Fábula",
+        "Porta-Aperitivo Fábula",
+        "Tábua Aperitivo Fábula",
+        "Set Guardanapo Fábula 4 peças",
+        "Xícara de Chá Fábula",
+        "INDISPONÍVEL",
+        "Xícara de Café Fábula",
+        "Vide Poche Fábula",
+        "Set Porta Azeitona Fábula 2 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052-620-auto/000003888_Fruteira_Fabula.png?v=638621080665670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052-620-auto/000003888_Fruteira_Fabula.png?v=638621080665670000",
+          "alt": "Fruteira Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053-620-auto/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053-620-auto/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000",
+          "alt": "Fruteira Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+          "alt": "Porta-Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000",
+          "alt": "Porta-Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+          "alt": "Tábua Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+          "alt": "Tábua Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191728-620-auto/xicara-de-cha-fabula-001002300581-1.jpg?v=638782687560000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191728-620-auto/xicara-de-cha-fabula-001002300581-1.jpg?v=638782687560000000",
+          "alt": "Xícara de Chá Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191729-620-auto/xicara-de-cha-fabula-001002300581-2.jpg?v=638782687560000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191729-620-auto/xicara-de-cha-fabula-001002300581-2.jpg?v=638782687560000000",
+          "alt": "Xícara de Chá Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191723-620-auto/xicara-de-cafe-fabula-001002300839-1.jpg?v=638782687719400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191723-620-auto/xicara-de-cafe-fabula-001002300839-1.jpg?v=638782687719400000",
+          "alt": "Xícara de Café Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191724-620-auto/xicara-de-cafe-fabula-001002300839-2.jpg?v=638782687719400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191724-620-auto/xicara-de-cafe-fabula-001002300839-2.jpg?v=638782687719400000",
+          "alt": "Xícara de Café Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196049-620-auto/000003890_Vide_Poche_Fabula_4.png?v=638621079279100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196049-620-auto/000003890_Vide_Poche_Fabula_4.png?v=638621079279100000",
+          "alt": "Vide Poche Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198283-620-auto/000003890_Vide_Poche_Fabula_7.jpg?v=638761717194870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198283-620-auto/000003890_Vide_Poche_Fabula_7.jpg?v=638761717194870000",
+          "alt": "Vide Poche Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193846-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-1.jpg?v=638798196229130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193846-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-1.jpg?v=638798196229130000",
+          "alt": "Set Porta Azeitona Fábula 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193847-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-2.jpg?v=638798196229270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193847-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-2.jpg?v=638798196229270000",
+          "alt": "Set Porta Azeitona Fábula 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196796-620-auto/set-porta-guardanapo-fabula-4-pecas-001000100834-1.jpg?v=638773993618730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196796-620-auto/set-porta-guardanapo-fabula-4-pecas-001000100834-1.jpg?v=638773993618730000",
+          "alt": "Set Porta Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197038-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638773993618730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197038-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638773993618730000",
+          "alt": "Set Porta Guardanapo Fábula 4 peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196052-620-auto/000003888_Fruteira_Fabula.png?v=638621080665670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053-620-auto/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191728-620-auto/xicara-de-cha-fabula-001002300581-1.jpg?v=638782687560000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191729-620-auto/xicara-de-cha-fabula-001002300581-2.jpg?v=638782687560000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191723-620-auto/xicara-de-cafe-fabula-001002300839-1.jpg?v=638782687719400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191724-620-auto/xicara-de-cafe-fabula-001002300839-2.jpg?v=638782687719400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196049-620-auto/000003890_Vide_Poche_Fabula_4.png?v=638621079279100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198283-620-auto/000003890_Vide_Poche_Fabula_7.jpg?v=638761717194870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193846-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-1.jpg?v=638798196229130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193847-620-auto/set-porta-azeitona-fabula-2-pecas-000003891k-2.jpg?v=638798196229270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196796-620-auto/set-porta-guardanapo-fabula-4-pecas-001000100834-1.jpg?v=638773993618730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197038-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638773993618730000"
+      ],
+      "html": null,
+      "score": 1183
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Fábula",
+      "text_blocks": [
+        "Uma coleção que celebra o amor e conexão entre mãe e filho em ilustrações lúdicas e surrealistas criadas à mão."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 111
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:54:47.979Z",
+  "totalSections": 4
+}

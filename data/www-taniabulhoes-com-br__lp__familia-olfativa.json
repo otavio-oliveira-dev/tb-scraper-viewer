@@ -1,0 +1,493 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/familia-olfativa",
+  "title": "Tania Bulhões - Família Olfativa",
+  "sections": [
+    {
+      "selector": "#\\32 81",
+      "attrs": {
+        "id": "281",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Rosas Roubadas Eau de Parfum 80ml",
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200733-620-auto/1989-eau-de-parfum-30ml-tania-n-30-003l02800109-1.png?v=638887259815400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200733-620-auto/1989-eau-de-parfum-30ml-tania-n-30-003l02800109-1.png?v=638887259815400000",
+          "alt": "1989 Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200734-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887259815730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200734-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887259815730000",
+          "alt": "1989 Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200679-620-auto/ventos-de-lavanda-eau-de-parfum-80ml-003l02800037-1.jpg?v=638887253084770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200679-620-auto/ventos-de-lavanda-eau-de-parfum-80ml-003l02800037-1.jpg?v=638887253084770000",
+          "alt": "Ventos de Lavanda Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200680-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914698527130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200680-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914698527130000",
+          "alt": "Ventos de Lavanda Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200699-620-auto/a-francesa-eau-de-parfum-30ml-jardim-de-rosas-003l02800113-1.jpg?v=638887255193100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200699-620-auto/a-francesa-eau-de-parfum-30ml-jardim-de-rosas-003l02800113-1.jpg?v=638887255193100000",
+          "alt": "À Francesa Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200700-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887255193230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200700-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887255193230000",
+          "alt": "À Francesa Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200737-620-auto/1989-eau-de-parfum-80ml-tania-n-30-003l02800030-1.jpg?v=638887260040100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200737-620-auto/1989-eau-de-parfum-80ml-tania-n-30-003l02800030-1.jpg?v=638887260040100000",
+          "alt": "1989 Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200738-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887260040270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200738-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887260040270000",
+          "alt": "1989 Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
+          "alt": "À Francesa Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200695-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887254867830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200695-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887254867830000",
+          "alt": "À Francesa Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200676-620-auto/ventos-de-lavanda-eau-de-parfum-30ml-003l02800117-1.jpg?v=638887252824730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200676-620-auto/ventos-de-lavanda-eau-de-parfum-30ml-003l02800117-1.jpg?v=638887252824730000",
+          "alt": "Ventos de Lavanda Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200677-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914693817630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200677-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914693817630000",
+          "alt": "Ventos de Lavanda Eau de Parfum 30ml"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200733-620-auto/1989-eau-de-parfum-30ml-tania-n-30-003l02800109-1.png?v=638887259815400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200734-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887259815730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200679-620-auto/ventos-de-lavanda-eau-de-parfum-80ml-003l02800037-1.jpg?v=638887253084770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200680-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914698527130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200699-620-auto/a-francesa-eau-de-parfum-30ml-jardim-de-rosas-003l02800113-1.jpg?v=638887255193100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200700-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887255193230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200737-620-auto/1989-eau-de-parfum-80ml-tania-n-30-003l02800030-1.jpg?v=638887260040100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200738-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887260040270000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200695-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887254867830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200676-620-auto/ventos-de-lavanda-eau-de-parfum-30ml-003l02800117-1.jpg?v=638887252824730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200677-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914693817630000"
+      ],
+      "html": null,
+      "score": 900
+    },
+    {
+      "selector": "#\\32 82",
+      "attrs": {
+        "id": "282",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Chá Branco Eau de Parfum 80ml",
+      "text_blocks": [
+        "Best Seller",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200756-620-auto/meu-verde-eau-de-parfum-30ml-tangerina-verde-003l02800114-1.jpg?v=638887262420000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200756-620-auto/meu-verde-eau-de-parfum-30ml-tangerina-verde-003l02800114-1.jpg?v=638887262420000000",
+          "alt": "Meu Verde Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200757-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262420000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200757-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262420000000",
+          "alt": "Meu Verde Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
+          "alt": "Sinfonia Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
+          "alt": "Sinfonia Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200709-620-auto/sinfonia-eau-de-parfum-30ml-figo-003l02800111-1.jpg?v=638887256135530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200709-620-auto/sinfonia-eau-de-parfum-30ml-figo-003l02800111-1.jpg?v=638887256135530000",
+          "alt": "Sinfonia Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000",
+          "alt": "Sinfonia Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200756-620-auto/meu-verde-eau-de-parfum-30ml-tangerina-verde-003l02800114-1.jpg?v=638887262420000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200757-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262420000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200709-620-auto/sinfonia-eau-de-parfum-30ml-figo-003l02800111-1.jpg?v=638887256135530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000"
+      ],
+      "html": null,
+      "score": 624
+    },
+    {
+      "selector": "#\\32 83",
+      "attrs": {
+        "id": "283",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Frenesi Eau de Parfum 80ml",
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200684-620-auto/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200684-620-auto/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000",
+          "alt": "Frenesi Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200685-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200685-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000",
+          "alt": "Frenesi Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+          "alt": "Segredo Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+          "alt": "Segredo Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689-620-auto/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689-620-auto/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000",
+          "alt": "Frenesi Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000",
+          "alt": "Frenesi Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+          "alt": "Segredo Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
+          "alt": "Segredo Eau de Parfum 30ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200684-620-auto/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200685-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689-620-auto/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690-620-auto/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000"
+      ],
+      "html": null,
+      "score": 400
+    },
+    {
+      "selector": "#\\32 88",
+      "attrs": {
+        "id": "288",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Encontro Marcado Eau de Parfum 80ml",
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200741-620-auto/Encontro_Marcado_Eau_de_Parfum_80ml.png?v=638887260743970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200741-620-auto/Encontro_Marcado_Eau_de_Parfum_80ml.png?v=638887260743970000",
+          "alt": "Encontro Marcado Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200742-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887260744300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200742-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887260744300000",
+          "alt": "Encontro Marcado Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200719-620-auto/fava-selvagem-eau-de-parfum-30ml-003l02800115-1.jpg?v=638887257849600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200719-620-auto/fava-selvagem-eau-de-parfum-30ml-003l02800115-1.jpg?v=638887257849600000",
+          "alt": "Fava Selvagem Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200720-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257849600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200720-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257849600000",
+          "alt": "Fava Selvagem Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714-620-auto/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714-620-auto/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000",
+          "alt": "Fava Selvagem Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000",
+          "alt": "Fava Selvagem Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747-620-auto/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747-620-auto/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000",
+          "alt": "Encontro Marcado Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000",
+          "alt": "Encontro Marcado Eau de Parfum 30ml"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200741-620-auto/Encontro_Marcado_Eau_de_Parfum_80ml.png?v=638887260743970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200742-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887260744300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200719-620-auto/fava-selvagem-eau-de-parfum-30ml-003l02800115-1.jpg?v=638887257849600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200720-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257849600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714-620-auto/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715-620-auto/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747-620-auto/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000"
+      ],
+      "html": null,
+      "score": 500
+    },
+    {
+      "selector": "#\\32 89",
+      "attrs": {
+        "id": "289",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Conheça a intensidade dos nossos Perfumes.",
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_eb3ef794b5.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_eb3ef794b5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003025_A_Francesa_Eau_de_Parfum_80ml_2_f86c4584ed.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003025_A_Francesa_Eau_de_Parfum_80ml_2_f86c4584ed.jpg",
+          "alt": "Moderados"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003019_Meu_Verde_Eau_de_Parfum_80ml_1_d04fee2d9a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003019_Meu_Verde_Eau_de_Parfum_80ml_1_d04fee2d9a.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003014_Sinfonia_Eau_de_Parfum_80ml_2_1_18a7ce5a13.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003014_Sinfonia_Eau_de_Parfum_80ml_2_1_18a7ce5a13.jpg",
+          "alt": "Marcantes"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_51f1a043be.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_51f1a043be.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_ceada9b500.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_ceada9b500.jpg",
+          "alt": "Intensos"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_82f9316d61.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_82f9316d61.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_8d57b23063.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_8d57b23063.jpg",
+          "alt": "Ver Todos"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_eb3ef794b5.jpg",
+        "https://static.taniabulhoes.com.br/000003025_A_Francesa_Eau_de_Parfum_80ml_2_f86c4584ed.jpg",
+        "https://static.taniabulhoes.com.br/000003019_Meu_Verde_Eau_de_Parfum_80ml_1_d04fee2d9a.jpg",
+        "https://static.taniabulhoes.com.br/000003014_Sinfonia_Eau_de_Parfum_80ml_2_1_18a7ce5a13.jpg",
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_51f1a043be.jpg",
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_ceada9b500.jpg",
+        "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_82f9316d61.jpg",
+        "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_8d57b23063.jpg"
+      ],
+      "html": null,
+      "score": 400
+    }
+  ],
+  "scrapedAt": "2025-09-03T23:00:56.840Z",
+  "totalSections": 5
+}

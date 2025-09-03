@@ -1,0 +1,483 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/novidades",
+  "title": "Tania Bulhões - Novidades",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "Drawer.tsx",
+        "class": "sc-ed6ed672-0 byBQkm"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Últimas Novidades",
+        "Difusor para Carro Dourado",
+        "Difusor Chef",
+        "Jarra Eclipse",
+        "Difusores de Porcelana",
+        "Bandeja Diamante",
+        "Mais Procurados",
+        "Aparelhos de Jantar",
+        "Sala de Estar",
+        "Escritório",
+        "Campo e Praia"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 186
+    },
+    {
+      "selector": "#\\32 28",
+      "attrs": {
+        "id": "228",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Lançamentos",
+      "text_blocks": [
+        "Taça Champagne Fantasia",
+        "Cesto de Pão Colmeia Fibras Naturais",
+        "Jogo Americano Arquipélago Redondo Verde",
+        "Porta-Guardanapo Arquipélago Verde",
+        "Jarra Eclipse Bergamota",
+        "INDISPONÍVEL",
+        "Jogo Americano Arquipélago Redondo Natural"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200951-620-auto/001001000570_Taca_de_Champagne_Fantasia.png?v=638911451607970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200951-620-auto/001001000570_Taca_de_Champagne_Fantasia.png?v=638911451607970000",
+          "alt": "Taça Champagne Fantasia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200952-620-auto/001001000570_Taca_de_Champagne_Fantasia.jpg?v=638911451608270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200952-620-auto/001001000570_Taca_de_Champagne_Fantasia.jpg?v=638911451608270000",
+          "alt": "Taça Champagne Fantasia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199952-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais.png.png?v=638841226623000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199952-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais.png.png?v=638841226623000000",
+          "alt": "Cesto de Pão Colmeia Fibras Naturais"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199953-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais_6.jpg?v=638841226623300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199953-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais_6.jpg?v=638841226623300000",
+          "alt": "Cesto de Pão Colmeia Fibras Naturais"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199932-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde--1-.png?v=638839738333400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199932-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde--1-.png?v=638839738333400000",
+          "alt": "Jogo Americano Arquipélago Redondo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199933-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_3.jpg?v=638839737923400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199933-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_3.jpg?v=638839737923400000",
+          "alt": "Jogo Americano Arquipélago Redondo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199941-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde.png?v=638840378167270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199941-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde.png?v=638840378167270000",
+          "alt": "Porta-Guardanapo Arquipélago Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199942-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde_6.jpg?v=638840378167400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199942-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde_6.jpg?v=638840378167400000",
+          "alt": "Porta-Guardanapo Arquipélago Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+          "alt": "Jarra Eclipse Bergamota"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+          "alt": "Jarra Eclipse Bergamota"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200016-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural--1-.png?v=638841279249700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200016-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural--1-.png?v=638841279249700000",
+          "alt": "Jogo Americano Arquipélago Redondo Natural"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200017-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural_3.jpg?v=638841279250030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200017-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural_3.jpg?v=638841279250030000",
+          "alt": "Jogo Americano Arquipélago Redondo Natural"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200951-620-auto/001001000570_Taca_de_Champagne_Fantasia.png?v=638911451607970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200952-620-auto/001001000570_Taca_de_Champagne_Fantasia.jpg?v=638911451608270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199952-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais.png.png?v=638841226623000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199953-620-auto/001000100039_Cesto_de_Pao_Colmeia_Fibras_Naturais_6.jpg?v=638841226623300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199932-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde--1-.png?v=638839738333400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199933-620-auto/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_3.jpg?v=638839737923400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199941-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde.png?v=638840378167270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199942-620-auto/001000101010_Pt_Guardanapo_Arquipelago_Verde_6.jpg?v=638840378167400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200016-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural--1-.png?v=638841279249700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200017-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural_3.jpg?v=638841279250030000"
+      ],
+      "html": null,
+      "score": 816
+    },
+    {
+      "selector": "#\\32 29",
+      "attrs": {
+        "id": "229",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Crie um ambiente relaxante, energizante ou romântico com a fragrância ideal.",
+      "text_blocks": [
+        "Crie um ambiente relaxante, energizante ou romântico com a fragrância ideal.",
+        "Kit Difusor Dourado para Carro Chá Branco",
+        "Kit Floresta Difusor para Carro + Mini Vela",
+        "Kit Difusor Elétrico Colmeia Chá Verde 10ml",
+        "Kit Difusor Dourado para Carro Floresta",
+        "Chá Verde Essência Para Difusor Elétrico 10ml",
+        "Chef Difusor para Ambiente 470ml",
+        "Difusor de Porcelana Orquídeas 290ml",
+        "Difusor de Porcelana Pássaros 290ml",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201074-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925008658170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201074-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925008658170000",
+          "alt": "Kit Difusor Dourado para Carro Chá Branco"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
+          "alt": "Kit Difusor Dourado para Carro Chá Branco"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201056-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925007379200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201056-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925007379200000",
+          "alt": "Kit Difusor Dourado para Carro Casa das Orquídeas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201057-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925007379500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201057-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925007379500000",
+          "alt": "Kit Difusor Dourado para Carro Casa das Orquídeas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201065-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3--1-.png.png?v=638925008285000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201065-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3--1-.png.png?v=638925008285000000",
+          "alt": "Kit Difusor Dourado para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/201066-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008285170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/201066-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008285170000",
+          "alt": "Kit Difusor Dourado para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200516-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml.png?v=638881754506030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200516-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml.png?v=638881754506030000",
+          "alt": "Chá Verde Essência Para Difusor Elétrico 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200517-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml_Caixa.png?v=638881754506330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200517-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml_Caixa.png?v=638881754506330000",
+          "alt": "Chá Verde Essência Para Difusor Elétrico 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200518-620-auto/002001300002KCV_Kit_Difusor_Eletrico_Seixos_Tania_Bulhoes_CHA_VERDE.png?v=638881812220270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200518-620-auto/002001300002KCV_Kit_Difusor_Eletrico_Seixos_Tania_Bulhoes_CHA_VERDE.png?v=638881812220270000",
+          "alt": "Kit Difusor Elétrico Seixos Chá Verde 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200519-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638881812220430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200519-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638881812220430000",
+          "alt": "Kit Difusor Elétrico Seixos Chá Verde 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033-620-auto/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033-620-auto/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000",
+          "alt": "Chef Difusor para Ambiente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034-620-auto/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034-620-auto/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000",
+          "alt": "Chef Difusor para Ambiente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199889-620-auto/002001300007COK002001300007_Difusor_Porcelana_Casa_das_Orquideas.png.png?v=638836185859630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199889-620-auto/002001300007COK002001300007_Difusor_Porcelana_Casa_das_Orquideas.png.png?v=638836185859630000",
+          "alt": "Difusor de Porcelana Orquídeas 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199890-620-auto/002001300007CVK_Difusor_Porcelana_Orquidea_3.jpg?v=638836185859800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199890-620-auto/002001300007CVK_Difusor_Porcelana_Orquidea_3.jpg?v=638836185859800000",
+          "alt": "Difusor de Porcelana Orquídeas 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199883-620-auto/002001300008PBK002001300008_Difusor_Porcelana_Passaros_do_Brasil.png.png?v=638836184791330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199883-620-auto/002001300008PBK002001300008_Difusor_Porcelana_Passaros_do_Brasil.png.png?v=638836184791330000",
+          "alt": "Difusor de Porcelana Pássaros 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199884-620-auto/002001300008CBK_Difusor_Porcelana_Passaros_5.jpg?v=638836184791630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199884-620-auto/002001300008CBK_Difusor_Porcelana_Passaros_5.jpg?v=638836184791630000",
+          "alt": "Difusor de Porcelana Pássaros 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/201074-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925008658170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/201056-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925007379200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/201057-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925007379500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/201065-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3--1-.png.png?v=638925008285000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/201066-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008285170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200516-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml.png?v=638881754506030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200517-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml_Caixa.png?v=638881754506330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200518-620-auto/002001300002KCV_Kit_Difusor_Eletrico_Seixos_Tania_Bulhoes_CHA_VERDE.png?v=638881812220270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200519-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638881812220430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033-620-auto/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034-620-auto/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199889-620-auto/002001300007COK002001300007_Difusor_Porcelana_Casa_das_Orquideas.png.png?v=638836185859630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199890-620-auto/002001300007CVK_Difusor_Porcelana_Orquidea_3.jpg?v=638836185859800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199883-620-auto/002001300008PBK002001300008_Difusor_Porcelana_Passaros_do_Brasil.png.png?v=638836184791330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199884-620-auto/002001300008CBK_Difusor_Porcelana_Passaros_5.jpg?v=638836184791630000"
+      ],
+      "html": null,
+      "score": 1611
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Nossos Perfumes",
+      "text_blocks": [
+        "São produzidos com os melhores ingredientes da perfumaria mundial em alta concentração.",
+        "Sinta na pele e encante-se por nosso universo de sensações."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 147
+    },
+    {
+      "selector": "#\\32 30",
+      "attrs": {
+        "id": "230",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Fragrâncias memoráveis, feitas para marcar presença.",
+      "text_blocks": [
+        "Fragrâncias memoráveis, feitas para marcar presença.",
+        "Chá Branco Hidratante Corporal 150g",
+        "Kit Amadeirados",
+        "Rosas Roubadas Hidratante Corporal 150g",
+        "Ventos de Lavanda Hidratante Corporal 150g",
+        "À Francesa Hidratante Corporal 150g",
+        "Meu Verde Hidratante Corporal 150g",
+        "1989 Hidratante Corporal 150g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+          "alt": "Chá Branco Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+          "alt": "Chá Branco Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000",
+          "alt": "Rosas Roubadas Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000",
+          "alt": "Rosas Roubadas Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199710-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829966320200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199710-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829966320200000",
+          "alt": "Ventos de Lavanda Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199711-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829966320370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199711-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829966320370000",
+          "alt": "Ventos de Lavanda Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199775-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829982162970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199775-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829982162970000",
+          "alt": "À Francesa Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199776-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G_6--1-.jpg.jpg?v=638920702730300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199776-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G_6--1-.jpg.jpg?v=638920702730300000",
+          "alt": "À Francesa Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199475-620-auto/003L01800033_MEU_VERDE_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814366044230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199475-620-auto/003L01800033_MEU_VERDE_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814366044230000",
+          "alt": "Meu Verde Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199476-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814366044400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199476-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814366044400000",
+          "alt": "Meu Verde Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199469-620-auto/003L01800032_1989_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814364057800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199469-620-auto/003L01800032_1989_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814364057800000",
+          "alt": "1989 Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199470-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814364058100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199470-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814364058100000",
+          "alt": "1989 Hidratante Corporal 150g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738-620-auto/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199710-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829966320200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199711-620-auto/003L01800030_LAVANDA_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829966320370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199775-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829982162970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199776-620-auto/003L01800034_A_FRANCESA_HIDRATANTE_DEO_CORPORAL_150G_6--1-.jpg.jpg?v=638920702730300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199475-620-auto/003L01800033_MEU_VERDE_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814366044230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199476-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814366044400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199469-620-auto/003L01800032_1989_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814364057800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199470-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814364058100000"
+      ],
+      "html": null,
+      "score": 988
+    }
+  ],
+  "scrapedAt": "2025-09-03T23:01:50.696Z",
+  "totalSections": 5
+}

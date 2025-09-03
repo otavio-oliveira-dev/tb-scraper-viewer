@@ -1,0 +1,40 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/rosas-roubadas",
+  "title": "Tania Bulhões - Rosas Roubadas",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Rosas Roubadas",
+      "text_blocks": [
+        "Rosas Roubadas",
+        "Ousado, apaixonante, transgressor que ativa novos sentidos."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 74
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Uma mistura ousada de delicadeza com sensualidade.",
+      "text_blocks": [
+        "Rosas Roubadas cobre a pele de quem traz nos olhos o brilho de quem ama. Ousadia e sensualidade desde a abertura fresca, em grãos de pimenta preta. Um mix de rosas e peônia destacam o romantismo da rosa centifólia, que toca o corpo com sutileza e elegância, quase discreta."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 273
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:56:31.492Z",
+  "totalSections": 2
+}

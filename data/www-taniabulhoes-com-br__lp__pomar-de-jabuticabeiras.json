@@ -1,0 +1,41 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/pomar-de-jabuticabeiras",
+  "title": "Tania Bulhões - Pomar de Jabuticabeiras",
+  "sections": [
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "A coleção mais queridinha está de volta.",
+      "text_blocks": [
+        "A coleção mais queridinha está de volta.",
+        "Inspirada na beleza singela do nosso Brasil, a coleção Pomar de Jabuticabeira retorna em pré-venda para criar novas histórias ao redor da mesa. Garanta suas peças e celebre momentos cheios de afeto e brasilidade."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 253
+    },
+    {
+      "selector": "article[data-cy=\"double-brand-section-container\"]",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "O que você precisa saber sobre a pré-venda.",
+      "text_blocks": [
+        "O que você precisa saber sobre a pré-venda.",
+        "A previsão de recebimento é para janeiro de 2026. Caso o seu pedido de pré-venda inclua itens de outras coleções, enviaremos primeiro os produtos disponíveis para pronta entrega e o prazo de entrega será definido conforme a sua região."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 279
+    }
+  ],
+  "scrapedAt": "2025-09-03T23:04:39.847Z",
+  "totalSections": 2
+}

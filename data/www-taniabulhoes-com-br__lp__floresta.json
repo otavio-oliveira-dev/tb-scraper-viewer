@@ -1,0 +1,279 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/floresta",
+  "title": "Tania Bulhões - Floresta",
+  "sections": [
+    {
+      "selector": "#\\32 17",
+      "attrs": {
+        "id": "217",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Floresta",
+      "text_blocks": [
+        "Descubra a essência da natureza, inspirada nos tons terrosos e no frescor verde de uma rica floresta.",
+        "Experimente",
+        "Floresta Difusor para Ambiente 290ml",
+        "Floresta Sabonete Líquido 290ml",
+        "Floresta Hidratante Mãos e Corpo 290g",
+        "Floresta Aromatizador de Ambiente 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+          "alt": "Floresta Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+          "alt": "Floresta Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192435-620-auto/floresta-sabonete-liquido-290ml-002l02900077-1.jpg?v=638822345160400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192435-620-auto/floresta-sabonete-liquido-290ml-002l02900077-1.jpg?v=638822345160400000",
+          "alt": "Floresta Sabonete Líquido 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192436-620-auto/floresta-sabonete-liquido-290ml-002l02900077-2.jpg?v=638822345160400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192436-620-auto/floresta-sabonete-liquido-290ml-002l02900077-2.jpg?v=638822345160400000",
+          "alt": "Floresta Sabonete Líquido 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192422-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-1.jpg?v=638822344689570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192422-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-1.jpg?v=638822344689570000",
+          "alt": "Floresta Hidratante Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192423-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-2.jpg?v=638822344689730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192423-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-2.jpg?v=638822344689730000",
+          "alt": "Floresta Hidratante Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192264-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-1.jpg?v=638822344412370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192264-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-1.jpg?v=638822344412370000",
+          "alt": "Floresta Aromatizador de Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192265-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-2.jpg?v=638822344412370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192265-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-2.jpg?v=638822344412370000",
+          "alt": "Floresta Aromatizador de Ambiente 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192169-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-1.jpg?v=638810345333370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192170-620-auto/floresta-difusor-para-ambiente-290ml-002l01300046-2.jpg?v=638810345333530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192435-620-auto/floresta-sabonete-liquido-290ml-002l02900077-1.jpg?v=638822345160400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192436-620-auto/floresta-sabonete-liquido-290ml-002l02900077-2.jpg?v=638822345160400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192422-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-1.jpg?v=638822344689570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192423-620-auto/floresta-hidratante-maos-e-corpo-290g-002l01800022-2.jpg?v=638822344689730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192264-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-1.jpg?v=638822344412370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192265-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-2.jpg?v=638822344412370000"
+      ],
+      "html": null,
+      "score": 660
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Combinamos as melhores matérias-primas de várias partes do mundo: Pimenta preta da Índia, cedro da Virgínia (nos EUA), rosa da Turquia e o musgo francês.",
+      "text_blocks": [
+        "Combinamos as melhores matérias-primas de várias partes do mundo: Pimenta preta da Índia, cedro da Virgínia (nos EUA), rosa da Turquia e o musgo francês."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 153
+    },
+    {
+      "selector": "#\\32 18",
+      "attrs": {
+        "id": "218",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Sentir a fragrância de Floresta no ambiente, é como trazer toda a exuberância da natureza para dentro de casa.",
+      "text_blocks": [
+        "Kit Difusor Elétrico Colmeia Floresta 10ml",
+        "Kit Trio Mini Velas Floresta"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200278-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_FLORESTA.png?v=638851602651270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200278-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_FLORESTA.png?v=638851602651270000",
+          "alt": "Kit Difusor Elétrico Colmeia Floresta 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200279-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638851602651430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200279-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638851602651430000",
+          "alt": "Kit Difusor Elétrico Colmeia Floresta 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194751-620-auto/KIT-PERFUMARIA-CASA-FLORESTA--1-.png?v=638556170351770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194751-620-auto/KIT-PERFUMARIA-CASA-FLORESTA--1-.png?v=638556170351770000",
+          "alt": "Kit Perfumaria Casa 3 unidades - Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194351-620-auto/kit-perfumaria-casa-3-unidades-floresta-000004442k-1.jpg?v=638830020653000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194351-620-auto/kit-perfumaria-casa-3-unidades-floresta-000004442k-1.jpg?v=638830020653000000",
+          "alt": "Kit Perfumaria Casa 3 unidades - Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200266-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_FLORESTA.png?v=638851596278500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200266-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_FLORESTA.png?v=638851596278500000",
+          "alt": "Kit Difusor Elétrico Seixos Floresta 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200267-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638851596278800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200267-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638851596278800000",
+          "alt": "Kit Difusor Elétrico Seixos Floresta 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196033-620-auto/kit-trio-mini-velas-floresta-002l03200040k-1.png?v=638787871358330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196033-620-auto/kit-trio-mini-velas-floresta-002l03200040k-1.png?v=638787871358330000",
+          "alt": "Kit Trio Mini Velas Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198219-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638787871358400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198219-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638787871358400000",
+          "alt": "Kit Trio Mini Velas Floresta"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200278-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_FLORESTA.png?v=638851602651270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200279-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638851602651430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194751-620-auto/KIT-PERFUMARIA-CASA-FLORESTA--1-.png?v=638556170351770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194351-620-auto/kit-perfumaria-casa-3-unidades-floresta-000004442k-1.jpg?v=638830020653000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200266-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_FLORESTA.png?v=638851596278500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200267-620-auto/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5--1-.jpg?v=638851596278800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196033-620-auto/kit-trio-mini-velas-floresta-002l03200040k-1.png?v=638787871358330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198219-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638787871358400000"
+      ],
+      "html": null,
+      "score": 471
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Floresta",
+      "text_blocks": [
+        "O âmbar se destaca trazendo uma harmoniosa fusão de doçura, notas amadeiradas e um toque resinado que encanta os sentidos e transforma qualquer ambiente.",
+        "Transforme sua rotina através de experiências olfativas com a fragrância Floresta."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 236
+    },
+    {
+      "selector": "#\\32 19",
+      "attrs": {
+        "id": "219",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Kit Difusor Preto Para Carro Floresta",
+      "text_blocks": [
+        "Kit Difusor Preto Para Carro Floresta",
+        "Floresta Vela Porcelana Preta 220g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199310-620-auto/000003465_Difusor_para_Carro_Tania_Bulhoes_Preto--1-.png.png?v=638805166271200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199310-620-auto/000003465_Difusor_para_Carro_Tania_Bulhoes_Preto--1-.png.png?v=638805166271200000",
+          "alt": "Kit Difusor Preto Para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199311-620-auto/000003465_Difusor_para_Carro_Tania_Bulho%CC%83es_Preto_6.jpg?v=638805150858300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199311-620-auto/000003465_Difusor_para_Carro_Tania_Bulho%CC%83es_Preto_6.jpg?v=638805150858300000",
+          "alt": "Kit Difusor Preto Para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200326-620-auto/KIT-PERFUMARIA-CASA-FLORESTA-2--1---1-.png?v=638858487273800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200326-620-auto/KIT-PERFUMARIA-CASA-FLORESTA-2--1---1-.png?v=638858487273800000",
+          "alt": "Kit Perfumaria Casa 2 unidades - Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200327-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858487273970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200327-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858487273970000",
+          "alt": "Kit Perfumaria Casa 2 unidades - Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+          "alt": "Kit Difusor Para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+          "alt": "Kit Difusor Para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195971-620-auto/000003681_Floresta_Vela_Perfumada_220g--1-.png?v=638618293395400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195971-620-auto/000003681_Floresta_Vela_Perfumada_220g--1-.png?v=638618293395400000",
+          "alt": "Floresta Vela Porcelana Preta 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195972-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638822345746130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195972-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638822345746130000",
+          "alt": "Floresta Vela Porcelana Preta 220g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199310-620-auto/000003465_Difusor_para_Carro_Tania_Bulhoes_Preto--1-.png.png?v=638805166271200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199311-620-auto/000003465_Difusor_para_Carro_Tania_Bulho%CC%83es_Preto_6.jpg?v=638805150858300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200326-620-auto/KIT-PERFUMARIA-CASA-FLORESTA-2--1---1-.png?v=638858487273800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200327-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858487273970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195971-620-auto/000003681_Floresta_Vela_Perfumada_220g--1-.png?v=638618293395400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195972-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638822345746130000"
+      ],
+      "html": null,
+      "score": 472
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:56:24.920Z",
+  "totalSections": 5
+}

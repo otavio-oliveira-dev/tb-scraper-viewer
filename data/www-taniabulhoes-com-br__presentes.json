@@ -1,0 +1,23 @@
+{
+  "url": "https://www.taniabulhoes.com.br/presentes",
+  "title": "Tania Bulhões",
+  "sections": [
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Caixas exclusivas e presentes memoráveis",
+      "text_blocks": [
+        "Descubra nossa seleção e escolha o presente ideal para demonstrar todo o seu amor e carinho."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 92
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:49:40.459Z",
+  "totalSections": 1
+}

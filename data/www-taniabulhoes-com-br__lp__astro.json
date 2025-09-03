@@ -1,0 +1,343 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/astro",
+  "title": "Tania Bulhões - Astro",
+  "sections": [
+    {
+      "selector": "#\\32 05",
+      "attrs": {
+        "id": "205",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Coleção Astro",
+      "text_blocks": [
+        "Coleção Astro",
+        "Obras de arte para vestir a mesa.",
+        "Xícara de Chá Astro",
+        "Prato de Sobremesa Astro",
+        "Prato Raso Astro",
+        "INDISPONÍVEL",
+        "Taça de Cristal Astro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+          "alt": "Xícara de Chá Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+          "alt": "Xícara de Chá Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+          "alt": "Prato de Sobremesa Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+          "alt": "Prato de Sobremesa Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193773-620-auto/taca-de-cristal-astro-001001000122-1.jpg?v=638542634308570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193773-620-auto/taca-de-cristal-astro-001001000122-1.jpg?v=638542634308570000",
+          "alt": "Taça de Cristal Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193774-620-auto/taca-de-cristal-astro-001001000122-2.jpg?v=638542634310770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193774-620-auto/taca-de-cristal-astro-001001000122-2.jpg?v=638542634310770000",
+          "alt": "Taça de Cristal Astro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193773-620-auto/taca-de-cristal-astro-001001000122-1.jpg?v=638542634308570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193774-620-auto/taca-de-cristal-astro-001001000122-2.jpg?v=638542634310770000"
+      ],
+      "html": null,
+      "score": 694
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Coleção Astro",
+      "text_blocks": [
+        "Há 250 anos, saía do forno a primeira porcelana de Limoges. A pequena cidade francesa é conhecida mundialmente por produzir as louças mais preciosas que existem, feitas com o melhor caulim do mundo – o do rio Vienne. O savoir-faire francês de mais de dois séculos está presente em nossa coleção Astro."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 301
+    },
+    {
+      "selector": "#\\32 06",
+      "attrs": {
+        "id": "206",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "A coleção permite a composição de mesas originais e cheias de personalidade para diversas ocasiões.",
+      "text_blocks": [
+        "A coleção permite a composição de mesas originais e cheias de personalidade para diversas ocasiões.",
+        "Xícara de Café Astro",
+        "Sousplat Astro",
+        "Prato de Pão Astro",
+        "Aparelho de Jantar Astro 18 Peças",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+          "alt": "Sousplat Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+          "alt": "Sousplat Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+          "alt": "Prato de Pão Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000",
+          "alt": "Prato de Pão Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195782-620-auto/aparelho-de-jantar-astro-18-pecas-000003063k-1.jpg?v=638815302785530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195782-620-auto/aparelho-de-jantar-astro-18-pecas-000003063k-1.jpg?v=638815302785530000",
+          "alt": "Aparelho de Jantar Astro 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197021-620-auto/000003063K_Aparelho_de_Jantar_Astro_2.jpg?v=638815302785700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197021-620-auto/000003063K_Aparelho_de_Jantar_Astro_2.jpg?v=638815302785700000",
+          "alt": "Aparelho de Jantar Astro 18 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195782-620-auto/aparelho-de-jantar-astro-18-pecas-000003063k-1.jpg?v=638815302785530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197021-620-auto/000003063K_Aparelho_de_Jantar_Astro_2.jpg?v=638815302785700000"
+      ],
+      "html": null,
+      "score": 801
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "A coleção permite a composição de mesas originais e cheias de personalidade para diversas ocasiões.",
+      "text_blocks": [
+        "Com um design limpo e detalhes em ouro, as peças da coleção Astro são protagonistas em qualquer composição. Para uma mesa moderna e sofisticada, use acessórios em tons neutros feitos de materiais nobres."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 203
+    },
+    {
+      "selector": "#\\32 07",
+      "attrs": {
+        "id": "207",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "As linhas retas que contornam as peças fazem alusão aos raios do sol que aquecem e colorem os dias.",
+      "text_blocks": [
+        "As linhas retas que contornam as peças fazem alusão aos raios do sol que aquecem e colorem os dias.",
+        "Prato Fundo Astro",
+        "Copo de Cristal Astro",
+        "INDISPONÍVEL",
+        "Guardanapo Astro",
+        "Jogo Americano Astro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193654-620-auto/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193654-620-auto/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000",
+          "alt": "Prato Fundo Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193655-620-auto/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193655-620-auto/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000",
+          "alt": "Prato Fundo Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193776-620-auto/copo-de-cristal-astro-001001000020-1.jpg?v=638542634505300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193776-620-auto/copo-de-cristal-astro-001001000020-1.jpg?v=638542634505300000",
+          "alt": "Copo de Cristal Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193777-620-auto/copo-de-cristal-astro-001001000020-2.jpg?v=638542634506400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193777-620-auto/copo-de-cristal-astro-001001000020-2.jpg?v=638542634506400000",
+          "alt": "Copo de Cristal Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191287-620-auto/guardanapo-astro-001000100176-1.jpg?v=638542461830030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191287-620-auto/guardanapo-astro-001000100176-1.jpg?v=638542461830030000",
+          "alt": "Guardanapo Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191288-620-auto/guardanapo-astro-001000100176-2.jpg?v=638542461832700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191288-620-auto/guardanapo-astro-001000100176-2.jpg?v=638542461832700000",
+          "alt": "Guardanapo Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193796-620-auto/jogo-americano-astro-001000100400-1.jpg?v=638542636698970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193796-620-auto/jogo-americano-astro-001000100400-1.jpg?v=638542636698970000",
+          "alt": "Jogo Americano Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193797-620-auto/jogo-americano-astro-001000100400-2.jpg?v=638542636699900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193797-620-auto/jogo-americano-astro-001000100400-2.jpg?v=638542636699900000",
+          "alt": "Jogo Americano Astro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193654-620-auto/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193655-620-auto/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193776-620-auto/copo-de-cristal-astro-001001000020-1.jpg?v=638542634505300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193777-620-auto/copo-de-cristal-astro-001001000020-2.jpg?v=638542634506400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191287-620-auto/guardanapo-astro-001000100176-1.jpg?v=638542461830030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191288-620-auto/guardanapo-astro-001000100176-2.jpg?v=638542461832700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193796-620-auto/jogo-americano-astro-001000100400-1.jpg?v=638542636698970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193797-620-auto/jogo-americano-astro-001000100400-2.jpg?v=638542636699900000"
+      ],
+      "html": null,
+      "score": 640
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:56:24.442Z",
+  "totalSections": 5
+}

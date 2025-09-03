@@ -1,0 +1,290 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/branco-de-ouro",
+  "title": "Tania Bulhões - Branco de Ouro",
+  "sections": [
+    {
+      "selector": "#\\32 33",
+      "attrs": {
+        "id": "233",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Branco de Ouro",
+      "text_blocks": [
+        "Branco de Ouro",
+        "A Coleção Branco de Ouro foi desenvolvida em porcelana com delicados filetes de ouro.",
+        "Prato Raso Branco de Ouro",
+        "Xícara de Café Branco de Ouro",
+        "Travessa M Branco de Ouro",
+        "Bowl Branco de Ouro",
+        "Prato Sobremesa Branco de Ouro"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+          "alt": "Xícara de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+          "alt": "Xícara de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192550-620-auto/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192550-620-auto/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000",
+          "alt": "Travessa M Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196194-620-auto/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196194-620-auto/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000",
+          "alt": "Travessa M Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+          "alt": "Bule de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+          "alt": "Bule de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+          "alt": "Bowl Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000",
+          "alt": "Bowl Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847-620-auto/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847-620-auto/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000",
+          "alt": "Prato Sobremesa Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848-620-auto/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848-620-auto/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000",
+          "alt": "Prato Sobremesa Branco de Ouro"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192550-620-auto/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196194-620-auto/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847-620-auto/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848-620-auto/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000"
+      ],
+      "html": null,
+      "score": 833
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Branco de Ouro",
+      "text_blocks": [
+        "Os delicados filetes de ouro que envolvem as peças da Coleção Branco de Ouro revelam nosso cuidado com cada detalhe."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 116
+    },
+    {
+      "selector": "#\\32 34",
+      "attrs": {
+        "id": "234",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Minimalismo chic para momentos especiais à mesa!",
+      "text_blocks": [
+        "Minimalismo chic para momentos especiais à mesa!",
+        "Aparelho de Jantar Branco de Ouro 18 peças",
+        "Sousplat Branco de Ouro",
+        "Prato de Pão Branco de Ouro",
+        "Bule de Chá Branco de Ouro",
+        "Molheira Branco de Ouro",
+        "Sopeira Branco de Ouro",
+        "INDISPONÍVEL",
+        "Saleiro e Pimenteiro Branco de Ouro"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192542-620-auto/sousplat-branco-de-ouro-001002300389-1.jpg?v=638782691524730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192542-620-auto/sousplat-branco-de-ouro-001002300389-1.jpg?v=638782691524730000",
+          "alt": "Sousplat Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192543-620-auto/sousplat-branco-de-ouro-001002300389-2.jpg?v=638782691524900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192543-620-auto/sousplat-branco-de-ouro-001002300389-2.jpg?v=638782691524900000",
+          "alt": "Sousplat Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192535-620-auto/prato-de-pao-branco-de-ouro-001002300295-1.jpg?v=638782690393470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192535-620-auto/prato-de-pao-branco-de-ouro-001002300295-1.jpg?v=638782690393470000",
+          "alt": "Prato de Pão Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192536-620-auto/prato-de-pao-branco-de-ouro-001002300295-2.jpg?v=638782690393470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192536-620-auto/prato-de-pao-branco-de-ouro-001002300295-2.jpg?v=638782690393470000",
+          "alt": "Prato de Pão Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192562-620-auto/bule-de-cha-branco-de-ouro-001000200200-1.jpg?v=638782691836000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192562-620-auto/bule-de-cha-branco-de-ouro-001000200200-1.jpg?v=638782691836000000",
+          "alt": "Bule de Chá Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192563-620-auto/bule-de-cha-branco-de-ouro-001000200200-2.jpg?v=638782691836170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192563-620-auto/bule-de-cha-branco-de-ouro-001000200200-2.jpg?v=638782691836170000",
+          "alt": "Bule de Chá Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192574-620-auto/molheira-branco-de-ouro-001000200371-1.jpg?v=638761777949800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192574-620-auto/molheira-branco-de-ouro-001000200371-1.jpg?v=638761777949800000",
+          "alt": "Molheira Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192575-620-auto/molheira-branco-de-ouro-001000200371-2.jpg?v=638761777949800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192575-620-auto/molheira-branco-de-ouro-001000200371-2.jpg?v=638761777949800000",
+          "alt": "Molheira Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192558-620-auto/sopeira-branco-de-ouro-001000200595-1.jpg?v=638782692119630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192558-620-auto/sopeira-branco-de-ouro-001000200595-1.jpg?v=638782692119630000",
+          "alt": "Sopeira Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192559-620-auto/sopeira-branco-de-ouro-001000200595-2.jpg?v=638782692119630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192559-620-auto/sopeira-branco-de-ouro-001000200595-2.jpg?v=638782692119630000",
+          "alt": "Sopeira Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192569-620-auto/xicara-de-cha-branco-de-ouro-001002300547-1.jpg?v=638782691223300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192569-620-auto/xicara-de-cha-branco-de-ouro-001002300547-1.jpg?v=638782691223300000",
+          "alt": "Xícara de Chá Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192570-620-auto/xicara-de-cha-branco-de-ouro-001002300547-2.jpg?v=638782691223300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192570-620-auto/xicara-de-cha-branco-de-ouro-001002300547-2.jpg?v=638782691223300000",
+          "alt": "Xícara de Chá Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192540-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-1.jpg?v=638782692434070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192540-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-1.jpg?v=638782692434070000",
+          "alt": "Saleiro e Pimenteiro Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192541-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-2.jpg?v=638782692434070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192541-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-2.jpg?v=638782692434070000",
+          "alt": "Saleiro e Pimenteiro Branco de Ouro"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192542-620-auto/sousplat-branco-de-ouro-001002300389-1.jpg?v=638782691524730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192543-620-auto/sousplat-branco-de-ouro-001002300389-2.jpg?v=638782691524900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192535-620-auto/prato-de-pao-branco-de-ouro-001002300295-1.jpg?v=638782690393470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192536-620-auto/prato-de-pao-branco-de-ouro-001002300295-2.jpg?v=638782690393470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192562-620-auto/bule-de-cha-branco-de-ouro-001000200200-1.jpg?v=638782691836000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192563-620-auto/bule-de-cha-branco-de-ouro-001000200200-2.jpg?v=638782691836170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192574-620-auto/molheira-branco-de-ouro-001000200371-1.jpg?v=638761777949800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192575-620-auto/molheira-branco-de-ouro-001000200371-2.jpg?v=638761777949800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192558-620-auto/sopeira-branco-de-ouro-001000200595-1.jpg?v=638782692119630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192559-620-auto/sopeira-branco-de-ouro-001000200595-2.jpg?v=638782692119630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192569-620-auto/xicara-de-cha-branco-de-ouro-001002300547-1.jpg?v=638782691223300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192570-620-auto/xicara-de-cha-branco-de-ouro-001002300547-2.jpg?v=638782691223300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192540-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-1.jpg?v=638782692434070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192541-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-2.jpg?v=638782692434070000"
+      ],
+      "html": null,
+      "score": 1066
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Minimalismo chic para momentos especiais à mesa!",
+      "text_blocks": [
+        "As louças da coleção Branco de Ouro podem ser usadas em composições monocromáticas ou com base neutra para combinar com peças coloridas."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 136
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:53:18.768Z",
+  "totalSections": 4
+}

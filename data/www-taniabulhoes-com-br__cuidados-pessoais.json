@@ -1,0 +1,316 @@
+{
+  "url": "https://www.taniabulhoes.com.br/cuidados-pessoais",
+  "title": "Cuidados Pessoais - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "Drawer.tsx",
+        "class": "sc-ed6ed672-0 byBQkm"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Seu Perfume Ideal",
+        "Primeira Compra",
+        "Best Sellers",
+        "Para Viagem",
+        "Fragrâncias",
+        "Kits Presenteáveis",
+        "Chá Branco",
+        "Rosas Roubadas",
+        "À Francesa",
+        "Encontro Marcado",
+        "Mãos e Corpo",
+        "Hidratação",
+        "Creme para Mãos",
+        "Colônias para Cabelo"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 204
+    },
+    {
+      "selector": "#\\32 65",
+      "attrs": {
+        "id": "265",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Inspire-se em nossos rituais de autocuidado",
+      "text_blocks": [
+        "Inspire-se em nossos rituais de autocuidado",
+        "Estenda o poder da sua perfumação.",
+        "Primeira Compra",
+        "Colônia para Cabelo",
+        "Mãos e Corpo"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_2_1f31f96456.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_2_1f31f96456.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_c9ad37775b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_c9ad37775b.jpg",
+          "alt": "Primeira Compra"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/COLONIA_PARA_CABELO_CHA_BRANCO_2_cddf4568c5.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/COLONIA_PARA_CABELO_CHA_BRANCO_2_cddf4568c5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_e1d45c5a5f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_e1d45c5a5f.jpg",
+          "alt": "Colônia para Cabelo"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/768_x_1024_Caixa_Lavanda_2_57249b595c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/768_x_1024_Caixa_Lavanda_2_57249b595c.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_PERFUMES_0468_OK_09a2640d19.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_PERFUMES_0468_OK_09a2640d19.jpg",
+          "alt": "Mãos e Corpo"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/5_178_OK_476d4854a2.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/5_178_OK_476d4854a2.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PERFUMES_8505303f83.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/BANNER_MOBILE_PERFUMES_8505303f83.jpg",
+          "alt": "Perfumes"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_2_1f31f96456.jpg",
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_c9ad37775b.jpg",
+        "https://static.taniabulhoes.com.br/COLONIA_PARA_CABELO_CHA_BRANCO_2_cddf4568c5.jpg",
+        "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_e1d45c5a5f.jpg",
+        "https://static.taniabulhoes.com.br/768_x_1024_Caixa_Lavanda_2_57249b595c.jpg",
+        "https://static.taniabulhoes.com.br/STILL_PERFUMES_0468_OK_09a2640d19.jpg",
+        "https://static.taniabulhoes.com.br/5_178_OK_476d4854a2.jpg",
+        "https://static.taniabulhoes.com.br/BANNER_MOBILE_PERFUMES_8505303f83.jpg"
+      ],
+      "html": null,
+      "score": 527
+    },
+    {
+      "selector": "#\\32 61",
+      "attrs": {
+        "id": "261",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Hidratantes",
+      "text_blocks": [
+        "Hidratantes",
+        "Transforme seu cuidado diário em um gesto de prazer e sofisticação.",
+        "Veludo Hidratante",
+        "Creme para Mãos",
+        "Kits de Perfumaria Pessoal"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_KITS_PERFUMARIA_PROVENCE_DIA_DAS_MAES_0453_1_OK_c834771cd3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_KITS_PERFUMARIA_PROVENCE_DIA_DAS_MAES_0453_1_OK_c834771cd3.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Hidratantes_Corporal_878f12426c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Hidratantes_Corporal_878f12426c.jpg",
+          "alt": "Hidratantes"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/768_x_1024_Ventos_de_Lavanda_7eb8faa25f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/768_x_1024_Ventos_de_Lavanda_7eb8faa25f.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/VELUDO_CHA_BRANCO_24d8828767.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/VELUDO_CHA_BRANCO_24d8828767.jpg",
+          "alt": "Veludo Hidratante"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_055404670d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_055404670d.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_7e90bdfd81.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_7e90bdfd81.jpg",
+          "alt": "Creme para Mãos"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800034_K_Kit_Hidratante_A_Francesa_150g_3_7490d3ab59.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800034_K_Kit_Hidratante_A_Francesa_150g_3_7490d3ab59.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800030_K_Kit_Hidratante_Ventos_de_Lavanda_150g_4_84324b4e41.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800030_K_Kit_Hidratante_Ventos_de_Lavanda_150g_4_84324b4e41.jpg",
+          "alt": "Kits de Perfumaria Pessoal"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/STILL_KITS_PERFUMARIA_PROVENCE_DIA_DAS_MAES_0453_1_OK_c834771cd3.jpg",
+        "https://static.taniabulhoes.com.br/Hidratantes_Corporal_878f12426c.jpg",
+        "https://static.taniabulhoes.com.br/768_x_1024_Ventos_de_Lavanda_7eb8faa25f.jpg",
+        "https://static.taniabulhoes.com.br/VELUDO_CHA_BRANCO_24d8828767.jpg",
+        "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_2_055404670d.jpg",
+        "https://static.taniabulhoes.com.br/CREME_PARA_MAOS_CHA_BRANCO_7e90bdfd81.jpg",
+        "https://static.taniabulhoes.com.br/003_L01800034_K_Kit_Hidratante_A_Francesa_150g_3_7490d3ab59.jpg",
+        "https://static.taniabulhoes.com.br/003_L01800030_K_Kit_Hidratante_Ventos_de_Lavanda_150g_4_84324b4e41.jpg"
+      ],
+      "html": null,
+      "score": 540
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Fragrâncias",
+      "text_blocks": [
+        "Fragrâncias",
+        "Aventure-se por esse universo de fragrâncias excepcionais e vivencie a verdadeira arte da perfumaria.",
+        "Chá Branco",
+        "Rosas Roubadas",
+        "À Francesa",
+        "Ventos de Lavanda",
+        "Encontro Marcado",
+        "Fava Selvagem",
+        "Meia-Noite"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 210
+    },
+    {
+      "selector": "#\\32 60",
+      "attrs": {
+        "id": "260",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore as infinitas possibilidades olfativas e experimente combinações inusitadas",
+      "text_blocks": [
+        "Explore as infinitas possibilidades olfativas e experimente combinações inusitadas",
+        "Para o Dia",
+        "Para a Noite",
+        "Best Sellers"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003003_Meu_Verde_Eau_de_Parfum_30ml_2_29234c0234.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003003_Meu_Verde_Eau_de_Parfum_30ml_2_29234c0234.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003009_A_Francesa_Eau_de_Parfum_30ml_2_58cba84c8a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003009_A_Francesa_Eau_de_Parfum_30ml_2_58cba84c8a.jpg",
+          "alt": "Para o Dia"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_fe302c9fdb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_fe302c9fdb.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg",
+          "alt": "Para a Noite"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_d6f39c630f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_d6f39c630f.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+          "alt": "Best Sellers"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_80ml_2_1_20689c3240.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_80ml_2_1_20689c3240.jpg",
+          "alt": "Premiados"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003003_Meu_Verde_Eau_de_Parfum_30ml_2_29234c0234.jpg",
+        "https://static.taniabulhoes.com.br/000003009_A_Francesa_Eau_de_Parfum_30ml_2_58cba84c8a.jpg",
+        "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_fe302c9fdb.jpg",
+        "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg",
+        "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_d6f39c630f.jpg",
+        "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+        "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+        "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_80ml_2_1_20689c3240.jpg"
+      ],
+      "html": null,
+      "score": 519
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(10)",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Rituais Taniapele",
+      "text_blocks": [
+        "Nossas sugestões de rituais de bem-estar, com produtos dedicados a cada momento, para elevar sua rotina de autocuidado.",
+        "Ritual Banho Hidratante",
+        "Ritual Super Hidratação",
+        "Ritual Bem-estar",
+        "Ritual Essenciais Viagem"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 209
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:47:26.303Z",
+  "totalSections": 6
+}

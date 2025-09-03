@@ -1,0 +1,203 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/royal-limoges",
+  "title": "Tania Bulhões - Royal Limoges",
+  "sections": [
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Savoir-Faire francês. Design brasileiro.",
+      "text_blocks": [
+        "Savoir-Faire francês. Design brasileiro.",
+        "Há mais de 228 anos, saía do forno a primeira louça de Limoges.",
+        "A cidade francesa é a capital mundial da porcelana. Famosa pela produção do melhor caulim do mundo – o do Rio Vienne. Royal Limoges, fundada em 1797, é a fábrica mais antiga da região em funcionamento.",
+        "Inspire-se"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 317
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Savoir-Faire francês. Design brasileiro.",
+      "text_blocks": [
+        "O fascínio de Tania pela porcelana de Limoges vem de longa data. Quando criança, passava as férias e os finais de semana na fazenda de sua avó, onde tomou gosto pelas reuniões em família em torno de uma mesa farta e uma boa prosa. Em ocasiões especiais, a comida era servida com afeto em louças de Limoges."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 306
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Coleções",
+      "text_blocks": [
+        "A arte da porcelana de Limoges narra história e preserva tradições que atravessam gerações.",
+        "Plaza Athénée",
+        "Árvores do Brasil",
+        "Rouge de Fer",
+        "Fleur Royal",
+        "Flor de Maracujá",
+        "Frutas do Brasil",
+        "Pássaros do Brasil"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 201
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Coleções",
+      "text_blocks": [
+        "Um novo capítulo dessa história se inicia em 2023, quando Tania Bulhões estreita sua relação de décadas com a fábrica. Ao longo destes anos, essa parceria possibilitou infinitos processos criativos aliados à expertise de Royal Limoges. Nada mais moderno do que preservar as técnicas artesanais, as pessoas e todo o legado."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Coleções",
+      "text_blocks": [
+        "A arte é o início de tudo: cada desenho, meticulosamente criado à mão por Tania Bulhões, reflete suas inspirações na natureza, nos encontros, e em suas viagens pelo mundo. O processo de produção é uma jornada artística, em que cada peça é moldada com cuidado por habilidosas mãos. Com qualidade e design incomparáveis, estas peças são feitas para serem passadas de geração em geração."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 384
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "id": "235",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "As peças criadas em Limoges são mais do que objetos. São verdadeiras obras de arte.",
+      "text_blocks": [
+        "As peças criadas em Limoges são mais do que objetos. São verdadeiras obras de arte.",
+        "Set Prato de Sobremesa Árvores do Brasil 4 peças",
+        "Set Xícara de Chá Frutas do Brasil 4 Peças",
+        "Set Prato de Pão Frutas do Brasil 4 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000",
+          "alt": "Set Prato de Sobremesa Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000",
+          "alt": "Set Prato de Sobremesa Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+          "alt": "Set Xícara de Chá Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+          "alt": "Set Xícara de Chá Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771-620-auto/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000"
+      ],
+      "html": null,
+      "score": 817
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:58:21.215Z",
+  "totalSections": 6
+}

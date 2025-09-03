@@ -1,0 +1,447 @@
+{
+  "url": "https://www.taniabulhoes.com.br/colecoes",
+  "title": "Coleções - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "#tertiary__banner__container",
+      "attrs": {
+        "id": "tertiary__banner__container",
+        "class": "sc-8c8c5975-0 ieLTMD"
+      },
+      "heading": "Plaza Athénée",
+      "text_blocks": [
+        "Plaza Athénée",
+        "Uma colaboração inédita com o icônico Hotel Plaza Athénée, em Paris, um símbolo de elegância e cenário de grandes histórias."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg",
+          "alt": "Plaza Athénée"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg"
+      ],
+      "html": null,
+      "score": 238
+    },
+    {
+      "selector": "main[data-sentry-component=\"Page\"] > section.sc-55b2635c-0.jHtHAZ",
+      "attrs": {
+        "class": "sc-55b2635c-0 jHtHAZ"
+      },
+      "heading": "Plaza Athénée",
+      "text_blocks": [
+        "Entre Rios Blanc",
+        "Plaza Athénée",
+        "Cravo e Canela Céu",
+        "Terra Brasilis",
+        "Rouge de Fer",
+        "Entre Rios",
+        "Branco de Ouro",
+        "Cravo e Canela",
+        "Fleur Royal",
+        "Flor de Maracujá",
+        "Árvores do Brasil",
+        "Flor do Ocidente",
+        "Frutas do Brasil",
+        "Pássaros do Brasil"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_5a3c74946b.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_5a3c74946b.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_2_27acfda06e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_2_27acfda06e.jpg",
+          "alt": "Entre Rios Blanc"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1558_OK_e18a92a12f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1558_OK_e18a92a12f.jpg",
+          "alt": "Plaza Athénée"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_7064c21b09.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_7064c21b09.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_1_e5c3aa9a77.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_1_e5c3aa9a77.png",
+          "alt": "Provence"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_1_4bdd9a1531.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_1_4bdd9a1531.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_4_3e2c243b3e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_4_3e2c243b3e.jpg",
+          "alt": "Cravo e Canela Céu"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1002301045_Prato_Raso_Terra_Brasilis_42629d448a.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1002301045_Prato_Raso_Terra_Brasilis_42629d448a.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Aparelho_de_Jantar_Terra_Brasilis_122954736f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Aparelho_de_Jantar_Terra_Brasilis_122954736f.jpg",
+          "alt": "Terra Brasilis"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer_1_e4263daf93.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer_1_e4263daf93.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/PRATO_RASO_ROUGE_DE_FER_14140995d3.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/PRATO_RASO_ROUGE_DE_FER_14140995d3.png",
+          "alt": "Rouge de Fer"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_d689927438.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_d689927438.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_2_08ae284bdf.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_2_08ae284bdf.jpg",
+          "alt": "Portrait"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_2_ce56c66c5a.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_2_ce56c66c5a.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_4_e09cd45cc5.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_4_e09cd45cc5.jpg",
+          "alt": "Fábula"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003906_Prato_Raso_Tramas_1_1fdbfac986.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003906_Prato_Raso_Tramas_1_1fdbfac986.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001000100566_Pt_Guardanapo_Tramas_Natural_4_0005476884.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000100566_Pt_Guardanapo_Tramas_Natural_4_0005476884.jpg",
+          "alt": "Tramas"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_b58b3ec545.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_b58b3ec545.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_4_eb697b8699.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_4_eb697b8699.jpg",
+          "alt": "Entre Rios"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_3e0c5b44c5.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_3e0c5b44c5.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_4_5be14e1e14.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_4_5be14e1e14.jpg",
+          "alt": "Trópicos"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_4aefce4387.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_4aefce4387.jpg",
+          "alt": "Fênix"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003063_Prato_Raso_Astro_62b21897b1.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003063_Prato_Raso_Astro_62b21897b1.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003066_Prato_Sobremesa_Astro_68ce28f9ec.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003066_Prato_Sobremesa_Astro_68ce28f9ec.jpg",
+          "alt": "Astro"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_10ff22e0a7.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_10ff22e0a7.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_3_190ebe3506.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_3_190ebe3506.jpg",
+          "alt": "Branco de Ouro"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_56da2ff14e.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_56da2ff14e.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_4_2db9590426.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_4_2db9590426.jpg",
+          "alt": "Mediterrâneo"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308011_949_Prato_Raso_Cravo_e_Canela_6bcd749542.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308011_949_Prato_Raso_Cravo_e_Canela_6bcd749542.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_5_98299f34db.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_5_98299f34db.jpg",
+          "alt": "Cravo e Canela"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308059_113_Prato_Raso_Fleur_Royal_2_1bbd6052f4.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308059_113_Prato_Raso_Fleur_Royal_2_1bbd6052f4.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308060_113_Prato_de_Sobremesa_Fleur_Royal_2_bb4fd8ae24.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308060_113_Prato_de_Sobremesa_Fleur_Royal_2_bb4fd8ae24.jpg",
+          "alt": "Fleur Royal"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_2963acf552.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_2963acf552.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_5_1a5a347ba2.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_5_1a5a347ba2.jpg",
+          "alt": "Flor de Maracujá"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Prato_Raso_Limoeiro_e06586b12e.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Prato_Raso_Limoeiro_e06586b12e.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_LIMOEIRO_00088_OK_1_d57de92d69.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_LIMOEIRO_00088_OK_1_d57de92d69.jpg",
+          "alt": "Limoeiro"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+          "alt": "Papillon"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_3_4b40ca27c0.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_3_4b40ca27c0.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_c56e88e65d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_c56e88e65d.jpg",
+          "alt": "Árvores do Brasil"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_37a21e762f.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_37a21e762f.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_5_eb1189cb1c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_5_eb1189cb1c.jpg",
+          "alt": "Flor do Ocidente"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002583_Set_Prato_Raso_Frutas_do_Brasil_4_unid_4_891912bc9f.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002583_Set_Prato_Raso_Frutas_do_Brasil_4_unid_4_891912bc9f.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg",
+          "alt": "Frutas do Brasil"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_c801e7d755.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_c801e7d755.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_4_2_68cb8a9ff7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_4_2_68cb8a9ff7.jpg",
+          "alt": "Marquesa"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308081_948_Prato_Raso_Jade_d5f33e8bc1.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308081_948_Prato_Raso_Jade_d5f33e8bc1.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_4_4179418824.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_4_4179418824.jpg",
+          "alt": "Jade"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308050_036_Prato_Raso_Casa_das_Orquideas_b49b9ecae8.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308050_036_Prato_Raso_Casa_das_Orquideas_b49b9ecae8.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/PRATO_RASO_CASA_DAS_ORQUIDEAS_4_59f41d8985.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/PRATO_RASO_CASA_DAS_ORQUIDEAS_4_59f41d8985.png",
+          "alt": "Casa das Orquídeas"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_5_1_192a2bdff4.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_5_1_192a2bdff4.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_851c650724.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_851c650724.png",
+          "alt": "Pássaros do Brasil"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_5a3c74946b.png",
+        "https://static.taniabulhoes.com.br/1002301038_Prato_Raso_Entre_Rios_Blanc_2_27acfda06e.jpg",
+        "https://static.taniabulhoes.com.br/001002301101_PRATO_RASO_PLAZA_ATHENEE_40ee963dcc.png",
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1558_OK_e18a92a12f.jpg",
+        "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_7064c21b09.png",
+        "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_1_e5c3aa9a77.png",
+        "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_1_4bdd9a1531.png",
+        "https://static.taniabulhoes.com.br/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_4_3e2c243b3e.jpg",
+        "https://static.taniabulhoes.com.br/1002301045_Prato_Raso_Terra_Brasilis_42629d448a.png",
+        "https://static.taniabulhoes.com.br/Aparelho_de_Jantar_Terra_Brasilis_122954736f.jpg",
+        "https://static.taniabulhoes.com.br/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer_1_e4263daf93.png",
+        "https://static.taniabulhoes.com.br/PRATO_RASO_ROUGE_DE_FER_14140995d3.png",
+        "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_d689927438.png",
+        "https://static.taniabulhoes.com.br/001002300959_Prato_Raso_Portrait_2_08ae284bdf.jpg",
+        "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_2_ce56c66c5a.png",
+        "https://static.taniabulhoes.com.br/000003881_Prato_Raso_Fabula_4_e09cd45cc5.jpg",
+        "https://static.taniabulhoes.com.br/000003906_Prato_Raso_Tramas_1_1fdbfac986.png",
+        "https://static.taniabulhoes.com.br/001000100566_Pt_Guardanapo_Tramas_Natural_4_0005476884.jpg",
+        "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_b58b3ec545.png",
+        "https://static.taniabulhoes.com.br/000003193_Prato_Raso_Entre_Rios_4_eb697b8699.jpg",
+        "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_3e0c5b44c5.png",
+        "https://static.taniabulhoes.com.br/000003078_Prato_Raso_Tropicos_4_5be14e1e14.jpg",
+        "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+        "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_4aefce4387.jpg",
+        "https://static.taniabulhoes.com.br/000003063_Prato_Raso_Astro_62b21897b1.png",
+        "https://static.taniabulhoes.com.br/000003066_Prato_Sobremesa_Astro_68ce28f9ec.jpg",
+        "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_10ff22e0a7.png",
+        "https://static.taniabulhoes.com.br/000001460_Prato_Raso_Branco_de_Ouro_3_190ebe3506.jpg",
+        "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_56da2ff14e.png",
+        "https://static.taniabulhoes.com.br/000000793_Prato_Raso_Mediterraneo_verde_4_2db9590426.jpg",
+        "https://static.taniabulhoes.com.br/308011_949_Prato_Raso_Cravo_e_Canela_6bcd749542.png",
+        "https://static.taniabulhoes.com.br/0010001001008_Jg_Americano_Arquipelago_Redondo_Verde_5_98299f34db.jpg",
+        "https://static.taniabulhoes.com.br/308059_113_Prato_Raso_Fleur_Royal_2_1bbd6052f4.png",
+        "https://static.taniabulhoes.com.br/308060_113_Prato_de_Sobremesa_Fleur_Royal_2_bb4fd8ae24.jpg",
+        "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_2963acf552.png",
+        "https://static.taniabulhoes.com.br/308066_034_Prato_Raso_Flor_de_Maracuja_5_1a5a347ba2.jpg",
+        "https://static.taniabulhoes.com.br/Prato_Raso_Limoeiro_e06586b12e.png",
+        "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_LIMOEIRO_00088_OK_1_d57de92d69.jpg",
+        "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+        "https://static.taniabulhoes.com.br/308053_110_Prato_Raso_Papillon_b14f3496a3.png",
+        "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_3_4b40ca27c0.png",
+        "https://static.taniabulhoes.com.br/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_c56e88e65d.jpg",
+        "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_37a21e762f.png",
+        "https://static.taniabulhoes.com.br/000002518_K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_5_eb1189cb1c.jpg",
+        "https://static.taniabulhoes.com.br/000002583_Set_Prato_Raso_Frutas_do_Brasil_4_unid_4_891912bc9f.png",
+        "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg",
+        "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_c801e7d755.png",
+        "https://static.taniabulhoes.com.br/331673_068_Prato_Raso_Marquesa_4_2_68cb8a9ff7.jpg",
+        "https://static.taniabulhoes.com.br/308081_948_Prato_Raso_Jade_d5f33e8bc1.png",
+        "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_4_4179418824.jpg",
+        "https://static.taniabulhoes.com.br/308050_036_Prato_Raso_Casa_das_Orquideas_b49b9ecae8.png",
+        "https://static.taniabulhoes.com.br/PRATO_RASO_CASA_DAS_ORQUIDEAS_4_59f41d8985.png",
+        "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_5_1_192a2bdff4.png",
+        "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_851c650724.png"
+      ],
+      "html": null,
+      "score": 2918
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:47:20.253Z",
+  "totalSections": 2
+}

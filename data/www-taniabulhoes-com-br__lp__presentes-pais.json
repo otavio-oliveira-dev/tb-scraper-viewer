@@ -1,0 +1,252 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/presentes-pais",
+  "title": "Tania Bulhões - Presentes Pais",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Para o Dia dos Pais, criamos um presente especial que traduz cuidado e sensorialidade.",
+      "text_blocks": [
+        "Para o Dia dos Pais, criamos um presente especial que traduz cuidado e sensorialidade."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 86
+    },
+    {
+      "selector": "article[data-cy=\"double-brand-section-container\"]",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "O Kit Floresta reúne a mini vela, difusor para carro preto e o refil, todos na fragrância Floresta - um amadeirado fresco, profundo e reconfortante.",
+      "text_blocks": [
+        "Um presente que envolve os sentidos",
+        "O Kit Floresta reúne a mini vela, difusor para carro preto e o refil, todos na fragrância Floresta - um amadeirado fresco, profundo e reconfortante.",
+        "Surpreenda"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 195
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Com ingredientes selecionados de diferentes partes do mundo, como a pimenta preta da Índia, o cedro da Virgínia, a rosa da Turquia e o musgo francês, Floresta cria uma atmosfera de serenidade e aconchego.",
+      "text_blocks": [
+        "Com ingredientes selecionados de diferentes partes do mundo, como a pimenta preta da Índia, o cedro da Virgínia, a rosa da Turquia e o musgo francês, Floresta cria uma atmosfera de serenidade e aconchego."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 204
+    },
+    {
+      "selector": "article[data-sentry-component=\"TemplateSection\"]",
+      "attrs": {
+        "id": "311",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Preparamos sugestões de presentes para surpreender quem você ama neste dia especial.",
+      "text_blocks": [
+        "Set Faca de Churrasco Laguiole Verde 6 peças",
+        "Balde de Gelo Esferas",
+        "Garrafa Brilhante Azul Claro",
+        "Taça Sobremesa Eclipse Verde",
+        "Kit Difusor Para Carro Floresta",
+        "Charuteira Plaza Athénée",
+        "Bandeja Bar Esplanada",
+        "INDISPONÍVEL",
+        "Balde para Garrafa Esferas"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+          "alt": "Set Faca de Churrasco Laguiole Verde 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+          "alt": "Set Faca de Churrasco Laguiole Verde 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+          "alt": "Segredo Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+          "alt": "Segredo Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719-620-auto/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719-620-auto/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000",
+          "alt": "Balde de Gelo Esferas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Balde de Gelo Esferas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196847-620-auto/garrafa-brilhante-azul-claro-001000600072-1.jpg?v=638646203132930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196847-620-auto/garrafa-brilhante-azul-claro-001000600072-1.jpg?v=638646203132930000",
+          "alt": "Garrafa Brilhante Azul Claro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Garrafa Brilhante Azul Claro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+          "alt": "Kit Difusor Para Carro Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+          "alt": "Kit Difusor Para Carro Floresta"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200442-620-auto/001002401278_Charuteira_Plaza_Athenee.png?v=638865552350870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200442-620-auto/001002401278_Charuteira_Plaza_Athenee.png?v=638865552350870000",
+          "alt": "Charuteira Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200443-620-auto/001002401278_Charuteira_Plaza_Athenee_3.png?v=638865552351070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200443-620-auto/001002401278_Charuteira_Plaza_Athenee_3.png?v=638865552351070000",
+          "alt": "Charuteira Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199245-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_3-copy.png.png?v=638804986742770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199245-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_3-copy.png.png?v=638804986742770000",
+          "alt": "Set Faca de Churrasco Laguiole Madeira 6 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199246-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_2.jpg.jpg?v=638804986742930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199246-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_2.jpg.jpg?v=638804986742930000",
+          "alt": "Set Faca de Churrasco Laguiole Madeira 6 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194804-620-auto/508912-052_Bandeja_Bar_Esplanada.png?v=638557176311930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194804-620-auto/508912-052_Bandeja_Bar_Esplanada.png?v=638557176311930000",
+          "alt": "Bandeja Bar Esplanada"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194806-620-auto/508912-052_Bandeja_Bar_Esplanada_2.png?v=638557176635930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194806-620-auto/508912-052_Bandeja_Bar_Esplanada_2.png?v=638557176635930000",
+          "alt": "Bandeja Bar Esplanada"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+          "alt": "Segredo Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
+          "alt": "Segredo Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+          "alt": "Balde para Garrafa Esferas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000",
+          "alt": "Balde para Garrafa Esferas"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196719-620-auto/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/196847-620-auto/garrafa-brilhante-azul-claro-001000600072-1.jpg?v=638646203132930000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200442-620-auto/001002401278_Charuteira_Plaza_Athenee.png?v=638865552350870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200443-620-auto/001002401278_Charuteira_Plaza_Athenee_3.png?v=638865552351070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199245-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_3-copy.png.png?v=638804986742770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199246-620-auto/001003100147_Set_Faca_de_Churrasco_Laguiole_Madeira_6_Unid_2.jpg.jpg?v=638804986742930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194804-620-auto/508912-052_Bandeja_Bar_Esplanada.png?v=638557176311930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194806-620-auto/508912-052_Bandeja_Bar_Esplanada_2.png?v=638557176635930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000"
+      ],
+      "html": null,
+      "score": 1443
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:58:11.388Z",
+  "totalSections": 4
+}

@@ -1,0 +1,237 @@
+{
+  "url": "https://www.taniabulhoes.com.br/em-busca-de-inspiracoes",
+  "title": "Tania Bulhões",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-cd1016d2-0.ctreEY",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Em busca de Inspirações",
+      "text_blocks": [
+        "Encontre sugestões para decorar, perfumar e presentear.",
+        "Monte sua Mesa"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 70
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Descubra nossa seleção e escolha o presente ideal para demonstrar todo seu amor e carinho.",
+      "text_blocks": [
+        "A arte de presentear",
+        "Descubra nossa seleção e escolha o presente ideal para demonstrar todo seu amor e carinho."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 111
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Lançamentos",
+      "text_blocks": [
+        "Fique por dentro das novidades que chegaram por aqui.",
+        "Difusor de Porcelana Orquídeas",
+        "Hidratante Chá Branco 150g",
+        "Xícara de Chá Entre Rios Blanc",
+        "Kit Hidratante Rosas Roubadas 150g",
+        "Difusor de Porcelana Pássaros",
+        "Kit Hidratante 1989 150g",
+        "Tea For One Borboleta"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 254
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Seleção perfeita para sua primeira experiência com Tania Bulhões.",
+      "text_blocks": [
+        "Primeira Compra",
+        "Seleção perfeita para sua primeira experiência com Tania Bulhões."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 81
+    },
+    {
+      "selector": "#\\32 79",
+      "attrs": {
+        "id": "279",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Vivencie a verdadeira arte da perfumaria.",
+      "text_blocks": [
+        "Vivencie a verdadeira arte da perfumaria.",
+        "Para a Noite",
+        "Para o Dia",
+        "Amadeirados"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003008_Segredo_Eau_de_Parfum_30ml_2_1_f22a927ad5.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003008_Segredo_Eau_de_Parfum_30ml_2_1_f22a927ad5.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg",
+          "alt": "Para a Noite"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_6e416520c7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_6e416520c7.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_c64b165e42.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_c64b165e42.jpg",
+          "alt": "Para o Dia"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+          "alt": "Florais"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003017_Meia_Noite_Eau_de_Parfum_80ml_1_0eef07fbce.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003017_Meia_Noite_Eau_de_Parfum_80ml_1_0eef07fbce.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg",
+          "alt": "Amadeirados"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003008_Segredo_Eau_de_Parfum_30ml_2_1_f22a927ad5.jpg",
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg",
+        "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_6e416520c7.jpg",
+        "https://static.taniabulhoes.com.br/000003016_Ventos_de_Lavanda_Eau_de_Parfum_80ml_2_c64b165e42.jpg",
+        "https://static.taniabulhoes.com.br/000003502_Rosas_Roubadas_Eau_de_Parfum_80ml_1d01905809.jpg",
+        "https://static.taniabulhoes.com.br/000003011_1989_Eau_de_Parfum_80ml_1_b4d4db317b.jpg",
+        "https://static.taniabulhoes.com.br/000003017_Meia_Noite_Eau_de_Parfum_80ml_1_0eef07fbce.jpg",
+        "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg"
+      ],
+      "html": null,
+      "score": 477
+    },
+    {
+      "selector": "#\\32 78",
+      "attrs": {
+        "id": "278",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Inspire-se a perfumar cada ambiente.",
+      "text_blocks": [
+        "Inspire-se a perfumar cada ambiente.",
+        "Não existem regras: a fragrância perfeita é a que encanta você. Explore nossas sugestões para diferentes ambientes e deixe-se guiar pelas possibilidades.",
+        "Sala de Estar",
+        "Escritório",
+        "Campo e Praia"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/DESKTOP_PROTEA_7d7a4d99d1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/DESKTOP_PROTEA_7d7a4d99d1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003435_Difusor_de_Cristal_Protea_5_e432da5f18.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003435_Difusor_de_Cristal_Protea_5_e432da5f18.jpg",
+          "alt": "Sala de Estar"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003185_Jade_Vela_Perfumada_220g_2_ajustada_0a37613fe1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003185_Jade_Vela_Perfumada_220g_2_ajustada_0a37613fe1.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+          "alt": "Lavabo"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003134_Figo_Negro_Hidratante_para_Maos_e_Corpo_3_ajustada_1422f7d476.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003134_Figo_Negro_Hidratante_para_Maos_e_Corpo_3_ajustada_1422f7d476.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003108_Figo_Negro_Aromatizador_3_ajustada_a76a33800b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003108_Figo_Negro_Aromatizador_3_ajustada_a76a33800b.jpg",
+          "alt": "Escritório"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L01300086_CHA_VERDE_DIFUSOR_AMBIENTE_290_ML_890052eac7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L01300086_CHA_VERDE_DIFUSOR_AMBIENTE_290_ML_890052eac7.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003679_Difusor_Floresta_250ml_5_8e9c261759.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003679_Difusor_Floresta_250ml_5_8e9c261759.jpg",
+          "alt": "Campo e Praia"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/DESKTOP_PROTEA_7d7a4d99d1.jpg",
+        "https://static.taniabulhoes.com.br/000003435_Difusor_de_Cristal_Protea_5_e432da5f18.jpg",
+        "https://static.taniabulhoes.com.br/000003185_Jade_Vela_Perfumada_220g_2_ajustada_0a37613fe1.jpg",
+        "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+        "https://static.taniabulhoes.com.br/000003134_Figo_Negro_Hidratante_para_Maos_e_Corpo_3_ajustada_1422f7d476.jpg",
+        "https://static.taniabulhoes.com.br/000003108_Figo_Negro_Aromatizador_3_ajustada_a76a33800b.jpg",
+        "https://static.taniabulhoes.com.br/002_L01300086_CHA_VERDE_DIFUSOR_AMBIENTE_290_ML_890052eac7.jpg",
+        "https://static.taniabulhoes.com.br/000003679_Difusor_Floresta_250ml_5_8e9c261759.jpg"
+      ],
+      "html": null,
+      "score": 629
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:47:26.559Z",
+  "totalSections": 6
+}

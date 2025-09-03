@@ -1,0 +1,72 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/historia-da-marca",
+  "title": "Tania Bulhões - História da Marca",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Nossa História",
+      "text_blocks": [
+        "Tania abriu seu primeiro negócio em Uberaba, no interior de Minas Gerais, em 1989. Era uma lojinha onde ela vendia tudo o que pintava: pratos, quadros e móveis. Em 1991, ela se mudou para São Paulo e abriu sua primeira loja, marcando o início da nossa história."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 261
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Nossa História",
+      "text_blocks": [
+        "Nossa paixão pela inovação e a valorização do trabalho artesanal nos levaram ainda mais longe. Em 2023, estreitamos nossa relação com a Royal Limoges, antiga fábrica francesa com mais de dois séculos de tradição. Um marco histórico em nossa jornada."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 249
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "A natureza como inspiração",
+      "text_blocks": [
+        "As viagens de Tania também inspiram seu trabalho, trazendo uma perspectiva global às suas criações. Sua paixão pela vida e sua curiosidade sobre o mundo transparecem em cada detalhe."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 182
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Criações autorais",
+      "text_blocks": [
+        "Criações autorais",
+        "Produzidas em parcerias com os melhores fabricantes e experts do Brasil e do mundo - como as linhas de porcelanas francesas Limoges e as fragrâncias exclusivas criadas em Grasse – nossas criações traduzem uma aura naturalmente sofisticada."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 257
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:58:00.136Z",
+  "totalSections": 4
+}

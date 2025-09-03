@@ -1,0 +1,264 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/cha-verde",
+  "title": "Tania Bulhões - Chá Verde",
+  "sections": [
+    {
+      "selector": "#\\31 97",
+      "attrs": {
+        "id": "197",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Chá Verde",
+      "text_blocks": [
+        "Chá Verde Difusor para Ambiente 290ml",
+        "Chá Verde Hidratante Mãos e Corpo 290g",
+        "Chá Verde Aromatizador de Ambiente 290ml",
+        "Chá Verde Sabonete Líquido 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+          "alt": "Chá Verde Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+          "alt": "Chá Verde Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196493-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-1.png?v=638810181483000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196493-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-1.png?v=638810181483000000",
+          "alt": "Chá Verde Hidratante Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196494-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-2.jpg?v=638810181483170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196494-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-2.jpg?v=638810181483170000",
+          "alt": "Chá Verde Hidratante Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196519-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-1.png?v=638810181350100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196519-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-1.png?v=638810181350100000",
+          "alt": "Chá Verde Aromatizador de Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196520-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-2.jpg?v=638810181350100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196520-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-2.jpg?v=638810181350100000",
+          "alt": "Chá Verde Aromatizador de Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196504-620-auto/cha-verde-sabonete-liquido-290ml-002l02900106-1.png?v=638810181101500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196504-620-auto/cha-verde-sabonete-liquido-290ml-002l02900106-1.png?v=638810181101500000",
+          "alt": "Chá Verde Sabonete Líquido 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198375-620-auto/STILL-CHA-VERDE-102OK.jpg?v=638810181101500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198375-620-auto/STILL-CHA-VERDE-102OK.jpg?v=638810181101500000",
+          "alt": "Chá Verde Sabonete Líquido 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196512-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-1.png?v=638810181783770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196513-620-auto/cha-verde-difusor-para-ambiente-290ml-002l01300086-2.jpg?v=638810181783900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196493-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-1.png?v=638810181483000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196494-620-auto/cha-verde-hidratante-maos-e-corpo-290g-002l01800033-2.jpg?v=638810181483170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196519-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-1.png?v=638810181350100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196520-620-auto/cha-verde-aromatizador-de-ambiente-290ml-002l00500035-2.jpg?v=638810181350100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196504-620-auto/cha-verde-sabonete-liquido-290ml-002l02900106-1.png?v=638810181101500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198375-620-auto/STILL-CHA-VERDE-102OK.jpg?v=638810181101500000"
+      ],
+      "html": null,
+      "score": 550
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Chá Verde",
+      "text_blocks": [
+        "Assim como o icônico Chá Branco, o Chá Verde também é feito da Camellia Sinensis, mas em um estágio diferenciado de manutenção da planta. Uma verdadeira jornada olfativa."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 170
+    },
+    {
+      "selector": "#\\31 98",
+      "attrs": {
+        "id": "198",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Com notas de bergamota, magnólia, flor de gengibre e âmbar, Chá Verde foi desenvolvida para quem busca encher a casa de boas vibrações.",
+      "text_blocks": [
+        "Kit Chá Verde com 6 Sabonetes 50g",
+        "Chá Verde Vela Porcelana Branca 220g",
+        "Kit Trio Mini Velas Chá Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197311-620-auto/002L02900105k_KIT_CHA_VERDE_50g_2.png?v=638653703089300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197311-620-auto/002L02900105k_KIT_CHA_VERDE_50g_2.png?v=638653703089300000",
+          "alt": "Kit Chá Verde com 6 Sabonetes 50g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197312-620-auto/002L02900105k_KIT_CHA_VERDE_50g.png?v=638810182140700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197312-620-auto/002L02900105k_KIT_CHA_VERDE_50g.png?v=638810182140700000",
+          "alt": "Kit Chá Verde com 6 Sabonetes 50g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196509-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-1.png?v=638810181980800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196509-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-1.png?v=638810181980800000",
+          "alt": "Chá Verde Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196510-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-2.jpg?v=638810181980930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196510-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-2.jpg?v=638810181980930000",
+          "alt": "Chá Verde Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200314-620-auto/KIT-PERFUMARIA-CASA-CHA-VERDE.png.png?v=638858485417370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200314-620-auto/KIT-PERFUMARIA-CASA-CHA-VERDE.png.png?v=638858485417370000",
+          "alt": "Kit Perfumaria Casa 2 unidades -  Chá Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200315-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858485417530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200315-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858485417530000",
+          "alt": "Kit Perfumaria Casa 2 unidades -  Chá Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196447-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-1.png?v=638787873411100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196447-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-1.png?v=638787873411100000",
+          "alt": "Kit Trio Mini Velas Chá Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196448-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-2.png?v=638787873411270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196448-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-2.png?v=638787873411270000",
+          "alt": "Kit Trio Mini Velas Chá Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197311-620-auto/002L02900105k_KIT_CHA_VERDE_50g_2.png?v=638653703089300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197312-620-auto/002L02900105k_KIT_CHA_VERDE_50g.png?v=638810182140700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196509-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-1.png?v=638810181980800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196510-620-auto/cha-verde-vela-porcelana-branca-220g-002l03200072-2.jpg?v=638810181980930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200314-620-auto/KIT-PERFUMARIA-CASA-CHA-VERDE.png.png?v=638858485417370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200315-620-auto/DESTAQUE-CASA-CAIXA.jpg?v=638858485417530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196447-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-1.png?v=638787873411100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196448-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-2.png?v=638787873411270000"
+      ],
+      "html": null,
+      "score": 500
+    },
+    {
+      "selector": "#\\31 99",
+      "attrs": {
+        "id": "199",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Frescor, elegância e profundidade são os elementos-chave da fragrância Chá Verde.",
+      "text_blocks": [
+        "Frescor, elegância e profundidade são os elementos-chave da fragrância Chá Verde.",
+        "Kit Chá Verde com 3 sabonetes 150g",
+        "Chá Verde Refil para Difusor de Ambiente 300ml",
+        "Chá Verde Sabonete em Barra 150g",
+        "Chá Verde Refil Sabonete Líquido 300ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196451-620-auto/kit-cha-verde-com-3-sabonetes-150g-002l02900104k-1.png?v=638810182271870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196451-620-auto/kit-cha-verde-com-3-sabonetes-150g-002l02900104k-1.png?v=638810182271870000",
+          "alt": "Kit Chá Verde com 3 sabonetes 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196532-620-auto/002L02900105_CHA_VERDE_SABONETE_BARRA_50G.jpg?v=638810182271870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196532-620-auto/002L02900105_CHA_VERDE_SABONETE_BARRA_50G.jpg?v=638810182271870000",
+          "alt": "Kit Chá Verde com 3 sabonetes 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196544-620-auto/002L01300085_Cha_Verde_Refil_Difusor_Ambiente_300ml.png?v=638640024181170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196544-620-auto/002L01300085_Cha_Verde_Refil_Difusor_Ambiente_300ml.png?v=638640024181170000",
+          "alt": "Chá Verde Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Chá Verde Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196498-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-1.png?v=638810184836900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196498-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-1.png?v=638810184836900000",
+          "alt": "Chá Verde Sabonete em Barra 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196499-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-2.jpg?v=638810184837070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196499-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-2.jpg?v=638810184837070000",
+          "alt": "Chá Verde Sabonete em Barra 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196545-620-auto/002L02900107_Cha_Verde_Refil_Sabonete_Liquido_300ml.png?v=638640026904730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196545-620-auto/002L02900107_Cha_Verde_Refil_Sabonete_Liquido_300ml.png?v=638640026904730000",
+          "alt": "Chá Verde Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Chá Verde Refil Sabonete Líquido 300ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196451-620-auto/kit-cha-verde-com-3-sabonetes-150g-002l02900104k-1.png?v=638810182271870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196532-620-auto/002L02900105_CHA_VERDE_SABONETE_BARRA_50G.jpg?v=638810182271870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196544-620-auto/002L01300085_Cha_Verde_Refil_Difusor_Ambiente_300ml.png?v=638640024181170000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/196498-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-1.png?v=638810184836900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196499-620-auto/cha-verde-sabonete-em-barra-150g-002l02900104-2.jpg?v=638810184837070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196545-620-auto/002L02900107_Cha_Verde_Refil_Sabonete_Liquido_300ml.png?v=638640026904730000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
+      ],
+      "html": null,
+      "score": 635
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:58:06.977Z",
+  "totalSections": 4
+}

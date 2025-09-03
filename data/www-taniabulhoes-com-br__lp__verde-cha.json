@@ -1,0 +1,70 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/verde-cha",
+  "title": "Tania Bulhões - Verde Chá",
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Resolutamente inclasificável, a icônica fragrância Louis Vuitton difunde os reflexos mutáveis do oud como se fossem várias plumas de fumaça, moldadas pelo vento na areia do deserto."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 181
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Desenhado pelo Mestre Perfumista Jacques Cavallier Belletrud para os amantes de essências raras, Ombre Nomade é um perfume ardente, tão intenso quanto o fogo do pôr do sol."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 172
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Com seus fortes acentos de couro, especiarias e madeira, um monumental oud assam é misturado com um toque de benjoim e acentos de framboesa. Nunca o oud foi tão místico."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 169
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Eu absolutamente queria atender às expectativas dos conhecedores, dos verdadeiros amantes de oud."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 97
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:59:46.815Z",
+  "totalSections": 4
+}

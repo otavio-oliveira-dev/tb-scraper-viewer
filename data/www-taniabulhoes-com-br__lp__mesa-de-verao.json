@@ -1,0 +1,352 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/mesa-de-verao",
+  "title": "Tania Bulhões - Mesa de Verão",
+  "sections": [
+    {
+      "selector": "#\\32 14",
+      "attrs": {
+        "id": "214",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Mesa de Verão",
+      "text_blocks": [
+        "Mesa de Verão",
+        "Receba o verão com leveza, frescor e uma pitada de tropicalidade.",
+        "Prato Raso Limoeiro",
+        "Taça Champagne Seiva",
+        "Sopeira Limoeiro",
+        "Set Faca de Churrasco Laguiole Verde 6 peças",
+        "Travessa Limoeiro",
+        "Set Talheres de Mesa Metrópole Inox 8 Peças",
+        "Xícara de Chá Limoeiro",
+        "Bule de Café Limoeiro",
+        "Jogo Americano Bonete Verde Limão",
+        "Prato de Pão Limoeiro",
+        "Guardanapo Nuances Matcha",
+        "Sousplat Limoeiro",
+        "Prato Fundo Limoeiro",
+        "Porta-Tempero Limoeiro",
+        "Espremedor de Limão Limoeiro"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+          "alt": "Prato Raso Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+          "alt": "Prato Raso Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+          "alt": "Taça Champagne Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
+          "alt": "Taça Champagne Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192922-620-auto/sopeira-limoeiro-001000200596-1.jpg?v=638782696170530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192922-620-auto/sopeira-limoeiro-001000200596-1.jpg?v=638782696170530000",
+          "alt": "Sopeira Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198250-620-auto/CAMPANHA-VERAO-LIMOEIRO-00031_OK.jpg?v=638782696170530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198250-620-auto/CAMPANHA-VERAO-LIMOEIRO-00031_OK.jpg?v=638782696170530000",
+          "alt": "Sopeira Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+          "alt": "Set Faca de Churrasco Laguiole Verde 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+          "alt": "Set Faca de Churrasco Laguiole Verde 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192919-620-auto/travessa-limoeiro-001000200638-1.jpg?v=638826534095170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192919-620-auto/travessa-limoeiro-001000200638-1.jpg?v=638826534095170000",
+          "alt": "Travessa Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192920-620-auto/travessa-limoeiro-001000200638-2.jpg?v=638826534095170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192920-620-auto/travessa-limoeiro-001000200638-2.jpg?v=638826534095170000",
+          "alt": "Travessa Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194893-620-auto/000002040_Set-Talheres-de-Mesa-Metropole-Inox-8-Pecas.png?v=638557875725800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194893-620-auto/000002040_Set-Talheres-de-Mesa-Metropole-Inox-8-Pecas.png?v=638557875725800000",
+          "alt": "Set Talheres de Mesa Metrópole Inox 8 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198211-620-auto/000002040_Set_Talher_de_Mesa_Metropole_Inox_8_und_5.jpg?v=638729812665800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198211-620-auto/000002040_Set_Talher_de_Mesa_Metropole_Inox_8_und_5.jpg?v=638729812665800000",
+          "alt": "Set Talheres de Mesa Metrópole Inox 8 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192964-620-auto/xicara-de-cha-limoeiro-001002300564-1.jpg?v=638782697158370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192964-620-auto/xicara-de-cha-limoeiro-001002300564-1.jpg?v=638782697158370000",
+          "alt": "Xícara de Chá Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192965-620-auto/xicara-de-cha-limoeiro-001002300564-2.jpg?v=638782697158670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192965-620-auto/xicara-de-cha-limoeiro-001002300564-2.jpg?v=638782697158670000",
+          "alt": "Xícara de Chá Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192945-620-auto/bule-de-cafe-limoeiro-001000200202-1.jpg?v=638826533782570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192945-620-auto/bule-de-cafe-limoeiro-001000200202-1.jpg?v=638826533782570000",
+          "alt": "Bule de Café Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192946-620-auto/bule-de-cafe-limoeiro-001000200202-2.jpg?v=638826533782730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192946-620-auto/bule-de-cafe-limoeiro-001000200202-2.jpg?v=638826533782730000",
+          "alt": "Bule de Café Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196390-620-auto/jogo-americano-bonete-verde-limao-001000100419-1.jpg?v=638634992766670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196390-620-auto/jogo-americano-bonete-verde-limao-001000100419-1.jpg?v=638634992766670000",
+          "alt": "Jogo Americano Bonete Verde Limão"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198207-620-auto/001000100419_Jg_Americano_Bonete_Verde_Limao.jpg?v=638729805399500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198207-620-auto/001000100419_Jg_Americano_Bonete_Verde_Limao.jpg?v=638729805399500000",
+          "alt": "Jogo Americano Bonete Verde Limão"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192941-620-auto/prato-de-pao-limoeiro-001002300303-1.jpg?v=638782696989770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192941-620-auto/prato-de-pao-limoeiro-001002300303-1.jpg?v=638782696989770000",
+          "alt": "Prato de Pão Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198236-620-auto/CAMPANHA-VERAO-LIMOEIRO-00082_OK--2-.jpg?v=638782696989770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198236-620-auto/CAMPANHA-VERAO-LIMOEIRO-00082_OK--2-.jpg?v=638782696989770000",
+          "alt": "Prato de Pão Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196780-620-auto/guardanapo-nuances-matcha-001000100165-1.jpg?v=638829346381030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196780-620-auto/guardanapo-nuances-matcha-001000100165-1.jpg?v=638829346381030000",
+          "alt": "Guardanapo Nuances Matcha"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198209-620-auto/000002900_Guardanapo_Nuances_Limao_5.jpg?v=638829346381330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198209-620-auto/000002900_Guardanapo_Nuances_Limao_5.jpg?v=638829346381330000",
+          "alt": "Guardanapo Nuances Matcha"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191387-620-auto/prato-fundo-limoeiro-001002300473-1.jpg?v=638782697517330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191387-620-auto/prato-fundo-limoeiro-001002300473-1.jpg?v=638782697517330000",
+          "alt": "Prato Fundo Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191388-620-auto/prato-fundo-limoeiro-001002300473-2.jpg?v=638782697517470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191388-620-auto/prato-fundo-limoeiro-001002300473-2.jpg?v=638782697517470000",
+          "alt": "Prato Fundo Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192961-620-auto/porta-tempero-limoeiro-001000200580-1.jpg?v=638542575315330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192961-620-auto/porta-tempero-limoeiro-001000200580-1.jpg?v=638542575315330000",
+          "alt": "Porta-Tempero Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198240-620-auto/CAMPANHA-VERAO-LIMOEIRO-00079_OK.jpg?v=638733412529970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198240-620-auto/CAMPANHA-VERAO-LIMOEIRO-00079_OK.jpg?v=638733412529970000",
+          "alt": "Porta-Tempero Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193435-620-auto/espremedor-de-limao-limoeiro-001000200222-1.jpg?v=638542608505530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193435-620-auto/espremedor-de-limao-limoeiro-001000200222-1.jpg?v=638542608505530000",
+          "alt": "Espremedor de Limão Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000",
+          "alt": "Espremedor de Limão Limoeiro"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192922-620-auto/sopeira-limoeiro-001000200596-1.jpg?v=638782696170530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198250-620-auto/CAMPANHA-VERAO-LIMOEIRO-00031_OK.jpg?v=638782696170530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197839-620-auto/Set-Faca-de-Churrasco-Laguiole-Verde-6-Pecas_2.jpg?v=638799721609270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192919-620-auto/travessa-limoeiro-001000200638-1.jpg?v=638826534095170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192920-620-auto/travessa-limoeiro-001000200638-2.jpg?v=638826534095170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194893-620-auto/000002040_Set-Talheres-de-Mesa-Metropole-Inox-8-Pecas.png?v=638557875725800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198211-620-auto/000002040_Set_Talher_de_Mesa_Metropole_Inox_8_und_5.jpg?v=638729812665800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192964-620-auto/xicara-de-cha-limoeiro-001002300564-1.jpg?v=638782697158370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192965-620-auto/xicara-de-cha-limoeiro-001002300564-2.jpg?v=638782697158670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192945-620-auto/bule-de-cafe-limoeiro-001000200202-1.jpg?v=638826533782570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192946-620-auto/bule-de-cafe-limoeiro-001000200202-2.jpg?v=638826533782730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196390-620-auto/jogo-americano-bonete-verde-limao-001000100419-1.jpg?v=638634992766670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198207-620-auto/001000100419_Jg_Americano_Bonete_Verde_Limao.jpg?v=638729805399500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192941-620-auto/prato-de-pao-limoeiro-001002300303-1.jpg?v=638782696989770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198236-620-auto/CAMPANHA-VERAO-LIMOEIRO-00082_OK--2-.jpg?v=638782696989770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196780-620-auto/guardanapo-nuances-matcha-001000100165-1.jpg?v=638829346381030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198209-620-auto/000002900_Guardanapo_Nuances_Limao_5.jpg?v=638829346381330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191387-620-auto/prato-fundo-limoeiro-001002300473-1.jpg?v=638782697517330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191388-620-auto/prato-fundo-limoeiro-001002300473-2.jpg?v=638782697517470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192961-620-auto/porta-tempero-limoeiro-001000200580-1.jpg?v=638542575315330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198240-620-auto/CAMPANHA-VERAO-LIMOEIRO-00079_OK.jpg?v=638733412529970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193435-620-auto/espremedor-de-limao-limoeiro-001000200222-1.jpg?v=638542608505530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000"
+      ],
+      "html": null,
+      "score": 1962
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Coleção Limoeiro",
+      "text_blocks": [
+        "Coleção Limoeiro",
+        "Cores vibrantes e um toque de brasilidade à mesa."
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 66
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "id": "215",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Nos almoços de verão, as louças da coleção Limoeiro são a escolha perfeita para trazer a leveza e o calor da estação.",
+      "text_blocks": [
+        "Nos almoços de verão, as louças da coleção Limoeiro são a escolha perfeita para trazer a leveza e o calor da estação.",
+        "Boleira Limoeiro",
+        "Prato de Sobremesa Limoeiro",
+        "Aparelho de Jantar Limoeiro 18 Peças",
+        "Bowl Limoeiro"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192913-620-auto/boleira-limoeiro-001000200162-1.jpg?v=638826536130200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192913-620-auto/boleira-limoeiro-001000200162-1.jpg?v=638826536130200000",
+          "alt": "Boleira Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192914-620-auto/boleira-limoeiro-001000200162-2.jpg?v=638826536130200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192914-620-auto/boleira-limoeiro-001000200162-2.jpg?v=638826536130200000",
+          "alt": "Boleira Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191394-620-auto/prato-de-sobremesa-limoeiro-001002300699-1.jpg?v=638782695874500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191394-620-auto/prato-de-sobremesa-limoeiro-001002300699-1.jpg?v=638782695874500000",
+          "alt": "Prato de Sobremesa Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198255-620-auto/CAMPANHA-VERAO-LIMOEIRO-00113_OK--2-.jpg?v=638782695874670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198255-620-auto/CAMPANHA-VERAO-LIMOEIRO-00113_OK--2-.jpg?v=638782695874670000",
+          "alt": "Prato de Sobremesa Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195698-620-auto/Aparelho_de_Jantar_Limoeiro_2.png?v=638588216427200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195698-620-auto/Aparelho_de_Jantar_Limoeiro_2.png?v=638588216427200000",
+          "alt": "Aparelho de Jantar Limoeiro 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191392-620-auto/aparelho-de-jantar-limoeiro-18-pecas-000001839k-2.jpg?v=638826535937770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191392-620-auto/aparelho-de-jantar-limoeiro-18-pecas-000001839k-2.jpg?v=638826535937770000",
+          "alt": "Aparelho de Jantar Limoeiro 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192969-620-auto/bowl-limoeiro-001002300105-1.jpg?v=638826533542270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192969-620-auto/bowl-limoeiro-001002300105-1.jpg?v=638826533542270000",
+          "alt": "Bowl Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198260-620-auto/CAMPANHA-VERAO-LIMOEIRO-00021_OK.jpg?v=638826533542270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198260-620-auto/CAMPANHA-VERAO-LIMOEIRO-00021_OK.jpg?v=638826533542270000",
+          "alt": "Bowl Limoeiro"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192913-620-auto/boleira-limoeiro-001000200162-1.jpg?v=638826536130200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192914-620-auto/boleira-limoeiro-001000200162-2.jpg?v=638826536130200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191394-620-auto/prato-de-sobremesa-limoeiro-001002300699-1.jpg?v=638782695874500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198255-620-auto/CAMPANHA-VERAO-LIMOEIRO-00113_OK--2-.jpg?v=638782695874670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195698-620-auto/Aparelho_de_Jantar_Limoeiro_2.png?v=638588216427200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191392-620-auto/aparelho-de-jantar-limoeiro-18-pecas-000001839k-2.jpg?v=638826535937770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192969-620-auto/bowl-limoeiro-001002300105-1.jpg?v=638826533542270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198260-620-auto/CAMPANHA-VERAO-LIMOEIRO-00021_OK.jpg?v=638826533542270000"
+      ],
+      "html": null,
+      "score": 613
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:59:55.686Z",
+  "totalSections": 3
+}

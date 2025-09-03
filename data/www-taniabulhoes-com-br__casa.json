@@ -1,0 +1,1014 @@
+{
+  "url": "https://www.taniabulhoes.com.br/casa",
+  "title": "Casa - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "#\\31 38",
+      "attrs": {
+        "id": "138",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Monte sua Mesa",
+      "text_blocks": [
+        "Monte sua Mesa",
+        "Encontre os itens essenciais para sua mesa posta.",
+        "Aparelhos de Jantar",
+        "Copos e Taças",
+        "Acessórios"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/aparelho_de_jantar_fenix_18_pecas_000003072k_6_1718653725144.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/aparelho_de_jantar_fenix_18_pecas_000003072k_6_1718653725144.jpg",
+          "alt": "Aparelhos de Jantar"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_1_1718650432298.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_1_1718650432298.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_2_1718650435717.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_2_1718650435717.jpg",
+          "alt": "Copos e Taças"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_5_b1c03bfe7f.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_5_b1c03bfe7f.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2_7fb2c18deb.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2_7fb2c18deb.png",
+          "alt": "Xícaras"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3_1_233497bae1.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3_1_233497bae1.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Set_Faca_de_Churrasco_Laguiole_Verde_6_Pecas_2_02c7eced99.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Set_Faca_de_Churrasco_Laguiole_Verde_6_Pecas_2_02c7eced99.jpg",
+          "alt": "Acessórios"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_f7bd05c211.png",
+        "https://static.taniabulhoes.com.br/aparelho_de_jantar_fenix_18_pecas_000003072k_6_1718653725144.jpg",
+        "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_1_1718650432298.jpg",
+        "https://static.taniabulhoes.com.br/copo_eclipse_tulipa_001001000022_2_1718650435717.jpg",
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_5_b1c03bfe7f.png",
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2_7fb2c18deb.png",
+        "https://static.taniabulhoes.com.br/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3_1_233497bae1.png",
+        "https://static.taniabulhoes.com.br/Set_Faca_de_Churrasco_Laguiole_Verde_6_Pecas_2_02c7eced99.jpg"
+      ],
+      "html": null,
+      "score": 509
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão",
+      "text_blocks": [
+        "Acessórios para Servir",
+        "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 107
+    },
+    {
+      "selector": "#\\33 6",
+      "attrs": {
+        "id": "36",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 iyteDN"
+      },
+      "heading": "Presentes",
+      "text_blocks": [
+        "Encontre o presente perfeito para cada ocasião com nossa curadoria especial.",
+        "Set Xícaras de Café Coração 4 Peças",
+        "Set Xícaras de Café Coração Quartzo Rosa 4 Peças",
+        "Set Copo Colmeia 2 peças",
+        "Jarra Eclipse Bergamota",
+        "INDISPONÍVEL",
+        "Moringa Eclipse Âmbar"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200251-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.png?v=638848173283530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200251-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.png?v=638848173283530000",
+          "alt": "Set Xícaras de Café Coração 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200252-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.jpg?v=638848173283600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200252-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.jpg?v=638848173283600000",
+          "alt": "Set Xícaras de Café Coração 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+          "alt": "Vide Poche Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+          "alt": "Vide Poche Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200242-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2.png?v=638848173007870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200242-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2.png?v=638848173007870000",
+          "alt": "Set Xícaras de Café Coração Quartzo Rosa 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200243-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3--1-.png?v=638848173008000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200243-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3--1-.png?v=638848173008000000",
+          "alt": "Set Xícaras de Café Coração Quartzo Rosa 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+          "alt": "Set Copo Colmeia 2 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+          "alt": "Set Copo Colmeia 2 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+          "alt": "Set Xícara de Café Provence 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+          "alt": "Set Xícara de Café Provence 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+          "alt": "Mini Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+          "alt": "Mini Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+          "alt": "Jarra Eclipse Bergamota"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+          "alt": "Jarra Eclipse Bergamota"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199496-620-auto/001000200740_Moringa_Eclipse_Ambar.png.png?v=638815417448600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199496-620-auto/001000200740_Moringa_Eclipse_Ambar.png.png?v=638815417448600000",
+          "alt": "Moringa Eclipse Âmbar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199497-620-auto/001000200740_Moringa_Eclipse_Ambar_3.jpg.jpg?v=638815417448900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199497-620-auto/001000200740_Moringa_Eclipse_Ambar_3.jpg.jpg?v=638815417448900000",
+          "alt": "Moringa Eclipse Âmbar"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200251-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.png?v=638848173283530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200252-620-auto/000002214_Kit_Xicara_de_Cafe_Coracao_4_und.jpg?v=638848173283600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200242-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_2.png?v=638848173007870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200243-620-auto/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3--1-.png?v=638848173008000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200350-620-auto/020001900281_Jarra_Eclipse_Bergamota.png?v=638858557180130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200351-620-auto/020001900281_Jarra_Eclipse_Bergamota_2.jpg?v=638858557180430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199496-620-auto/001000200740_Moringa_Eclipse_Ambar.png.png?v=638815417448600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199497-620-auto/001000200740_Moringa_Eclipse_Ambar_3.jpg.jpg?v=638815417448900000"
+      ],
+      "html": null,
+      "score": 1045
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Peças que contam histórias. Cada detalhe da nossa nova collab com o Plaza Athénée foi pensado para inspirar e surpreender.",
+      "text_blocks": [
+        "PLAZA ATHÉNÉE",
+        "Peças que contam histórias. Cada detalhe da nossa nova collab com o Plaza Athénée foi pensado para inspirar e surpreender.",
+        "ENCANTE-SE"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 147
+    },
+    {
+      "selector": "#\\35 7",
+      "attrs": {
+        "id": "57",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Pratos",
+      "text_blocks": [
+        "Vista sua mesa de arte com nossas coleções de louças.",
+        "Prato Raso Limoeiro",
+        "Prato Raso Branco de Ouro",
+        "Set Prato Raso Flor do Ocidente 2 Peças",
+        "Prato Raso Jade Azul",
+        "Set Prato Raso Frutas do Brasil 4 Peças",
+        "Prato Raso Portrait",
+        "Prato Raso Papillon",
+        "Prato Raso Fleur Royal",
+        "Prato Raso Flor de Maracujá",
+        "Set Prato Raso Trópicos 2 Peças",
+        "INDISPONÍVEL",
+        "Prato Raso Cravo e Canela",
+        "Prato Raso Astro",
+        "Prato Raso Terra Brasilis",
+        "Prato Raso Tramas",
+        "Prato Raso Fábula",
+        "Set Prato Raso Cravo e Canela Céu 2 Peças",
+        "Set de Pratos Raso Pássaros do Brasil 4 peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191948-620-auto/prato-raso-fenix-001002300954-1.jpg?v=638782703533130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191948-620-auto/prato-raso-fenix-001002300954-1.jpg?v=638782703533130000",
+          "alt": "Prato Raso Fênix"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200954-620-auto/000003072_Prato_Raso_Fenix_3.jpg?v=638911993365070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200954-620-auto/000003072_Prato_Raso_Fenix_3.jpg?v=638911993365070000",
+          "alt": "Prato Raso Fênix"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+          "alt": "Prato Raso Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+          "alt": "Prato Raso Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+          "alt": "Set Prato Raso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+          "alt": "Set Prato Raso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+          "alt": "Prato Raso Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+          "alt": "Prato Raso Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+          "alt": "Prato Raso Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+          "alt": "Prato Raso Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200390-620-auto/set-prato-raso-frutas-do-brasil-4-pecas-001002300930-1.jpg?v=638865374693530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200390-620-auto/set-prato-raso-frutas-do-brasil-4-pecas-001002300930-1.jpg?v=638865374693530000",
+          "alt": "Set Prato Raso Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200391-620-auto/000002583_Prato_Raso_Frutas_do_Brasil_9.jpg?v=638865374693830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200391-620-auto/000002583_Prato_Raso_Frutas_do_Brasil_9.jpg?v=638865374693830000",
+          "alt": "Set Prato Raso Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194448-620-auto/prato-raso-portrait-001002300959-1.jpg?v=638798230242430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194448-620-auto/prato-raso-portrait-001002300959-1.jpg?v=638798230242430000",
+          "alt": "Prato Raso Portrait"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194449-620-auto/prato-raso-portrait-001002300959-2.jpg?v=638798230242600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194449-620-auto/prato-raso-portrait-001002300959-2.jpg?v=638798230242600000",
+          "alt": "Prato Raso Portrait"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196735-620-auto/prato-raso-casa-das-orquideas-001002300873-1.jpg?v=638763655960730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196735-620-auto/prato-raso-casa-das-orquideas-001002300873-1.jpg?v=638763655960730000",
+          "alt": "Prato Raso Casa das Orquídeas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197228-620-auto/308050-036_Prato_Raso_Casa_das_Orquideas_2.jpg?v=638763655960730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197228-620-auto/308050-036_Prato_Raso_Casa_das_Orquideas_2.jpg?v=638763655960730000",
+          "alt": "Prato Raso Casa das Orquídeas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+          "alt": "Set Prato Raso Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+          "alt": "Set Prato Raso Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662-620-auto/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662-620-auto/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000",
+          "alt": "Prato Raso Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663-620-auto/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663-620-auto/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000",
+          "alt": "Prato Raso Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+          "alt": "Set Prato Raso Trópicos 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
+          "alt": "Set Prato Raso Trópicos 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+          "alt": "Prato Raso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+          "alt": "Prato Raso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199979-620-auto/prato-raso-cravo-e-canela-001002300883-1.jpg?v=638841254485730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199979-620-auto/prato-raso-cravo-e-canela-001002300883-1.jpg?v=638841254485730000",
+          "alt": "Prato Raso Cravo e Canela"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199980-620-auto/308011-949_Prato_Raso_Cravo_e_Canela_4.jpg?v=638841254486070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199980-620-auto/308011-949_Prato_Raso_Cravo_e_Canela_4.jpg?v=638841254486070000",
+          "alt": "Prato Raso Cravo e Canela"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+          "alt": "Prato Raso Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+          "alt": "Prato Raso Terra Brasilis"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192819-620-auto/prato-raso-tramas-001002300940-1.jpg?v=638815284398330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192819-620-auto/prato-raso-tramas-001002300940-1.jpg?v=638815284398330000",
+          "alt": "Prato Raso Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192822-620-auto/prato-raso-tramas-001002300940-4.jpg?v=638815284398330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192822-620-auto/prato-raso-tramas-001002300940-4.jpg?v=638815284398330000",
+          "alt": "Prato Raso Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+          "alt": "Prato Raso Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+          "alt": "Prato Raso Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+          "alt": "Set Prato Raso Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+          "alt": "Set Prato Raso Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200563-620-auto/set-de-pratos-raso-passaros-do-brasil-4-pecas-001002300875-1.jpg?v=638882910303700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200563-620-auto/set-de-pratos-raso-passaros-do-brasil-4-pecas-001002300875-1.jpg?v=638882910303700000",
+          "alt": "Set de Pratos Raso Pássaros do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200564-620-auto/308054-033_Set_Prato_Raso_Passaros_do_Brasil_4pc_6.jpg?v=638882910304000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200564-620-auto/308054-033_Set_Prato_Raso_Passaros_do_Brasil_4pc_6.jpg?v=638882910304000000",
+          "alt": "Set de Pratos Raso Pássaros do Brasil 4 peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191948-620-auto/prato-raso-fenix-001002300954-1.jpg?v=638782703533130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200954-620-auto/000003072_Prato_Raso_Fenix_3.jpg?v=638911993365070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200390-620-auto/set-prato-raso-frutas-do-brasil-4-pecas-001002300930-1.jpg?v=638865374693530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200391-620-auto/000002583_Prato_Raso_Frutas_do_Brasil_9.jpg?v=638865374693830000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194448-620-auto/prato-raso-portrait-001002300959-1.jpg?v=638798230242430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194449-620-auto/prato-raso-portrait-001002300959-2.jpg?v=638798230242600000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196735-620-auto/prato-raso-casa-das-orquideas-001002300873-1.jpg?v=638763655960730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197228-620-auto/308050-036_Prato_Raso_Casa_das_Orquideas_2.jpg?v=638763655960730000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662-620-auto/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663-620-auto/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199979-620-auto/prato-raso-cravo-e-canela-001002300883-1.jpg?v=638841254485730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199980-620-auto/308011-949_Prato_Raso_Cravo_e_Canela_4.jpg?v=638841254486070000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197047-620-auto/1002301045_Prato_Raso_Terra_Brasilis--1-.png?v=638650407261900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197048-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613801930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192819-620-auto/prato-raso-tramas-001002300940-1.jpg?v=638815284398330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192822-620-auto/prato-raso-tramas-001002300940-4.jpg?v=638815284398330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193061-620-auto/prato-raso-fabula-001002300960-1.jpg?v=638782686920870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200563-620-auto/set-de-pratos-raso-passaros-do-brasil-4-pecas-001002300875-1.jpg?v=638882910303700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200564-620-auto/308054-033_Set_Prato_Raso_Passaros_do_Brasil_4pc_6.jpg?v=638882910304000000"
+      ],
+      "html": null,
+      "score": 3479
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
+      "text_blocks": [
+        "ROYAL LIMOGES",
+        "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
+        "Saiba Mais"
+      ],
+      "images": [],
+      "image_urls": [],
+      "html": null,
+      "score": 120
+    },
+    {
+      "selector": "#\\33 3",
+      "attrs": {
+        "id": "33",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Limoges",
+      "text_blocks": [
+        "Descubra nossas coleções produzidas em Limoges.",
+        "Encante-se",
+        "Sousplat Astro",
+        "Set Prato de Sobremesa Pássaros do Brasil 04 Peças",
+        "Xícara de Chá Portrait",
+        "Aparelho de Jantar Jade Verde 18 Peças",
+        "Prato Raso Fleur Royal",
+        "Sousplat Frutas do Brasil",
+        "Xícara de Café Astro",
+        "Set Prato de Sobremesa Frutas do Brasil 4 Peças",
+        "Prato Raso Jade Azul",
+        "Set Xícara de Café Árvores do Brasil 4 peças",
+        "INDISPONÍVEL"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+          "alt": "Sousplat Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+          "alt": "Sousplat Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200574-620-auto/set-prato-de-sobremesa-passaros-do-brasil-04-pecas-001002300620-1.jpg?v=638882912629400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200574-620-auto/set-prato-de-sobremesa-passaros-do-brasil-04-pecas-001002300620-1.jpg?v=638882912629400000",
+          "alt": "Set Prato de Sobremesa Pássaros do Brasil 04 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200575-620-auto/308055-033_Set_Prato_Sobremesa_Passaros_do_Brasil_4pc_2.png?v=638882912629700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200575-620-auto/308055-033_Set_Prato_Sobremesa_Passaros_do_Brasil_4pc_2.png?v=638882912629700000",
+          "alt": "Set Prato de Sobremesa Pássaros do Brasil 04 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194566-620-auto/xicara-de-cha-portrait-001002300580-1.jpg?v=638798230557170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194566-620-auto/xicara-de-cha-portrait-001002300580-1.jpg?v=638798230557170000",
+          "alt": "Xícara de Chá Portrait"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194567-620-auto/xicara-de-cha-portrait-001002300580-2.jpg?v=638798230557300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194567-620-auto/xicara-de-cha-portrait-001002300580-2.jpg?v=638798230557300000",
+          "alt": "Xícara de Chá Portrait"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+          "alt": "Aparelho de Jantar Jade Verde 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+          "alt": "Aparelho de Jantar Jade Verde 18 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174-620-auto/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174-620-auto/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000",
+          "alt": "Sousplat Frutas do Brasil"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175-620-auto/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175-620-auto/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000",
+          "alt": "Sousplat Frutas do Brasil"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192645-620-auto/prato-fundo-casa-das-orquideas-001002300447-1.jpg?v=638762763942170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192645-620-auto/prato-fundo-casa-das-orquideas-001002300447-1.jpg?v=638762763942170000",
+          "alt": "Prato Fundo Casa das Orquídeas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197240-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_5.jpg?v=638762763942330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197240-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_5.jpg?v=638762763942330000",
+          "alt": "Prato Fundo Casa das Orquídeas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+          "alt": "Prato Raso Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+          "alt": "Prato Raso Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193334-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-1.jpg?v=638810120475570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193334-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-1.jpg?v=638810120475570000",
+          "alt": "Set Xícara de Café Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193335-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-2.jpg?v=638810120475570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193335-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-2.jpg?v=638810120475570000",
+          "alt": "Set Xícara de Café Árvores do Brasil 4 peças"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694-620-auto/sousplat-astro-001002300406-1.jpg?v=638815302222330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695-620-auto/sousplat-astro-001002300406-2.jpg?v=638815302222330000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200574-620-auto/set-prato-de-sobremesa-passaros-do-brasil-04-pecas-001002300620-1.jpg?v=638882912629400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200575-620-auto/308055-033_Set_Prato_Sobremesa_Passaros_do_Brasil_4pc_2.png?v=638882912629700000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194566-620-auto/xicara-de-cha-portrait-001002300580-1.jpg?v=638798230557170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194567-620-auto/xicara-de-cha-portrait-001002300580-2.jpg?v=638798230557300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174-620-auto/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175-620-auto/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192645-620-auto/prato-fundo-casa-das-orquideas-001002300447-1.jpg?v=638762763942170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197240-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_5.jpg?v=638762763942330000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192137-620-auto/prato-raso-jade-azul-001002300922-1.jpg?v=638826549611730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197246-620-auto/000000805_Prato_Raso_Jade_Azul_3.jpg?v=638826549611730000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193334-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-1.jpg?v=638810120475570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193335-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-2.jpg?v=638810120475570000"
+      ],
+      "html": null,
+      "score": 2183
+    }
+  ],
+  "scrapedAt": "2025-09-03T22:45:52.026Z",
+  "totalSections": 7
+}

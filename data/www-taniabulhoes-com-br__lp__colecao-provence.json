@@ -1,0 +1,37 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/colecao-provence",
+  "title": "Tania Bulhões - Provence",
+  "sections": [
+    {
+      "selector": "#tertiary__banner__container",
+      "attrs": {
+        "id": "tertiary__banner__container",
+        "class": "sc-8c8c5975-0 ifsHTr"
+      },
+      "heading": "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor.",
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_f5ee0afffe.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_f5ee0afffe.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_5bc4bc9c5c.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_5bc4bc9c5c.png",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_f5ee0afffe.png",
+        "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_5bc4bc9c5c.png"
+      ],
+      "html": null,
+      "score": 100
+    }
+  ],
+  "scrapedAt": "2025-09-03T23:04:40.557Z",
+  "totalSections": 1
+}
