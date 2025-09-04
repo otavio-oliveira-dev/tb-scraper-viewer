@@ -3,6 +3,23 @@
   "title": "Taniapele - Tania Bulhões",
   "sections": [
     {
+      "selector": "#home-banner",
+      "attrs": {
+        "id": "home-banner",
+        "class": "sc-7620ef51-0 kYovvv"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Rituais para sua rotina de autocuidado",
+        "Experimente"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 200
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
       "attrs": {
         "id": "double__template__container",
@@ -14,10 +31,32 @@
         "BENEFÍCIOS PARA TODOS OS TIPOS DE PELE",
         "O extrato de rosa foi escolhido como o principal ingrediente da linha por ser um poderoso ativo hidratante e antioxidante, que previne o envelhecimento precoce da pele."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+        "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+        "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg"
+      ],
       "html": null,
-      "score": 207
+      "score": 917
     },
     {
       "selector": "#\\33 2",
@@ -30,6 +69,7 @@
       },
       "heading": "Taniapele",
       "text_blocks": [
+        "Transforme cada dia em uma experiência de spa em casa.",
         "Cruelty free",
         "água termal",
         "Esfoliante Corporal",
@@ -212,8 +252,48 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192856-620-auto/hidratante-labial-009l01500003-1.jpg?v=638542568252200000",
         "https://taniab.vteximg.com.br/arquivos/ids/196010-620-auto/HIDRATANTE-LABIAL.jpg?v=638620917281900000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1376
+      "score": 1781
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Praticidade para sua rotina de autocuidado fora de casa.",
+      "text_blocks": [
+        "Ritual Viagem TANIAPELE",
+        "Praticidade para sua rotina de autocuidado fora de casa."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg"
+      ],
+      "html": null,
+      "score": 540
     },
     {
       "selector": "#\\32 26",
@@ -226,13 +306,16 @@
       },
       "heading": "Rituais Taniapele",
       "text_blocks": [
+        "Rituais Taniapele",
         "Nossas sugestões de rituais de bem-estar, com produtos dedicados a cada momento, para elevar sua rotina de autocuidado",
         "Cruelty free",
         "Ritual Banho Hidratante",
         "Ritual Pele Renovada",
         "Ritual Super Hidratação",
+        "Ritual Viagem TANIAPELE",
         "Ritual Bem-estar",
-        "Ritual Essenciais Viagem"
+        "Ritual Essenciais Viagem",
+        "Ritual TANIAPELE"
       ],
       "images": [
         {
@@ -385,10 +468,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/196078-620-auto/RITUAL-TANIA-PELE.png?v=638621959358500000",
         "https://taniab.vteximg.com.br/arquivos/ids/197963-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638694361154900000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1292
+      "score": 1701
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:51:15.259Z",
-  "totalSections": 3
+  "scrapedAt": "2025-09-04T01:47:32.345Z",
+  "totalSections": 6
 }

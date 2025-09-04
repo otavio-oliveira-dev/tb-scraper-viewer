@@ -245,8 +245,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193435-620-auto/espremedor-de-limao-limoeiro-001000200222-1.jpg?v=638542608505530000",
         "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1962
+      "score": 2312
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -260,10 +261,23 @@
         "Coleção Limoeiro",
         "Cores vibrantes e um toque de brasilidade à mesa."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Limoeiro_04_5e9d51498c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Limoeiro_04_5e9d51498c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Limoeiro_04_5e9d51498c.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Limoeiro_04_5e9d51498c.jpg"
+      ],
       "html": null,
-      "score": 66
+      "score": 486
     },
     {
       "selector": "article[data-component=\"listing-section-v2\"]",
@@ -343,10 +357,57 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192969-620-auto/bowl-limoeiro-001002300105-1.jpg?v=638826533542270000",
         "https://taniab.vteximg.com.br/arquivos/ids/198260-620-auto/CAMPANHA-VERAO-LIMOEIRO-00021_OK.jpg?v=638826533542270000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 613
+      "score": 1023
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Aposte em uma mesa cheia de charme e descontração no jardim ou na área externa da casa, aproveitando os momentos ao ar livre.",
+      "text_blocks": [
+        "Aposte em uma mesa cheia de charme e descontração no jardim ou na área externa da casa, aproveitando os momentos ao ar livre."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Limoeiro_05_782148d567.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Limoeiro_05_782148d567.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Limoeiro_05_782148d567.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Limoeiro_05_782148d567.jpg"
+      ],
+      "html": null,
+      "score": 595
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:59:55.686Z",
-  "totalSections": 3
+  "scrapedAt": "2025-09-04T01:58:05.136Z",
+  "totalSections": 5
 }

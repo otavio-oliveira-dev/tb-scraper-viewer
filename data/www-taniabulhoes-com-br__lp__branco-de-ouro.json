@@ -109,24 +109,51 @@
         "https://taniab.vteximg.com.br/arquivos/ids/191847-620-auto/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000",
         "https://taniab.vteximg.com.br/arquivos/ids/191848-620-auto/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 833
+      "score": 1183
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 iNTOL"
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
       },
-      "heading": "Branco de Ouro",
+      "heading": null,
       "text_blocks": [
         "Os delicados filetes de ouro que envolvem as peças da Coleção Branco de Ouro revelam nosso cuidado com cada detalhe."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 116
+      "score": 296
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "double-brand-section-right-wrapper",
+        "class": "sc-b44bab58-1 rXbnI"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg"
+      ],
+      "html": null,
+      "score": 270
     },
     {
       "selector": "#\\32 34",
@@ -265,26 +292,70 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192540-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-1.jpg?v=638782692434070000",
         "https://taniab.vteximg.com.br/arquivos/ids/192541-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-2.jpg?v=638782692434070000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1066
+      "score": 1416
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(1)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 iNTOL"
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
       },
-      "heading": "Minimalismo chic para momentos especiais à mesa!",
+      "heading": null,
       "text_blocks": [
         "As louças da coleção Branco de Ouro podem ser usadas em composições monocromáticas ou com base neutra para combinar com peças coloridas."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 316
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(2) > section.sc-b44bab58-4.hEMpQu",
+      "attrs": {
+        "data-cy": "double-brand-section-right-image",
+        "class": "sc-b44bab58-4 hEMpQu"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg"
+      ],
+      "html": null,
+      "score": 270
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
       "html": null,
       "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:53:18.768Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-04T01:51:03.480Z",
+  "totalSections": 7
 }

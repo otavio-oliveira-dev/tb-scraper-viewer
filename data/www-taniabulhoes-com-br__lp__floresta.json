@@ -81,8 +81,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192264-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-1.jpg?v=638822344412370000",
         "https://taniab.vteximg.com.br/arquivos/ids/192265-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-2.jpg?v=638822344412370000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 660
+      "score": 1070
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
@@ -93,12 +94,26 @@
       },
       "heading": "Combinamos as melhores matérias-primas de várias partes do mundo: Pimenta preta da Índia, cedro da Virgínia (nos EUA), rosa da Turquia e o musgo francês.",
       "text_blocks": [
-        "Combinamos as melhores matérias-primas de várias partes do mundo: Pimenta preta da Índia, cedro da Virgínia (nos EUA), rosa da Turquia e o musgo francês."
+        "Combinamos as melhores matérias-primas de várias partes do mundo: Pimenta preta da Índia, cedro da Virgínia (nos EUA), rosa da Turquia e o musgo francês.",
+        "Tudo para trazer tranquilidade e frescor para sua casa."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/afc87563_2d73_4f7a_af26_613645051c53_f685f35a72.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/afc87563_2d73_4f7a_af26_613645051c53_f685f35a72.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/afc87563_2d73_4f7a_af26_613645051c53_f685f35a72.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/afc87563_2d73_4f7a_af26_613645051c53_f685f35a72.jpg"
+      ],
       "html": null,
-      "score": 153
+      "score": 829
     },
     {
       "selector": "#\\32 18",
@@ -112,7 +127,9 @@
       },
       "heading": "Sentir a fragrância de Floresta no ambiente, é como trazer toda a exuberância da natureza para dentro de casa.",
       "text_blocks": [
+        "Sentir a fragrância de Floresta no ambiente, é como trazer toda a exuberância da natureza para dentro de casa.",
         "Kit Difusor Elétrico Colmeia Floresta 10ml",
+        "Kit Perfumaria Casa 3 unidades - Floresta",
         "Kit Trio Mini Velas Floresta"
       ],
       "images": [
@@ -175,8 +192,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/196033-620-auto/kit-trio-mini-velas-floresta-002l03200040k-1.png?v=638787871358330000",
         "https://taniab.vteximg.com.br/arquivos/ids/198219-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638787871358400000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 471
+      "score": 1034
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
@@ -190,10 +208,23 @@
         "O âmbar se destaca trazendo uma harmoniosa fusão de doçura, notas amadeiradas e um toque resinado que encanta os sentidos e transforma qualquer ambiente.",
         "Transforme sua rotina através de experiências olfativas com a fragrância Floresta."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/05_LP_Floresta_Banner_Linha04_crop_fc8ddfb1b0_431942a3cb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/05_LP_Floresta_Banner_Linha04_crop_fc8ddfb1b0_431942a3cb.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/05_LP_Floresta_Banner_Linha04_crop_fc8ddfb1b0_431942a3cb.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/05_LP_Floresta_Banner_Linha04_crop_fc8ddfb1b0_431942a3cb.jpg"
+      ],
       "html": null,
-      "score": 236
+      "score": 906
     },
     {
       "selector": "#\\32 19",
@@ -208,6 +239,7 @@
       "heading": "Kit Difusor Preto Para Carro Floresta",
       "text_blocks": [
         "Kit Difusor Preto Para Carro Floresta",
+        "Kit Perfumaria Casa 2 unidades - Floresta",
         "Floresta Vela Porcelana Preta 220g"
       ],
       "images": [
@@ -270,10 +302,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195971-620-auto/000003681_Floresta_Vela_Perfumada_220g--1-.png?v=638618293395400000",
         "https://taniab.vteximg.com.br/arquivos/ids/195972-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638822345746130000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 472
+      "score": 749
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:56:24.920Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-04T01:51:11.172Z",
+  "totalSections": 6
 }

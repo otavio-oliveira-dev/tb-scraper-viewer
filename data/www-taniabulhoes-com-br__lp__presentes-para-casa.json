@@ -9,13 +9,16 @@
       },
       "heading": "Presentes para Casa",
       "text_blocks": [
+        "Presentes para Casa",
         "Presentear faz parte da nossa identidade: é uma forma de expressar carinho, celebrar momentos especiais e reforçar os laços.",
+        "Descubra o nosso universo de tableware e surpreenda quem você ama com presentes que demonstram carinho e cuidado em cada detalhe.",
         "Encante-se"
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 135
+      "score": 685
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
@@ -29,10 +32,32 @@
         "Coleção Eclipse",
         "Esferas coloridas de vidro que trazem contraste e leveza para mesas contemporâneas e cheias de personalidade. Diferentes cores e formas dão um charme extra para impressionar na hora de servir."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/banner.jpg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/banner.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1080_x_1080_Eclipse_ad91d5437b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1080_x_1080_Eclipse_ad91d5437b.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/banner.jpg",
+        "https://static.taniabulhoes.com.br/1080_x_1080_Eclipse_ad91d5437b.jpg"
+      ],
+      "background_images": [
+        "https://www.taniabulhoes.com.br/images/banner.jpg",
+        "https://static.taniabulhoes.com.br/1080_x_1080_Eclipse_ad91d5437b.jpg"
+      ],
       "html": null,
-      "score": 208
+      "score": 918
     },
     {
       "selector": "#\\32 72",
@@ -222,8 +247,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195367-620-auto/copo-eclipse-transparente-001001000023-1.jpg?v=638828258056330000",
         "https://taniab.vteximg.com.br/arquivos/ids/195368-620-auto/copo-eclipse-transparente-001001000023-2.jpg?v=638828258056330000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1419
+      "score": 1744
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -237,10 +263,32 @@
         "Para cafés especiais",
         "Afeto, delicadeza e charme em cada detalhe com as Xícaras de Café Coração."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3_1_314b8abcfd.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3_1_314b8abcfd.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_1_Edited_d78aebe02d.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_1_Edited_d78aebe02d.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3_1_314b8abcfd.png",
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_1_Edited_d78aebe02d.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3_1_314b8abcfd.png",
+        "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_1_Edited_d78aebe02d.png"
+      ],
       "html": null,
-      "score": 95
+      "score": 555
     },
     {
       "selector": "#tertiary__banner__container",
@@ -270,8 +318,9 @@
         "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_4_47a5ea7253.png",
         "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_8_3c6da4bb87.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 227
+      "score": 477
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -282,12 +331,35 @@
       },
       "heading": "Uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial.",
       "text_blocks": [
+        "Coleção Provence",
         "Uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_2_1_3a17cef23c.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_2_1_3a17cef23c.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/11_Provence_1_1_742848bce3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/11_Provence_1_1_742848bce3.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_2_1_3a17cef23c.png",
+        "https://static.taniabulhoes.com.br/11_Provence_1_1_742848bce3.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_2_1_3a17cef23c.png",
+        "https://static.taniabulhoes.com.br/11_Provence_1_1_742848bce3.jpg"
+      ],
       "html": null,
-      "score": 162
+      "score": 739
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
@@ -301,10 +373,32 @@
         "Cravo e Canela Céu",
         "Um dos nossos maiores clássicos reinterpretados em tons suaves e nuances em azul que remetem o céu. A coleção de porcelanas decoradas Cravo e Canela Céu ilustra, com delicadeza e irreverência, louças e acessórios para todos os momentos à mesa."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/banner.jpg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/banner.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1080_x_1080_Xicara_Ceu_ac3e247a9e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1080_x_1080_Xicara_Ceu_ac3e247a9e.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/banner.jpg",
+        "https://static.taniabulhoes.com.br/1080_x_1080_Xicara_Ceu_ac3e247a9e.jpg"
+      ],
+      "background_images": [
+        "https://www.taniabulhoes.com.br/images/banner.jpg",
+        "https://static.taniabulhoes.com.br/1080_x_1080_Xicara_Ceu_ac3e247a9e.jpg"
+      ],
       "html": null,
-      "score": 262
+      "score": 972
     },
     {
       "selector": "#\\32 73",
@@ -412,10 +506,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200118-620-auto/001002300216K_Set_Bowl_Cravo_e_Canela_Ceu.png?v=638848075161070000",
         "https://taniab.vteximg.com.br/arquivos/ids/200119-620-auto/001002300216_Bowl_Cravo_e_Canela_Ceu_7.jpg?v=638848075161400000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 812
+      "score": 1137
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:51:15.930Z",
-  "totalSections": 8
+  "scrapedAt": "2025-09-04T01:47:33.000Z",
+  "totalSections": 9
 }

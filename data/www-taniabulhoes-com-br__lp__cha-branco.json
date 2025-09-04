@@ -3,6 +3,24 @@
   "title": "Tania Bulhões - Chá Branco",
   "sections": [
     {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 kOzhWi"
+      },
+      "heading": "Chá Branco",
+      "text_blocks": [
+        "Chá Branco",
+        "Clássica e Atemporal",
+        "Experimente"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 273
+    },
+    {
       "selector": "#\\31 81",
       "attrs": {
         "id": "181",
@@ -80,8 +98,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
         "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 667
+      "score": 1077
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -92,12 +111,26 @@
       },
       "heading": "Perfume sua casa",
       "text_blocks": [
+        "Perfume sua casa",
         "A clássica fragrância de Chá Branco é leve e aromática. Suas notas cítricas na saída combinadas com o toque da Fava Tonka despertam a sensação de bem-estar no ambiente."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Web_1920_3_5_1_47b56b6ff2.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Web_1920_3_5_1_47b56b6ff2.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Web_1920_3_5_1_47b56b6ff2.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Web_1920_3_5_1_47b56b6ff2.jpg"
+      ],
       "html": null,
-      "score": 168
+      "score": 705
     },
     {
       "selector": "#\\31 82",
@@ -177,8 +210,39 @@
         "https://taniab.vteximg.com.br/arquivos/ids/191655-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-1.jpg?v=638792040489970000",
         "https://taniab.vteximg.com.br/arquivos/ids/191656-620-auto/cha-branco-aromatizador-de-ambiente-290ml-002l00500023-2.jpg?v=638792040490130000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 639
+      "score": 1049
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Chá Branco Eau de Parfum",
+      "text_blocks": [
+        "Chá Branco Eau de Parfum",
+        "Todas as fragrâncias de Tania Bulhões Perfumes são elaboradas com a mais alta qualidade de ingredientes e expertise em Alta Perfumaria. A escolha de Eau de Parfum como concentração para a nossa linha reflete o nosso compromisso em oferecer aos nossos clientes uma experiência sensorial excepcional e marcante."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_7_378ac8c7ac.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_7_378ac8c7ac.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_7_378ac8c7ac.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_7_378ac8c7ac.jpg"
+      ],
+      "html": null,
+      "score": 1004
     },
     {
       "selector": "#\\31 83",
@@ -195,6 +259,7 @@
         "Nossa linha de Chá Branco é perfeita para presentear.",
         "Uma fragrância fresca e levemente adocicada que desperta sensações de aconchego e bem-estar.",
         "Best Seller",
+        "Chá Branco Eau de Parfum 80ml",
         "Chá Branco Colônia para Cabelo 30ml",
         "Chá Branco Veludo Hidratante 15ml"
       ],
@@ -258,10 +323,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
         "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 628
+      "score": 1068
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T23:03:03.764Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-04T01:59:49.507Z",
+  "totalSections": 7
 }

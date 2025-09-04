@@ -14,8 +14,9 @@
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 70
+      "score": 220
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
@@ -29,10 +30,32 @@
         "A arte de presentear",
         "Descubra nossa seleção e escolha o presente ideal para demonstrar todo seu amor e carinho."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/KIT_PERFUMES_CAIXA_VERDE_02_2_d10229d6f8.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/KIT_PERFUMES_CAIXA_VERDE_02_2_d10229d6f8.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/768_x_1024_Banner_Caixa_Verde_a87b4420b2.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/768_x_1024_Banner_Caixa_Verde_a87b4420b2.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/KIT_PERFUMES_CAIXA_VERDE_02_2_d10229d6f8.jpg",
+        "https://static.taniabulhoes.com.br/768_x_1024_Banner_Caixa_Verde_a87b4420b2.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/KIT_PERFUMES_CAIXA_VERDE_02_2_d10229d6f8.jpg",
+        "https://static.taniabulhoes.com.br/768_x_1024_Banner_Caixa_Verde_a87b4420b2.jpg"
+      ],
       "html": null,
-      "score": 111
+      "score": 671
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
@@ -41,19 +64,107 @@
       },
       "heading": "Lançamentos",
       "text_blocks": [
+        "Lançamentos",
         "Fique por dentro das novidades que chegaram por aqui.",
         "Difusor de Porcelana Orquídeas",
         "Hidratante Chá Branco 150g",
         "Xícara de Chá Entre Rios Blanc",
         "Kit Hidratante Rosas Roubadas 150g",
         "Difusor de Porcelana Pássaros",
+        "Jarra Provence",
         "Kit Hidratante 1989 150g",
-        "Tea For One Borboleta"
+        "Tea For One Borboleta",
+        "Prato de Sobremesa Provence"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300007_CVK_Difusor_Porcelana_Orquidea_5_d16c2859c6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300007_CVK_Difusor_Porcelana_Orquidea_5_d16c2859c6.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Hidratantes_Corporal_bf1c341d7e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Hidratantes_Corporal_bf1c341d7e.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4_19f67a6918.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4_19f67a6918.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800031_K_Kit_Hidratante_Rosas_Roubadas_150g_2_2d54e1fadc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800031_K_Kit_Hidratante_Rosas_Roubadas_150g_2_2d54e1fadc.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_5_38955fff7c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_5_38955fff7c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001000200759_Jarra_Provence_1_92b58cebf5.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000200759_Jarra_Provence_1_92b58cebf5.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800032_K_Kit_Hidratante_1989_150g_3_01b3e5becd.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800032_K_Kit_Hidratante_1989_150g_3_01b3e5becd.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_7_aff7b33fd6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_7_aff7b33fd6.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301080_Prato_Sobremesa_Provence_2_1_0e7c3f3859.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301080_Prato_Sobremesa_Provence_2_1_0e7c3f3859.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002001300007_CVK_Difusor_Porcelana_Orquidea_5_d16c2859c6.jpg",
+        "https://static.taniabulhoes.com.br/Hidratantes_Corporal_bf1c341d7e.jpg",
+        "https://static.taniabulhoes.com.br/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4_19f67a6918.jpg",
+        "https://static.taniabulhoes.com.br/003_L01800031_K_Kit_Hidratante_Rosas_Roubadas_150g_2_2d54e1fadc.jpg",
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_5_38955fff7c.jpg",
+        "https://static.taniabulhoes.com.br/001000200759_Jarra_Provence_1_92b58cebf5.png",
+        "https://static.taniabulhoes.com.br/003_L01800032_K_Kit_Hidratante_1989_150g_3_01b3e5becd.jpg",
+        "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_7_aff7b33fd6.jpg",
+        "https://static.taniabulhoes.com.br/001002301080_Prato_Sobremesa_Provence_2_1_0e7c3f3859.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002001300007_CVK_Difusor_Porcelana_Orquidea_5_d16c2859c6.jpg",
+        "https://static.taniabulhoes.com.br/Hidratantes_Corporal_bf1c341d7e.jpg",
+        "https://static.taniabulhoes.com.br/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4_19f67a6918.jpg",
+        "https://static.taniabulhoes.com.br/003_L01800031_K_Kit_Hidratante_Rosas_Roubadas_150g_2_2d54e1fadc.jpg",
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_5_38955fff7c.jpg",
+        "https://static.taniabulhoes.com.br/001000200759_Jarra_Provence_1_92b58cebf5.png",
+        "https://static.taniabulhoes.com.br/003_L01800032_K_Kit_Hidratante_1989_150g_3_01b3e5becd.jpg",
+        "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_7_aff7b33fd6.jpg",
+        "https://static.taniabulhoes.com.br/001002301080_Prato_Sobremesa_Provence_2_1_0e7c3f3859.png"
+      ],
       "html": null,
-      "score": 254
+      "score": 1619
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -67,10 +178,32 @@
         "Primeira Compra",
         "Seleção perfeita para sua primeira experiência com Tania Bulhões."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003504_Copo_Eclipse_Turquesa_5_f0f85f5694.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003504_Copo_Eclipse_Turquesa_5_f0f85f5694.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_14_8b343c9b3e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_14_8b343c9b3e.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003504_Copo_Eclipse_Turquesa_5_f0f85f5694.jpg",
+        "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_14_8b343c9b3e.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003504_Copo_Eclipse_Turquesa_5_f0f85f5694.jpg",
+        "https://static.taniabulhoes.com.br/001000200734_Tea_For_One_Borboletas_14_8b343c9b3e.jpg"
+      ],
       "html": null,
-      "score": 81
+      "score": 541
     },
     {
       "selector": "#\\32 79",
@@ -148,8 +281,24 @@
         "https://static.taniabulhoes.com.br/000003017_Meia_Noite_Eau_de_Parfum_80ml_1_0eef07fbce.jpg",
         "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_7b2fefd524.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 477
+      "score": 577
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div.sc-7620ef51-2.hqpLLx",
+      "attrs": {
+        "class": "sc-7620ef51-2 hqpLLx"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Nossa linha de Perfumaria Casa é ideal para trazer a essência da natureza para todos os ambientes."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 98
     },
     {
       "selector": "#\\32 78",
@@ -228,10 +377,28 @@
         "https://static.taniabulhoes.com.br/002_L01300086_CHA_VERDE_DIFUSOR_AMBIENTE_290_ML_890052eac7.jpg",
         "https://static.taniabulhoes.com.br/000003679_Difusor_Floresta_250ml_5_8e9c261759.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 629
+      "score": 979
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:47:26.559Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-04T01:44:31.444Z",
+  "totalSections": 8
 }

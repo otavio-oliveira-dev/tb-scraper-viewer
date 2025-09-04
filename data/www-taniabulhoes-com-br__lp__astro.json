@@ -103,8 +103,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193773-620-auto/taca-de-cristal-astro-001001000122-1.jpg?v=638542634308570000",
         "https://taniab.vteximg.com.br/arquivos/ids/193774-620-auto/taca-de-cristal-astro-001001000122-2.jpg?v=638542634310770000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 694
+      "score": 954
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -117,10 +118,23 @@
       "text_blocks": [
         "Há 250 anos, saía do forno a primeira porcelana de Limoges. A pequena cidade francesa é conhecida mundialmente por produzir as louças mais preciosas que existem, feitas com o melhor caulim do mundo – o do rio Vienne. O savoir-faire francês de mais de dois séculos está presente em nossa coleção Astro."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Astro_05_5b836a1097.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Astro_05_5b836a1097.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Astro_05_5b836a1097.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Astro_05_5b836a1097.jpg"
+      ],
       "html": null,
-      "score": 301
+      "score": 921
     },
     {
       "selector": "#\\32 06",
@@ -229,8 +243,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195782-620-auto/aparelho-de-jantar-astro-18-pecas-000003063k-1.jpg?v=638815302785530000",
         "https://taniab.vteximg.com.br/arquivos/ids/197021-620-auto/000003063K_Aparelho_de_Jantar_Astro_2.jpg?v=638815302785700000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 801
+      "score": 1211
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -243,10 +258,23 @@
       "text_blocks": [
         "Com um design limpo e detalhes em ouro, as peças da coleção Astro são protagonistas em qualquer composição. Para uma mesa moderna e sofisticada, use acessórios em tons neutros feitos de materiais nobres."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
+      ],
       "html": null,
-      "score": 203
+      "score": 823
     },
     {
       "selector": "#\\32 07",
@@ -334,10 +362,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193796-620-auto/jogo-americano-astro-001000100400-1.jpg?v=638542636698970000",
         "https://taniab.vteximg.com.br/arquivos/ids/193797-620-auto/jogo-americano-astro-001000100400-2.jpg?v=638542636699900000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 640
+      "score": 900
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:56:24.442Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-04T01:52:42.732Z",
+  "totalSections": 6
 }

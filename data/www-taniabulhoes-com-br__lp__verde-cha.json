@@ -14,57 +14,137 @@
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 181
+      "score": 511
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4) > section:nth-of-type(1)",
       "attrs": {
-        "data-cy": "text-section-container",
-        "class": "sc-5e4fd09-0 gmSUWR"
+        "data-cy": "text-box-with-cta-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TextBoxWithCTA",
+        "data-sentry-source-file": "TextBoxWithCTA.tsx",
+        "class": "sc-3f6bc78a-0 heQJlg"
       },
-      "heading": "Ops, sua sacola está vazia!",
+      "heading": null,
       "text_blocks": [
         "Desenhado pelo Mestre Perfumista Jacques Cavallier Belletrud para os amantes de essências raras, Ombre Nomade é um perfume ardente, tão intenso quanto o fogo do pôr do sol."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 172
+      "score": 352
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div:nth-of-type(1)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 iNTOL"
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
       },
-      "heading": "Ops, sua sacola está vazia!",
+      "heading": null,
       "text_blocks": [
         "Com seus fortes acentos de couro, especiarias e madeira, um monumental oud assam é misturado com um toque de benjoim e acentos de framboesa. Nunca o oud foi tão místico."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 169
+      "score": 349
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7) > div:nth-of-type(1)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 iNTOL"
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
       },
-      "heading": "Ops, sua sacola está vazia!",
+      "heading": null,
       "text_blocks": [
         "Eu absolutamente queria atender às expectativas dos conhecedores, dos verdadeiros amantes de oud."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 97
+      "score": 177
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div:nth-of-type(1)",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 kdpWkF"
+      },
+      "heading": null,
+      "text_blocks": [
+        "conheça o sabonete"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_247b1528ec.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_247b1528ec.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_247b1528ec.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_247b1528ec.png"
+      ],
+      "html": null,
+      "score": 208
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div:nth-of-type(2)",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 kdpWkF"
+      },
+      "heading": null,
+      "text_blocks": [
+        "conheça o aromatizador"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_607a33c067.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_607a33c067.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_607a33c067.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_607a33c067.png"
+      ],
+      "html": null,
+      "score": 212
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:59:46.815Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-04T01:56:01.993Z",
+  "totalSections": 7
 }

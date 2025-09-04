@@ -3,6 +3,22 @@
   "title": "Tania Bulhões - Pomar de Jabuticabeiras",
   "sections": [
     {
+      "selector": "#home-banner",
+      "attrs": {
+        "id": "home-banner",
+        "class": "sc-7620ef51-0 kYovvv"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Coleção Pomar de Jabuticabeiras"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 181
+    },
+    {
       "selector": "article[data-cy=\"text-section-container\"]",
       "attrs": {
         "data-cy": "text-section-container",
@@ -15,8 +31,9 @@
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 253
+      "score": 683
     },
     {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
@@ -30,12 +47,42 @@
         "O que você precisa saber sobre a pré-venda.",
         "A previsão de recebimento é para janeiro de 2026. Caso o seu pedido de pré-venda inclua itens de outras coleções, enviaremos primeiro os produtos disponíveis para pronta entrega e o prazo de entrega será definido conforme a sua região."
       ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/066_A8884_OK_1_b779cdf2ee.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/066_A8884_OK_1_b779cdf2ee.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/066_A8884_OK_1_b779cdf2ee.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/066_A8884_OK_1_b779cdf2ee.jpg"
+      ],
+      "html": null,
+      "score": 899
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 279
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T23:04:39.847Z",
-  "totalSections": 2
+  "scrapedAt": "2025-09-04T01:59:58.988Z",
+  "totalSections": 4
 }

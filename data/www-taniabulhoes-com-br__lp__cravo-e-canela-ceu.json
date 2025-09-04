@@ -110,8 +110,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197529-620-auto/001002301005KCC_Aparelho_Jantar_Cravo_e_Canela_Ceu.png?v=638664310276530000",
         "https://taniab.vteximg.com.br/arquivos/ids/197530-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638798160483630000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 944
+      "score": 1294
     },
     {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
@@ -123,15 +124,44 @@
       "heading": "GENUINAMENTE BRASILEIRA",
       "text_blocks": [
         "GENUINAMENTE BRASILEIRA",
-        "Duas das mais valiosas especiarias de nossa história são a inspiração por trás da arte que estampa as peças.",
         "A coleção traz ainda um frescor romântico de gingado brasileiro, inspirado em um dos maiores sucessos de nossa literatura: Gabriela, Cravo e Canela, de Jorge Amado."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagens3_89b6dc4e83.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagens3_89b6dc4e83.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagens3_89b6dc4e83.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagens3_89b6dc4e83.jpg"
+      ],
+      "html": null,
+      "score": 708
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 297
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:56:31.495Z",
-  "totalSections": 2
+  "scrapedAt": "2025-09-04T01:52:49.183Z",
+  "totalSections": 3
 }

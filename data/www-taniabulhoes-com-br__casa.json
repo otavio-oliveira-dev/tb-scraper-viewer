@@ -3,6 +3,21 @@
   "title": "Casa - Tania Bulhões",
   "sections": [
     {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Fênix",
+      "text_blocks": [
+        "Beleza atemporal para vestir a mesa"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 185
+    },
+    {
       "selector": "#\\31 38",
       "attrs": {
         "id": "138",
@@ -79,8 +94,9 @@
         "https://static.taniabulhoes.com.br/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3_1_233497bae1.png",
         "https://static.taniabulhoes.com.br/Set_Faca_de_Churrasco_Laguiole_Verde_6_Pecas_2_02c7eced99.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 509
+      "score": 709
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -94,10 +110,32 @@
         "Acessórios para Servir",
         "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001000200698_Galheteiro_Oliva_1_838796d7dd.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000200698_Galheteiro_Oliva_1_838796d7dd.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_3_7e86b9aaf1.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_3_7e86b9aaf1.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001000200698_Galheteiro_Oliva_1_838796d7dd.jpg",
+        "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_3_7e86b9aaf1.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001000200698_Galheteiro_Oliva_1_838796d7dd.jpg",
+        "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_3_7e86b9aaf1.png"
+      ],
       "html": null,
-      "score": 107
+      "score": 667
     },
     {
       "selector": "#\\33 6",
@@ -110,10 +148,12 @@
       },
       "heading": "Presentes",
       "text_blocks": [
-        "Encontre o presente perfeito para cada ocasião com nossa curadoria especial.",
         "Set Xícaras de Café Coração 4 Peças",
+        "Vide Poche Provence",
         "Set Xícaras de Café Coração Quartzo Rosa 4 Peças",
         "Set Copo Colmeia 2 peças",
+        "Set Xícara de Café Provence 4 Peças",
+        "Mini Vaso Provence",
         "Jarra Eclipse Bergamota",
         "INDISPONÍVEL",
         "Moringa Eclipse Âmbar"
@@ -234,8 +274,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199496-620-auto/001000200740_Moringa_Eclipse_Ambar.png.png?v=638815417448600000",
         "https://taniab.vteximg.com.br/arquivos/ids/199497-620-auto/001000200740_Moringa_Eclipse_Ambar_3.jpg.jpg?v=638815417448900000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1045
+      "score": 1393
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -250,10 +291,32 @@
         "Peças que contam histórias. Cada detalhe da nossa nova collab com o Plaza Athénée foi pensado para inspirar e surpreender.",
         "ENCANTE-SE"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_94d501f970.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_94d501f970.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301102_PRATO_SOBREMESA_PLAZA_ATHENEE_2_63dd3b409d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301102_PRATO_SOBREMESA_PLAZA_ATHENEE_2_63dd3b409d.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_94d501f970.jpg",
+        "https://static.taniabulhoes.com.br/001002301102_PRATO_SOBREMESA_PLAZA_ATHENEE_2_63dd3b409d.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_94d501f970.jpg",
+        "https://static.taniabulhoes.com.br/001002301102_PRATO_SOBREMESA_PLAZA_ATHENEE_2_63dd3b409d.jpg"
+      ],
       "html": null,
-      "score": 147
+      "score": 707
     },
     {
       "selector": "#\\35 7",
@@ -267,16 +330,22 @@
       "heading": "Pratos",
       "text_blocks": [
         "Vista sua mesa de arte com nossas coleções de louças.",
+        "Prato Raso Fênix",
         "Prato Raso Limoeiro",
         "Prato Raso Branco de Ouro",
         "Set Prato Raso Flor do Ocidente 2 Peças",
+        "Prato Raso Marquesa",
+        "Prato Raso Mediterrâneo Verde",
         "Prato Raso Jade Azul",
+        "Prato Raso Casa das Orquídeas Rouge de Fer",
         "Set Prato Raso Frutas do Brasil 4 Peças",
         "Prato Raso Portrait",
+        "Prato Raso Casa das Orquídeas",
         "Prato Raso Papillon",
         "Prato Raso Fleur Royal",
         "Prato Raso Flor de Maracujá",
         "Set Prato Raso Trópicos 2 Peças",
+        "Prato Raso Provence",
         "INDISPONÍVEL",
         "Prato Raso Cravo e Canela",
         "Prato Raso Astro",
@@ -703,8 +772,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200563-620-auto/set-de-pratos-raso-passaros-do-brasil-4-pecas-001002300875-1.jpg?v=638882910303700000",
         "https://taniab.vteximg.com.br/arquivos/ids/200564-620-auto/308054-033_Set_Prato_Raso_Passaros_do_Brasil_4pc_6.jpg?v=638882910304000000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 3479
+      "score": 3989
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -715,14 +785,35 @@
       },
       "heading": "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
       "text_blocks": [
-        "ROYAL LIMOGES",
         "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
         "Saiba Mais"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/MIX_LIMOGES_5_1_5de5fe0e5a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/MIX_LIMOGES_5_1_5de5fe0e5a.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/MIX_LIMOGES_5_1_5de5fe0e5a.jpg",
+        "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/MIX_LIMOGES_5_1_5de5fe0e5a.jpg",
+        "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
+      ],
       "html": null,
-      "score": 120
+      "score": 666
     },
     {
       "selector": "#\\33 3",
@@ -737,12 +828,14 @@
       "text_blocks": [
         "Descubra nossas coleções produzidas em Limoges.",
         "Encante-se",
+        "Prato Raso Casa das Orquídeas Rouge de Fer",
         "Sousplat Astro",
         "Set Prato de Sobremesa Pássaros do Brasil 04 Peças",
         "Xícara de Chá Portrait",
         "Aparelho de Jantar Jade Verde 18 Peças",
         "Prato Raso Fleur Royal",
         "Sousplat Frutas do Brasil",
+        "Prato Fundo Casa das Orquídeas",
         "Xícara de Café Astro",
         "Set Prato de Sobremesa Frutas do Brasil 4 Peças",
         "Prato Raso Jade Azul",
@@ -1005,10 +1098,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193334-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-1.jpg?v=638810120475570000",
         "https://taniab.vteximg.com.br/arquivos/ids/193335-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-2.jpg?v=638810120475570000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 2183
+      "score": 2607
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:45:52.026Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-04T01:42:55.334Z",
+  "totalSections": 9
 }

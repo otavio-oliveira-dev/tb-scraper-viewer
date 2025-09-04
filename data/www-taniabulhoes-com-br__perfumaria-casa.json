@@ -14,8 +14,103 @@
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 92
+      "score": 242
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Coleções",
+      "text_blocks": [
+        "Transforme sua casa em um refúgio de bem-estar.",
+        "Chá Branco",
+        "Figo Negro",
+        "Casa das Orquídeas",
+        "Pássaros do Brasil"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/COLECAO_CHA_VERDE_3874659a4c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/COLECAO_CHA_VERDE_3874659a4c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/01_Perf_Casa_Banner_Geral_mobile_comsombra_4e23edede6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/01_Perf_Casa_Banner_Geral_mobile_comsombra_4e23edede6.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Figo_Negro_000260d23f_820dd0924e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Figo_Negro_000260d23f_820dd0924e.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003162_Casa_das_Orquideas_Sabonete_Liquido_290ml_3_bd9c354edf.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003162_Casa_das_Orquideas_Sabonete_Liquido_290ml_3_bd9c354edf.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003173_Lavanda_Sabonete_Liquido_290ml_2_b80dc43aa1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003173_Lavanda_Sabonete_Liquido_290ml_2_b80dc43aa1.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Jade_0c4411de28.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Jade_0c4411de28.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003138_Passaros_do_Brasil_Hidratante_para_Maos_e_Corpo_3_644df5d42b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003138_Passaros_do_Brasil_Hidratante_para_Maos_e_Corpo_3_644df5d42b.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003677_Floresta_Hidratante_para_Maos_e_Corpo_3_646ed5cfa4.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003677_Floresta_Hidratante_para_Maos_e_Corpo_3_646ed5cfa4.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/COLECAO_CHA_VERDE_3874659a4c.jpg",
+        "https://static.taniabulhoes.com.br/01_Perf_Casa_Banner_Geral_mobile_comsombra_4e23edede6.jpg",
+        "https://static.taniabulhoes.com.br/Figo_Negro_000260d23f_820dd0924e.jpg",
+        "https://static.taniabulhoes.com.br/000003162_Casa_das_Orquideas_Sabonete_Liquido_290ml_3_bd9c354edf.jpg",
+        "https://static.taniabulhoes.com.br/000003173_Lavanda_Sabonete_Liquido_290ml_2_b80dc43aa1.jpg",
+        "https://static.taniabulhoes.com.br/Jade_0c4411de28.jpg",
+        "https://static.taniabulhoes.com.br/000003138_Passaros_do_Brasil_Hidratante_para_Maos_e_Corpo_3_644df5d42b.jpg",
+        "https://static.taniabulhoes.com.br/000003677_Floresta_Hidratante_para_Maos_e_Corpo_3_646ed5cfa4.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/COLECAO_CHA_VERDE_3874659a4c.jpg",
+        "https://static.taniabulhoes.com.br/01_Perf_Casa_Banner_Geral_mobile_comsombra_4e23edede6.jpg",
+        "https://static.taniabulhoes.com.br/Figo_Negro_000260d23f_820dd0924e.jpg",
+        "https://static.taniabulhoes.com.br/000003162_Casa_das_Orquideas_Sabonete_Liquido_290ml_3_bd9c354edf.jpg",
+        "https://static.taniabulhoes.com.br/000003173_Lavanda_Sabonete_Liquido_290ml_2_b80dc43aa1.jpg",
+        "https://static.taniabulhoes.com.br/Jade_0c4411de28.jpg",
+        "https://static.taniabulhoes.com.br/000003138_Passaros_do_Brasil_Hidratante_para_Maos_e_Corpo_3_644df5d42b.jpg",
+        "https://static.taniabulhoes.com.br/000003677_Floresta_Hidratante_para_Maos_e_Corpo_3_646ed5cfa4.jpg"
+      ],
+      "html": null,
+      "score": 1177
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -30,10 +125,32 @@
         "O clássico frescor da Lavanda em uma embalagem exclusiva",
         "Inspire-se"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0801_OK_1eafb970cd.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0801_OK_1eafb970cd.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0797_OK_1_1_aad5174777.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0797_OK_1_1_aad5174777.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0801_OK_1eafb970cd.jpg",
+        "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0797_OK_1_1_aad5174777.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0801_OK_1eafb970cd.jpg",
+        "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0797_OK_1_1_aad5174777.jpg"
+      ],
       "html": null,
-      "score": 83
+      "score": 543
     },
     {
       "selector": "#\\37 3",
@@ -111,8 +228,9 @@
         "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg",
         "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 453
+      "score": 553
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -126,10 +244,32 @@
         "Difusor de Porcelana Camélia",
         "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_3_61018e26eb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_3_61018e26eb.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_4_ff652ea86c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_4_ff652ea86c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_3_61018e26eb.jpg",
+        "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_4_ff652ea86c.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_3_61018e26eb.jpg",
+        "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_4_ff652ea86c.jpg"
+      ],
       "html": null,
-      "score": 162
+      "score": 722
     },
     {
       "selector": "#\\37 1",
@@ -239,8 +379,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
         "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 943
+      "score": 1293
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -254,10 +395,32 @@
         "SABONETES E HIDRATANTES",
         "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L01800033_CHA_VERDE_HIDRATANTE_MAOS_E_CORPO_290_G_1e59023084.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L01800033_CHA_VERDE_HIDRATANTE_MAOS_E_CORPO_290_G_1e59023084.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003164_Cha_Branco_Sabonete_Liquido290ml_4_1_5326857842.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003164_Cha_Branco_Sabonete_Liquido290ml_4_1_5326857842.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002_L01800033_CHA_VERDE_HIDRATANTE_MAOS_E_CORPO_290_G_1e59023084.jpg",
+        "https://static.taniabulhoes.com.br/000003164_Cha_Branco_Sabonete_Liquido290ml_4_1_5326857842.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002_L01800033_CHA_VERDE_HIDRATANTE_MAOS_E_CORPO_290_G_1e59023084.jpg",
+        "https://static.taniabulhoes.com.br/000003164_Cha_Branco_Sabonete_Liquido290ml_4_1_5326857842.jpg"
+      ],
       "html": null,
-      "score": 123
+      "score": 683
     },
     {
       "selector": "#\\37 2",
@@ -271,10 +434,12 @@
       "heading": "Difusores de Vareta",
       "text_blocks": [
         "Difusores de Vareta",
+        "Uma seleção especial para perfumar intensamente e decorar a casa com beleza e personalidade.",
         "Chá Verde Difusor para Ambiente 290ml",
         "Figo Negro Difusor para Ambiente 290ml",
         "Lavanda Difusor para Ambiente 290ml",
         "Floresta Difusor para Ambiente 290ml",
+        "Casa das Orquídeas Difusor para Ambiente 290ml",
         "Jade Difusor para Ambiente 290ml",
         "Pássaros do Brasil Difusor para Ambiente 290ml"
       ],
@@ -394,8 +559,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192214-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-1.jpg?v=638810172073970000",
         "https://taniab.vteximg.com.br/arquivos/ids/192215-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-2.jpg?v=638810172073970000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1049
+      "score": 1539
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(9)",
@@ -408,12 +574,51 @@
       "text_blocks": [
         "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente."
       ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003187_Lavanda_Vela_Perfumada_220g_2_b205a73da3.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003187_Lavanda_Vela_Perfumada_220g_2_b205a73da3.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003181_Figo_Vela_Perfumada_jpg220g_2_2e44bb03c3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003181_Figo_Vela_Perfumada_jpg220g_2_2e44bb03c3.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003187_Lavanda_Vela_Perfumada_220g_2_b205a73da3.png",
+        "https://static.taniabulhoes.com.br/000003181_Figo_Vela_Perfumada_jpg220g_2_2e44bb03c3.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003187_Lavanda_Vela_Perfumada_220g_2_b205a73da3.png",
+        "https://static.taniabulhoes.com.br/000003181_Figo_Vela_Perfumada_jpg220g_2_2e44bb03c3.jpg"
+      ],
+      "html": null,
+      "score": 665
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 105
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:47:35.430Z",
-  "totalSections": 8
+  "scrapedAt": "2025-09-04T01:44:39.982Z",
+  "totalSections": 10
 }

@@ -82,8 +82,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197043-620-auto/1002301044_Sousplat_Terra_Brasilis--1-.png?v=638650404989330000",
         "https://taniab.vteximg.com.br/arquivos/ids/197044-620-auto/1002301044_Sousplat_Terra_Brasilis_2.jpg?v=638763614156130000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 648
+      "score": 1058
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
@@ -97,10 +98,23 @@
         "Terra Brasilis",
         "Uma ode à exuberância da natureza brasileira: Terra Brasilis traz para a mesa de Natal o frescor e a singularidade do nosso clima tropical."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_20_b23853b8cb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_20_b23853b8cb.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_20_b23853b8cb.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_20_b23853b8cb.jpg"
+      ],
       "html": null,
-      "score": 154
+      "score": 674
     },
     {
       "selector": "#\\31 78",
@@ -180,8 +194,63 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200178-620-auto/1002301050K_Set_Prato_de_Pao_Terra_Brasilis.png?v=638848084202230000",
         "https://taniab.vteximg.com.br/arquivos/ids/200179-620-auto/1002301050_Prato_de_Pao_Terra_Brasilis_5.jpg?v=638848084202370000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 615
+      "score": 1025
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(1)",
+      "attrs": {
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Celebre com uma coleção única"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg"
+      ],
+      "html": null,
+      "score": 299
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "double-brand-section-right-wrapper",
+        "class": "sc-b44bab58-1 rXbnI"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg"
+      ],
+      "html": null,
+      "score": 270
     },
     {
       "selector": "#\\31 79",
@@ -261,10 +330,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197099-620-auto/001000100984_Set_Pt_Guardanapo_Terra_Brasilis.png?v=638650431611070000",
         "https://taniab.vteximg.com.br/arquivos/ids/197100-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613102800000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 608
+      "score": 1018
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T23:01:21.920Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-04T01:57:38.769Z",
+  "totalSections": 7
 }

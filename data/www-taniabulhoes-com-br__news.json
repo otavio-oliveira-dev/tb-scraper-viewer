@@ -1,7 +1,25 @@
 {
   "url": "https://www.taniabulhoes.com.br/news",
   "title": "News - Tania Bulhões",
-  "sections": [],
-  "scrapedAt": "2025-09-03T22:47:26.350Z",
-  "totalSections": 0
+  "sections": [
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
+    }
+  ],
+  "scrapedAt": "2025-09-04T01:43:01.324Z",
+  "totalSections": 1
 }

@@ -1,7 +1,72 @@
 {
   "url": "https://www.taniabulhoes.com.br/politicas",
   "title": "Políticas - Tania Bulhões",
-  "sections": [],
-  "scrapedAt": "2025-09-03T23:07:53.555Z",
-  "totalSections": 0
+  "sections": [
+    {
+      "selector": "div[data-sentry-component=\"TabHeader\"]",
+      "attrs": {
+        "data-sentry-element": "Container",
+        "data-sentry-component": "TabHeader",
+        "data-sentry-source-file": "TabHeader.tsx",
+        "class": "sc-16f70be4-0 cTmbFD"
+      },
+      "heading": "Políticas",
+      "text_blocks": [
+        "POLÍTICA DE FRETE"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 167
+    },
+    {
+      "selector": "div[data-sentry-component=\"ShippingPolicyFP\"]",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "ShippingPolicyFP",
+        "data-sentry-source-file": "ShippingPolicy.FP.tsx",
+        "class": "sc-c5473ea9-0 bZFWl"
+      },
+      "heading": "Modal de Entrega",
+      "text_blocks": [
+        "Contamos com a parceria dos Correios e de renomadas transportadoras, empresas sólidas e capazes de garantir que seu pedido chegará ao destino em segurança e dentro do prazo informado no ato da compra. Também possuímos frota própria para atender as entregas realizadas dentro da cidade de São Paulo.",
+        "Modal de Entrega",
+        "A entrega no mesmo dia (D0) é uma opção disponível apenas para pedidos confirmados até 12h.",
+        "Valor do Frete",
+        "Cobrimos todo o território nacional através do site. Para entregas realizadas fora do Brasil, a compra deverá ser feita através dos canais:",
+        "Site EUA: https://www.taniab.com/",
+        "Telefone: +55 11 3950-9996",
+        "A entrega será feita conforme o prazo determinado no momento de sua compra de acordo com o CEP da região informada no pedido, podendo ser realizada de segunda a sexta-feira das 8:00 às 18:00h. São efetuadas três tentativas de entrega em dias consecutivos. Se não houver sucesso na entrega, o produto será devolvido ao nosso centro de distribuição.",
+        "Prazo de Entrega",
+        "O prazo de entrega varia de acordo com o CEP e começará a ser contado a partir do primeiro dia útil subsequente à confirmação do pagamento pela instituição financeira. Você pode consultar o prazo ao realizar o seu pedido. Basta adicionar um produto à sacola, onde deverá inserir o CEP do seu endereço de entrega. O prazo será exibido automaticamente.",
+        "Rastreamento",
+        "Todas as suas compras poderão ser embaladas para presente antes de serem acondicionadas na embalagem de transporte, apenas lembre de selecionar \"Este pedido é um presente\" na Sacola ou no Checkout antes de finalizar sua compra. O manuseio dos pedidos é rigoroso e feito com cuidado pela nossa equipe para que tudo chegue em sua casa em perfeito estado e pronto para o uso."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 2125
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
+    }
+  ],
+  "scrapedAt": "2025-09-04T02:07:36.590Z",
+  "totalSections": 3
 }

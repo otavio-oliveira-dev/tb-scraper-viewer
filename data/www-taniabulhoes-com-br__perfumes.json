@@ -3,6 +3,23 @@
   "title": "Perfumes - Tania Bulhões",
   "sections": [
     {
+      "selector": "#home-banner",
+      "attrs": {
+        "id": "home-banner",
+        "class": "sc-7620ef51-0 kYovvv"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "1989 Eau de Parfum",
+        "Um floral fresco e envolvente"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 198
+    },
+    {
       "selector": "#\\32 63",
       "attrs": {
         "id": "263",
@@ -110,8 +127,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199475-620-auto/003L01800033_MEU_VERDE_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814366044230000",
         "https://taniab.vteximg.com.br/arquivos/ids/199476-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814366044400000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 909
+      "score": 1259
     },
     {
       "selector": "#\\37 8",
@@ -127,6 +145,7 @@
       "text_blocks": [
         "O PRESENTE PERFEITO",
         "Presentear sempre fez parte da nossa identidade",
+        "Presenteie com perfumes únicos em um kit que combina Eau de Parfum desenvolvido por nossos perfumistas diretamente para você.",
         "Kit Hidratante Chá Branco 150g",
         "Galeria Olfativa Kit Experiência 12 x 2ml",
         "Kit Clássicos",
@@ -193,8 +212,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
         "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 596
+      "score": 1132
     },
     {
       "selector": "#\\37 4",
@@ -207,8 +227,21 @@
       },
       "heading": "Eau de Parfum",
       "text_blocks": [
+        "Eau de Parfum",
+        "Fruto da colaboração entre Tania e renomados perfumistas, nossos perfumes são verdadeiras obras de arte. Com alta concentração dos melhores ingredientes, oferecem maior durabilidade na pele.",
         "EXPERIMENTE",
+        "Ventos de Lavanda Eau de Parfum 80ml",
         "Best Seller",
+        "Chá Branco Eau de Parfum 80ml",
+        "Frenesi Eau de Parfum 80ml",
+        "Encontro Marcado Eau de Parfum 80ml",
+        "Rosas Roubadas Eau de Parfum 80ml",
+        "1989 Eau de Parfum 80ml",
+        "À Francesa Eau de Parfum 80ml",
+        "Fava Selvagem Eau de Parfum 80ml",
+        "Segredo Eau de Parfum 80ml",
+        "Sinfonia Eau de Parfum 80ml",
+        "Meu Verde Eau de Parfum 80ml",
         "INDISPONÍVEL"
       ],
       "images": [
@@ -383,8 +416,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
         "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1236
+      "score": 2126
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -397,10 +431,32 @@
       "text_blocks": [
         "O contraste entre o frescor das madeiras e a delicadeza das notas florais é o segredo por trás de Frenesi."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800002_Frenesi_Eau_de_Parfum_30ml_3_c9b2b8cdae.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800002_Frenesi_Eau_de_Parfum_30ml_3_c9b2b8cdae.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_2_1_4630b4e050.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_2_1_4630b4e050.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003002800002_Frenesi_Eau_de_Parfum_30ml_3_c9b2b8cdae.jpg",
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_2_1_4630b4e050.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/003002800002_Frenesi_Eau_de_Parfum_30ml_3_c9b2b8cdae.jpg",
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_2_1_4630b4e050.jpg"
+      ],
       "html": null,
-      "score": 106
+      "score": 666
     },
     {
       "selector": "#\\31 20",
@@ -414,6 +470,7 @@
       "heading": "Kits Descoberta",
       "text_blocks": [
         "Kits Descoberta",
+        "Em Tania Bulhões Perfumes, acreditamos que a Eau de Parfum oferece a combinação perfeita de intensidade, longevidade, texturas e complexidade para as nossas criações olfativas.",
         "Kit Mais Vendidos",
         "Kit Clássicos",
         "Kit Florais"
@@ -464,8 +521,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195903-620-auto/Florais--1-.png?v=638615727913070000",
         "https://taniab.vteximg.com.br/arquivos/ids/195904-620-auto/Florais_3.png?v=638866272379200000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 359
+      "score": 886
     },
     {
       "selector": "#\\31 39",
@@ -478,6 +536,7 @@
       },
       "heading": "EAU DE PARFUM",
       "text_blocks": [
+        "EAU DE PARFUM",
         "No mundo da perfumaria, a escolha da concentração correta é fundamental para desfrutar da experiência sensorial completa de uma fragrância.",
         "PARA O DIA",
         "PARA A NOITE",
@@ -544,8 +603,9 @@
         "https://static.taniabulhoes.com.br/meu_verde_eau_de_parfum_30ml_tangerina_verde_003l02800114_1_1718659488246.jpg",
         "https://static.taniabulhoes.com.br/000003003_Meu_Verde_Eau_de_Parfum_30ml_2_248802478d.jpg"
       ],
+      "background_images": [],
       "html": null,
-      "score": 589
+      "score": 953
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(8)",
@@ -560,10 +620,32 @@
         "Rosas Roubadas, nosso perfume premiado e sucesso de vendas em 2023, agora com novas formas de perfumar e hidratar.",
         "IMPRESSIONE-SE"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg"
+      ],
       "html": null,
-      "score": 144
+      "score": 704
     },
     {
       "selector": "#\\37 5",
@@ -581,6 +663,7 @@
         "Um clássico presente",
         "Uma memória dentro da outra. E a surpresa da primeira vez, todos os dias. Um clássico vive presente.",
         "Best Seller",
+        "Chá Branco Eau de Parfum 80ml",
         "Chá Branco Colônia para Cabelo 30ml",
         "Kit Perfume 80ml - Chá Branco",
         "Chá Branco Creme para Mãos 40g"
@@ -645,10 +728,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193127-620-auto/cha-branco-creme-para-maos-40g-003l01800013-1.jpg?v=638810292548200000",
         "https://taniab.vteximg.com.br/arquivos/ids/197888-620-auto/CREME-PARA-MAOS-CHA-BRANCO_2.jpg?v=638810292548200000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 641
+      "score": 1081
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:49:30.583Z",
-  "totalSections": 8
+  "scrapedAt": "2025-09-04T01:45:47.260Z",
+  "totalSections": 10
 }

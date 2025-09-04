@@ -3,6 +3,62 @@
   "title": "Tania Bulhões - Frenesi",
   "sections": [
     {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Tania Bulhões Perfumes",
+      "text_blocks": [
+        "Tania Bulhões Perfumes",
+        "Frenesi, novo Eau de Parfum de Tania Bulhões, é a verdadeira essência da sinestesia e da intimidade."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 453
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "É sobre conforto de habitar a própria pele.",
+      "text_blocks": [
+        "Frenesi Eau de Parfum",
+        "É sobre conforto de habitar a própria pele."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_fd7d17d8c3.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_fd7d17d8c3.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Frenesi_01_8cd0aee624.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Frenesi_01_8cd0aee624.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_fd7d17d8c3.png",
+        "https://static.taniabulhoes.com.br/1_1_Frenesi_01_8cd0aee624.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_fd7d17d8c3.png",
+        "https://static.taniabulhoes.com.br/1_1_Frenesi_01_8cd0aee624.jpg"
+      ],
+      "html": null,
+      "score": 525
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
       "attrs": {
         "id": "double__template__container",
@@ -13,12 +69,42 @@
       "text_blocks": [
         "Uma fragrância sem gênero, sensual e fresca, que te convida a sentir a maciez do toque através do olfato, com notas que abraçam, cativam e te conectam com o seu verdadeiro eu, como a inquietação envolvente de um sonho que flerta com a realidade."
       ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Frenesi_02_c89e004f98.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Frenesi_02_c89e004f98.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Frenesi_02_c89e004f98.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Frenesi_02_c89e004f98.jpg"
+      ],
+      "html": null,
+      "score": 865
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 245
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:54:54.744Z",
-  "totalSections": 1
+  "scrapedAt": "2025-09-04T01:51:10.703Z",
+  "totalSections": 4
 }

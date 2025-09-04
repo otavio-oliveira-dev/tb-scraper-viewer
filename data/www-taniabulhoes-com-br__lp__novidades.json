@@ -3,11 +3,11 @@
   "title": "Tania Bulhões - Novidades",
   "sections": [
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm > article:nth-of-type(1) > div.sc-b600379b-0.kEjiws",
       "attrs": {
         "data-sentry-element": "unknown",
-        "data-sentry-source-file": "Drawer.tsx",
-        "class": "sc-ed6ed672-0 byBQkm"
+        "data-sentry-source-file": "MegamenuDesktop.tsx",
+        "class": "sc-b600379b-0 kEjiws"
       },
       "heading": null,
       "text_blocks": [
@@ -18,15 +18,47 @@
         "Difusores de Porcelana",
         "Bandeja Diamante",
         "Mais Procurados",
+        "Chá Branco Perfumaria Casa",
         "Aparelhos de Jantar",
         "Sala de Estar",
         "Escritório",
         "Campo e Praia"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001001000570_Taca_de_Champagne_Fantasia_0bf38e8508.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001001000570_Taca_de_Champagne_Fantasia_0bf38e8508.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Difusores_Porcelana_1_cb622b6ad7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Difusores_Porcelana_1_cb622b6ad7.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001001000570_Taca_de_Champagne_Fantasia_0bf38e8508.jpg",
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+        "https://static.taniabulhoes.com.br/Difusores_Porcelana_1_cb622b6ad7.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001001000570_Taca_de_Champagne_Fantasia_0bf38e8508.jpg",
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
+        "https://static.taniabulhoes.com.br/Difusores_Porcelana_1_cb622b6ad7.jpg"
+      ],
       "html": null,
-      "score": 186
+      "score": 833
     },
     {
       "selector": "#\\32 28",
@@ -39,6 +71,9 @@
       },
       "heading": "Lançamentos",
       "text_blocks": [
+        "Lançamentos",
+        "Fique por dentro dos lançamentos que chegaram recentemente por aqui.",
+        "Descubra uma seleção especial de peças para vestir a casa, receber com elegância, perfumar com intensidade e revelar uma experiência de aconchego, conforto e bem-estar.",
         "Taça Champagne Fantasia",
         "Cesto de Pão Colmeia Fibras Naturais",
         "Jogo Americano Arquipélago Redondo Verde",
@@ -135,8 +170,48 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200016-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural--1-.png?v=638841279249700000",
         "https://taniab.vteximg.com.br/arquivos/ids/200017-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural_3.jpg?v=638841279250030000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 816
+      "score": 1416
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Nossas fragrâncias são inspiradas na natureza, e foram desenvolvidas para despertar os sentidos e transformar a casa em um verdadeiro santuário particular.",
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Nossas fragrâncias são inspiradas na natureza, e foram desenvolvidas para despertar os sentidos e transformar a casa em um verdadeiro santuário particular."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_d07464a1df.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_d07464a1df.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/DIFUSORES_PORCELANA_PASSAROS_CASA_DAS_ORQUIDEAS_35001_OK_1_143360a079.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/DIFUSORES_PORCELANA_PASSAROS_CASA_DAS_ORQUIDEAS_35001_OK_1_143360a079.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_d07464a1df.jpg",
+        "https://static.taniabulhoes.com.br/DIFUSORES_PORCELANA_PASSAROS_CASA_DAS_ORQUIDEAS_35001_OK_1_143360a079.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_d07464a1df.jpg",
+        "https://static.taniabulhoes.com.br/DIFUSORES_PORCELANA_PASSAROS_CASA_DAS_ORQUIDEAS_35001_OK_1_143360a079.jpg"
+      ],
+      "html": null,
+      "score": 731
     },
     {
       "selector": "#\\32 29",
@@ -150,8 +225,10 @@
       "heading": "Crie um ambiente relaxante, energizante ou romântico com a fragrância ideal.",
       "text_blocks": [
         "Crie um ambiente relaxante, energizante ou romântico com a fragrância ideal.",
+        "Lançamento",
         "Kit Difusor Dourado para Carro Chá Branco",
         "Kit Floresta Difusor para Carro + Mini Vela",
+        "Kit Difusor Dourado para Carro Casa das Orquídeas",
         "Kit Difusor Elétrico Colmeia Chá Verde 10ml",
         "Kit Difusor Dourado para Carro Floresta",
         "Chá Verde Essência Para Difusor Elétrico 10ml",
@@ -178,12 +255,6 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
           "alt": "Kit Difusor Dourado para Carro Chá Branco"
-        },
-        {
-          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
-          "srcset": null,
-          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
-          "alt": "Lançamento"
         },
         {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
@@ -310,7 +381,6 @@
         "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/201074-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925008658170000",
         "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
-        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
         "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
         "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
@@ -332,8 +402,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199883-620-auto/002001300008PBK002001300008_Difusor_Porcelana_Passaros_do_Brasil.png.png?v=638836184791330000",
         "https://taniab.vteximg.com.br/arquivos/ids/199884-620-auto/002001300008CBK_Difusor_Porcelana_Passaros_5.jpg?v=638836184791630000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1611
+      "score": 1972
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -344,13 +415,27 @@
       },
       "heading": "Nossos Perfumes",
       "text_blocks": [
+        "Nossos Perfumes",
         "São produzidos com os melhores ingredientes da perfumaria mundial em alta concentração.",
         "Sinta na pele e encante-se por nosso universo de sensações."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagens4_212c7f4a19.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagens4_212c7f4a19.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagens4_212c7f4a19.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagens4_212c7f4a19.jpg"
+      ],
       "html": null,
-      "score": 147
+      "score": 683
     },
     {
       "selector": "#\\32 30",
@@ -474,10 +559,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199469-620-auto/003L01800032_1989_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638814364057800000",
         "https://taniab.vteximg.com.br/arquivos/ids/199470-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814364058100000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 988
+      "score": 1338
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T23:01:50.696Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-04T01:58:41.563Z",
+  "totalSections": 7
 }

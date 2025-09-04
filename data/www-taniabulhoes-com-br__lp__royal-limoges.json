@@ -12,13 +12,13 @@
       "text_blocks": [
         "Savoir-Faire francês. Design brasileiro.",
         "Há mais de 228 anos, saía do forno a primeira louça de Limoges.",
-        "A cidade francesa é a capital mundial da porcelana. Famosa pela produção do melhor caulim do mundo – o do Rio Vienne. Royal Limoges, fundada em 1797, é a fábrica mais antiga da região em funcionamento.",
         "Inspire-se"
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 317
+      "score": 445
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -31,10 +31,23 @@
       "text_blocks": [
         "O fascínio de Tania pela porcelana de Limoges vem de longa data. Quando criança, passava as férias e os finais de semana na fazenda de sua avó, onde tomou gosto pelas reuniões em família em torno de uma mesa farta e uma boa prosa. Em ocasiões especiais, a comida era servida com afeto em louças de Limoges."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Limoges_01_9173429475.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Limoges_01_9173429475.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Limoges_01_9173429475.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Limoges_01_9173429475.jpg"
+      ],
       "html": null,
-      "score": 306
+      "score": 976
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
@@ -50,28 +63,151 @@
         "Fleur Royal",
         "Flor de Maracujá",
         "Frutas do Brasil",
+        "Casa das Orquídeas",
         "Pássaros do Brasil"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_d60b93f1f3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_d60b93f1f3.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Arvores_do_Brasil_100ef142c1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Arvores_do_Brasil_100ef142c1.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Astro_b3a340652c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Astro_b3a340652c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_Rouge_de_Fer_7320737889.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_Rouge_de_Fer_7320737889.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Portrait_18934d7bdc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Portrait_18934d7bdc.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Fleur_Royal_d33496a835.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Fleur_Royal_d33496a835.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Flor_de_Maracuja_1ee952b2c9.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Flor_de_Maracuja_1ee952b2c9.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Frutas_do_Brasil_3b791191c4.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Frutas_do_Brasil_3b791191c4.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_75a445131d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_75a445131d.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Passaros_do_Brasil_2abc5ee1b1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Passaros_do_Brasil_2abc5ee1b1.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Papillon_93e7c5e600.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Papillon_93e7c5e600.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_d60b93f1f3.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Arvores_do_Brasil_100ef142c1.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Astro_b3a340652c.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_Rouge_de_Fer_7320737889.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Portrait_18934d7bdc.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Fleur_Royal_d33496a835.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Flor_de_Maracuja_1ee952b2c9.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Frutas_do_Brasil_3b791191c4.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_75a445131d.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Passaros_do_Brasil_2abc5ee1b1.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Papillon_93e7c5e600.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_d60b93f1f3.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Arvores_do_Brasil_100ef142c1.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Astro_b3a340652c.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_Rouge_de_Fer_7320737889.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Portrait_18934d7bdc.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Fleur_Royal_d33496a835.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Flor_de_Maracuja_1ee952b2c9.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Frutas_do_Brasil_3b791191c4.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Casa_das_Orquideas_75a445131d.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Passaros_do_Brasil_2abc5ee1b1.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Papillon_93e7c5e600.jpg"
+      ],
       "html": null,
-      "score": 201
+      "score": 1800
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 idrEFS"
+        "data-cy": "double-brand-section-right-wrapper",
+        "class": "sc-b44bab58-1 rXbnI"
       },
-      "heading": "Coleções",
-      "text_blocks": [
-        "Um novo capítulo dessa história se inicia em 2023, quando Tania Bulhões estreita sua relação de décadas com a fábrica. Ao longo destes anos, essa parceria possibilitou infinitos processos criativos aliados à expertise de Royal Limoges. Nada mais moderno do que preservar as técnicas artesanais, as pessoas e todo o legado."
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
       ],
-      "images": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg"
+      ],
       "html": null,
-      "score": 322
+      "score": 270
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -84,10 +220,23 @@
       "text_blocks": [
         "A arte é o início de tudo: cada desenho, meticulosamente criado à mão por Tania Bulhões, reflete suas inspirações na natureza, nos encontros, e em suas viagens pelo mundo. O processo de produção é uma jornada artística, em que cada peça é moldada com cuidado por habilidosas mãos. Com qualidade e design incomparáveis, estas peças são feitas para serem passadas de geração em geração."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/EOS_R5_4071_OK_1_6c23e65df3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/EOS_R5_4071_OK_1_6c23e65df3.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/EOS_R5_4071_OK_1_6c23e65df3.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/EOS_R5_4071_OK_1_6c23e65df3.jpg"
+      ],
       "html": null,
-      "score": 384
+      "score": 1054
     },
     {
       "selector": "article[data-component=\"listing-section-v2\"]",
@@ -194,10 +343,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
         "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 817
+      "score": 1227
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:58:21.215Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-04T01:56:01.942Z",
+  "totalSections": 7
 }

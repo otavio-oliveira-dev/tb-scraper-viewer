@@ -3,13 +3,31 @@
   "title": "Tania Bulhões - Provence",
   "sections": [
     {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Inspiradas nos campos de lavanda franceses, as peças da coleção Provence transformam os momentos à mesa em ocasiões especiais.",
+      "text_blocks": [
+        "Inspiradas nos campos de lavanda franceses, as peças da coleção Provence transformam os momentos à mesa em ocasiões especiais."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 456
+    },
+    {
       "selector": "#tertiary__banner__container",
       "attrs": {
         "id": "tertiary__banner__container",
         "class": "sc-8c8c5975-0 ifsHTr"
       },
       "heading": "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor.",
-      "text_blocks": [],
+      "text_blocks": [
+        "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor."
+      ],
       "images": [
         {
           "src": "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_f5ee0afffe.png",
@@ -28,10 +46,131 @@
         "https://static.taniabulhoes.com.br/001002301079_Prato_Raso_Provence_2_f5ee0afffe.png",
         "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_5bc4bc9c5c.png"
       ],
+      "background_images": [],
       "html": null,
-      "score": 100
+      "score": 298
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Leves e delicadas, as peças da coleção Provence revelam um estilo rústico chic perfeito para compor mesas cheias de charme.",
+      "text_blocks": [
+        "Leves e delicadas, as peças da coleção Provence revelam um estilo rústico chic perfeito para compor mesas cheias de charme."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 453
+    },
+    {
+      "selector": "article[data-cy=\"double-brand-section-container\"]",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Leves e delicadas, as peças da coleção Provence revelam um estilo rústico chic perfeito para compor mesas cheias de charme.",
+      "text_blocks": [
+        "A coleção Provence é uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial. Provence é uma linha colecionável, que pode ser adquirida aos poucos, permitindo a construção de uma coleção completa peça por peça."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/3375042a_0174_4d52_8997_f62e7783d4b9_ac08ea54b1.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/3375042a_0174_4d52_8997_f62e7783d4b9_ac08ea54b1.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/3375042a_0174_4d52_8997_f62e7783d4b9_ac08ea54b1.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/3375042a_0174_4d52_8997_f62e7783d4b9_ac08ea54b1.png"
+      ],
+      "html": null,
+      "score": 986
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div.sc-af9ea86b-1.bABiex",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 bABiex"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Aparelho de Jantar Provence"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301079_PK_Aparelho_de_Jantar_Provence_caaadae75d.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301079_PK_Aparelho_de_Jantar_Provence_caaadae75d.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301079_PK_Aparelho_de_Jantar_Provence_caaadae75d.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002301079_PK_Aparelho_de_Jantar_Provence_caaadae75d.png"
+      ],
+      "html": null,
+      "score": 217
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div.sc-af9ea86b-1.vMkmp",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 vMkmp"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Mini Vaso Provence"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_bb31fc5898.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_bb31fc5898.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_bb31fc5898.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_bb31fc5898.png"
+      ],
+      "html": null,
+      "score": 208
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T23:04:40.557Z",
-  "totalSections": 1
+  "scrapedAt": "2025-09-04T02:01:25.039Z",
+  "totalSections": 7
 }

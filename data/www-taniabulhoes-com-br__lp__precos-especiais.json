@@ -3,6 +3,54 @@
   "title": "Tania Bulhões - Preços Especiais",
   "sections": [
     {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-cd1016d2-0.ctreEY",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Preços Especiais",
+      "text_blocks": [
+        "Preços Especiais",
+        "Uma seleção com itens para vestir a mesa, perfumar os ambientes e renovar a casa com elegância.",
+        "Aproveite Agora"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 378
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Para Mesas Atemporais",
+      "text_blocks": [
+        "Para Mesas Atemporais",
+        "A Coleção Mediterrâneo, nas cores Verde e Areia, traz naturalidade e elegância para o ritual de receber. Peças neutras, versáteis e sempre atuais, agora com condições especiais para você aproveitar.",
+        "Compre Agora"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_1_b260249a26.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_1_b260249a26.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagem_1_b260249a26.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagem_1_b260249a26.jpg"
+      ],
+      "html": null,
+      "score": 903
+    },
+    {
       "selector": "#\\31 89",
       "attrs": {
         "id": "189",
@@ -13,7 +61,24 @@
       },
       "heading": "Xícara de Café Mediterrâneo Areia",
       "text_blocks": [
-        "INDISPONÍVEL"
+        "Xícara de Café Mediterrâneo Areia",
+        "Prato Raso Mediterrâneo Verde",
+        "Aparelho de Jantar Mediterrâneo Verde 18 Peças",
+        "Xícara de Chá Mediterrâneo Areia",
+        "Bowl Mediterrâneo Verde",
+        "Prato Raso Mediterrâneo Areia",
+        "Xícara de Café Mediterrâneo Verde",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "Bowl Mediterrâneo Areia",
+        "Prato de Sobremesa Mediterrâneo Verde",
+        "Bule de Chá Mediterrâneo Verde",
+        "Jarra de Porcelana Mediterrâneo Areia",
+        "Jarra de Porcelana Mediterrâneo Verde",
+        "Bule de Chá Mediterrâneo Areia",
+        "Xícara de Chá Mediterrâneo verde",
+        "INDISPONÍVEL",
+        "Sousplat Mediterrâneo Verde",
+        "Sousplat Mediterrâneo Areia"
       ],
       "images": [
         {
@@ -271,8 +336,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192788-620-auto/sousplat-mediterraneo-areia-001002300381-1.jpg?v=638760022285730000",
         "https://taniab.vteximg.com.br/arquivos/ids/192789-620-auto/sousplat-mediterraneo-areia-001002300381-2.jpg?v=638760022285770000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1812
+      "score": 2696
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -286,10 +352,23 @@
         "Para  Perfumar e Decorar",
         "Os Difusores de Porcelana unem arte e fragrância em peças que encantam e acolhem."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_4_9ff0a80249.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_4_9ff0a80249.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagem_4_9ff0a80249.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagem_4_9ff0a80249.jpg"
+      ],
       "html": null,
-      "score": 106
+      "score": 626
     },
     {
       "selector": "#\\32 95",
@@ -303,6 +382,7 @@
       "heading": "Difusor Porcelana Flor Branco Chá Branco 250ml",
       "text_blocks": [
         "Difusor Porcelana Flor Branco Chá Branco 250ml",
+        "Difusor Porcelana Flor Prateado Casa das Orquídeas 250ml",
         "Difusor Porcelana Flor Dourado Pássaros do Brasil 250ml",
         "Difusor Porcelana Flor Prateado Jade 250ml",
         "Difusor Porcelana Flor Dourado Floresta 250ml",
@@ -594,8 +674,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/191813-620-auto/difusor-porcelana-flor-prateado-lavanda-250ml-193014029k-1.jpg?v=638852452468800000",
         "https://taniab.vteximg.com.br/arquivos/ids/191814-620-auto/difusor-porcelana-flor-prateado-lavanda-250ml-193014029k-2.jpg?v=638852452469100000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 2295
+      "score": 2677
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
@@ -609,10 +690,32 @@
         "Para brindar com estilo",
         "Copos e Taças das coleções que unem brilho, leveza e design - perfeitos para ocasiões especiais ou composições do dia a dia."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_3_850069c407.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_3_850069c407.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_6_c89c16939c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_6_c89c16939c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagem_3_850069c407.jpg",
+        "https://static.taniabulhoes.com.br/Imagem_6_c89c16939c.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagem_3_850069c407.jpg",
+        "https://static.taniabulhoes.com.br/Imagem_6_c89c16939c.jpg"
+      ],
       "html": null,
-      "score": 148
+      "score": 708
     },
     {
       "selector": "#\\31 88",
@@ -1021,8 +1124,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195882-620-auto/001001000554_Copo_Short_Drink_Milano_Verde.png?v=638612296363730000",
         "https://taniab.vteximg.com.br/arquivos/ids/195893-620-auto/001001000554_Copo_Short_Drink_Milano_Verde.jpg?v=638614771549570000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 3350
+      "score": 3675
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(8)",
@@ -1036,10 +1140,23 @@
         "Para finalizar com charme",
         "Os Guardanapos e os Jogos Americanos adicionam cor, textura e elegância à composição, valorizando cada detalhe do servir."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_5_e5525bd146.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_5_e5525bd146.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagem_5_e5525bd146.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagem_5_e5525bd146.jpg"
+      ],
       "html": null,
-      "score": 147
+      "score": 667
     },
     {
       "selector": "#\\31 86",
@@ -1343,10 +1460,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197834-620-auto/000003548_Guardanapo_Esquadro_Rosa.png?v=638678117730800000",
         "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
       ],
+      "background_images": [],
       "html": null,
-      "score": 2450
+      "score": 2775
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:58:22.757Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-04T01:54:34.855Z",
+  "totalSections": 10
 }

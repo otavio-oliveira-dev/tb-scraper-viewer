@@ -13,24 +13,51 @@
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 163
+      "score": 363
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(1)",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 idrEFS"
+        "data-cy": "double-brand-section-left-wrapper",
+        "class": "sc-b44bab58-1 iqASMM"
       },
-      "heading": "Inspirada nos icônicos gerânios vermelhos que adornam a fachada do hotel Plaza Athénée, esta collab exclusiva une o savoir-faire francês à criatividade brasileira.",
+      "heading": null,
       "text_blocks": [
         "As peças trazem em seus traços a história de amor entre Jean Gabin e Marlene Dietrich, eternizada nos tons vibrantes de vermelho, preto e dourado."
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 146
+      "score": 326
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
+      "attrs": {
+        "data-cy": "double-brand-section-right-wrapper",
+        "class": "sc-b44bab58-1 rXbnI"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg"
+      ],
+      "html": null,
+      "score": 270
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -43,25 +70,23 @@
       "text_blocks": [
         "\"Amo o hotel, um encantador palácio francês que guarda momentos maravilhosos. Também adoro a história romântica dos gerânios que Jean Gabin deu à sua amada Marlene Dietrich. Inspirada por eles, pintei, com pinceladas contemporâneas, seus glamourosos vermelhos, pretos e dourados. Assim, trazendo meu olhar apaixonado para este hotel, um símbolo da França.\" Tania Bulhões"
       ],
-      "images": [],
-      "image_urls": [],
-      "html": null,
-      "score": 370
-    },
-    {
-      "selector": "article[data-cy=\"text-section-container\"]",
-      "attrs": {
-        "data-cy": "text-section-container",
-        "class": "sc-5e4fd09-0 gmSUWR"
-      },
-      "heading": "Produzida pela Royal Limoges, na França, a coleção celebra os encantos de um ícone parisiense através da visão criativa de Tania Bulhões.",
-      "text_blocks": [
-        "Produzida pela Royal Limoges, na França, a coleção celebra os encantos de um ícone parisiense através da visão criativa de Tania Bulhões."
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
       ],
-      "images": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg"
+      ],
       "html": null,
-      "score": 137
+      "score": 990
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -72,14 +97,45 @@
       },
       "heading": "Para marcar o lançamento, realizamos um jantar memorável no Le Relais Plaza.",
       "text_blocks": [
+        "Para marcar o lançamento, realizamos um jantar memorável no Le Relais Plaza.",
         "O renomado chef brasileiro Luiz Filipe Souza, do EVVAI, se uniu ao chef Jean Imbert e sua equipe para criar um menu especial, com ingredientes brasileiros e técnicas tradicionais da gastronomia francesa, servido nas louças da coleção."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Web_1920_5_14_5bbbab86bf.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Web_1920_5_14_5bbbab86bf.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Web_1920_5_14_5bbbab86bf.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Web_1920_5_14_5bbbab86bf.jpg"
+      ],
+      "html": null,
+      "score": 931
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 234
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:53:18.766Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-04T01:51:02.713Z",
+  "totalSections": 6
 }

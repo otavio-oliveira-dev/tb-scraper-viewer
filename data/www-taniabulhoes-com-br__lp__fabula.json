@@ -141,8 +141,9 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193934-620-auto/prato-de-pao-fabula-001002300311-1.jpg?v=638782687858800000",
         "https://taniab.vteximg.com.br/arquivos/ids/193935-620-auto/prato-de-pao-fabula-001002300311-2.jpg?v=638782687858800000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1093
+      "score": 1443
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -156,10 +157,23 @@
         "A Coleção Fábula é uma experiência completa:",
         "Desde pratos e xícaras até acessórios encantadores, cada peça foi idealizada para ajudar a compor uma mesa charmosa e inusitada."
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagens2_e0786f8a8d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagens2_e0786f8a8d.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagens2_e0786f8a8d.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagens2_e0786f8a8d.jpg"
+      ],
       "html": null,
-      "score": 173
+      "score": 693
     },
     {
       "selector": "#\\32 27",
@@ -313,26 +327,54 @@
         "https://taniab.vteximg.com.br/arquivos/ids/196796-620-auto/set-porta-guardanapo-fabula-4-pecas-001000100834-1.jpg?v=638773993618730000",
         "https://taniab.vteximg.com.br/arquivos/ids/197038-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638773993618730000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 1183
+      "score": 1533
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(2) > section.sc-b44bab58-4.hBXfnJ",
       "attrs": {
-        "id": "double__template__container",
-        "data-cy": "double-brand-section-container",
-        "class": "sc-b44bab58-0 iNTOL"
+        "data-cy": "double-brand-section-right-image",
+        "class": "sc-b44bab58-4 hBXfnJ"
       },
-      "heading": "Fábula",
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg"
+      ],
+      "html": null,
+      "score": 270
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
       "text_blocks": [
-        "Uma coleção que celebra o amor e conexão entre mãe e filho em ilustrações lúdicas e surrealistas criadas à mão."
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
+      "background_images": [],
       "html": null,
-      "score": 111
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:54:47.979Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-04T01:51:04.275Z",
+  "totalSections": 5
 }

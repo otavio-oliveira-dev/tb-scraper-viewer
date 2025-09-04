@@ -3,6 +3,22 @@
   "title": "Tania Bulhões - Dia dos Namorados",
   "sections": [
     {
+      "selector": "#home-banner",
+      "attrs": {
+        "id": "home-banner",
+        "class": "sc-7620ef51-0 kYovvv"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Encante-se por nossa perfumaria e ganhe mimos exclusivos"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 206
+    },
+    {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
       "attrs": {
         "id": "double__template__container",
@@ -12,13 +28,27 @@
       "heading": "Compre o Kit Hidratante e Ganhe um Mimo Especial",
       "text_blocks": [
         "Compre o Kit Hidratante e Ganhe um Mimo Especial",
+        "O Kit Hidratante combina eau de parfum 80ml e hidratante corporal - uma dupla perfeita para intensificar e prolongar a perfumação na pele.",
         "Na compra de um Kit Hidratante, você ganha um Creme para Mãos na mesma fragrância - um gesto a mais para tornar o presente ainda mais especial.",
         "Compre e surpreenda"
       ],
-      "images": [],
-      "image_urls": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Imagem_lp_4_adadff16cd.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Imagem_lp_4_adadff16cd.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Imagem_lp_4_adadff16cd.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Imagem_lp_4_adadff16cd.jpg"
+      ],
       "html": null,
-      "score": 212
+      "score": 1021
     },
     {
       "selector": "article[data-sentry-component=\"TemplateSection\"]",
@@ -127,10 +157,28 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
         "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000"
       ],
+      "background_images": [],
       "html": null,
-      "score": 802
+      "score": 1127
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "+55 (11) 4864-1999",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "html": null,
+      "score": 136
     }
   ],
-  "scrapedAt": "2025-09-03T22:53:11.335Z",
-  "totalSections": 2
+  "scrapedAt": "2025-09-04T01:49:27.326Z",
+  "totalSections": 4
 }
