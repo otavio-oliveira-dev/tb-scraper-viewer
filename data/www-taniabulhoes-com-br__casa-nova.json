@@ -1,0 +1,735 @@
+{
+  "url": "https://www.taniabulhoes.com.br/casa-nova",
+  "title": "Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm > article:nth-of-type(1) > div.sc-b600379b-0.kEjiws",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "MegamenuDesktop.tsx",
+        "class": "sc-b600379b-0 kEjiws"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Mesa & Bar",
+        "Aparelhos de Jantar",
+        "Pratos e Sousplats",
+        "Xícaras",
+        "Copos e Taças",
+        "Bowls",
+        "Talheres",
+        "Acessórios para Bar",
+        "Jogos Americanos e Guardanapos",
+        "Lavabo",
+        "Sabonetes",
+        "Refis para Sabonete Líquido",
+        "Hidratantes",
+        "Aromatizadores",
+        "Bandejas",
+        "Toalhas",
+        "Acessórios",
+        "Aromatizadores de Ambiente",
+        "Difusores de Varetas",
+        "Refis para Difusor de Ambiente",
+        "Difusores de Porcelana",
+        "Difusores Elétricos",
+        "Difusores para Carro",
+        "Aromatizadores Spray",
+        "Velas"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_3_5730b50681.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_3_5730b50681.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/AROMATIZADOR_CHEF_2f6e276324.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/AROMATIZADOR_CHEF_2f6e276324.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_3_5730b50681.jpg",
+        "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+        "https://static.taniabulhoes.com.br/AROMATIZADOR_CHEF_2f6e276324.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003072_Prato_Raso_Fenix_3_5730b50681.jpg",
+        "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+        "https://static.taniabulhoes.com.br/AROMATIZADOR_CHEF_2f6e276324.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1357
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Branco de Ouro",
+      "text_blocks": [
+        "Branco de Ouro",
+        "Para compor mesas clássicas em qualquer ocasião",
+        "Confira"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 300
+    },
+    {
+      "selector": "#\\32 66",
+      "attrs": {
+        "id": "266",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Eleve o ambiente com a versatilidade",
+      "text_blocks": [
+        "Eleve o ambiente com a versatilidade",
+        "Uma seleção especial para criar experiências memoráveis.",
+        "Mesa & Bar",
+        "Lavabo",
+        "Aromatizadores",
+        "Kits Perfumaria Casa"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003779_Boleira_Esferas_4_6a0b2ee615.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003779_Boleira_Esferas_4_6a0b2ee615.png",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_653177940b.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_653177940b.png",
+          "alt": "Mesa & Bar"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_2_1718662993670.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_2_1718662993670.jpg",
+          "alt": "Lavabo"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6_95326161b8.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6_95326161b8.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002670_Difusor_para_Carro_Tania_Bulhoes_6_174f739c52.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002670_Difusor_para_Carro_Tania_Bulhoes_6_174f739c52.jpg",
+          "alt": "Aromatizadores"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0805_OK_dab14d54ef.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0805_OK_dab14d54ef.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Kit_Floresta_3_d20a3e6b26.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Kit_Floresta_3_d20a3e6b26.jpg",
+          "alt": "Kits Perfumaria Casa"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003779_Boleira_Esferas_4_6a0b2ee615.png",
+        "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_653177940b.png",
+        "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg",
+        "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_2_1718662993670.jpg",
+        "https://static.taniabulhoes.com.br/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6_95326161b8.jpg",
+        "https://static.taniabulhoes.com.br/000002670_Difusor_para_Carro_Tania_Bulhoes_6_174f739c52.jpg",
+        "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0805_OK_dab14d54ef.jpg",
+        "https://static.taniabulhoes.com.br/Kit_Floresta_3_d20a3e6b26.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 847
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Uma nova fragrância para proporcionar uma experiência sensorial única ao ambiente da cozinha.",
+      "text_blocks": [
+        "Uma nova fragrância para proporcionar uma experiência sensorial única ao ambiente da cozinha.",
+        "Conheça"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/VELA_CHEF_35c864bb41.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/VELA_CHEF_35c864bb41.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_0095_OK_2b3fff5ab2.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_0095_OK_2b3fff5ab2.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/VELA_CHEF_35c864bb41.jpg",
+        "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_0095_OK_2b3fff5ab2.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/VELA_CHEF_35c864bb41.jpg",
+        "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_0095_OK_2b3fff5ab2.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1461
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Encante-se pelo nosso universo",
+      "text_blocks": [
+        "Encante-se pelo nosso universo",
+        "Mesas que acolhem, encantam e celebram momentos especiais.",
+        "descubra",
+        "Pratos e Sousplats",
+        "Copos e Taças",
+        "Acessórios para Servir",
+        "Bowls",
+        "Jogos Americanos e Guardanapos",
+        "Talheres"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_2_b8e2ada87c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_2_b8e2ada87c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003463_Copo_Eclipse_Mel_3_ba957c1dc6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003463_Copo_Eclipse_Mel_3_ba957c1dc6.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/001000200753_Saladeira_Provence_1_cc453e418e.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001000200753_Saladeira_Provence_1_cc453e418e.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/308004_949_Bowl_Cravo_e_Canela_6_14d007545a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308004_949_Bowl_Cravo_e_Canela_6_14d007545a.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002241_Jg_Americano_Guaeca_Colorido_3_2cf2eaa1df.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002241_Jg_Americano_Guaeca_Colorido_3_2cf2eaa1df.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002044_Set_Talher_de_Mesa_Angra_Inox_8_pecas_2_7ab7bc6e30.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002044_Set_Talher_de_Mesa_Angra_Inox_8_pecas_2_7ab7bc6e30.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_2_b8e2ada87c.jpg",
+        "https://static.taniabulhoes.com.br/000003463_Copo_Eclipse_Mel_3_ba957c1dc6.jpg",
+        "https://static.taniabulhoes.com.br/001000200753_Saladeira_Provence_1_cc453e418e.png",
+        "https://static.taniabulhoes.com.br/308004_949_Bowl_Cravo_e_Canela_6_14d007545a.jpg",
+        "https://static.taniabulhoes.com.br/000002241_Jg_Americano_Guaeca_Colorido_3_2cf2eaa1df.jpg",
+        "https://static.taniabulhoes.com.br/000002044_Set_Talher_de_Mesa_Angra_Inox_8_pecas_2_7ab7bc6e30.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/308082_948_Prato_Sobremesa_Jade_2_b8e2ada87c.jpg",
+        "https://static.taniabulhoes.com.br/000003463_Copo_Eclipse_Mel_3_ba957c1dc6.jpg",
+        "https://static.taniabulhoes.com.br/001000200753_Saladeira_Provence_1_cc453e418e.png",
+        "https://static.taniabulhoes.com.br/308004_949_Bowl_Cravo_e_Canela_6_14d007545a.jpg",
+        "https://static.taniabulhoes.com.br/000002241_Jg_Americano_Guaeca_Colorido_3_2cf2eaa1df.jpg",
+        "https://static.taniabulhoes.com.br/000002044_Set_Talher_de_Mesa_Angra_Inox_8_pecas_2_7ab7bc6e30.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1390
+    },
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Descubra uma seleção especial",
+      "text_blocks": [
+        "Descubra uma seleção especial",
+        "Charme e irreverência para elevar a experiência de servir."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 398
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div.sc-af9ea86b-1.bilBOB",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 bilBOB"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Aparelhos de Jantar"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Aparelho_Jantar_Fenix_e810c15687.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Aparelho_Jantar_Fenix_e810c15687.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Aparelho_Jantar_Fenix_e810c15687.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Aparelho_Jantar_Fenix_e810c15687.png"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 159
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div.sc-af9ea86b-1.jjLqgq",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "DoubleProductDisplay.tsx",
+        "class": "sc-af9ea86b-1 jjLqgq"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Xícaras"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/set_xicara_de_cha_flor_do_ocidente_4_pecas_000002522k_1_1718651615918.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/set_xicara_de_cha_flor_do_ocidente_4_pecas_000002522k_1_1718651615918.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/set_xicara_de_cha_flor_do_ocidente_4_pecas_000002522k_1_1718651615918.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/set_xicara_de_cha_flor_do_ocidente_4_pecas_000002522k_1_1718651615918.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 147
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Transforme sua mesa com os acessórios sofisticados e cheios de personalidade.",
+      "text_blocks": [
+        "Acessórios para Bar",
+        "Transforme sua mesa com os acessórios sofisticados e cheios de personalidade.",
+        "Conheça"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003557_Bandeja_Bar_Balneario_G_4_26f9244a23.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003557_Bandeja_Bar_Balneario_G_4_26f9244a23.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003317_Bandeja_Oval_Tresse_G_Azul_5_bbf2a57bbb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003317_Bandeja_Oval_Tresse_G_Azul_5_bbf2a57bbb.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003557_Bandeja_Bar_Balneario_G_4_26f9244a23.png",
+        "https://static.taniabulhoes.com.br/000003317_Bandeja_Oval_Tresse_G_Azul_5_bbf2a57bbb.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003557_Bandeja_Bar_Balneario_G_4_26f9244a23.png",
+        "https://static.taniabulhoes.com.br/000003317_Bandeja_Oval_Tresse_G_Azul_5_bbf2a57bbb.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1465
+    },
+    {
+      "selector": "#\\32 69",
+      "attrs": {
+        "id": "269",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Decore e perfume seu ambiente com sofisticação.",
+      "text_blocks": [
+        "Decore e perfume seu ambiente com sofisticação.",
+        "Sabonetes",
+        "Hidratantes",
+        "Aromatizadores",
+        "Bandejas"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L02900106_CHA_VERDE_SABONETE_LIQUIDO_290_ML_51e5544b1b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L02900106_CHA_VERDE_SABONETE_LIQUIDO_290_ML_51e5544b1b.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L02900105_CHA_VERDE_SABONETE_BARRA_50_G_643d274f95.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L02900105_CHA_VERDE_SABONETE_BARRA_50_G_643d274f95.jpg",
+          "alt": "Sabonetes"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810x1080px_0180b1a8d9.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810x1080px_0180b1a8d9.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+          "alt": "Hidratantes"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_cec3d9fe90.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_cec3d9fe90.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003107_Cha_Branco_Aromatizador_4_b8862d170e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003107_Cha_Branco_Aromatizador_4_b8862d170e.jpg",
+          "alt": "Aromatizadores"
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003488_Bandeja_de_Servir_Cabana_4_71e6a0e97d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003488_Bandeja_de_Servir_Cabana_4_71e6a0e97d.jpg",
+          "alt": null
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_4_1718663000640.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_4_1718663000640.jpg",
+          "alt": "Bandejas"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/002_L02900106_CHA_VERDE_SABONETE_LIQUIDO_290_ML_51e5544b1b.jpg",
+        "https://static.taniabulhoes.com.br/002_L02900105_CHA_VERDE_SABONETE_BARRA_50_G_643d274f95.jpg",
+        "https://static.taniabulhoes.com.br/810x1080px_0180b1a8d9.jpg",
+        "https://static.taniabulhoes.com.br/jade_hidratante_para_maos_e_corpo_290g_002l01800021_5_1718663352184.jpg",
+        "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_cec3d9fe90.jpg",
+        "https://static.taniabulhoes.com.br/000003107_Cha_Branco_Aromatizador_4_b8862d170e.jpg",
+        "https://static.taniabulhoes.com.br/000003488_Bandeja_de_Servir_Cabana_4_71e6a0e97d.jpg",
+        "https://static.taniabulhoes.com.br/bandeja_lavabo_jabuticabeira_g_001002100094_4_1718663000640.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 673
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(9)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente.",
+      "text_blocks": [
+        "Velas",
+        "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente.",
+        "Experimente"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_COMBOVELA_59_OK_3c085e3166.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_COMBOVELA_59_OK_3c085e3166.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/TB_Banner_Site_Velas_2_9899f7733d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/TB_Banner_Site_Velas_2_9899f7733d.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/STILL_COMBOVELA_59_OK_3c085e3166.jpg",
+        "https://static.taniabulhoes.com.br/TB_Banner_Site_Velas_2_9899f7733d.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/STILL_COMBOVELA_59_OK_3c085e3166.jpg",
+        "https://static.taniabulhoes.com.br/TB_Banner_Site_Velas_2_9899f7733d.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1483
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(10)",
+      "attrs": {
+        "class": "sc-d3b38409-0 lbOpmB"
+      },
+      "heading": "Aromatizadores de Ambiente",
+      "text_blocks": [
+        "Aromatizadores de Ambiente",
+        "Crie um ambiente relaxante, energizante ou romântico com as nossas fragrâncias.",
+        "descubra",
+        "Difusores de Varetas",
+        "Difusores de Porcelana",
+        "Difusores Elétrico",
+        "Difusores para Carro",
+        "Aromatizadores Spray"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_088ad58c26.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_088ad58c26.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5_ace94f0ef4.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5_ace94f0ef4.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003112_Passaros_do_Brasil_Aromatizador_3_e15d2631a7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003112_Passaros_do_Brasil_Aromatizador_3_e15d2631a7.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_088ad58c26.jpg",
+        "https://static.taniabulhoes.com.br/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5_ace94f0ef4.jpg",
+        "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+        "https://static.taniabulhoes.com.br/000003112_Passaros_do_Brasil_Aromatizador_3_e15d2631a7.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000003125_Cha_Branco_Difusor_250ml_9_7697005459.jpg",
+        "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_088ad58c26.jpg",
+        "https://static.taniabulhoes.com.br/002001300002_Difusor_Eletrico_Seixos_Tania_Bulhoes_5_ace94f0ef4.jpg",
+        "https://static.taniabulhoes.com.br/002_L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_2_b5c8f2193b.jpg",
+        "https://static.taniabulhoes.com.br/000003112_Passaros_do_Brasil_Aromatizador_3_e15d2631a7.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1500
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(11)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Uma seleção especial para perfumar intensamente e decorar a casa com beleza e personalidade.",
+      "text_blocks": [
+        "Acessórios",
+        "Uma seleção especial para perfumar intensamente e decorar a casa com beleza e personalidade.",
+        "Veja Mais"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/lixinho_de_lavabo_cabana_001002100102_2_1718670732683.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/lixinho_de_lavabo_cabana_001002100102_2_1718670732683.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000003777_Lixinho_de_Lavabo_Esferas_8f1932ecf6.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003777_Lixinho_de_Lavabo_Esferas_8f1932ecf6.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/lixinho_de_lavabo_cabana_001002100102_2_1718670732683.jpg",
+        "https://static.taniabulhoes.com.br/000003777_Lixinho_de_Lavabo_Esferas_8f1932ecf6.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/lixinho_de_lavabo_cabana_001002100102_2_1718670732683.jpg",
+        "https://static.taniabulhoes.com.br/000003777_Lixinho_de_Lavabo_Esferas_8f1932ecf6.png"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1473
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T13:56:37.783Z",
+  "totalSections": 16
+}

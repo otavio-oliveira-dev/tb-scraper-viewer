@@ -1,0 +1,558 @@
+{
+  "url": "https://www.taniabulhoes.com.br/taniapele",
+  "title": "Taniapele - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "#home-banner > div.sc-7620ef51-2.hqpLLx",
+      "attrs": {
+        "class": "sc-7620ef51-2 hqpLLx"
+      },
+      "heading": null,
+      "text_blocks": [
+        "TANIAPELE",
+        "Rituais para sua rotina de autocuidado",
+        "Experimente"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "O extrato de rosa foi escolhido como o principal ingrediente da linha por ser um poderoso ativo hidratante e antioxidante, que previne o envelhecimento precoce da pele.",
+      "text_blocks": [
+        "BENEFÍCIOS PARA TODOS OS TIPOS DE PELE",
+        "O extrato de rosa foi escolhido como o principal ingrediente da linha por ser um poderoso ativo hidratante e antioxidante, que previne o envelhecimento precoce da pele.",
+        "descubra"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+        "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/SABONETE_LIQUIDO_2_b9fd0d8087.jpg",
+        "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_dc58bd15cc.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1756
+    },
+    {
+      "selector": "#\\33 2",
+      "attrs": {
+        "id": "32",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Taniapele",
+      "text_blocks": [
+        "Taniapele",
+        "Transforme cada dia em uma experiência de spa em casa.",
+        "Cruelty free",
+        "água termal",
+        "Esfoliante Corporal",
+        "óleo de banho hidratante",
+        "hidratante firmador",
+        "creme de mãos",
+        "sabonete líquido hidratante",
+        "Sabonete Corporal em Barra",
+        "hidratante labial"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192578-620-auto/agua-termal-009l01500001-1.jpg?v=638542547759300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192578-620-auto/agua-termal-009l01500001-1.jpg?v=638542547759300000",
+          "alt": "água termal"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195988-620-auto/AGUA-TERMAL.jpg?v=638620902050500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195988-620-auto/AGUA-TERMAL.jpg?v=638620902050500000",
+          "alt": "água termal"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192823-620-auto/esfoliante-corporal-009l01100006-1.jpg?v=638542566512570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192823-620-auto/esfoliante-corporal-009l01100006-1.jpg?v=638542566512570000",
+          "alt": "Esfoliante Corporal"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196001-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638620911520870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196001-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638620911520870000",
+          "alt": "Esfoliante Corporal"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192145-620-auto/oleo-de-banho-hidratante-009l01100001-1.jpg?v=638542520274400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192145-620-auto/oleo-de-banho-hidratante-009l01100001-1.jpg?v=638542520274400000",
+          "alt": "óleo de banho hidratante"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196013-620-auto/OLEO-BANHO.jpg?v=638620919550130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196013-620-auto/OLEO-BANHO.jpg?v=638620919550130000",
+          "alt": "óleo de banho hidratante"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193202-620-auto/hidratante-firmador-009l01100008-1.jpg?v=638542594291270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193202-620-auto/hidratante-firmador-009l01100008-1.jpg?v=638542594291270000",
+          "alt": "hidratante firmador"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196006-620-auto/HIDRATANTE-FIRMADOR.jpg?v=638620914302170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196006-620-auto/HIDRATANTE-FIRMADOR.jpg?v=638620914302170000",
+          "alt": "hidratante firmador"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192842-620-auto/creme-de-maos-009l01100007-1.jpg?v=638542567498730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192842-620-auto/creme-de-maos-009l01100007-1.jpg?v=638542567498730000",
+          "alt": "creme de mãos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195992-620-auto/CREME-MAOS.jpg?v=638620905897070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195992-620-auto/CREME-MAOS.jpg?v=638620905897070000",
+          "alt": "creme de mãos"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193041-620-auto/sabonete-liquido-hidratante-009l01100002-1.jpg?v=638542581050770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193041-620-auto/sabonete-liquido-hidratante-009l01100002-1.jpg?v=638542581050770000",
+          "alt": "sabonete líquido hidratante"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196021-620-auto/SABONETE-LIQUIDO-2.jpg?v=638620972870770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196021-620-auto/SABONETE-LIQUIDO-2.jpg?v=638620972870770000",
+          "alt": "sabonete líquido hidratante"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+          "alt": "Sabonete Corporal em Barra"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000",
+          "alt": "Sabonete Corporal em Barra"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192856-620-auto/hidratante-labial-009l01500003-1.jpg?v=638542568252200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192856-620-auto/hidratante-labial-009l01500003-1.jpg?v=638542568252200000",
+          "alt": "hidratante labial"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196010-620-auto/HIDRATANTE-LABIAL.jpg?v=638620917281900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196010-620-auto/HIDRATANTE-LABIAL.jpg?v=638620917281900000",
+          "alt": "hidratante labial"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192578-620-auto/agua-termal-009l01500001-1.jpg?v=638542547759300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195988-620-auto/AGUA-TERMAL.jpg?v=638620902050500000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192823-620-auto/esfoliante-corporal-009l01100006-1.jpg?v=638542566512570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196001-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638620911520870000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192145-620-auto/oleo-de-banho-hidratante-009l01100001-1.jpg?v=638542520274400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196013-620-auto/OLEO-BANHO.jpg?v=638620919550130000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193202-620-auto/hidratante-firmador-009l01100008-1.jpg?v=638542594291270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196006-620-auto/HIDRATANTE-FIRMADOR.jpg?v=638620914302170000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192842-620-auto/creme-de-maos-009l01100007-1.jpg?v=638542567498730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195992-620-auto/CREME-MAOS.jpg?v=638620905897070000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193041-620-auto/sabonete-liquido-hidratante-009l01100002-1.jpg?v=638542581050770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196021-620-auto/SABONETE-LIQUIDO-2.jpg?v=638620972870770000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192856-620-auto/hidratante-labial-009l01500003-1.jpg?v=638542568252200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196010-620-auto/HIDRATANTE-LABIAL.jpg?v=638620917281900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1921
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Praticidade para sua rotina de autocuidado fora de casa.",
+      "text_blocks": [
+        "Ritual Viagem TANIAPELE",
+        "Praticidade para sua rotina de autocuidado fora de casa.",
+        "Conheça"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_2_f5c38d5c04.jpg",
+        "https://static.taniabulhoes.com.br/RITUAL_VIAGEM_7d61a769ff.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1328
+    },
+    {
+      "selector": "#\\32 26",
+      "attrs": {
+        "id": "226",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Rituais Taniapele",
+      "text_blocks": [
+        "Rituais Taniapele",
+        "Nossas sugestões de rituais de bem-estar, com produtos dedicados a cada momento, para elevar sua rotina de autocuidado",
+        "descubra",
+        "Cruelty free",
+        "Ritual Banho Hidratante",
+        "Ritual Pele Renovada",
+        "Ritual Super Hidratação",
+        "Ritual Viagem TANIAPELE",
+        "Ritual Bem-estar",
+        "Ritual Essenciais Viagem",
+        "Ritual TANIAPELE"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192152-620-auto/ritual-banho-hidratante-000002145k-1.jpg?v=638542520702430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192152-620-auto/ritual-banho-hidratante-000002145k-1.jpg?v=638542520702430000",
+          "alt": "Ritual Banho Hidratante"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197949-620-auto/SABONETE-LIQUIDO-2.jpg?v=638694344821670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197949-620-auto/SABONETE-LIQUIDO-2.jpg?v=638694344821670000",
+          "alt": "Ritual Banho Hidratante"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192850-620-auto/ritual-pele-renovada-000002780k-1.jpg?v=638542568050100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192850-620-auto/ritual-pele-renovada-000002780k-1.jpg?v=638542568050100000",
+          "alt": "Ritual Pele Renovada"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192851-620-auto/ritual-pele-renovada-000002780k-2.jpg?v=638542568052230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192851-620-auto/ritual-pele-renovada-000002780k-2.jpg?v=638542568052230000",
+          "alt": "Ritual Pele Renovada"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192828-620-auto/ritual-super-hidratacao-000002146k-1.jpg?v=638542566947030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192828-620-auto/ritual-super-hidratacao-000002146k-1.jpg?v=638542566947030000",
+          "alt": "Ritual Super Hidratação"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197942-620-auto/ESFOLIANTE-CORPORAL.jpg?v=638694339956300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197942-620-auto/ESFOLIANTE-CORPORAL.jpg?v=638694339956300000",
+          "alt": "Ritual Super Hidratação"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191955-620-auto/ritual-viagem-taniapele-000002156k-1.jpg?v=638542507458800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191955-620-auto/ritual-viagem-taniapele-000002156k-1.jpg?v=638542507458800000",
+          "alt": "Ritual Viagem TANIAPELE"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196026-620-auto/RITUAL-VIAGEM-2.jpg?v=638620978432430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196026-620-auto/RITUAL-VIAGEM-2.jpg?v=638620978432430000",
+          "alt": "Ritual Viagem TANIAPELE"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192222-620-auto/ritual-bem-estar-000002148k-1.jpg?v=638542525039530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192222-620-auto/ritual-bem-estar-000002148k-1.jpg?v=638542525039530000",
+          "alt": "Ritual Bem-estar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192223-620-auto/ritual-bem-estar-000002148k-2.jpg?v=638542525041300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192223-620-auto/ritual-bem-estar-000002148k-2.jpg?v=638542525041300000",
+          "alt": "Ritual Bem-estar"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192862-620-auto/ritual-essenciais-viagem-000002147k-1.jpg?v=638542568835230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192862-620-auto/ritual-essenciais-viagem-000002147k-1.jpg?v=638542568835230000",
+          "alt": "Ritual Essenciais Viagem"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197957-620-auto/CREME-MAOS.jpg?v=638694347661500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197957-620-auto/CREME-MAOS.jpg?v=638694347661500000",
+          "alt": "Ritual Essenciais Viagem"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196078-620-auto/RITUAL-TANIA-PELE.png?v=638621959358500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196078-620-auto/RITUAL-TANIA-PELE.png?v=638621959358500000",
+          "alt": "Ritual TANIAPELE"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197963-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638694361154900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197963-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638694361154900000",
+          "alt": "Ritual TANIAPELE"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192152-620-auto/ritual-banho-hidratante-000002145k-1.jpg?v=638542520702430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197949-620-auto/SABONETE-LIQUIDO-2.jpg?v=638694344821670000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192850-620-auto/ritual-pele-renovada-000002780k-1.jpg?v=638542568050100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192851-620-auto/ritual-pele-renovada-000002780k-2.jpg?v=638542568052230000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192828-620-auto/ritual-super-hidratacao-000002146k-1.jpg?v=638542566947030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197942-620-auto/ESFOLIANTE-CORPORAL.jpg?v=638694339956300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/191955-620-auto/ritual-viagem-taniapele-000002156k-1.jpg?v=638542507458800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196026-620-auto/RITUAL-VIAGEM-2.jpg?v=638620978432430000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192222-620-auto/ritual-bem-estar-000002148k-1.jpg?v=638542525039530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192223-620-auto/ritual-bem-estar-000002148k-2.jpg?v=638542525041300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192862-620-auto/ritual-essenciais-viagem-000002147k-1.jpg?v=638542568835230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197957-620-auto/CREME-MAOS.jpg?v=638694347661500000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196078-620-auto/RITUAL-TANIA-PELE.png?v=638621959358500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197963-620-auto/ESFOLIANTE-CORPORAL-2.jpg?v=638694361154900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1840
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T13:56:38.516Z",
+  "totalSections": 8
+}

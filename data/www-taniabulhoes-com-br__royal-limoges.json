@@ -1,0 +1,663 @@
+{
+  "url": "https://www.taniabulhoes.com.br/royal-limoges",
+  "title": "Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm > article:nth-of-type(1) > div.sc-b600379b-0.kEjiws",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "MegamenuDesktop.tsx",
+        "class": "sc-b600379b-0 kEjiws"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Collab Plaza Athénée",
+        "Plaza Athénée",
+        "Limoges",
+        "Aparelhos de Jantar",
+        "Pratos",
+        "Xícaras"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc_4329bc2fff.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc_4329bc2fff.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc_4329bc2fff.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+        "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc_4329bc2fff.jpg",
+        "https://static.taniabulhoes.com.br/810_x_1080_Jade_11dbe166af.jpg",
+        "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_10_fe9e356005.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 727
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-cd1016d2-0.ctreEY",
+      "attrs": {
+        "class": "sc-cd1016d2-0 ctreEY"
+      },
+      "heading": "Royal Limoges",
+      "text_blocks": [
+        "Royal Limoges",
+        "Peças que contam histórias.",
+        "Conheça"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 199
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Savoir-Faire francês. Design brasileiro.",
+      "text_blocks": [
+        "Savoir-Faire francês. Design brasileiro.",
+        "Há mais de 228 anos, saía do forno a primeira louça de Limoges. A cidade francesa é a capital mundial da porcelana, famosa pela produção do melhor caulim do mundo – o do Rio Vienne. Royal Limoges, fundada em 1797, é a fábrica mais antiga da região em funcionamento."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/TB_Banners_Nossa_Historia_8_1_fe43c3f173.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/TB_Banners_Nossa_Historia_8_1_fe43c3f173.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/TB_Banners_Nossa_Historia_8_1_fe43c3f173.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/TB_Banners_Nossa_Historia_8_1_fe43c3f173.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1806
+    },
+    {
+      "selector": "div[data-sentry-component=\"ScrollSwipper\"]",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "ScrollSwipper",
+        "data-sentry-source-file": "Swiper.tsx",
+        "class": "sc-d3b38409-9 eOwUTt"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Chapitre I",
+        "Chapitre II",
+        "Chapitre III",
+        "Chapitre IV",
+        "Chapitre V",
+        "Chapitre VI"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_f31003dd5c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_f31003dd5c.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres2_4b3c2c4703.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres2_4b3c2c4703.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres3_80a769fe7e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres3_80a769fe7e.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres4_e6f504ddca.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres4_e6f504ddca.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_5_9e89ddfcf7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_5_9e89ddfcf7.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_6_ef8a73ad1a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_6_ef8a73ad1a.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_f31003dd5c.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres2_4b3c2c4703.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres3_80a769fe7e.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres4_e6f504ddca.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_5_9e89ddfcf7.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_6_ef8a73ad1a.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_f31003dd5c.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres2_4b3c2c4703.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres3_80a769fe7e.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres4_e6f504ddca.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_5_9e89ddfcf7.jpg",
+        "https://static.taniabulhoes.com.br/Royal_Limoges_Chapitres_6_ef8a73ad1a.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 990
+    },
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "A produção da porcelana Limoges é rica em processos e detalhes. Cada peça passa por muitas mãos e pode levar dias para ficar pronta. Depois de moldada, a peça passa por esmaltação, decoração, aplicação dos detalhes em ouro e diversas queimas.",
+      "text_blocks": [
+        "A produção da porcelana Limoges é rica em processos e detalhes. Cada peça passa por muitas mãos e pode levar dias para ficar pronta. Depois de moldada, a peça passa por esmaltação, decoração, aplicação dos detalhes em ouro e diversas queimas."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 852
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Uma collab exclusiva que une o savoir-faire francês à criatividade brasileira.",
+      "text_blocks": [
+        "Plaza Athénée",
+        "Uma collab exclusiva que une o savoir-faire francês à criatividade brasileira.",
+        "Veja Mais"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301101_PAK_Aparelho_de_Jantar_Plaza_Athenee_18_pecas_207ab2de18.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301101_PAK_Aparelho_de_Jantar_Plaza_Athenee_18_pecas_207ab2de18.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1920_x_1080_Plaza_2_2_81a34bd648.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1920_x_1080_Plaza_2_2_81a34bd648.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301101_PAK_Aparelho_de_Jantar_Plaza_Athenee_18_pecas_207ab2de18.jpg",
+        "https://static.taniabulhoes.com.br/1920_x_1080_Plaza_2_2_81a34bd648.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/001002301101_PAK_Aparelho_de_Jantar_Plaza_Athenee_18_pecas_207ab2de18.jpg",
+        "https://static.taniabulhoes.com.br/1920_x_1080_Plaza_2_2_81a34bd648.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1462
+    },
+    {
+      "selector": "#\\32 86",
+      "attrs": {
+        "id": "286",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "A arte da porcelana de Limoges narra história e preserva tradições que atravessam gerações.",
+      "text_blocks": [
+        "A arte da porcelana de Limoges narra história e preserva tradições que atravessam gerações.",
+        "Set Prato de Sobremesa Frutas do Brasil 4 Peças",
+        "Aparelho de Jantar Jade Verde 18 Peças",
+        "Xícara de Café Casa das Orquídeas",
+        "Prato Raso Papillon",
+        "Set Xícara de Chá Árvores do Brasil 4 peças",
+        "Prato Raso Astro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+          "alt": "Set Prato de Sobremesa Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+          "alt": "Aparelho de Jantar Jade Verde 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+          "alt": "Aparelho de Jantar Jade Verde 18 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192689-620-auto/xicara-de-cafe-casa-das-orquideas-001002300757-1.jpg?v=638763657194400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192689-620-auto/xicara-de-cafe-casa-das-orquideas-001002300757-1.jpg?v=638763657194400000",
+          "alt": "Xícara de Café Casa das Orquídeas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197242-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_4.jpg?v=638763657194400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197242-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_4.jpg?v=638763657194400000",
+          "alt": "Xícara de Café Casa das Orquídeas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+          "alt": "Set Xícara de Chá Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000",
+          "alt": "Set Xícara de Chá Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000",
+          "alt": "Prato Raso Astro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194184-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-1.jpg?v=638826548330400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194185-620-auto/set-prato-de-sobremesa-frutas-do-brasil-4-pecas-001002300682-2.jpg?v=638826548330570000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192414-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-1.jpg?v=638826548646870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192415-620-auto/aparelho-de-jantar-jade-18-pecas-308000948k-2.jpg?v=638826548646870000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192689-620-auto/xicara-de-cafe-casa-das-orquideas-001002300757-1.jpg?v=638763657194400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197242-620-auto/308125-036_Xicara_de_Cafe_Casa_das_Orquideas_4.jpg?v=638763657194400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193651-620-auto/prato-raso-astro-001002300953-1.jpg?v=638815302639930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198316-620-auto/000003063_Prato_Raso_Astro_2.jpg?v=638815302639930000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1673
+    },
+    {
+      "selector": "#\\32 87",
+      "attrs": {
+        "id": "287",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "O cuidado e a atenção aos detalhes estão impressos em cada peça produzida na Royal Limoges.",
+      "text_blocks": [
+        "O cuidado e a atenção aos detalhes estão impressos em cada peça produzida na Royal Limoges.",
+        "Prato Raso Casa das Orquídeas Rouge de Fer",
+        "Xícara de Chá Jade Azul",
+        "Set Prato de Pão Frutas do Brasil 4 Peças",
+        "Bowl Casa das Orquídeas Rouge de Fer",
+        "Prato Raso Fleur Royal",
+        "Prato Fundo Flor de Maracujá"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+          "alt": "Prato Raso Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+          "alt": "Xícara de Chá Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+          "alt": "Xícara de Chá Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+          "alt": "Bowl Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+          "alt": "Bowl Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+          "alt": "Prato Raso Fleur Royal"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+          "alt": "Prato Fundo Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000",
+          "alt": "Prato Fundo Flor de Maracujá"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195470-620-auto/prato-raso-casa-das-orquideas-rouge-de-fer-001002301010-1.png?v=638763651697830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195616-620-auto/PRATO-RASO-ROUGE-DE-FER.png?v=638763651697830000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192680-620-auto/prato-raso-fleur-royal-001002300884-1.jpg?v=638826528014300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192681-620-auto/prato-raso-fleur-royal-001002300884-2.jpg?v=638826528014300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1669
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(9)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Cada cor, uma tela. Cada detalhe, um gesto.",
+      "text_blocks": [
+        "Cada cor, uma tela. Cada detalhe, um gesto.",
+        "Dar vida a objetos para servir e decorar é a expressão do cuidado do processo criativo de Tania. As peças criadas em Limoges são mais do que objetos. São verdadeiras obras de arte."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_0214_OK_1_060547f650.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_0214_OK_1_060547f650.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_0214_OK_1_060547f650.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/CAMPANHA_VERAO_0214_OK_1_060547f650.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1724
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T13:59:43.314Z",
+  "totalSections": 12
+}
