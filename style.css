@@ -159,6 +159,15 @@ body {
     background: white;
 }
 
+/* Loading da área de conteúdo */
+.content-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 2rem;
+}
+
 /* Tela de boas-vindas */
 .welcome-screen {
     display: flex;
