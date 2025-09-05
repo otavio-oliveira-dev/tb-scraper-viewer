@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Família Olfativa",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-cd1016d2-0.ctreEY",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
@@ -14,8 +56,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 158
+      "score": 238
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
@@ -26,7 +70,9 @@
       },
       "heading": "Florais",
       "text_blocks": [
-        "Vibrantes e frescos, esses perfumes são elaborados com óleos essenciais extraídos das flores, trazendo toques de delicadeza em cada detalhe."
+        "Florais",
+        "Vibrantes e frescos, esses perfumes são elaborados com óleos essenciais extraídos das flores, trazendo toques de delicadeza em cada detalhe.",
+        "Veja Mais"
       ],
       "images": [
         {
@@ -43,8 +89,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/LP_Familia_Olfativa3_6edaeddf32.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 660
+      "score": 1478
     },
     {
       "selector": "#\\32 81",
@@ -57,6 +105,7 @@
       },
       "heading": "Rosas Roubadas Eau de Parfum 80ml",
       "text_blocks": [
+        "Premiado",
         "Rosas Roubadas Eau de Parfum 80ml",
         "1989 Eau de Parfum 30ml",
         "Ventos de Lavanda Eau de Parfum 80ml",
@@ -194,8 +243,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200677-620-auto/Ventos--Cards-Perfumaria-pessoal-E-commerce-05.jpg?v=638914693817630000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1223
+      "score": 1332
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -206,7 +257,9 @@
       },
       "heading": "Perfumes que evocam sensações de frescor e energia. A escolha certa para os dias quentes de verão.",
       "text_blocks": [
-        "Perfumes que evocam sensações de frescor e energia. A escolha certa para os dias quentes de verão."
+        "Frescos",
+        "Perfumes que evocam sensações de frescor e energia. A escolha certa para os dias quentes de verão.",
+        "Veja Mais"
       ],
       "images": [
         {
@@ -232,8 +285,10 @@
         "https://static.taniabulhoes.com.br/LP_Familia_Olfativa4_3eef5d440f.jpg",
         "https://static.taniabulhoes.com.br/Frescos_1_1_c3a5ea7b90.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 558
+      "score": 1476
     },
     {
       "selector": "#\\32 82",
@@ -246,12 +301,11 @@
       },
       "heading": "Chá Branco Eau de Parfum 80ml",
       "text_blocks": [
-        "Best Seller",
         "Chá Branco Eau de Parfum 80ml",
         "Meu Verde Eau de Parfum 30ml",
+        "Best Seller",
         "Sinfonia Eau de Parfum 80ml",
-        "Sinfonia Eau de Parfum 30ml",
-        "INDISPONÍVEL"
+        "Sinfonia Eau de Parfum 30ml"
       ],
       "images": [
         {
@@ -291,6 +345,18 @@
           "alt": "Chá Branco Eau de Parfum 30ml"
         },
         {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        },
+        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
@@ -313,18 +379,6 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000",
           "alt": "Sinfonia Eau de Parfum 30ml"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-          "alt": "Meu Verde Eau de Parfum 80ml"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
-          "alt": "Meu Verde Eau de Parfum 80ml"
         }
       ],
       "image_urls": [
@@ -334,16 +388,18 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200757-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262420000000",
         "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
         "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
         "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
         "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
         "https://taniab.vteximg.com.br/arquivos/ids/200709-620-auto/sinfonia-eau-de-parfum-30ml-figo-003l02800111-1.jpg?v=638887256135530000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000"
+        "https://taniab.vteximg.com.br/arquivos/ids/200710-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887256135670000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 914
+      "score": 1001
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
@@ -355,7 +411,8 @@
       "heading": "Amadeirados",
       "text_blocks": [
         "Amadeirados",
-        "Com notas de madeiras nobres, os perfumes amadeirados são clássicos, elegantes e sofisticados."
+        "Com notas de madeiras nobres, os perfumes amadeirados são clássicos, elegantes e sofisticados.",
+        "Veja Mais"
       ],
       "images": [
         {
@@ -372,8 +429,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/Frenesi_1_1_95ae41092f.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 626
+      "score": 1436
     },
     {
       "selector": "#\\32 83",
@@ -452,8 +511,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 682
+      "score": 782
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(8)",
@@ -464,7 +525,9 @@
       },
       "heading": "Ambarados",
       "text_blocks": [
-        "Quentes e adocicados, os perfumes com acordes ambarados são perfeitos para envolver e marcar presença com sensualidade."
+        "Ambarados",
+        "Quentes e adocicados, os perfumes com acordes ambarados são perfeitos para envolver e marcar presença com sensualidade.",
+        "Veja Mais"
       ],
       "images": [
         {
@@ -481,8 +544,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/LP_Familia_Olfativa2_55fcbc4717.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 639
+      "score": 1459
     },
     {
       "selector": "#\\32 88",
@@ -495,6 +560,7 @@
       },
       "heading": "Encontro Marcado Eau de Parfum 80ml",
       "text_blocks": [
+        "Premiado",
         "Encontro Marcado Eau de Parfum 80ml",
         "Fava Selvagem Eau de Parfum 30ml"
       ],
@@ -573,8 +639,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200748-620-auto/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 643
+      "score": 732
     },
     {
       "selector": "#\\32 89",
@@ -587,7 +655,11 @@
       },
       "heading": "Conheça a intensidade dos nossos Perfumes.",
       "text_blocks": [
-        "Conheça a intensidade dos nossos Perfumes."
+        "Conheça a intensidade dos nossos Perfumes.",
+        "Moderados",
+        "Marcantes",
+        "Intensos",
+        "Ver Todos"
       ],
       "images": [
         {
@@ -650,8 +722,10 @@
         "https://static.taniabulhoes.com.br/000003015_Cha_Branco_Eau_de_Parfum_80ml_2_8d57b23063.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 542
+      "score": 661
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -660,17 +734,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:57:16.019Z",
-  "totalSections": 11
+  "scrapedAt": "2025-09-05T03:07:54.695Z",
+  "totalSections": 13
 }

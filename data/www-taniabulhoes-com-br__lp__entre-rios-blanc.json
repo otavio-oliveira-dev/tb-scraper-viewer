@@ -1,0 +1,216 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/entre-rios-blanc",
+  "title": "Tania Bulhões - Entre Rios Blanc",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "article[data-sentry-component=\"TemplateSection\"]",
+      "attrs": {
+        "id": "222",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Entre Rios Blanc",
+      "text_blocks": [
+        "Entre Rios Blanc",
+        "O encontro das águas dos rios e suas misturas de cores inspiraram a criação da coleção Entre Rios.",
+        "descubra",
+        "Prato Raso Entre Rios Blanc",
+        "Xícara de Chá Entre Rios Blanc",
+        "Aparelho de Jantar Entre Rios Blanc 18 peças",
+        "Bowl Entre Rios Blanc"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198149-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc.png?v=638708952760270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198149-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc.png?v=638708952760270000",
+          "alt": "Prato Raso Entre Rios Blanc"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198176-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc_2.jpg?v=638782683788230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198176-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc_2.jpg?v=638782683788230000",
+          "alt": "Prato Raso Entre Rios Blanc"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198153-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc.png?v=638708962515430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198153-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc.png?v=638708962515430000",
+          "alt": "Xícara de Chá Entre Rios Blanc"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198197-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4.jpg?v=638782682952800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198197-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4.jpg?v=638782682952800000",
+          "alt": "Xícara de Chá Entre Rios Blanc"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198159-620-auto/1002301038ERBK_APARELHO-JANTAR-ENTRE-RIOS-BLANC.png?v=638708974056730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198159-620-auto/1002301038ERBK_APARELHO-JANTAR-ENTRE-RIOS-BLANC.png?v=638708974056730000",
+          "alt": "Aparelho de Jantar Entre Rios Blanc 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198187-620-auto/1002301038ERBK_Aparelho_Jantar_Entre_Rios_Blanc_2.jpg?v=638782683090430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198187-620-auto/1002301038ERBK_Aparelho_Jantar_Entre_Rios_Blanc_2.jpg?v=638782683090430000",
+          "alt": "Aparelho de Jantar Entre Rios Blanc 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198151-620-auto/1002200002_Bowl_Entre_Rios_Blanc.png?v=638708958778630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198151-620-auto/1002200002_Bowl_Entre_Rios_Blanc.png?v=638708958778630000",
+          "alt": "Bowl Entre Rios Blanc"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198183-620-auto/1002200002_Bowl_Entre_Rios_Blanc_3.jpg?v=638782683408070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198183-620-auto/1002200002_Bowl_Entre_Rios_Blanc_3.jpg?v=638782683408070000",
+          "alt": "Bowl Entre Rios Blanc"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/198149-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc.png?v=638708952760270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198176-620-auto/1002301038_Prato_Raso_Entre_Rios_Blanc_2.jpg?v=638782683788230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198153-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc.png?v=638708962515430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198197-620-auto/1002301040_Xicara_de_Cha_Entre_Rios_Blanc_4.jpg?v=638782682952800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198159-620-auto/1002301038ERBK_APARELHO-JANTAR-ENTRE-RIOS-BLANC.png?v=638708974056730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198187-620-auto/1002301038ERBK_Aparelho_Jantar_Entre_Rios_Blanc_2.jpg?v=638782683090430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198151-620-auto/1002200002_Bowl_Entre_Rios_Blanc.png?v=638708958778630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198183-620-auto/1002200002_Bowl_Entre_Rios_Blanc_3.jpg?v=638782683408070000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1180
+    },
+    {
+      "selector": "article[data-cy=\"double-brand-section-container\"]",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Entre Rios",
+      "text_blocks": [
+        "Entre Rios",
+        "Uma proposta contemporânea para mesas atemporais e sofisticadas. A coleção permite composições criativas com as diferentes variantes de cores da nossa clássica coleção Mediterrâneo."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Web_1920_3_9_5b4eb9295d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Web_1920_3_9_5b4eb9295d.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Web_1920_3_9_5b4eb9295d.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/Web_1920_3_9_5b4eb9295d.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1512
+    },
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "O branco cria um contraste encantador com os detalhes dourados que emolduram e atravessam as louças, feitas em porcelana.",
+      "text_blocks": [
+        "O branco cria um contraste encantador com os detalhes dourados que emolduram e atravessam as louças, feitas em porcelana."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 501
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:09:08.865Z",
+  "totalSections": 6
+}

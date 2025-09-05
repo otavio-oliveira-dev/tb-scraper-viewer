@@ -1,0 +1,592 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/encontro-marcado-eau-de-parfum-30ml",
+  "title": "Encontro Marcado Eau de Parfum 30ml",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Eau de Parfum",
+        "Encontro Marcado Eau de Parfum 30ml"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 218
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Encontro Marcado Eau de Parfum 30ml",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Premiado",
+        "Encontro Marcado Eau de Parfum 30ml",
+        "R$ 280,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml-copy"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "alt": "Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "alt": "TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml-copy"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+          "alt": "Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+          "alt": "TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml-copy"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml-copy"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "alt": "Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+          "alt": "Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "alt": "TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+          "alt": "TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml-copy"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+          "alt": "Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+          "alt": "TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1",
+          "alt": "Encontro_Marcado_Eau_de_Parfum_30ml_Caixa"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200749/TB-DIGITAL-PremiacaoPerfumaria_30ml2--2-.png?v=638887261011570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200750/Encontro_Marcado_Eau_de_Parfum_30ml.jpg.jpg?v=638887261011700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200751/Encontro_Marcado_Eau_de_Parfum_30ml_Caixa.png?v=638887261011870000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1702
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Amadeirada Especiada",
+        "Gengibre",
+        "Vetiver",
+        "Âmbar",
+        "Descrição adicional",
+        "Encontro Marcado entrega o êxtase do inesperado, com gengibre fresco, rosa damascena e madeiras marcantes. Em 2024, venceu o prêmio Atualidade Cosmética como Melhor Perfume Independente Latino-Americano Feminino. Encontro Marcado combina frescor cítrico e gengibre com a delicadeza da rosa damascena e a força das madeiras, finalizando com o calor do âmbar incensado."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4"
+      ],
+      "html": null,
+      "score": 1311
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_44e5400dd3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_44e5400dd3.jpg",
+          "alt": "Encontro Marcado"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Encontro_Marcado_Eau_de_Parfum_30ml_44e5400dd3.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encontro Marcado",
+        "Mergulhe em uma deliciosa fusão da rosa damascena e a presença marcante de madeiras com o perfume Encontro Marcado."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 412
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Encontro Marcado Eau de Parfum 30ml",
+        "R$ 280,00",
+        "Refil Difusor para Carro Chá Branco 1,5g",
+        "R$ 160,00",
+        "incluso",
+        "Rosas Roubadas Eau de Parfum 30ml",
+        "Compre Os 3 produtos por:",
+        "R$ 720,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200747%2FEncontro_Marcado_Eau_de_Parfum_30ml-copy.png%3Fv%3D638887261011400000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200747%2FEncontro_Marcado_Eau_de_Parfum_30ml-copy.png%3Fv%3D638887261011400000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200747%2FEncontro_Marcado_Eau_de_Parfum_30ml-copy.png%3Fv%3D638887261011400000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200747%2FEncontro_Marcado_Eau_de_Parfum_30ml-copy.png%3Fv%3D638887261011400000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200859%2F000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1%2C5g_5.png%3Fv%3D638901735844670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200859%2F000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1%2C5g_5.png%3Fv%3D638901735844670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200859%2F000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1%2C5g_5.png%3Fv%3D638901735844670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200859%2F000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1%2C5g_5.png%3Fv%3D638901735844670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200860/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200860/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200859/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200859/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200747%2FEncontro_Marcado_Eau_de_Parfum_30ml-copy.png%3Fv%3D638887261011400000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200859%2F000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1%2C5g_5.png%3Fv%3D638901735844670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200860/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200859/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200748/Encontro-Marcado-Cards-Perfumaria-pessoal-E-commerce-10.jpg?v=638887261011570000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200747/Encontro_Marcado_Eau_de_Parfum_30ml-copy.png?v=638887261011400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200860/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200859/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1695
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Best Seller",
+        "Chá Branco Eau de Parfum 30ml",
+        "Premiado",
+        "Rosas Roubadas Eau de Parfum 30ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 981
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:10:01.792Z",
+  "totalSections": 10
+}

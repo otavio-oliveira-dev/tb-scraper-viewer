@@ -1,0 +1,586 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/jade-vela-porcelana-branca-220-g",
+  "title": "Jade Vela Porcelana Branca 220g",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Ambientes",
+        "Velas",
+        "Jade Vela Porcelana Branca 220g"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 223
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Jade Vela Porcelana Branca 220g",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Jade Vela Porcelana Branca 220g",
+        "R$ 340,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "alt": "000003185_Jade_Vela_Perfumada_220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "alt": "000003185_Jade_Vela_Perfumada_220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "alt": "000003185_Jade_Vela_Perfumada_220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+          "alt": "000003185_Jade_Vela_Perfumada_220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "alt": "000003185_Jade_Vela_Perfumada_220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192421/jade-vela-porcelana-branca-220g-002l03200031-3.jpg?v=638542537393000000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1139
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Vela de Porcelana",
+        "Bergamota",
+        "Gengibre",
+        "Pimenta Negra",
+        "Proteger sempre a mesa ou superfície sobre a qual apoia a vela. Não deixe a vela acesa sem supervisão. Não deixe a vela em corrente de ar. Mantenha-a longe de crianças, cortinas e animais de estimação.",
+        "Remover o disco de proteção e acender a vela sobre superfícies planas e resistentes ao calor. Queime a vela até que toda a superfície derreta. Mantenha-a acesa pelo período máximo de 4 horas. Deixe a vela se solidificar antes de reacender. Para melhor desempenho, cortar ¼ do pavio antes de reacende-la. O pavio deve estar sempre limpo e não deve exceder 5mm.",
+        "Descrição adicional",
+        "Inspirada pelo mistério das pedras preciosas, Tania criou esta combinação inusitada e mística de bergamota com gengibre e pimenta negra. Frescor, energia e o despertar da natureza vêm à tona como sensações-chave desse perfume cítrico e apimentado."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Jade_403148e7b5.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Jade_403148e7b5.mp4"
+      ],
+      "html": null,
+      "score": 1760
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003136_Jade_Hidratante_para_Maos_e_Corpo_4_8ea47a9bd1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003136_Jade_Hidratante_para_Maos_e_Corpo_4_8ea47a9bd1.jpg",
+          "alt": "Jade"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003136_Jade_Hidratante_para_Maos_e_Corpo_4_8ea47a9bd1.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Notas de puro frescor e energia, numa combinação espetacular para acolher seus sentidos."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 248
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Jade Vela Porcelana Branca 220g",
+        "R$ 340,00",
+        "Jade Sabonete Líquido Com Vitamina E 290ml",
+        "R$ 265,00",
+        "incluso",
+        "Jade Difusor para Ambiente 290ml",
+        "R$ 395,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.000,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194767%2F000003185_Jade_Vela_Perfumada_220g.png%3Fv%3D638556954511370000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194767%2F000003185_Jade_Vela_Perfumada_220g.png%3Fv%3D638556954511370000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194767%2F000003185_Jade_Vela_Perfumada_220g.png%3Fv%3D638556954511370000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194767%2F000003185_Jade_Vela_Perfumada_220g.png%3Fv%3D638556954511370000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191328%2Fjade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg%3Fv%3D638542466825300000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191328%2Fjade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg%3Fv%3D638542466825300000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191328%2Fjade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg%3Fv%3D638542466825300000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191328%2Fjade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg%3Fv%3D638542466825300000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193671%2Fjade-difusor-para-ambiente-290ml-002l01300045-1.jpg%3Fv%3D638822273912830000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193671%2Fjade-difusor-para-ambiente-290ml-002l01300045-1.jpg%3Fv%3D638822273912830000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193671%2Fjade-difusor-para-ambiente-290ml-002l01300045-1.jpg%3Fv%3D638822273912830000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193671%2Fjade-difusor-para-ambiente-290ml-002l01300045-1.jpg%3Fv%3D638822273912830000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191329/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191329/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191328/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191328/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193672/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193672/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193671/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193671/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194767%2F000003185_Jade_Vela_Perfumada_220g.png%3Fv%3D638556954511370000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191328%2Fjade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg%3Fv%3D638542466825300000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193671%2Fjade-difusor-para-ambiente-290ml-002l01300045-1.jpg%3Fv%3D638822273912830000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191329/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191328/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193672/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193671/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192420/jade-vela-porcelana-branca-220g-002l03200031-2.jpg?v=638542537389700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194767/000003185_Jade_Vela_Perfumada_220g.png?v=638556954511370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191329/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191328/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193672/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193671/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1704
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Jade Sabonete Líquido Com Vitamina E 290ml",
+        "Jade Refil Difusor para Ambiente 300ml",
+        "Jade Refil Sabonete Líquido 300ml",
+        "Jade Difusor para Ambiente 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191328-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191328-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000",
+          "alt": "Jade Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191329-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191329-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000",
+          "alt": "Jade Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196826-620-auto/jade-refil-difusor-para-ambiente-300ml-002l01300021-1.jpg?v=638822276794230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196826-620-auto/jade-refil-difusor-para-ambiente-300ml-002l01300021-1.jpg?v=638822276794230000",
+          "alt": "Jade Refil Difusor para Ambiente 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Jade Refil Difusor para Ambiente 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197000-620-auto/jade-refil-sabonete-liquido-300ml-002l02900099-1.jpg?v=638646208220370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197000-620-auto/jade-refil-sabonete-liquido-300ml-002l02900099-1.jpg?v=638646208220370000",
+          "alt": "Jade Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Jade Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+          "alt": "Jade Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000",
+          "alt": "Jade Difusor para Ambiente 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191328-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-1.jpg?v=638542466825300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191329-620-auto/jade-sabonete-liquido-com-vitamina-e-290ml-002l02900076-2.jpg?v=638542466826530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196826-620-auto/jade-refil-difusor-para-ambiente-300ml-002l01300021-1.jpg?v=638822276794230000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/197000-620-auto/jade-refil-sabonete-liquido-300ml-002l02900099-1.jpg?v=638646208220370000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/193671-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-1.jpg?v=638822273912830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193672-620-auto/jade-difusor-para-ambiente-290ml-002l01300045-2.jpg?v=638822273913000000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 940
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Chá Branco Vela Porcelana Branca 220g",
+        "Chef Vela Porcelana 240g",
+        "Kit Trio Mini Velas Favoritas",
+        "Figo Negro Vela Porcelana Preta 220g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+          "alt": "Chá Branco Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+          "alt": "Chá Branco Vela Porcelana Branca 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+          "alt": "Chef Vela Porcelana 240g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000",
+          "alt": "Chef Vela Porcelana 240g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191414-620-auto/kit-trio-mini-velas-favoritas-000001205k-1.jpg?v=638787868115600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191414-620-auto/kit-trio-mini-velas-favoritas-000001205k-1.jpg?v=638787868115600000",
+          "alt": "Kit Trio Mini Velas Favoritas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191415-620-auto/kit-trio-mini-velas-favoritas-000001205k-2.jpg?v=638787868115770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191415-620-auto/kit-trio-mini-velas-favoritas-000001205k-2.jpg?v=638787868115770000",
+          "alt": "Kit Trio Mini Velas Favoritas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194765-620-auto/000003181_Figo_Vela_Perfumada_220g.png?v=638556950623270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194765-620-auto/000003181_Figo_Vela_Perfumada_220g.png?v=638556950623270000",
+          "alt": "Figo Negro Vela Porcelana Preta 220g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193164-620-auto/figo-negro-vela-porcelana-preta-220g-002l03200025-2.jpg?v=638542590831200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193164-620-auto/figo-negro-vela-porcelana-preta-220g-002l03200025-2.jpg?v=638542590831200000",
+          "alt": "Figo Negro Vela Porcelana Preta 220g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194771-620-auto/Cha_Branco_Vela_Perfumada.png?v=638556961947230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192891-620-auto/cha-branco-vela-porcelana-branca-220g-002l03200006-1.jpg?v=638810290356270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191414-620-auto/kit-trio-mini-velas-favoritas-000001205k-1.jpg?v=638787868115600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191415-620-auto/kit-trio-mini-velas-favoritas-000001205k-2.jpg?v=638787868115770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194765-620-auto/000003181_Figo_Vela_Perfumada_220g.png?v=638556950623270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193164-620-auto/figo-negro-vela-porcelana-preta-220g-002l03200025-2.jpg?v=638542590831200000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 926
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:28:51.690Z",
+  "totalSections": 11
+}

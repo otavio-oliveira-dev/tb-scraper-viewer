@@ -1,0 +1,595 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/prato-sobremesa-branco-de-ouro",
+  "title": "Prato Sobremesa Branco de Ouro",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Pratos",
+        "Prato Sobremesa Branco de Ouro"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 117
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Prato Sobremesa Branco de Ouro",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Prato Sobremesa Branco de Ouro",
+        "Serve 01 lugar à mesa",
+        "R$ 120,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg",
+          "alt": "Product video thumbnail Tw63"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg",
+          "alt": "Product video thumbnail _Ezm"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+        "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191849/prato-sobremesa-branco-de-ouro-001002300678-3.jpg?v=638782692696800000&quality=1",
+        "https://img.youtube.com/vi/D0u_kU1Y3cA/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1260
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Sobremesa",
+        "Porcelana",
+        "2.5cm de altura",
+        "Vai à lava-louças. Não vai ao micro-ondas. Não levar ao forno.",
+        "Descrição adicional",
+        "As louças e acessórios são perfeitos para todos os momentos e ocasiões."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000001464_Xicara_de_Cha_Branco_de_Ouro_5_c55f91299f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001464_Xicara_de_Cha_Branco_de_Ouro_5_c55f91299f.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000001464_Xicara_de_Cha_Branco_de_Ouro_5_c55f91299f.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 820
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000001460_K_Aparelho_de_Jantar_Branco_de_Ouro_4_322f9a8569.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000001460_K_Aparelho_de_Jantar_Branco_de_Ouro_4_322f9a8569.jpg",
+          "alt": "Conheça "
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000001460_K_Aparelho_de_Jantar_Branco_de_Ouro_4_322f9a8569.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Conheça",
+        "Versátil e atemporal, a coleção Branco de Ouro permite inúmeras possibilidades de composições."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 382
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Prato Sobremesa Branco de Ouro",
+        "R$ 120,00",
+        "Prato Raso Branco de Ouro",
+        "R$ 150,00",
+        "incluso",
+        "Travessa M Branco de Ouro",
+        "R$ 430,00",
+        "Compre Os 3 produtos por:",
+        "R$ 700,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191847%2Fprato-sobremesa-branco-de-ouro-001002300678-1.jpg%3Fv%3D638782692696670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191847%2Fprato-sobremesa-branco-de-ouro-001002300678-1.jpg%3Fv%3D638782692696670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191847%2Fprato-sobremesa-branco-de-ouro-001002300678-1.jpg%3Fv%3D638782692696670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191847%2Fprato-sobremesa-branco-de-ouro-001002300678-1.jpg%3Fv%3D638782692696670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192190%2Fprato-raso-branco-de-ouro-001002300927-1.jpg%3Fv%3D638782692559700000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192190%2Fprato-raso-branco-de-ouro-001002300927-1.jpg%3Fv%3D638782692559700000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192190%2Fprato-raso-branco-de-ouro-001002300927-1.jpg%3Fv%3D638782692559700000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192190%2Fprato-raso-branco-de-ouro-001002300927-1.jpg%3Fv%3D638782692559700000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192550%2Ftravessa-m-branco-de-ouro-001000200636-3.jpg%3Fv%3D638782692998800000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192550%2Ftravessa-m-branco-de-ouro-001000200636-3.jpg%3Fv%3D638782692998800000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192550%2Ftravessa-m-branco-de-ouro-001000200636-3.jpg%3Fv%3D638782692998800000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192550%2Ftravessa-m-branco-de-ouro-001000200636-3.jpg%3Fv%3D638782692998800000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192191/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192191/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192190/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192190/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196194/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196194/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192550/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192550/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191847%2Fprato-sobremesa-branco-de-ouro-001002300678-1.jpg%3Fv%3D638782692696670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192190%2Fprato-raso-branco-de-ouro-001002300927-1.jpg%3Fv%3D638782692559700000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192550%2Ftravessa-m-branco-de-ouro-001000200636-3.jpg%3Fv%3D638782692998800000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192191/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192190/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196194/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192550/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191848/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191847/prato-sobremesa-branco-de-ouro-001002300678-1.jpg?v=638782692696670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192191/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192190/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196194/000001472_Travessa_M_Branco_de_Ouro_5.jpg?v=638782692998970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192550/travessa-m-branco-de-ouro-001000200636-3.jpg?v=638782692998800000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1677
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Prato Raso Branco de Ouro",
+        "Aparelho de Jantar Branco de Ouro 18 peças",
+        "Xícara de Café Branco de Ouro",
+        "Bowl Branco de Ouro"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+          "alt": "Prato Raso Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+          "alt": "Xícara de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+          "alt": "Xícara de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+          "alt": "Bowl Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000",
+          "alt": "Bowl Branco de Ouro"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192190-620-auto/prato-raso-branco-de-ouro-001002300927-1.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192191-620-auto/prato-raso-branco-de-ouro-001002300927-2.jpg?v=638782692559700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192551-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-1.jpg?v=638782691366170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192552-620-auto/xicara-de-cafe-branco-de-ouro-001002300802-2.jpg?v=638782691366300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192248-620-auto/bowl-branco-de-ouro-001002300096-1.jpg?v=638782690909100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192249-620-auto/bowl-branco-de-ouro-001002300096-2.jpg?v=638782690909100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 910
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "Prato Raso Mediterrâneo Areia",
+        "Prato de Sobremesa Mediterrâneo Verde",
+        "Prato Raso Mediterrâneo Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 932
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:49:08.941Z",
+  "totalSections": 11
+}

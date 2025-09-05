@@ -3,6 +3,75 @@
   "title": "Tania Bulhões - Frenesi",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Hero_F_Inal_15a68b62b7.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Hero_F_Inal_15a68b62b7.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
       "selector": "article[data-cy=\"text-section-container\"]",
       "attrs": {
         "data-cy": "text-section-container",
@@ -16,8 +85,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 453
+      "score": 553
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
@@ -29,7 +100,8 @@
       "heading": "É sobre conforto de habitar a própria pele.",
       "text_blocks": [
         "Frenesi Eau de Parfum",
-        "É sobre conforto de habitar a própria pele."
+        "É sobre conforto de habitar a própria pele.",
+        "descubra"
       ],
       "images": [
         {
@@ -55,8 +127,10 @@
         "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_fd7d17d8c3.png",
         "https://static.taniabulhoes.com.br/1_1_Frenesi_01_8cd0aee624.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 525
+      "score": 1314
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
@@ -84,8 +158,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Frenesi_02_c89e004f98.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 865
+      "score": 1695
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -94,17 +170,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:51:10.703Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-05T03:03:25.578Z",
+  "totalSections": 7
 }

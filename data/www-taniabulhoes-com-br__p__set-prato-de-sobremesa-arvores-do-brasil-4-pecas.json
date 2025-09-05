@@ -1,0 +1,830 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/set-prato-de-sobremesa-arvores-do-brasil-4-pecas",
+  "title": "Set Prato de Sobremesa Árvores do Brasil 4 peças",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Pratos",
+        "Set Prato de Sobremesa Árvores do Brasil 4 Peças"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 215
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Set Prato de Sobremesa Árvores do Brasil 4 Peças",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Set Prato de Sobremesa Árvores do Brasil 4 Peças",
+        "Serve 04 lugares à mesa.",
+        "R$ 3.840,00",
+        "10x de R$ 384,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195772/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-3.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195773/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-4.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195774/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-5.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195775/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-6.jpg?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195776/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-7.png?v=638810119707770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195777/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-8.jpg?v=638810119707900000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195778/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-9.png?v=638810119707900000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2870
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Sobremesa",
+        "Porcelana Limoges",
+        "2cm de altura",
+        "22.5cm",
+        "Não levar ao micro-ondas ou à lava-louças. Não levar ao forno.",
+        "Descrição adicional",
+        "Feita em Limoges, a coleção de porcelanas decoradas Árvores do Brasil traz à mesa a beleza de quatro espécies de árvores presentes na nossa flora: Figueira, Ipê, Juazeiro e Araucária."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/ADS_CONCEITO_ARVORES_BRASIL_cf04d44413.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/ADS_CONCEITO_ARVORES_BRASIL_cf04d44413.mp4"
+      ],
+      "html": null,
+      "score": 1203
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/066_A2026_OK_fe96fa228f.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/066_A2026_OK_fe96fa228f.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/066_A2026_OK_fe96fa228f.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Com desenhos em cores vibrantes e detalhes em ouro, as delicadas louças da Coleção Árvores do Brasil trazem à mesa a nobreza de quatro árvores da nossa flora."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 449
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Set Prato de Sobremesa Árvores do Brasil 4 Peças",
+        "R$ 3.840,00",
+        "Set Prato Raso Árvores do Brasil 4 peças",
+        "R$ 3.960,00",
+        "incluso",
+        "R$ 3.740,00",
+        "Compre Os 3 produtos por:",
+        "R$ 11.540,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195770%2Fset-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png%3Fv%3D638810119707600000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195770%2Fset-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png%3Fv%3D638810119707600000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195770%2Fset-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png%3Fv%3D638810119707600000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195770%2Fset-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png%3Fv%3D638810119707600000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200879%2Fset-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg%3Fv%3D638901833023000000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200879%2Fset-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg%3Fv%3D638901833023000000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200879%2Fset-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg%3Fv%3D638901833023000000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200879%2Fset-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg%3Fv%3D638901833023000000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193584%2Fset-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg%3Fv%3D638810120069370000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193584%2Fset-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg%3Fv%3D638810120069370000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193584%2Fset-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg%3Fv%3D638810120069370000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193584%2Fset-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg%3Fv%3D638810120069370000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200880/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200880/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200879/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200879/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193575/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193575/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193584/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193584/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195770%2Fset-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png%3Fv%3D638810119707600000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200879%2Fset-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg%3Fv%3D638901833023000000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193584%2Fset-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg%3Fv%3D638810120069370000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200880/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200879/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193575/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193584/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195771/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-2.jpg?v=638810119707770000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/195770/set-prato-sobremesa-arvores-do-brasil-4-pecas-001002300689-1.png?v=638810119707600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200880/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200879/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193575/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193584/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1693
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Set Prato Raso Árvores do Brasil 4 peças",
+        "Set Prato de Pão Árvores do Brasil 4 peças",
+        "Set Xícara de Chá Árvores do Brasil 4 peças"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+          "alt": "Set Prato Raso Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+          "alt": "Set Prato Raso Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193584-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193584-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000",
+          "alt": "Set Prato Fundo Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193575-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193575-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000",
+          "alt": "Set Prato Fundo Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200892-620-auto/set-prato-de-pao-arvores-do-brasil-4-pecas-001002300300-1.jpg?v=638901834117100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200892-620-auto/set-prato-de-pao-arvores-do-brasil-4-pecas-001002300300-1.jpg?v=638901834117100000",
+          "alt": "Set Prato de Pão Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200893-620-auto/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_5.jpg?v=638901834117270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200893-620-auto/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_5.jpg?v=638901834117270000",
+          "alt": "Set Prato de Pão Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+          "alt": "Set Xícara de Chá Árvores do Brasil 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000",
+          "alt": "Set Xícara de Chá Árvores do Brasil 4 peças"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200879-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-1.jpg?v=638901833023000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200880-620-auto/set-prato-raso-arvores-do-brasil-4-pecas-001002300932-3.jpg?v=638901833023300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193584-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-10.jpg?v=638810120069370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193575-620-auto/set-prato-fundo-arvores-do-brasil-4-pecas-001002300469-1.jpg?v=638810120069370000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200892-620-auto/set-prato-de-pao-arvores-do-brasil-4-pecas-001002300300-1.jpg?v=638901834117100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200893-620-auto/000001935_Set_Prato_Raso_Arvores_do_Brasil_4pc_5.jpg?v=638901834117270000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200869-620-auto/set-xicara-de-cha-arvores-do-brasil-4-pecas-001002300557-1.jpg?v=638901829959230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200870-620-auto/000001902_Set_Xicara_de_Cha_Arvores_do_Brasil_4pc.jpg?v=638901829959400000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1119
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Set Pratos Sobremesa Borboleta 3 peças",
+        "Set Prato de Pão Mediterrâneo Ouro 3 Peças",
+        "Set Prato Sobremesa Trópicos 2 Peças",
+        "Set Prato de Pão Provence 2 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191444-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-1.jpg?v=638832803095230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191444-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-1.jpg?v=638832803095230000",
+          "alt": "Set Pratos Sobremesa Borboleta 3 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191445-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-2.jpg?v=638832803095400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191445-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-2.jpg?v=638832803095400000",
+          "alt": "Set Pratos Sobremesa Borboleta 3 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197941-620-auto/1002301052_Set_Prato_de_Pao_Mediterraneo_Ouro_3_pc.png?v=638693737938470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197941-620-auto/1002301052_Set_Prato_de_Pao_Mediterraneo_Ouro_3_pc.png?v=638693737938470000",
+          "alt": "Set Prato de Pão Mediterrâneo Ouro 3 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198135-620-auto/000003198_Prato_de_Pao_Mediterraneo_Dourado_4.jpg?v=638782680443100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198135-620-auto/000003198_Prato_de_Pao_Mediterraneo_Dourado_4.jpg?v=638782680443100000",
+          "alt": "Set Prato de Pão Mediterrâneo Ouro 3 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200191-620-auto/000003079K_Set_Prato_Sobremesa_Tropicos.png?v=638848087438600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200191-620-auto/000003079K_Set_Prato_Sobremesa_Tropicos.png?v=638848087438600000",
+          "alt": "Set Prato Sobremesa Trópicos 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200192-620-auto/000003079_Prato_Sobremesa_Tropicos_5.jpg?v=638848087438730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200192-620-auto/000003079_Prato_Sobremesa_Tropicos_5.jpg?v=638848087438730000",
+          "alt": "Set Prato Sobremesa Trópicos 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+          "alt": "Set Prato de Pão Provence 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000",
+          "alt": "Set Prato de Pão Provence 2 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191444-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-1.jpg?v=638832803095230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191445-620-auto/set-pratos-sobremesa-borboleta-3-pecas-001002300677-2.jpg?v=638832803095400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197941-620-auto/1002301052_Set_Prato_de_Pao_Mediterraneo_Ouro_3_pc.png?v=638693737938470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198135-620-auto/000003198_Prato_de_Pao_Mediterraneo_Dourado_4.jpg?v=638782680443100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200191-620-auto/000003079K_Set_Prato_Sobremesa_Tropicos.png?v=638848087438600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200192-620-auto/000003079_Prato_Sobremesa_Tropicos_5.jpg?v=638848087438730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 949
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:44:51.449Z",
+  "totalSections": 11
+}

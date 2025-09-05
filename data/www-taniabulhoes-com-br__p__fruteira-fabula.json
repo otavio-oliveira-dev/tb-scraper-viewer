@@ -1,0 +1,511 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/fruteira-fabula",
+  "title": "Fruteira Fábula",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Fruteira Fábula",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Fruteira Fábula",
+        "01 peça",
+        "R$ 623,00",
+        "3x de R$ 207,66",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "alt": "000003888_Fruteira_Fabula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "alt": "000003888_Fruteira_Fabula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "alt": "000003888_Fruteira_Fabula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+          "alt": "000003888_Fruteira_Fabula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+          "alt": "000003888_Fruteira_Fabula_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "alt": "000003888_Fruteira_Fabula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1",
+          "alt": "000003888_Fruteira_Fabula_3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196055/000003888_Fruteira_Fabula_2.png?v=638798196027430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196056/000003888_Fruteira_Fabula_3.png?v=638798196027430000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1397
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Porcelana",
+        "17.5cm de altura",
+        "Não vai à lava-louças e ao micro-ondas. Não levar ao forno.",
+        "Descrição adicional",
+        "A coleção de porcelanas decoradas Fábula ilustra com irreverência louças e acessórios para todos os momentos à mesa."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003883_Bowl_Fabula_7_2d03617458.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003883_Bowl_Fabula_7_2d03617458.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003883_Bowl_Fabula_7_2d03617458.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 853
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003884_Xicara_de_Cha_Fabula_5_copiar_52fd590cab.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003884_Xicara_de_Cha_Fabula_5_copiar_52fd590cab.jpg",
+          "alt": "Inspire-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003884_Xicara_de_Cha_Fabula_5_copiar_52fd590cab.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Inspire-se",
+        "Seja para ocasiões especiais ou para o cotidiano, sua mesa merece o toque único e versátil da Coleção Fábula."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 400
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Fruteira Fábula",
+        "R$ 623,00",
+        "Tábua Aperitivo Fábula",
+        "R$ 320,00",
+        "incluso",
+        "Set Guardanapo Fábula 4 peças",
+        "R$ 336,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.279,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196052%2F000003888_Fruteira_Fabula.png%3Fv%3D638621080665670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196052%2F000003888_Fruteira_Fabula.png%3Fv%3D638621080665670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196052%2F000003888_Fruteira_Fabula.png%3Fv%3D638621080665670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196052%2F000003888_Fruteira_Fabula.png%3Fv%3D638621080665670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193939%2Ftabua-aperitivo-fabula-001000200020-1.jpg%3Fv%3D638798196930070000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193939%2Ftabua-aperitivo-fabula-001000200020-1.jpg%3Fv%3D638798196930070000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193939%2Ftabua-aperitivo-fabula-001000200020-1.jpg%3Fv%3D638798196930070000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193939%2Ftabua-aperitivo-fabula-001000200020-1.jpg%3Fv%3D638798196930070000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193962%2Fset-guardanapo-fabula-4-pecas-001000100194-3.jpg%3Fv%3D638774011232700000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193962%2Fset-guardanapo-fabula-4-pecas-001000100194-3.jpg%3Fv%3D638774011232700000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193962%2Fset-guardanapo-fabula-4-pecas-001000100194-3.jpg%3Fv%3D638774011232700000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193962%2Fset-guardanapo-fabula-4-pecas-001000100194-3.jpg%3Fv%3D638774011232700000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193940/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193940/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193939/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193939/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197471/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197471/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193962/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193962/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196052%2F000003888_Fruteira_Fabula.png%3Fv%3D638621080665670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193939%2Ftabua-aperitivo-fabula-001000200020-1.jpg%3Fv%3D638798196930070000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193962%2Fset-guardanapo-fabula-4-pecas-001000100194-3.jpg%3Fv%3D638774011232700000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193940/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193939/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197471/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193962/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196053/000003888_Fruteira_Fabula_5.jpg?v=638798196027430000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196052/000003888_Fruteira_Fabula.png?v=638621080665670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193940/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193939/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197471/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193962/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1485
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Tábua Aperitivo Fábula",
+        "Set Guardanapo Fábula 4 peças",
+        "Bowl Fábula",
+        "Porta-Aperitivo Fábula"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+          "alt": "Tábua Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+          "alt": "Tábua Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+          "alt": "Bowl Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+          "alt": "Bowl Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+          "alt": "Porta-Aperitivo Fábula"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000",
+          "alt": "Porta-Aperitivo Fábula"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193939-620-auto/tabua-aperitivo-fabula-001000200020-1.jpg?v=638798196930070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193940-620-auto/tabua-aperitivo-fabula-001000200020-2.jpg?v=638798196930070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191733-620-auto/bowl-fabula-001002300125-1.jpg?v=638782686764030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191734-620-auto/bowl-fabula-001002300125-2.jpg?v=638782686764200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193944-620-auto/porta-aperitivo-fabula-001000200536-1.jpg?v=638798196744430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193945-620-auto/porta-aperitivo-fabula-001000200536-2.jpg?v=638798196744600000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 879
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:11:16.951Z",
+  "totalSections": 9
+}

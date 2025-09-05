@@ -1,0 +1,310 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/set-de-queijo-passaros-do-brasil-4-pecas",
+  "title": "Set de Queijo Pássaros do Brasil 4 Peças",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Talheres",
+        "Set de Queijo Pássaros do Brasil 4 Peças"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 129
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Set de Queijo Pássaros do Brasil 4 Peças",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Set de Queijo Pássaros do Brasil 4 Peças",
+        "4 peças",
+        "R$ 1.980,00",
+        "Avise-me quando chegar"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1",
+          "alt": "1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197865/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL.png?v=638682185056000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197882/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2.jpg?v=638810172936170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197883/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3.jpg?v=638810172936170000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1282
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Estanho",
+        "Lavar à mão com detergente neutro e não usar objetos abrasivos.",
+        "Descrição adicional",
+        "Os Sets de Aperitivos e Queijos, compostos por quatro itens em estanho — um metal nobre, reconhecido por sua beleza e durabilidade — é a mais recente joia da linha e evoca a rica fauna brasileira em cada detalhe. Cada peça representa um pássaro nativo: Tucano, Guaruba, Uirapiana e Aratinga."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3_cfc5beb88e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3_cfc5beb88e.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_3_cfc5beb88e.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1013
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2_a684e48287.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2_a684e48287.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/1003100149_SET_DE_QUEIJO_PASSAROS_DO_BRASIL_2_a684e48287.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Feito de estanho, o Set combina funcionalidades com um design original que eleva as rotinas à mesa"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 389
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:52:29.896Z",
+  "totalSections": 8
+}

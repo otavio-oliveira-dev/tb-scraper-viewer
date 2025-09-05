@@ -3,6 +3,75 @@
   "title": "Tania Bulhões - Floresta",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Floresta_LP_9b7e582c34.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Floresta_LP_9b7e582c34.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
       "selector": "#\\32 17",
       "attrs": {
         "id": "217",
@@ -14,6 +83,7 @@
       },
       "heading": "Floresta",
       "text_blocks": [
+        "Floresta",
         "Descubra a essência da natureza, inspirada nos tons terrosos e no frescor verde de uma rica floresta.",
         "Experimente",
         "Floresta Difusor para Ambiente 290ml",
@@ -82,8 +152,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192265-620-auto/floresta-aromatizador-de-ambiente-290ml-002l00500028-2.jpg?v=638822344412370000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1070
+      "score": 1209
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
@@ -112,8 +184,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/afc87563_2d73_4f7a_af26_613645051c53_f685f35a72.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 829
+      "score": 1659
     },
     {
       "selector": "#\\32 18",
@@ -193,8 +267,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/198219-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638787871358400000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1034
+      "score": 1164
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
@@ -205,6 +281,7 @@
       },
       "heading": "Floresta",
       "text_blocks": [
+        "Floresta",
         "O âmbar se destaca trazendo uma harmoniosa fusão de doçura, notas amadeiradas e um toque resinado que encanta os sentidos e transforma qualquer ambiente.",
         "Transforme sua rotina através de experiências olfativas com a fragrância Floresta."
       ],
@@ -223,8 +300,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/05_LP_Floresta_Banner_Linha04_crop_fc8ddfb1b0_431942a3cb.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 906
+      "score": 1745
     },
     {
       "selector": "#\\32 19",
@@ -303,8 +382,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195972-620-auto/000003681_Floresta_Vela_Perfumada_220g_3.png?v=638822345746130000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 749
+      "score": 849
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -313,17 +394,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:51:11.172Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-05T02:58:33.824Z",
+  "totalSections": 9
 }

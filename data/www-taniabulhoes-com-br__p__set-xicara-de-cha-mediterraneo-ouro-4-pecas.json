@@ -1,0 +1,444 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/set-xicara-de-cha-mediterraneo-ouro-4-pecas",
+  "title": "Set Xícara de Chá Mediterrâneo Ouro 4 Peças",
+  "sections": [
+    {
+      "selector": "div[data-cy=\"pdp-breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "pdp-breadcrumb-container",
+        "class": "sc-9b54df8f-1 kSVRzd"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Xícaras",
+        "Set Xícara de Chá Mediterrâneo Ouro 4 Peças"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 211
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Set Xícara de Chá Mediterrâneo Ouro 4 Peças",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Set Xícara de Chá Mediterrâneo Ouro 4 Peças",
+        "Serve 04 lugares à mesa",
+        "R$ 840,00",
+        "4x de R$ 210,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+          "alt": "1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+          "alt": "1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+          "alt": "1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1",
+          "alt": "1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199801/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid--1-.png.png?v=638830008218100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199802/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.jpg.jpg?v=638830008218100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199803/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.png.png?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199804/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid.jpg.jpg?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199805/1000200710_Travessa_Retangular_Mediterraneo_Ouro.jpg.jpg?v=638830008218270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199806/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_3.png.png?v=638830008218430000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2561
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Porcelana",
+        "Xícara 5.5cm de altura",
+        "Pires: 2cm de altura",
+        "160ml",
+        "Não vai à lava-louças e ao micro-ondas. Não utilizar produtos abrasivos. Não levar ao forno.",
+        "Descrição adicional",
+        "A Coleção Mediterrâneo é inspirada nos elementos naturais. Apresenta formas orgânicas e irregulares, feitas a partir de leves marteladas sobre a porcelana. Conforme comunicado na data 07/02/2025, essa coleção será descontinuada, aproveite a última oportunidade para garantir suas peças."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003192_Sousplat_Mediterraneo_Ouro_3_989bbdef6a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003192_Sousplat_Mediterraneo_Ouro_3_989bbdef6a.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003192_Sousplat_Mediterraneo_Ouro_3_989bbdef6a.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1089
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003554_Travessa_Triangular_Mediterraneo_Ouro_G_4_47bbcd5f7e.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003554_Travessa_Triangular_Mediterraneo_Ouro_G_4_47bbcd5f7e.jpg",
+          "alt": "Coleção Mediterrâneo Ouro"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003554_Travessa_Triangular_Mediterraneo_Ouro_G_4_47bbcd5f7e.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Coleção Mediterrâneo Ouro",
+        "Seu formato inovador é minimalista e ao mesmo tempo fluido, possibilitando inúmeras propostas de uso."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 407
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:35:14.712Z",
+  "totalSections": 6
+}

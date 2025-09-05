@@ -3,20 +3,64 @@
   "title": "Tania Bulhões - Pomar de Jabuticabeiras",
   "sections": [
     {
-      "selector": "#home-banner",
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
       "attrs": {
-        "id": "home-banner",
-        "class": "sc-7620ef51-0 kYovvv"
+        "class": "button-section"
       },
       "heading": "Ops, sua sacola está vazia!",
       "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "#home-banner > div.sc-7620ef51-2.hqpLLx",
+      "attrs": {
+        "class": "sc-7620ef51-2 hqpLLx"
+      },
+      "heading": null,
+      "text_blocks": [
+        "PRÉ-VENDA",
         "Coleção Pomar de Jabuticabeiras"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 181
+      "score": 41
     },
     {
       "selector": "article[data-cy=\"text-section-container\"]",
@@ -32,8 +76,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 683
+      "score": 813
     },
     {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
@@ -62,8 +108,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/066_A8884_OK_1_b779cdf2ee.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 899
+      "score": 1729
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -72,17 +120,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:59:58.988Z",
-  "totalSections": 4
+  "scrapedAt": "2025-09-05T03:01:50.129Z",
+  "totalSections": 6
 }

@@ -1,0 +1,523 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/kit-florais",
+  "title": "Kit Florais",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Eau de Parfum",
+        "Kit Florais"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 114
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Kit Florais",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Kit Florais",
+        "Kit com 03 fragrâncias de 9ml: 01 1989 9ml, 01 Ventos de Lavanda 9ml e 01 À Francesa 9ml.",
+        "R$ 285,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "alt": "Florais--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "alt": "Florais_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "alt": "Florais_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "alt": "KIT-PERFUMES-9ML-4--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+          "alt": "Florais--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+          "alt": "Florais_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+          "alt": "Florais_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1",
+          "alt": "KIT-PERFUMES-9ML-4--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "alt": "Florais--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+          "alt": "Florais--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "alt": "Florais_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+          "alt": "Florais_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "alt": "Florais_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+          "alt": "Florais_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "alt": "KIT-PERFUMES-9ML-4--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+          "alt": "KIT-PERFUMES-9ML-4--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+          "alt": "Florais--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+          "alt": "Florais_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+          "alt": "Florais_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1",
+          "alt": "KIT-PERFUMES-9ML-4--1-"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195903/Florais--1-.png?v=638615727913070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904/Florais_3.png?v=638866272379200000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195905/Florais_2--1-.png?v=638866272379470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195922/KIT-PERFUMES-9ML-4--1-.png?v=638866272379470000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1579
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Descrição adicional",
+      "text_blocks": [
+        "Descrição adicional",
+        "Frescos, e delicados, porém marcantes na medida certa. Fizemos uma seleção de perfumes para fazer aflorar os sentidos e proporcionar novas experiências olfativas. Nas matérias-primas, as flores são as protagonistas, trazendo um verdadeiro bouquet de sensações."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Classicos_3_2250b6babe.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Classicos_3_2250b6babe.png",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Classicos_3_2250b6babe.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 890
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/kit_florais_000002985k_2_1718650863586.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/kit_florais_000002985k_2_1718650863586.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/kit_florais_000002985k_2_1718650863586.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Perfumes autorais, desenvolvidos com ingredientes selecionados e de altíssima qualidade para fazer parte do seu estilo de vida."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 418
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Kit Clássicos",
+        "Kit Mais Vendidos",
+        "Kit Amadeirados",
+        "Kit Marcantes"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "alt": "Kit Clássicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "alt": "Kit Clássicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+          "alt": "Kit Mais Vendidos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+          "alt": "Kit Mais Vendidos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+          "alt": "Kit Marcantes"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000",
+          "alt": "Kit Marcantes"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 733
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Best Seller",
+        "Chá Branco Eau de Parfum 30ml",
+        "Premiado",
+        "Rosas Roubadas Eau de Parfum 30ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 981
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:30:35.345Z",
+  "totalSections": 10
+}

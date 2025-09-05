@@ -1,0 +1,156 @@
+{
+  "url": "https://www.taniabulhoes.com.br/compras-e-devolucoes?page=exchange",
+  "title": "Compras e Devoluções - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-sentry-component=\"TabHeader\"]",
+      "attrs": {
+        "data-sentry-element": "Container",
+        "data-sentry-component": "TabHeader",
+        "data-sentry-source-file": "TabHeader.tsx",
+        "class": "sc-16f70be4-0 cTmbFD"
+      },
+      "heading": "Compras e Devoluções",
+      "text_blocks": [
+        "Compras e Devoluções",
+        "FORMAS DE PAGAMENTO",
+        "TROCAS E DEVOLUÇÕES"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 290
+    },
+    {
+      "selector": "div[data-sentry-component=\"ExchangesPE\"]",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "ExchangesPE",
+        "data-sentry-source-file": "Exchanges.PE.tsx",
+        "class": "sc-7f53c551-0 gPCtvr"
+      },
+      "heading": "Qual o prazo para que eu solicite a troca ou devolução?",
+      "text_blocks": [
+        "A Tania Bulhões oferece aos seus clientes produtos exclusivos e de qualidade superior. Preocupada em prestar um excelente atendimento e garantir total satisfação aos seus clientes, a Tania Bulhões criou sua Política de Troca e Devolução de acordo com a Lei 8.078, de 11 de setembro de 1990, o Código de Defesa do Consumidor.",
+        "Qual o prazo para que eu solicite a troca ou devolução?",
+        "Conforme o Código de Defesa do Consumidor, o prazo para solicitar a devolução de produtos adquiridos de forma online é de até 7 dias úteis contados da data de recebimento do pedido. É o chamado direito de arrependimento.",
+        "Para trocas por outros produtos, permitimos aos nossos clientes efetuarem a solicitação em até 30 dias contados da data da emissão da nota fiscal, desde que observadas as condições detalhadas nessa política.",
+        "Atenção: produtos ofertados em ações de preços especiais (itens com desconto), compre e ganhe ou outras promoções veiculadas não poderão ser trocados.",
+        "E se o produto adquirido apresentar algum defeito de fabricação?",
+        "Caso o produto apresente algum defeito de fabricação em até 90 dias contados da data do recebimento, entre em contato com a nossa Central de Atendimento para te ajudarmos com seu produto recebido. Para isso, envie um e-mail para atendimento@taniabulhoes.com.br ou entre em contato via WhatsApp 11 94597-2753.",
+        "Como solicito a troca ou devolução de um produto adquirido na loja online?",
+        "O processo é simples!",
+        "Passo a passo para Troca ou Devolução:",
+        "1. Envie um e-mail para: atendimento@taniabulhoes.com.br;",
+        "2. No campo Assunto, escreva: “Troca” ou “Devolução”;",
+        "3. No corpo do e-mail, inclua:",
+        "Sua solicitação (troca ou devolução);",
+        "O número do pedido;",
+        "Seu CPF.",
+        "Em até 2 dias úteis, você receberá um código para postagem e as orientações de envio.",
+        "4. Envie os produtos nas seguintes condições:",
+        "Na embalagem original e com todos os acessórios;",
+        "Sem indícios de uso ou avaria;",
+        "Com etiqueta ou lacre originais e nota fiscal.",
+        "Atenção:",
+        "Produtos devolvidos fora dessas condições poderão ser devolvidos ao cliente nas mesmas condições;",
+        "Trocas ou devoluções realizadas sem a comunicação prévia via formulário serão reenviadas ao cliente sem consulta;",
+        "A loja online não realiza devoluções de produtos adquiridos nas lojas físicas.",
+        "Em quanto tempo receberei meu produto ou o ressarcimento?",
+        "O prazo para análise e resposta é de até dez dias, contados do recebimento do produto no nosso Centro de Distribuição. Após a análise, o cliente será informado por e-mail. O prazo de entrega será o padrão dos Correios de acordo com o CEP da localidade.",
+        "Caso o produto enviado não esteja de acordo com nossa política, a troca não será aceita e o mesmo será reenviado ao endereço de origem, reservando à Tania Bulhões o direito de cobrar ou não o frete.",
+        "No caso de devolução do pedido com pagamento realizado por cartão de crédito, o cancelamento será efetuado junto à administradora do seu cartão e o estorno poderá ocorrer em até duas faturas posteriores de acordo com procedimentos internos da operadora do cartão de crédito. No caso de devolução do pedido com pagamento realizado por PIX, o ressarcimento se dará em até 15 dias após a devolutiva por e-mail.",
+        "Posso efetuar a troca de um produto adquirido através do site em alguma loja física?",
+        "As trocas de produtos adquiridos através de nossa loja online também podem ser feitas em nossas lojas físicas, basta levar o produto em embalagem original, sem indícios de uso, nota fiscal, etiqueta e trocar diretamente na loja escolhida, dentro do prazo de 30 dias da data de emissão da NF do produto. No entanto, por questões fiscais, a loja online não realiza devoluções de produtos adquiridos nas lojas físicas.",
+        "Posso efetuar a troca de um produto adquirido em ações promocionais da marca?",
+        "Não, os produtos adquiridos em ações promocionais, como Preços Especiais ou em nossos Outlets, não são elegíveis para troca.",
+        "Posso trocar produtos adquiridos em lojas parceiras diretamente com a Tania Bulhões?",
+        "Produtos adquiridos por meio de parceiros comerciais ou revendedores não autorizados não são elegíveis para trocas ou devoluções diretamente com a marca.",
+        "As trocas desses produtos devem ser realizadas diretamente com o estabelecimento onde foram adquiridos, respeitando suas próprias políticas.",
+        "Das Devoluções Especiais",
+        "As trocas e devoluções dos itens das coleções descontinuadas Marquesa, Mediterrâneo, Entre Rios e Lírio — conforme anunciado em nosso perfil oficial no Instagram em 7 de fevereiro de 2025 — seguem as seguintes condições:",
+        "Válidas apenas para peças adquiridas até o dia 07 de fevereiro de 2025;",
+        "O prazo para solicitação de troca ou devolução é de 90 (noventa) dias corridos a partir da data do anúncio, com término em 07 de maio de 2025;",
+        "O prazo limite para reembolso é de até 30 (trinta) dias após o recebimento da mercadoria."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 5322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T02:55:00.994Z",
+  "totalSections": 5
+}

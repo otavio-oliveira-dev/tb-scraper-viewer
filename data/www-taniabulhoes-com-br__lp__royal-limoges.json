@@ -3,6 +3,75 @@
   "title": "Tania Bulhões - Royal Limoges",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/PORTRAIT_MESA_01_16x9_MASTER_1_306b57d1f7.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/PORTRAIT_MESA_01_16x9_MASTER_1_306b57d1f7.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
       "selector": "article[data-cy=\"text-section-container\"]",
       "attrs": {
         "data-cy": "text-section-container",
@@ -12,13 +81,16 @@
       "text_blocks": [
         "Savoir-Faire francês. Design brasileiro.",
         "Há mais de 228 anos, saía do forno a primeira louça de Limoges.",
+        "A cidade francesa é a capital mundial da porcelana. Famosa pela produção do melhor caulim do mundo – o do Rio Vienne. Royal Limoges, fundada em 1797, é a fábrica mais antiga da região em funcionamento.",
         "Inspire-se"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 445
+      "score": 927
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -46,8 +118,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Limoges_01_9173429475.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 976
+      "score": 1806
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
@@ -56,15 +130,19 @@
       },
       "heading": "Coleções",
       "text_blocks": [
+        "Coleções",
         "A arte da porcelana de Limoges narra história e preserva tradições que atravessam gerações.",
         "Plaza Athénée",
         "Árvores do Brasil",
+        "Astro",
         "Rouge de Fer",
+        "Portrait",
         "Fleur Royal",
         "Flor de Maracujá",
         "Frutas do Brasil",
         "Casa das Orquídeas",
-        "Pássaros do Brasil"
+        "Pássaros do Brasil",
+        "Papillon"
       ],
       "images": [
         {
@@ -180,17 +258,22 @@
         "https://static.taniabulhoes.com.br/810_x_1080_Passaros_do_Brasil_2abc5ee1b1.jpg",
         "https://static.taniabulhoes.com.br/810_x_1080_Papillon_93e7c5e600.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1800
+      "score": 2163
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
       "attrs": {
-        "data-cy": "double-brand-section-right-wrapper",
-        "class": "sc-b44bab58-1 rXbnI"
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
       },
-      "heading": null,
-      "text_blocks": [],
+      "heading": "Coleções",
+      "text_blocks": [
+        "Um novo capítulo dessa história se inicia em 2023, quando Tania Bulhões estreita sua relação de décadas com a fábrica. Ao longo destes anos, essa parceria possibilitou infinitos processos criativos aliados à expertise de Royal Limoges. Nada mais moderno do que preservar as técnicas artesanais, as pessoas e todo o legado."
+      ],
       "images": [
         {
           "src": "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg",
@@ -206,8 +289,37 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Limoges_02_c85fa8ebee.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 270
+      "score": 1822
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div:nth-of-type(1)",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/INTERVIEW_LIMOGES_01_PT_2_810e9f813f.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/INTERVIEW_LIMOGES_01_PT_2_810e9f813f.mp4"
+      ],
+      "html": null,
+      "score": 100
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -235,8 +347,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/EOS_R5_4071_OK_1_6c23e65df3.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1054
+      "score": 1884
     },
     {
       "selector": "article[data-component=\"listing-section-v2\"]",
@@ -344,8 +458,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1227
+      "score": 1357
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -354,17 +470,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:56:01.942Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T02:55:09.275Z",
+  "totalSections": 11
 }

@@ -1,0 +1,462 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/bandeja-lavabo-simetria-gg",
+  "title": "Bandeja Lavabo Simetria GG",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Lavabo",
+        "Bandejas",
+        "Bandeja Lavabo Simetria Gg"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 218
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Bandeja Lavabo Simetria Gg",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Lançamento",
+        "Bandeja Lavabo Simetria Gg",
+        "01 peça",
+        "R$ 1.900,00",
+        "9x de R$ 211,11",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_2"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1",
+          "alt": "1002100168_Bandeja_Lavabo_Simetria_GG_2"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200532/1002100168_Bandeja_Lavabo_Simetria_GG_2.png?v=638881985779130000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1341
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Acrílico",
+        "30cm de comprimento",
+        "21cm de largura",
+        "3cm de altura",
+        "Lavar manualmente com o lado macio da esponja; Não lavar com água quente; Não utilizar produtos abrasivos; Não levar ao micro-ondas, forno ou lava-louças.",
+        "Descrição adicional",
+        "Inspirada em nossa linha de perfumaria para casa, a coleção Simetria traz bandejas e caixas criadas para vestir o lavabo ou o bar com elegância contemporânea. As formas geométricas se transformam em composições divertidas e cheias de personalidade, enquanto as cores contrastam com a delicadeza do acrílico, revelando um design único.\nMais do que funcionais, são peças que transformam os espaços em cenários de estilo e expressão. Descubra a beleza da Coleção Simetria – quando arte e proporção se encontram."
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/default-1.jpg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/default-1.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/default-1.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1372
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(7)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Bandeja Lavabo Simetria Gg",
+        "R$ 1.900,00",
+        "Figo Negro Sabonete Líquido 290ml",
+        "R$ 265,00",
+        "incluso",
+        "Figo Negro Difusor para Ambiente 290ml",
+        "R$ 395,00",
+        "Compre Os 3 produtos por:",
+        "R$ 2.560,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200530%2F1002100168_Bandeja_Lavabo_Simetria_GG.png%3Fv%3D638881985778830000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200530%2F1002100168_Bandeja_Lavabo_Simetria_GG.png%3Fv%3D638881985778830000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200530%2F1002100168_Bandeja_Lavabo_Simetria_GG.png%3Fv%3D638881985778830000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200530%2F1002100168_Bandeja_Lavabo_Simetria_GG.png%3Fv%3D638881985778830000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193596%2Ffigo-negro-sabonete-liquido-290ml-002l02900072-1.jpg%3Fv%3D638542620159030000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193596%2Ffigo-negro-sabonete-liquido-290ml-002l02900072-1.jpg%3Fv%3D638542620159030000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193596%2Ffigo-negro-sabonete-liquido-290ml-002l02900072-1.jpg%3Fv%3D638542620159030000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193596%2Ffigo-negro-sabonete-liquido-290ml-002l02900072-1.jpg%3Fv%3D638542620159030000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192428%2Ffigo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg%3Fv%3D638822272634330000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192428%2Ffigo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg%3Fv%3D638822272634330000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192428%2Ffigo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg%3Fv%3D638822272634330000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192428%2Ffigo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg%3Fv%3D638822272634330000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193597/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193597/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193596/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193596/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192429/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192429/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192428/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192428/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200530%2F1002100168_Bandeja_Lavabo_Simetria_GG.png%3Fv%3D638881985778830000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193596%2Ffigo-negro-sabonete-liquido-290ml-002l02900072-1.jpg%3Fv%3D638542620159030000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192428%2Ffigo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg%3Fv%3D638822272634330000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193597/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193596/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192429/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192428/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200531/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193597/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193596/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192429/figo-negro-difusor-para-ambiente-290ml-002l01300042-2.jpg?v=638822272634330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192428/figo-negro-difusor-para-ambiente-290ml-002l01300042-1.jpg?v=638822272634330000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1698
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Bandeja Diamante Folha Transparente M",
+        "Bandeja Provence",
+        "Bandeja Cristal M",
+        "Bandeja Cristal G"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000",
+          "alt": "Bandeja Diamante Folha Transparente M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000",
+          "alt": "Bandeja Diamante Folha Transparente M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193702-620-auto/bandeja-cristal-m-001002100091-1.jpg?v=638881985278900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193702-620-auto/bandeja-cristal-m-001002100091-1.jpg?v=638881985278900000",
+          "alt": "Bandeja Cristal M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193703-620-auto/bandeja-cristal-m-001002100091-2.jpg?v=638881985279230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193703-620-auto/bandeja-cristal-m-001002100091-2.jpg?v=638881985279230000",
+          "alt": "Bandeja Cristal M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "alt": "Bandeja Cristal G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "alt": "Bandeja Cristal G"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200601-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602-620-auto/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193702-620-auto/bandeja-cristal-m-001002100091-1.jpg?v=638881985278900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193703-620-auto/bandeja-cristal-m-001002100091-2.jpg?v=638881985279230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 887
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:43:02.306Z",
+  "totalSections": 8
+}

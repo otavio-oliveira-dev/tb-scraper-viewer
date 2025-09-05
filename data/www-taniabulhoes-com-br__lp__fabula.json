@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Fábula",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "#\\32 25",
       "attrs": {
         "id": "225",
@@ -13,12 +55,12 @@
       },
       "heading": "Fábula",
       "text_blocks": [
+        "Fábula",
         "Histórias contadas através de narrativas familiares são a inspiração por trás da Coleção Fábula.",
         "Inspire-se",
         "Bowl Fábula",
         "Taça de Cristal Fábula",
         "Prato Raso Fábula",
-        "INDISPONÍVEL",
         "Prato de Sobremesa Fábula",
         "Aparelho de Jantar Fábula 18 peças",
         "Sousplat Fábula",
@@ -142,8 +184,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193935-620-auto/prato-de-pao-fabula-001002300311-2.jpg?v=638782687858800000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1443
+      "score": 1567
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -172,8 +216,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/Imagens2_e0786f8a8d.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 693
+      "score": 1493
     },
     {
       "selector": "#\\32 27",
@@ -192,7 +238,6 @@
         "Tábua Aperitivo Fábula",
         "Set Guardanapo Fábula 4 peças",
         "Xícara de Chá Fábula",
-        "INDISPONÍVEL",
         "Xícara de Café Fábula",
         "Vide Poche Fábula",
         "Set Porta Azeitona Fábula 2 Peças"
@@ -328,34 +373,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197038-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638773993618730000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1533
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(2) > section.sc-b44bab58-4.hBXfnJ",
-      "attrs": {
-        "data-cy": "double-brand-section-right-image",
-        "class": "sc-b44bab58-4 hBXfnJ"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/Imagens_5f8111eb88.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1650
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -364,17 +385,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:51:04.275Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-05T03:00:14.002Z",
+  "totalSections": 6
 }

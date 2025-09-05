@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Mesa de Verão",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "#\\32 14",
       "attrs": {
         "id": "214",
@@ -15,8 +57,8 @@
       "text_blocks": [
         "Mesa de Verão",
         "Receba o verão com leveza, frescor e uma pitada de tropicalidade.",
+        "Veja Mais",
         "Prato Raso Limoeiro",
-        "Taça Champagne Seiva",
         "Sopeira Limoeiro",
         "Set Faca de Churrasco Laguiole Verde 6 peças",
         "Travessa Limoeiro",
@@ -29,7 +71,8 @@
         "Sousplat Limoeiro",
         "Prato Fundo Limoeiro",
         "Porta-Tempero Limoeiro",
-        "Espremedor de Limão Limoeiro"
+        "Espremedor de Limão Limoeiro",
+        "Taça Champagne Seiva"
       ],
       "images": [
         {
@@ -43,18 +86,6 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
           "alt": "Prato Raso Limoeiro"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
-          "alt": "Taça Champagne Seiva"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
-          "alt": "Taça Champagne Seiva"
         },
         {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/192922-620-auto/sopeira-limoeiro-001000200596-1.jpg?v=638782696170530000",
@@ -211,13 +242,23 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000",
           "alt": "Espremedor de Limão Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+          "alt": "Taça Champagne Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
+          "alt": "Taça Champagne Seiva"
         }
       ],
       "image_urls": [
         "https://taniab.vteximg.com.br/arquivos/ids/191952-620-auto/prato-raso-limoeiro-001002300944-1.jpg?v=638782696830930000",
         "https://taniab.vteximg.com.br/arquivos/ids/198243-620-auto/CAMPANHA-VERAO-LIMOEIRO-00034.jpg?v=638782696830930000",
-        "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
-        "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000",
         "https://taniab.vteximg.com.br/arquivos/ids/192922-620-auto/sopeira-limoeiro-001000200596-1.jpg?v=638782696170530000",
         "https://taniab.vteximg.com.br/arquivos/ids/198250-620-auto/CAMPANHA-VERAO-LIMOEIRO-00031_OK.jpg?v=638782696170530000",
         "https://taniab.vteximg.com.br/arquivos/ids/197683-620-auto/001003100146_Set_Faca_de_Churrasco_Laguiole_Verde_6_Unid_3--1-.png?v=638670983285600000",
@@ -243,11 +284,15 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192961-620-auto/porta-tempero-limoeiro-001000200580-1.jpg?v=638542575315330000",
         "https://taniab.vteximg.com.br/arquivos/ids/198240-620-auto/CAMPANHA-VERAO-LIMOEIRO-00079_OK.jpg?v=638733412529970000",
         "https://taniab.vteximg.com.br/arquivos/ids/193435-620-auto/espremedor-de-limao-limoeiro-001000200222-1.jpg?v=638542608505530000",
-        "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000"
+        "https://taniab.vteximg.com.br/arquivos/ids/198258-620-auto/CAMPANHA-VERAO-LIMOEIRO-00077_OK.jpg?v=638733424895370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195330-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638569125424930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196158-620-auto/000003330_Taca_de_Champagne_Seiva.png?v=638762616064730000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 2312
+      "score": 2452
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -259,7 +304,8 @@
       "heading": "Coleção Limoeiro",
       "text_blocks": [
         "Coleção Limoeiro",
-        "Cores vibrantes e um toque de brasilidade à mesa."
+        "Cores vibrantes e um toque de brasilidade à mesa.",
+        "Veja Mais"
       ],
       "images": [
         {
@@ -276,8 +322,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Limoeiro_04_5e9d51498c.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 486
+      "score": 1276
     },
     {
       "selector": "article[data-component=\"listing-section-v2\"]",
@@ -358,8 +406,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/198260-620-auto/CAMPANHA-VERAO-LIMOEIRO-00021_OK.jpg?v=638826533542270000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1023
+      "score": 1153
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -387,8 +437,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Limoeiro_05_782148d567.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 595
+      "score": 1395
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -397,17 +449,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:58:05.136Z",
-  "totalSections": 5
+  "scrapedAt": "2025-09-05T03:07:05.157Z",
+  "totalSections": 7
 }

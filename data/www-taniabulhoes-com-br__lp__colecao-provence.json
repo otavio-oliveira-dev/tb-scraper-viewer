@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Provence",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
       "attrs": {
         "data-cy": "text-section-container",
@@ -15,8 +57,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 456
+      "score": 556
     },
     {
       "selector": "#tertiary__banner__container",
@@ -26,7 +70,8 @@
       },
       "heading": "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor.",
       "text_blocks": [
-        "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor."
+        "Com uma atmosfera atemporal, a coleção Provence traduz o charme e delicadeza das lavandas em flor.",
+        "Descubra"
       ],
       "images": [
         {
@@ -47,8 +92,37 @@
         "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_3_5bc4bc9c5c.png"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 298
+      "score": 507
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Hero_Wide_d839f3c2c7.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Hero_Wide_d839f3c2c7.mp4"
+      ],
+      "html": null,
+      "score": 100
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -63,8 +137,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 453
+      "score": 553
     },
     {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
@@ -92,8 +168,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/3375042a_0174_4d52_8997_f62e7783d4b9_ac08ea54b1.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 986
+      "score": 1816
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div.sc-af9ea86b-1.bABiex",
@@ -121,6 +199,8 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/001002301079_PK_Aparelho_de_Jantar_Provence_caaadae75d.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
       "score": 217
     },
@@ -150,8 +230,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_bb31fc5898.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 208
+      "score": 158
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -160,17 +242,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T02:01:25.039Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T03:05:01.104Z",
+  "totalSections": 10
 }

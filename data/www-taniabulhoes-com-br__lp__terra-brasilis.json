@@ -3,6 +3,75 @@
   "title": "Tania Bulhões - Terra Brasilis",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/TERRA_BRASILIS_5510504069.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/TERRA_BRASILIS_5510504069.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
       "selector": "#\\31 77",
       "attrs": {
         "id": "177",
@@ -18,7 +87,6 @@
         "Uma coleção criada para tornar os momentos de celebração ainda mais especiais.",
         "Set Xícara de Chá Terra Brasilis 4 Peças",
         "Prato Raso Terra Brasilis",
-        "INDISPONÍVEL",
         "Aparelho de Jantar Terra Brasilis 18 peças",
         "Sousplat Terra Brasilis"
       ],
@@ -83,8 +151,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197044-620-auto/1002301044_Sousplat_Terra_Brasilis_2.jpg?v=638763614156130000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1058
+      "score": 1175
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.iNTOL",
@@ -113,8 +183,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/TB_DIGITAL_Giftables_20_b23853b8cb.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 674
+      "score": 1474
     },
     {
       "selector": "#\\31 78",
@@ -195,62 +267,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200179-620-auto/1002301050_Prato_de_Pao_Terra_Brasilis_5.jpg?v=638848084202370000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1025
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "Celebre com uma coleção única"
-      ],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/Web_1920_7_4_ecd56c8b50.jpg"
-      ],
-      "html": null,
-      "score": 299
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
-      "attrs": {
-        "data-cy": "double-brand-section-right-wrapper",
-        "class": "sc-b44bab58-1 rXbnI"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/Web_1920_8_2_1_b908286396.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1155
     },
     {
       "selector": "#\\31 79",
@@ -267,8 +287,7 @@
         "Cada peça da coleção Terra Brasilis foi criada para transportar a atmosfera tropical para a mesa.",
         "Set Guardanapo Terra Brasilis 4 peças",
         "Vide Poche Terra Brasilis",
-        "Set Vaso Terra Brasilis P 2 Peças",
-        "INDISPONÍVEL"
+        "Set Vaso Terra Brasilis P 2 Peças"
       ],
       "images": [
         {
@@ -331,8 +350,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197100-620-auto/1002301045_Prato_Raso_Terra_Brasilis_5.jpg?v=638763613102800000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1018
+      "score": 955
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -341,17 +362,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:57:38.769Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T02:58:20.620Z",
+  "totalSections": 8
 }

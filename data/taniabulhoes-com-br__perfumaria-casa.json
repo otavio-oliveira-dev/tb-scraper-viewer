@@ -3,6 +3,48 @@
   "title": "Perfumaria Casa - Tania Bulhões",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
@@ -10,13 +52,16 @@
       "heading": "Kit Floresta",
       "text_blocks": [
         "Kit Floresta",
-        "Uma escolha que vai além do presente: um convite a sentir, respirar e recordar."
+        "Uma escolha que vai além do presente: um convite a sentir, respirar e recordar.",
+        "Conheça"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 242
+      "score": 330
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-d3b38409-0.lbOpmB",
@@ -25,11 +70,16 @@
       },
       "heading": "Coleções",
       "text_blocks": [
+        "Coleções",
         "Transforme sua casa em um refúgio de bem-estar.",
+        "Descubra",
+        "Chá Verde",
         "Chá Branco",
         "Figo Negro",
         "Casa das Orquídeas",
-        "Pássaros do Brasil"
+        "Lavanda",
+        "Pássaros do Brasil",
+        "Floresta"
       ],
       "images": [
         {
@@ -109,8 +159,10 @@
         "https://static.taniabulhoes.com.br/000003138_Passaros_do_Brasil_Hidratante_para_Maos_e_Corpo_3_644df5d42b.jpg",
         "https://static.taniabulhoes.com.br/000003677_Floresta_Hidratante_para_Maos_e_Corpo_3_646ed5cfa4.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1177
+      "score": 1522
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -149,8 +201,10 @@
         "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0801_OK_1eafb970cd.jpg",
         "https://static.taniabulhoes.com.br/060325_TB_CAMPANHA_PROVENCE_0797_OK_1_1_aad5174777.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 543
+      "score": 1323
     },
     {
       "selector": "#\\37 3",
@@ -166,7 +220,8 @@
         "Para Ambientes",
         "Sala de Estar",
         "Escritório",
-        "Campo e Praia"
+        "Campo e Praia",
+        "Lavabo"
       ],
       "images": [
         {
@@ -229,8 +284,10 @@
         "https://static.taniabulhoes.com.br/bandeja_de_lavabo_cabana_g_001002100046_2_1718670711384.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 553
+      "score": 640
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -242,7 +299,8 @@
       "heading": "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria.",
       "text_blocks": [
         "Difusor de Porcelana Camélia",
-        "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria."
+        "Inspirada na delicada flor da camellia sinensis, planta que dá origem à fragrância de Chá Branco, uma das nossas joias da perfumaria.",
+        "Conheça"
       ],
       "images": [
         {
@@ -268,8 +326,10 @@
         "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_3_61018e26eb.jpg",
         "https://static.taniabulhoes.com.br/002001300004_Difusor_Porcelana_Camelia_4_ff652ea86c.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 722
+      "score": 1530
     },
     {
       "selector": "#\\37 1",
@@ -284,6 +344,7 @@
       "text_blocks": [
         "Chá Branco",
         "Uma combinação harmoniosa de notas cítricas, florais e um toque levemente adocicado.",
+        "Veja Mais",
         "Chá Branco Difusor para Ambiente 290ml",
         "Chá Branco Sabonete Líquido Com Vitamina E 290ml",
         "Chá Branco Aromatizador de Ambiente 290ml",
@@ -380,8 +441,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1293
+      "score": 1433
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -393,7 +456,8 @@
       "heading": "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso.",
       "text_blocks": [
         "SABONETES E HIDRATANTES",
-        "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso."
+        "Para despertar deliciosas sensações através do toque, com hidratação profunda e um perfume intenso.",
+        "Conheça"
       ],
       "images": [
         {
@@ -419,8 +483,10 @@
         "https://static.taniabulhoes.com.br/002_L01800033_CHA_VERDE_HIDRATANTE_MAOS_E_CORPO_290_G_1e59023084.jpg",
         "https://static.taniabulhoes.com.br/000003164_Cha_Branco_Sabonete_Liquido290ml_4_1_5326857842.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 683
+      "score": 1491
     },
     {
       "selector": "#\\37 2",
@@ -435,6 +501,7 @@
       "text_blocks": [
         "Difusores de Vareta",
         "Uma seleção especial para perfumar intensamente e decorar a casa com beleza e personalidade.",
+        "Veja Mais",
         "Chá Verde Difusor para Ambiente 290ml",
         "Figo Negro Difusor para Ambiente 290ml",
         "Lavanda Difusor para Ambiente 290ml",
@@ -560,8 +627,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192215-620-auto/passaros-do-brasil-difusor-para-ambiente-290ml-002l01300040-2.jpg?v=638810172073970000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1539
+      "score": 1679
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(9)",
@@ -572,7 +641,9 @@
       },
       "heading": "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente.",
       "text_blocks": [
-        "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente."
+        "VELAS",
+        "A união de fragrâncias intensas com a preciosidade da porcelana feita à mão transforma qualquer ambiente.",
+        "Confira"
       ],
       "images": [
         {
@@ -598,8 +669,10 @@
         "https://static.taniabulhoes.com.br/000003187_Lavanda_Vela_Perfumada_220g_2_b205a73da3.png",
         "https://static.taniabulhoes.com.br/000003181_Figo_Vela_Perfumada_jpg220g_2_2e44bb03c3.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 665
+      "score": 1479
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -608,17 +681,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:44:39.982Z",
-  "totalSections": 10
+  "scrapedAt": "2025-09-05T03:09:20.735Z",
+  "totalSections": 12
 }

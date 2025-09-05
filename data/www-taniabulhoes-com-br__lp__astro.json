@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Astro",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "#\\32 05",
       "attrs": {
         "id": "205",
@@ -16,10 +58,10 @@
       "text_blocks": [
         "Coleção Astro",
         "Obras de arte para vestir a mesa.",
+        "Conheça",
         "Xícara de Chá Astro",
         "Prato de Sobremesa Astro",
         "Prato Raso Astro",
-        "INDISPONÍVEL",
         "Taça de Cristal Astro"
       ],
       "images": [
@@ -104,8 +146,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193774-620-auto/taca-de-cristal-astro-001001000122-2.jpg?v=638542634310770000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 954
+      "score": 1049
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -133,8 +177,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Astro_05_5b836a1097.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 921
+      "score": 1751
     },
     {
       "selector": "#\\32 06",
@@ -152,8 +198,7 @@
         "Xícara de Café Astro",
         "Sousplat Astro",
         "Prato de Pão Astro",
-        "Aparelho de Jantar Astro 18 Peças",
-        "INDISPONÍVEL"
+        "Aparelho de Jantar Astro 18 Peças"
       ],
       "images": [
         {
@@ -244,8 +289,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197021-620-auto/000003063K_Aparelho_de_Jantar_Astro_2.jpg?v=638815302785700000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1211
+      "score": 1148
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -273,8 +320,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 823
+      "score": 1653
     },
     {
       "selector": "#\\32 07",
@@ -291,7 +340,6 @@
         "As linhas retas que contornam as peças fazem alusão aos raios do sol que aquecem e colorem os dias.",
         "Prato Fundo Astro",
         "Copo de Cristal Astro",
-        "INDISPONÍVEL",
         "Guardanapo Astro",
         "Jogo Americano Astro"
       ],
@@ -363,8 +411,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193797-620-auto/jogo-americano-astro-001000100400-2.jpg?v=638542636699900000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 900
+      "score": 987
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -373,17 +423,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:52:42.732Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-05T03:00:13.833Z",
+  "totalSections": 8
 }

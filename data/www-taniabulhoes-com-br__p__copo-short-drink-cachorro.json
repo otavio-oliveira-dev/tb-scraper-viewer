@@ -1,0 +1,653 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/copo-short-drink-cachorro",
+  "title": "Copo Short Drink Cachorro",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Copos",
+        "Copo Short Drink Cachorro"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 111
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Copo Short Drink Cachorro",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Copo Short Drink Cachorro",
+        "Serve 01 lugar à mesa",
+        "R$ 220,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg",
+          "alt": "Product video thumbnail k4Zk"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg",
+          "alt": "Product video thumbnail 7-4V"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+        "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194468/copo-short-drink-cachorro-001001000280-3.jpg?v=638542687837000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194469/copo-short-drink-cachorro-001001000280-4.jpg?v=638542687839470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194470/copo-short-drink-cachorro-001001000280-5.jpg?v=638542687841330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194471/copo-short-drink-cachorro-001001000280-6.jpg?v=638542687843530000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194472/copo-short-drink-cachorro-001001000280-7.jpg?v=638542687845230000&quality=1",
+        "https://img.youtube.com/vi/HSTGT4jQp4o/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2255
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Short Drink",
+        "Vidro",
+        "8.4cm de altura",
+        "8.3cm",
+        "305ml",
+        "Vai à lava-louças no ciclo delicado. Não vai ao micro-ondas.",
+        "Servir a bebida já adoçada. Não utilizar materiais de limpeza abrasivos.",
+        "Descrição adicional",
+        "Os copos, feitos em vidro, trazem cor e alegria à mesa com charmosas esculturas no formato de quatro animais: Cisne, Borboleta, Cachorro e Onça."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Colecao_Animais_do_Campo_8ecae94d4a.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Colecao_Animais_do_Campo_8ecae94d4a.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Colecao_Animais_do_Campo_8ecae94d4a.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 974
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001001000280_Copo_Short_Drink_Cachorro_6_522e5b0f7b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001001000280_Copo_Short_Drink_Cachorro_6_522e5b0f7b.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001001000280_Copo_Short_Drink_Cachorro_6_522e5b0f7b.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Divertida, lúdica e inusitada, a Coleção Animais do Campo foi criada para deixar as rotinas à mesa ainda mais alegres."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 409
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Copo Short Drink Cachorro",
+        "R$ 220,00",
+        "Copo Short Drink Onça",
+        "incluso",
+        "Copo Short Drink Cisne",
+        "Compre Os 3 produtos por:",
+        "R$ 660,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194466%2Fcopo-short-drink-cachorro-001001000280-1.jpg%3Fv%3D638542687831600000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194466%2Fcopo-short-drink-cachorro-001001000280-1.jpg%3Fv%3D638542687831600000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194466%2Fcopo-short-drink-cachorro-001001000280-1.jpg%3Fv%3D638542687831600000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194466%2Fcopo-short-drink-cachorro-001001000280-1.jpg%3Fv%3D638542687831600000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194473%2Fcopo-short-drink-onca-001001000279-1.jpg%3Fv%3D638542688210770000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194473%2Fcopo-short-drink-onca-001001000279-1.jpg%3Fv%3D638542688210770000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194473%2Fcopo-short-drink-onca-001001000279-1.jpg%3Fv%3D638542688210770000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194473%2Fcopo-short-drink-onca-001001000279-1.jpg%3Fv%3D638542688210770000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194454%2Fcopo-short-drink-cisne-001001000282-1.jpg%3Fv%3D638542686489330000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194454%2Fcopo-short-drink-cisne-001001000282-1.jpg%3Fv%3D638542686489330000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194454%2Fcopo-short-drink-cisne-001001000282-1.jpg%3Fv%3D638542686489330000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194454%2Fcopo-short-drink-cisne-001001000282-1.jpg%3Fv%3D638542686489330000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194474/copo-short-drink-onca-001001000279-2.jpg?v=638542688212100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194474/copo-short-drink-onca-001001000279-2.jpg?v=638542688212100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194473/copo-short-drink-onca-001001000279-1.jpg?v=638542688210770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194473/copo-short-drink-onca-001001000279-1.jpg?v=638542688210770000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194455/copo-short-drink-cisne-001001000282-2.jpg?v=638542686490900000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194455/copo-short-drink-cisne-001001000282-2.jpg?v=638542686490900000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194454/copo-short-drink-cisne-001001000282-1.jpg?v=638542686489330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194454/copo-short-drink-cisne-001001000282-1.jpg?v=638542686489330000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194466%2Fcopo-short-drink-cachorro-001001000280-1.jpg%3Fv%3D638542687831600000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194473%2Fcopo-short-drink-onca-001001000279-1.jpg%3Fv%3D638542688210770000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194454%2Fcopo-short-drink-cisne-001001000282-1.jpg%3Fv%3D638542686489330000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194474/copo-short-drink-onca-001001000279-2.jpg?v=638542688212100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194473/copo-short-drink-onca-001001000279-1.jpg?v=638542688210770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194455/copo-short-drink-cisne-001001000282-2.jpg?v=638542686490900000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194454/copo-short-drink-cisne-001001000282-1.jpg?v=638542686489330000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194467/copo-short-drink-cachorro-001001000280-2.jpg?v=638542687834100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194466/copo-short-drink-cachorro-001001000280-1.jpg?v=638542687831600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194474/copo-short-drink-onca-001001000279-2.jpg?v=638542688212100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194473/copo-short-drink-onca-001001000279-1.jpg?v=638542688210770000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194455/copo-short-drink-cisne-001001000282-2.jpg?v=638542686490900000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194454/copo-short-drink-cisne-001001000282-1.jpg?v=638542686489330000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1465
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Copo Eclipse Tulipa",
+        "Copo Eclipse Turquesa",
+        "Copo Long Drink Seiva",
+        "Copo Fantasia Floresta"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+          "alt": "Copo Eclipse Tulipa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+          "alt": "Copo Eclipse Tulipa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+          "alt": "Copo Long Drink Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+          "alt": "Copo Long Drink Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+          "alt": "Copo Fantasia Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000",
+          "alt": "Copo Fantasia Floresta"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 883
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:44:26.182Z",
+  "totalSections": 10
+}

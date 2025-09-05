@@ -1,0 +1,386 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/balde-de-gelo-esferas",
+  "title": "Balde de Gelo Esferas",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Balde de Gelo Esferas",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Balde de Gelo Esferas",
+        "01 peça",
+        "R$ 4.250,00",
+        "10x de R$ 425,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196719/balde-de-gelo-esferas-001000600104-1.jpg?v=638645997985400000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 656
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Prata",
+        "16cm de altura",
+        "3200ml",
+        "Umedeça uma esponja macia com água, coloque uma dose de detergente e Silvo, passe esfregando em toda a peça; limpe com flanela umedecida em água e de brilho com uma flanela seca.",
+        "Descrição adicional",
+        "As esferas que decoram as peças trazem um toque inusitado e irreverente, sem deixar de lado a sofisticação."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/boleira_esferas_001000200155_2_1718667832395.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/boleira_esferas_001000200155_2_1718667832395.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/boleira_esferas_001000200155_2_1718667832395.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 964
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/balde_de_gelo_redondo_esferas_001000600106_2_1718667813330.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/balde_de_gelo_redondo_esferas_001000600106_2_1718667813330.jpg",
+          "alt": "Apaixone-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/balde_de_gelo_redondo_esferas_001000600106_2_1718667813330.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Apaixone-se",
+        "Peças feitas em prata que dão um toque de modernidade e sofisticação à mesa, com detalhes de esferas que decoram as peças de forma inusitada\n e irreverente."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 448
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Set Porta Guardanapo Esferas 2 Peças",
+        "Set Placement Esferas 2 Peças",
+        "Champanheira Esferas",
+        "Bowl Esferas G"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197833-620-auto/000003611_Set_Pt_Guardanapo_Esferas_2_unid.png?v=638678112714030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197833-620-auto/000003611_Set_Pt_Guardanapo_Esferas_2_unid.png?v=638678112714030000",
+          "alt": "Set Porta Guardanapo Esferas 2 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Set Porta Guardanapo Esferas 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193821-620-auto/set-placement-esferas-2-pecas-001000100865-1.jpg?v=638542638336400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193821-620-auto/set-placement-esferas-2-pecas-001000100865-1.jpg?v=638542638336400000",
+          "alt": "Set Placement Esferas 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193822-620-auto/set-placement-esferas-2-pecas-001000100865-2.jpg?v=638542638337930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193822-620-auto/set-placement-esferas-2-pecas-001000100865-2.jpg?v=638542638337930000",
+          "alt": "Set Placement Esferas 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196717-620-auto/champanheira-esferas-001000600026-1.jpg?v=638645997925530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196717-620-auto/champanheira-esferas-001000600026-1.jpg?v=638645997925530000",
+          "alt": "Champanheira Esferas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Champanheira Esferas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196711-620-auto/bowl-esferas-g-001002300076-1.jpg?v=638645997752900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196711-620-auto/bowl-esferas-g-001002300076-1.jpg?v=638645997752900000",
+          "alt": "Bowl Esferas G"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Bowl Esferas G"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197833-620-auto/000003611_Set_Pt_Guardanapo_Esferas_2_unid.png?v=638678112714030000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/193821-620-auto/set-placement-esferas-2-pecas-001000100865-1.jpg?v=638542638336400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193822-620-auto/set-placement-esferas-2-pecas-001000100865-2.jpg?v=638542638337930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196717-620-auto/champanheira-esferas-001000600026-1.jpg?v=638645997925530000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/196711-620-auto/bowl-esferas-g-001002300076-1.jpg?v=638645997752900000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 894
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Balde de Gelo sem Tampa Palmeira",
+        "Balde de Gelo Lima da Pérsia",
+        "Balde para Garrafa Esferas"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197893-620-auto/1000600216_BALDE_DE_GELO_SEM_TAMPA_PALMEIRA.png?v=638684773357070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197893-620-auto/1000600216_BALDE_DE_GELO_SEM_TAMPA_PALMEIRA.png?v=638684773357070000",
+          "alt": "Balde de Gelo sem Tampa Palmeira"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Balde de Gelo sem Tampa Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+          "alt": "Balde de Gelo com Tampa Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+          "alt": "Balde de Gelo com Tampa Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194937-620-auto/balde-de-gelo-lima-da-persia-001000600113-1.jpg?v=638854229616370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194937-620-auto/balde-de-gelo-lima-da-persia-001000600113-1.jpg?v=638854229616370000",
+          "alt": "Balde de Gelo Lima da Pérsia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195072-620-auto/001000600113_Balde_de_Gelo_Lima_da_Persia--1-.png?v=638854229616530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195072-620-auto/001000600113_Balde_de_Gelo_Lima_da_Persia--1-.png?v=638854229616530000",
+          "alt": "Balde de Gelo Lima da Pérsia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+          "alt": "Balde para Garrafa Esferas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000",
+          "alt": "Balde para Garrafa Esferas"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197893-620-auto/1000600216_BALDE_DE_GELO_SEM_TAMPA_PALMEIRA.png?v=638684773357070000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194937-620-auto/balde-de-gelo-lima-da-persia-001000600113-1.jpg?v=638854229616370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195072-620-auto/001000600113_Balde_de_Gelo_Lima_da_Persia--1-.png?v=638854229616530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 885
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:12:45.478Z",
+  "totalSections": 9
+}

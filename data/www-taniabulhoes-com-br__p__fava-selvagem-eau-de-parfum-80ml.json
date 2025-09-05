@@ -1,0 +1,584 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/fava-selvagem-eau-de-parfum-80ml",
+  "title": "Fava Selvagem Eau de Parfum 80ml",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Eau de Parfum",
+        "Fava Selvagem Eau de Parfum 80ml"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 215
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Fava Selvagem Eau de Parfum 80ml",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Fava Selvagem Eau de Parfum 80ml",
+        "R$ 480,00",
+        "2x de R$ 240,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "alt": "Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+          "alt": "Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "alt": "Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+          "alt": "Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+          "alt": "Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1",
+          "alt": "000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200716/000003026_Fava_Selvagem_Eau_de_Parfum_80ml_2.jpg.jpg?v=638887257568370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200717/fava-selvagem-eau-de-parfum-80ml-003l02800033-4.jpg?v=638887257568500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200718/000003026_Fava_Selvagem_Eau_de_Parfum_80ml.jpg.jpg?v=638887257568630000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1656
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Oriental Âmbar",
+        "Lírio d'Água",
+        "Frésia",
+        "Vanilla de Madagascar",
+        "Descrição adicional",
+        "Fava Selvagem é o convite a um passeio encantador por terras distantes, um oriental âmbar que tem sua abertura e corpo com florais frescos de lírio d’água e frésia. Desde o princípio, esta jornada envolve um complexo de madeiras e a Vanilla de Madagascar."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4"
+      ],
+      "html": null,
+      "score": 1212
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_6b26833479.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_6b26833479.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003010_Fava_Selvagem_Eau_de_Parfum_30ml_2_6b26833479.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Com uma saída fresca de notas aquáticas, é um perfume versátil para ser usado a qualquer momento do dia. Seu corpo floral transparente mantém a leveza e ressalta a cremosidade da fava."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 475
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Fava Selvagem Eau de Parfum 80ml",
+        "R$ 480,00",
+        "Chá Branco Eau de Parfum 80ml",
+        "incluso",
+        "Rosas Roubadas Eau de Parfum 80ml",
+        "Compre Os 3 produtos por:",
+        "R$ 1.440,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200714%2Ffava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg%3Fv%3D638887257568030000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200714%2Ffava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg%3Fv%3D638887257568030000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200714%2Ffava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg%3Fv%3D638887257568030000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200714%2Ffava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg%3Fv%3D638887257568030000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200765%2Fcha-branco-eau-de-parfum-80ml-003l02800012-1.jpg%3Fv%3D638887264483130000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200765%2Fcha-branco-eau-de-parfum-80ml-003l02800012-1.jpg%3Fv%3D638887264483130000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200765%2Fcha-branco-eau-de-parfum-80ml-003l02800012-1.jpg%3Fv%3D638887264483130000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200765%2Fcha-branco-eau-de-parfum-80ml-003l02800012-1.jpg%3Fv%3D638887264483130000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200714%2Ffava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg%3Fv%3D638887257568030000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200765%2Fcha-branco-eau-de-parfum-80ml-003l02800012-1.jpg%3Fv%3D638887264483130000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200715/Fava-Selvagem-Cards-Perfumaria-pessoal-E-commerce-07.jpg?v=638887257568200000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200714/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1673
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Best Seller",
+        "Chá Branco Eau de Parfum 30ml",
+        "Premiado",
+        "Rosas Roubadas Eau de Parfum 30ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 981
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:17:23.831Z",
+  "totalSections": 10
+}

@@ -1,0 +1,582 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/set-bowl-flor-do-ocidente-2-pecas",
+  "title": "Set Bowl Flor do Ocidente 2 Peças",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Bowls",
+        "Set Bowl Flor do Ocidente 2 Peças"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 119
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Set Bowl Flor do Ocidente 2 Peças",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Set Bowl Flor do Ocidente 2 Peças",
+        "Serve 02 lugares à mesa.",
+        "R$ 360,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "alt": "000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+          "alt": "000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "alt": "000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+          "alt": "000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+          "alt": "000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200213/000002521K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_4.png?v=638848108107330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200214/set-bowl-flor-do-ocidente-2-pecas-000002521k-2.jpg?v=638848108107500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200215/set-bowl-flor-do-ocidente-2-pecas-000002521k-1.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200216/set-bowl-flor-do-ocidente-2-pecas-000002521k-4.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200217/set-bowl-flor-do-ocidente-2-pecas-000002521k-3.jpg?v=638848108107670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200218/set-bowl-flor-do-ocidente-2-pecas-000002521k-5.jpg?v=638848108107670000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2036
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Porcelana",
+        "5cm de altura",
+        "450ml",
+        "Não vai à lava-louças e ao micro-ondas. Não levar ao forno.",
+        "Descrição adicional",
+        "A coleção de porcelanas decoradas Flor do Ocidente ilustra com atemporalidade louças e acessórios para todos os momentos à mesa."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/sousplat_flor_do_ocidente_001002300392_2_1718669924235.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/sousplat_flor_do_ocidente_001002300392_2_1718669924235.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/sousplat_flor_do_ocidente_001002300392_2_1718669924235.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 868
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002521_K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_6_6be960d929.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002521_K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_6_6be960d929.jpg",
+          "alt": "Apaixone-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002521_K_KIT_BOWL_FLOR_DO_OCIDENTE_2_UNID_6_6be960d929.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Apaixone-se",
+        "Charme e sofisticação que revelam em cada detalhe a nossa paixão por receber bem."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 253
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Set Xícara de Café Flor do Ocidente 4 Peças",
+        "Set Vaso Flor do Ocidente 2 Peças",
+        "Set Prato Raso Flor do Ocidente 2 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191435-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-1.jpg?v=638782702203070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191435-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-1.jpg?v=638782702203070000",
+          "alt": "Set Xícara de Café Flor do Ocidente 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191436-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-2.jpg?v=638782702203200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191436-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-2.jpg?v=638782702203200000",
+          "alt": "Set Xícara de Café Flor do Ocidente 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200043-620-auto/set-vaso-flor-do-ocidente-2-pecas-000002526k-1.jpg?v=638845730934730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200043-620-auto/set-vaso-flor-do-ocidente-2-pecas-000002526k-1.jpg?v=638845730934730000",
+          "alt": "Set Vaso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200044-620-auto/000002526K_Kit_Vaso_Flor_do_Ocidente_2_unid_4.jpg?v=638845730934900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200044-620-auto/000002526K_Kit_Vaso_Flor_do_Ocidente_2_unid_4.jpg?v=638845730934900000",
+          "alt": "Set Vaso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+          "alt": "Set Prato Raso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+          "alt": "Set Prato Raso Flor do Ocidente 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191615-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-1.jpg?v=638782701849100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191615-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-1.jpg?v=638782701849100000",
+          "alt": "Set Xícara de Chá Flor do Ocidente 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191616-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-2.jpg?v=638782701849100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191616-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-2.jpg?v=638782701849100000",
+          "alt": "Set Xícara de Chá Flor do Ocidente 4 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191435-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-1.jpg?v=638782702203070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191436-620-auto/set-xicara-de-cafe-flor-do-ocidente-4-pecas-000002523k-2.jpg?v=638782702203200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200043-620-auto/set-vaso-flor-do-ocidente-2-pecas-000002526k-1.jpg?v=638845730934730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200044-620-auto/000002526K_Kit_Vaso_Flor_do_Ocidente_2_unid_4.jpg?v=638845730934900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200203-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_3.png?v=638848089899730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200204-620-auto/000002518K_Kit_Prato_Raso_Flor_do_Ocidente_2_unid_9.jpg?v=638848089900070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191615-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-1.jpg?v=638782701849100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191616-620-auto/set-xicara-de-cha-flor-do-ocidente-4-pecas-000002522k-2.jpg?v=638782701849100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 909
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Bowl Mediterrâneo Verde",
+        "Bowl Mediterrâneo Areia",
+        "Bowl Cravo e Canela",
+        "Aparelho de Jantar Mediterrâneo Areia 18 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191783-620-auto/bowl-mediterraneo-verde-001002300083-1.jpg?v=638782678942100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191783-620-auto/bowl-mediterraneo-verde-001002300083-1.jpg?v=638782678942100000",
+          "alt": "Bowl Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191784-620-auto/bowl-mediterraneo-verde-001002300083-2.jpg?v=638782678942230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191784-620-auto/bowl-mediterraneo-verde-001002300083-2.jpg?v=638782678942230000",
+          "alt": "Bowl Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192751-620-auto/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192751-620-auto/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000",
+          "alt": "Bowl Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192752-620-auto/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192752-620-auto/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000",
+          "alt": "Bowl Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199970-620-auto/bowl-cravo-e-canela-001002300024-1.jpg?v=638841246663730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199970-620-auto/bowl-cravo-e-canela-001002300024-1.jpg?v=638841246663730000",
+          "alt": "Bowl Cravo e Canela"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199971-620-auto/308004-949_Bowl_Cravo_e_Canela_6.jpg?v=638841246664070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199971-620-auto/308004-949_Bowl_Cravo_e_Canela_6.jpg?v=638841246664070000",
+          "alt": "Bowl Cravo e Canela"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+          "alt": "Aparelho de Jantar Mediterrâneo Areia 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000",
+          "alt": "Aparelho de Jantar Mediterrâneo Areia 18 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191783-620-auto/bowl-mediterraneo-verde-001002300083-1.jpg?v=638782678942100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191784-620-auto/bowl-mediterraneo-verde-001002300083-2.jpg?v=638782678942230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192751-620-auto/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192752-620-auto/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199970-620-auto/bowl-cravo-e-canela-001002300024-1.jpg?v=638841246663730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199971-620-auto/308004-949_Bowl_Cravo_e_Canela_6.jpg?v=638841246664070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 911
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:22:09.521Z",
+  "totalSections": 10
+}

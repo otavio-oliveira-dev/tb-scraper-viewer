@@ -1,0 +1,725 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer",
+  "title": "Aparelho de Jantar Casa das Orquídeas Rouge de Fer",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Aparelhos de Jantar",
+        "Aparelho de Jantar Casa das Orquídeas Rouge de Fer"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 230
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Aparelho de Jantar Casa das Orquídeas Rouge de Fer",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Aparelho de Jantar Casa das Orquídeas Rouge de Fer",
+        "Serve 06 lugares à mesa",
+        "R$ 17.400,00",
+        "10x de R$ 1.740,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "alt": "1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "alt": "PRATO-RASO-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "alt": "PRATO-SOBREMESA-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER-02"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+          "alt": "BOWL-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+          "alt": "1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+          "alt": "PRATO-RASO-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "alt": "1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+          "alt": "PRATO-SOBREMESA-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+          "alt": "BOWL-ROUGE-DE-FER-02"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "alt": "1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+          "alt": "1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "alt": "PRATO-RASO-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+          "alt": "PRATO-RASO-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "alt": "PRATO-SOBREMESA-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+          "alt": "PRATO-SOBREMESA-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER-02"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+          "alt": "BOWL-ROUGE-DE-FER-02"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+          "alt": "BOWL-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+          "alt": "1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+          "alt": "PRATO-RASO-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "alt": "1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+          "alt": "PRATO-SOBREMESA-ROUGE-DE-FER"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+          "alt": "BOWL-ROUGE-DE-FER-02"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1",
+          "alt": "1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/195482/aparelho-de-jantar-casa-das-orquideas-rouge-de-fer-001002301010k-1.png?v=638763650692570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195684/BOWL-ROUGE-DE-FER.png?v=638763650692570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195685/1002301010_Prato_Raso_Casa_das_Orquideas_Rouge_de_Fer--1-.png?v=638763650692730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195686/PRATO-RASO-ROUGE-DE-FER.png?v=638763650692730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195687/1002301011_Prato_Sobremesa_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195688/PRATO-SOBREMESA-ROUGE-DE-FER.jpg?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195689/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer.png?v=638763650692870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195690/BOWL-ROUGE-DE-FER-02.png?v=638763650693030000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/195691/1002301012_Bowl_Casa_das_Orquideas_Rouge_de_Fer_3.png?v=638763650693030000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2874
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Raso, Sobremesa e Bowl",
+        "Porcelana Limoges",
+        "Prato Raso 26.6cm x 3.1cm",
+        "Prato de Sobremesa 21.9cm x 2.3cm",
+        "Prato Fundo 7.6cm x 4.7cm",
+        "Não vai ao micro-ondas. Vai ao lava-louças e freezer. Não levar ao forno.",
+        "Descrição adicional",
+        "Produzida em Limoges, na França, a coleção de porcelanas decoradas Casa das Orquídeas Rouge de Fer veste a mesa com atemporalidade e elegância."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Prancheta_4_1_8e682a7bb9.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Prancheta_4_1_8e682a7bb9.png",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Prancheta_4_1_8e682a7bb9.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1002
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/XICARA_DE_CAFE_ROUGE_DE_FER_2980991e85.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/XICARA_DE_CAFE_ROUGE_DE_FER_2980991e85.png",
+          "alt": "Inspire-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/XICARA_DE_CAFE_ROUGE_DE_FER_2980991e85.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Inspire-se",
+        "Das memórias afetivas à inspiração de uma mesa que conta histórias."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 238
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Bowl Casa das Orquídeas Rouge de Fer",
+        "Xícara de Chá Casa das Orquídeas Rouge de Fer",
+        "Prato de Pão Casa das Orquídeas Rouge de Fer"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+          "alt": "Bowl Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+          "alt": "Bowl Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195476-620-auto/xicara-de-cha-casa-das-orquideas-rouge-de-fer-001002301014-1.png?v=638763650918670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195476-620-auto/xicara-de-cha-casa-das-orquideas-rouge-de-fer-001002301014-1.png?v=638763650918670000",
+          "alt": "Xícara de Chá Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195624-620-auto/XICARA-CHA-ROUGE-DE-FER-02.png?v=638763650918830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195624-620-auto/XICARA-CHA-ROUGE-DE-FER-02.png?v=638763650918830000",
+          "alt": "Xícara de Chá Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195479-620-auto/xicara-de-cafe-casa-das-orquideas-rouge-de-fer-001002301015-1.png?v=638763651092970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195479-620-auto/xicara-de-cafe-casa-das-orquideas-rouge-de-fer-001002301015-1.png?v=638763651092970000",
+          "alt": "Xícara de Café Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195620-620-auto/XICARA-CAFE-ROUGE-DE-FER-02.png?v=638763651092970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195620-620-auto/XICARA-CAFE-ROUGE-DE-FER-02.png?v=638763651092970000",
+          "alt": "Xícara de Café Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195475-620-auto/prato-de-pao-casa-das-orquideas-rouge-de-fer-001002301013-1.png?v=638763652019100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195475-620-auto/prato-de-pao-casa-das-orquideas-rouge-de-fer-001002301013-1.png?v=638763652019100000",
+          "alt": "Prato de Pão Casa das Orquídeas Rouge de Fer"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195615-620-auto/PRATO-DE-PAO-ROUGE-DE-FER.png?v=638763652019100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195615-620-auto/PRATO-DE-PAO-ROUGE-DE-FER.png?v=638763652019100000",
+          "alt": "Prato de Pão Casa das Orquídeas Rouge de Fer"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195472-620-auto/bowl-casa-das-orquideas-rouge-de-fer-001002301012-1.png?v=638763652248630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195611-620-auto/BOWL-ROUGE-DE-FER.png?v=638763652248800000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195476-620-auto/xicara-de-cha-casa-das-orquideas-rouge-de-fer-001002301014-1.png?v=638763650918670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195624-620-auto/XICARA-CHA-ROUGE-DE-FER-02.png?v=638763650918830000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195479-620-auto/xicara-de-cafe-casa-das-orquideas-rouge-de-fer-001002301015-1.png?v=638763651092970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195620-620-auto/XICARA-CAFE-ROUGE-DE-FER-02.png?v=638763651092970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/195475-620-auto/prato-de-pao-casa-das-orquideas-rouge-de-fer-001002301013-1.png?v=638763652019100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195615-620-auto/PRATO-DE-PAO-ROUGE-DE-FER.png?v=638763652019100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1119
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Aparelho de Jantar Branco de Ouro 18 peças",
+        "Aparelho de Jantar Mediterrâneo Areia 18 Peças",
+        "Aparelho de Jantar Marquesa 18 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+          "alt": "Aparelho de Jantar Branco de Ouro 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+          "alt": "Aparelho de Jantar Mediterrâneo Areia 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000",
+          "alt": "Aparelho de Jantar Mediterrâneo Areia 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191776-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-1.jpg?v=638782679360300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191776-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-1.jpg?v=638782679360300000",
+          "alt": "Aparelho de Jantar Mediterrâneo Verde 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191777-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-2.jpg?v=638782679360300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191777-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-2.jpg?v=638782679360300000",
+          "alt": "Aparelho de Jantar Mediterrâneo Verde 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191890-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-1.jpg?v=638782712404330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191890-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-1.jpg?v=638782712404330000",
+          "alt": "Aparelho de Jantar Marquesa 18 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191891-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-2.jpg?v=638782712404500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191891-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-2.jpg?v=638782712404500000",
+          "alt": "Aparelho de Jantar Marquesa 18 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191830-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-1.jpg?v=638782692289830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191831-620-auto/aparelho-de-jantar-branco-de-ouro-18-pecas-000001460k-2.jpg?v=638782692289970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192755-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-1.jpg?v=638760025255800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192756-620-auto/aparelho-de-jantar-mediterraneo-areia-18-pecas-992017102k-2.jpg?v=638760025255930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191776-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-1.jpg?v=638782679360300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191777-620-auto/aparelho-de-jantar-mediterraneo-verde-18-pecas-000000793k-2.jpg?v=638782679360300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191890-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-1.jpg?v=638782712404330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191891-620-auto/aparelho-de-jantar-marquesa-18-pecas-992015055k-2.jpg?v=638782712404500000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 923
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:50:54.315Z",
+  "totalSections": 10
+}

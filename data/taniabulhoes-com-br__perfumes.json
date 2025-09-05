@@ -3,21 +3,65 @@
   "title": "Perfumes - Tania Bulhões",
   "sections": [
     {
-      "selector": "#home-banner",
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
       "attrs": {
-        "id": "home-banner",
-        "class": "sc-7620ef51-0 kYovvv"
+        "class": "button-section"
       },
       "heading": "Ops, sua sacola está vazia!",
       "text_blocks": [
-        "1989 Eau de Parfum",
-        "Um floral fresco e envolvente"
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 198
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "#home-banner > div.sc-7620ef51-2.hqpLLx",
+      "attrs": {
+        "class": "sc-7620ef51-2 hqpLLx"
+      },
+      "heading": null,
+      "text_blocks": [
+        "1989 Eau de Parfum",
+        "Um floral fresco e envolvente",
+        "Conheça"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 136
     },
     {
       "selector": "#\\32 63",
@@ -33,6 +77,7 @@
         "Hidratantes Corporais",
         "Transforme seu cuidado diário em um gesto de prazer e sofisticação.",
         "À Francesa Hidratante Corporal 150g",
+        "Best Seller",
         "Chá Branco Hidratante Corporal 150g",
         "1989 Hidratante Corporal 150g",
         "Rosas Roubadas Hidratante Corporal 150g",
@@ -128,8 +173,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199476-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814366044400000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1259
+      "score": 1401
     },
     {
       "selector": "#\\37 8",
@@ -146,11 +193,11 @@
         "O PRESENTE PERFEITO",
         "Presentear sempre fez parte da nossa identidade",
         "Presenteie com perfumes únicos em um kit que combina Eau de Parfum desenvolvido por nossos perfumistas diretamente para você.",
+        "Descubra",
         "Kit Hidratante Chá Branco 150g",
         "Galeria Olfativa Kit Experiência 12 x 2ml",
-        "Kit Clássicos",
         "Kit Perfume 80ml - Meu Verde",
-        "INDISPONÍVEL"
+        "Kit Clássicos"
       ],
       "images": [
         {
@@ -178,18 +225,6 @@
           "alt": "Galeria Olfativa Kit Experiência 12 x 2ml"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
-          "alt": "Kit Clássicos"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
-          "alt": "Kit Clássicos"
-        },
-        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
@@ -200,6 +235,18 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000",
           "alt": "Kit Perfume 80ml - Meu Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "alt": "Kit Clássicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "alt": "Kit Clássicos"
         }
       ],
       "image_urls": [
@@ -207,14 +254,16 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
         "https://taniab.vteximg.com.br/arquivos/ids/199238-620-auto/003L02800143_Galeria_Olfativa_3.png?v=638804106947100000",
         "https://taniab.vteximg.com.br/arquivos/ids/199239-620-auto/003L02800143_Galeria_Olfativa_2.jpg.jpg?v=638804106947400000",
-        "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
-        "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
         "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
-        "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000"
+        "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1132
+      "score": 1258
     },
     {
       "selector": "#\\37 4",
@@ -231,18 +280,17 @@
         "Fruto da colaboração entre Tania e renomados perfumistas, nossos perfumes são verdadeiras obras de arte. Com alta concentração dos melhores ingredientes, oferecem maior durabilidade na pele.",
         "EXPERIMENTE",
         "Ventos de Lavanda Eau de Parfum 80ml",
-        "Best Seller",
         "Chá Branco Eau de Parfum 80ml",
         "Frenesi Eau de Parfum 80ml",
+        "Premiado",
         "Encontro Marcado Eau de Parfum 80ml",
         "Rosas Roubadas Eau de Parfum 80ml",
         "1989 Eau de Parfum 80ml",
+        "Meu Verde Eau de Parfum 80ml",
         "À Francesa Eau de Parfum 80ml",
         "Fava Selvagem Eau de Parfum 80ml",
         "Segredo Eau de Parfum 80ml",
-        "Sinfonia Eau de Parfum 80ml",
-        "Meu Verde Eau de Parfum 80ml",
-        "INDISPONÍVEL"
+        "Sinfonia Eau de Parfum 80ml"
       ],
       "images": [
         {
@@ -330,6 +378,18 @@
           "alt": "1989 Eau de Parfum 80ml"
         },
         {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
+          "alt": "Meu Verde Eau de Parfum 80ml"
+        },
+        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
@@ -376,18 +436,6 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
           "alt": "Sinfonia Eau de Parfum 80ml"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-          "alt": "Meu Verde Eau de Parfum 80ml"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
-          "alt": "Meu Verde Eau de Parfum 80ml"
         }
       ],
       "image_urls": [
@@ -405,6 +453,8 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
         "https://taniab.vteximg.com.br/arquivos/ids/200737-620-auto/1989-eau-de-parfum-80ml-tania-n-30-003l02800030-1.jpg?v=638887260040100000",
         "https://taniab.vteximg.com.br/arquivos/ids/200738-620-auto/1989-Cards-Perfumaria-pessoal-E-commerce-09.jpg?v=638887260040270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000",
         "https://taniab.vteximg.com.br/arquivos/ids/200694-620-auto/a-francesa-eau-de-parfum-80ml-jardim-de-rosas-003l02800034-1.jpg?v=638887254867100000",
         "https://taniab.vteximg.com.br/arquivos/ids/200695-620-auto/A-Francesa-Cards-Perfumaria-pessoal-E-commerce-03.jpg?v=638887254867830000",
         "https://taniab.vteximg.com.br/arquivos/ids/200714-620-auto/fava-selvagem-eau-de-parfum-80ml-003l02800033-1.jpg?v=638887257568030000",
@@ -412,13 +462,13 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200724-620-auto/segredo-eau-de-parfum-80ml-patchouli-003l02800041-1.jpg?v=638887258588900000",
         "https://taniab.vteximg.com.br/arquivos/ids/200725-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258589200000",
         "https://taniab.vteximg.com.br/arquivos/ids/200704-620-auto/sinfonia-eau-de-parfum-80ml-figo-003l02800039-1.jpg?v=638887255919000000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200752-620-auto/meu-verde-eau-de-parfum-80ml-tangerina-verde-003l02800031-1.jpg?v=638887262170000000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200753-620-auto/Meu-Verde-Cards-Perfumaria-pessoal-E-commerce-02.jpg?v=638887262170170000"
+        "https://taniab.vteximg.com.br/arquivos/ids/200705-620-auto/Sinfonia-Cards-Perfumaria-pessoal-E-commerce-06.jpg?v=638887255919170000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 2126
+      "score": 2240
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -429,7 +479,9 @@
       },
       "heading": "O contraste entre o frescor das madeiras e a delicadeza das notas florais é o segredo por trás de Frenesi.",
       "text_blocks": [
-        "O contraste entre o frescor das madeiras e a delicadeza das notas florais é o segredo por trás de Frenesi."
+        "Frenesi",
+        "O contraste entre o frescor das madeiras e a delicadeza das notas florais é o segredo por trás de Frenesi.",
+        "Descubra"
       ],
       "images": [
         {
@@ -455,8 +507,10 @@
         "https://static.taniabulhoes.com.br/003002800002_Frenesi_Eau_de_Parfum_30ml_3_c9b2b8cdae.jpg",
         "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_2_1_4630b4e050.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 666
+      "score": 1483
     },
     {
       "selector": "#\\31 20",
@@ -522,8 +576,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195904-620-auto/Florais_3.png?v=638866272379200000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 886
+      "score": 1016
     },
     {
       "selector": "#\\31 39",
@@ -604,8 +660,10 @@
         "https://static.taniabulhoes.com.br/000003003_Meu_Verde_Eau_de_Parfum_30ml_2_248802478d.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 953
+      "score": 1083
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(8)",
@@ -644,8 +702,10 @@
         "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
         "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 704
+      "score": 1504
     },
     {
       "selector": "#\\37 5",
@@ -662,8 +722,8 @@
         "CHÁ BRANCO",
         "Um clássico presente",
         "Uma memória dentro da outra. E a surpresa da primeira vez, todos os dias. Um clássico vive presente.",
-        "Best Seller",
         "Chá Branco Eau de Parfum 80ml",
+        "Best Seller",
         "Chá Branco Colônia para Cabelo 30ml",
         "Kit Perfume 80ml - Chá Branco",
         "Chá Branco Creme para Mãos 40g"
@@ -729,8 +789,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/197888-620-auto/CREME-PARA-MAOS-CHA-BRANCO_2.jpg?v=638810292548200000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1081
+      "score": 1211
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -739,17 +801,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:45:47.260Z",
-  "totalSections": 10
+  "scrapedAt": "2025-09-05T03:11:36.770Z",
+  "totalSections": 12
 }

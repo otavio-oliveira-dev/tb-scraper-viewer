@@ -1,0 +1,301 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/sabonete-corporal-em-barra",
+  "title": "Sabonete Corporal em Barra",
+  "sections": [
+    {
+      "selector": "div[data-cy=\"pdp-breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "pdp-breadcrumb-container",
+        "class": "sc-9b54df8f-1 kSVRzd"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Tania Pele",
+        "Sabonetes",
+        "Sabonete Corporal em Barra"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 127
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Sabonete Corporal em Barra",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Sabonete Corporal em Barra",
+        "Limpeza e hidratação • 120g",
+        "R$ 45,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "alt": "SABONETE-EM-BARRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "alt": "000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "alt": "000002780_Sabonete_em_Barra_Tania_Pele"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+          "alt": "SABONETE-EM-BARRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+          "alt": "000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1",
+          "alt": "000002780_Sabonete_em_Barra_Tania_Pele"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "alt": "SABONETE-EM-BARRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+          "alt": "SABONETE-EM-BARRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "alt": "000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+          "alt": "000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "alt": "000002780_Sabonete_em_Barra_Tania_Pele"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+          "alt": "000002780_Sabonete_em_Barra_Tania_Pele"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+          "alt": "SABONETE-EM-BARRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+          "alt": "000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1",
+          "alt": "000002780_Sabonete_em_Barra_Tania_Pele"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018/SABONETE-EM-BARRA.jpg?v=638620969389600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196019/000002780_Tania_Pele_Cha_Rosa_Sabonete_Corporal_em_Barra_120g.png?v=638620969480800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196020/000002780_Sabonete_em_Barra_Tania_Pele.jpg?v=638620969571430000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1531
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Corporal",
+        "Aplique sobre a pele úmida, produzindo espuma abundante, em seguida enxague. Este produto proporciona: limpeza e hidratação na pele diariamente e provoca uma sensação de purificação e bem-estar.",
+        "Descrição adicional",
+        "Sabonete Corporal em Barra de Taniapele, proporciona uma limpeza suave e fragrância luxuosa, transforme seu ritual de cuidados diários em momentos de pura indulgência para a pele."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_89ccfd0bfc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_89ccfd0bfc.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/ESFOLIANTE_CORPORAL_89ccfd0bfc.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1033
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_TANIAPEL_90_OK_59564308c7.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_TANIAPEL_90_OK_59564308c7.jpg",
+          "alt": "Taniapele"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/STILL_TANIAPEL_90_OK_59564308c7.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Taniapele",
+        "Descubra o segredo de uma pele saudável e radiante."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 221
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:55:32.603Z",
+  "totalSections": 6
+}

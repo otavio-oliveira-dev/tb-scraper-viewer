@@ -1,0 +1,525 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/presentes-perfumaria-pessoal",
+  "title": "Tania Bulhões - Presentes Perfumaria Pessoal",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "#\\32 10",
+      "attrs": {
+        "id": "210",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Kits para Presentear",
+      "text_blocks": [
+        "Kits para Presentear",
+        "Surpreenda quem você ama com presentes que provocam explosões olfativas.",
+        "Kit Hidratante Meu Verde 150g",
+        "Kit Perfume 80ml - Chá Branco",
+        "Kit Hidratante Rosas Roubadas 150g",
+        "Kit Perfume 80ml - 1989",
+        "Kit Hidratante À Francesa 150g",
+        "Kit Perfume 80ml - Rosas Roubadas",
+        "Kit Hidratante 1989 150g",
+        "Kit Perfume 80ml - Ventos de Lavanda",
+        "Kit Hidratante Chá Branco 150g",
+        "Kit Perfume 80ml - Meu Verde",
+        "Kit Hidratante Ventos de Lavanda 150g",
+        "Kit Perfume 80ml - À Francesa"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+          "alt": "Kit Hidratante Meu Verde 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000",
+          "alt": "Kit Hidratante Meu Verde 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199025-620-auto/KIT-PERFUMARIA-CHA-BRANCO.png.png?v=638799770836300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199025-620-auto/KIT-PERFUMARIA-CHA-BRANCO.png.png?v=638799770836300000",
+          "alt": "Kit Perfume 80ml - Chá Branco"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199026-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799770836600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199026-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799770836600000",
+          "alt": "Kit Perfume 80ml - Chá Branco"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+          "alt": "Kit Hidratante Rosas Roubadas 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+          "alt": "Kit Hidratante Rosas Roubadas 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199037-620-auto/KIT-PERFUMARIA-1989-CAIXA-VERDE.png.png?v=638799791509800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199037-620-auto/KIT-PERFUMARIA-1989-CAIXA-VERDE.png.png?v=638799791509800000",
+          "alt": "Kit Perfume 80ml - 1989"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199038-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799791509800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199038-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799791509800000",
+          "alt": "Kit Perfume 80ml - 1989"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+          "alt": "Kit Hidratante À Francesa 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+          "alt": "Kit Hidratante À Francesa 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199110-620-auto/KIT-PERFUMARIA-ROSAS-ROUBADAS-CAIXA-VERDE.png.png?v=638802386424600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199110-620-auto/KIT-PERFUMARIA-ROSAS-ROUBADAS-CAIXA-VERDE.png.png?v=638802386424600000",
+          "alt": "Kit Perfume 80ml - Rosas Roubadas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199111-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638802386424930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199111-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638802386424930000",
+          "alt": "Kit Perfume 80ml - Rosas Roubadas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+          "alt": "Kit Hidratante 1989 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+          "alt": "Kit Hidratante 1989 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199031-620-auto/KIT-PERFUMARIA-LAVANDA--1-.png.png?v=638799790241700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199031-620-auto/KIT-PERFUMARIA-LAVANDA--1-.png.png?v=638799790241700000",
+          "alt": "Kit Perfume 80ml - Ventos de Lavanda"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199032-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799790241870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199032-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799790241870000",
+          "alt": "Kit Perfume 80ml - Ventos de Lavanda"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+          "alt": "Kit Hidratante Chá Branco 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+          "alt": "Kit Hidratante Chá Branco 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
+          "alt": "Kit Perfume 80ml - Meu Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000",
+          "alt": "Kit Perfume 80ml - Meu Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+          "alt": "Kit Hidratante Ventos de Lavanda 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+          "alt": "Kit Hidratante Ventos de Lavanda 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199055-620-auto/KIT-PERFUMARIA-A-FRANCESA.png.png?v=638799796678430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199055-620-auto/KIT-PERFUMARIA-A-FRANCESA.png.png?v=638799796678430000",
+          "alt": "Kit Perfume 80ml - À Francesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199056-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799796678600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199056-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799796678600000",
+          "alt": "Kit Perfume 80ml - À Francesa"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199415-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g.png.png?v=638809465887170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199416-620-auto/003L01800033K_Kit_Hidratante_Meu_Verde_150g_2.jpg.jpg?v=638809465887330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199025-620-auto/KIT-PERFUMARIA-CHA-BRANCO.png.png?v=638799770836300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199026-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799770836600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199746-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g.png.png?v=638829975643870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199747-620-auto/003L01800031K_Kit_Hidratante_Rosas_Roubadas_150g_2.jpg.jpg?v=638829975644000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199037-620-auto/KIT-PERFUMARIA-1989-CAIXA-VERDE.png.png?v=638799791509800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199038-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799791509800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199784-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g.png.png?v=638829982743800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199785-620-auto/003L01800034K_Kit_Hidratante_A_Francesa_150g_2.jpg.jpg?v=638829982743800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199110-620-auto/KIT-PERFUMARIA-ROSAS-ROUBADAS-CAIXA-VERDE.png.png?v=638802386424600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199111-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638802386424930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199391-620-auto/003L01800032K_Kit_Hidratante_1989_150g.png.png?v=638809465305700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199392-620-auto/003L01800032K_Kit_Hidratante_1989_150g_2.jpg.jpg?v=638809465306000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199031-620-auto/KIT-PERFUMARIA-LAVANDA--1-.png.png?v=638799790241700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199032-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799790241870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199677-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g.png.png?v=638829933249930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199678-620-auto/003L01800029K_Kit_Hidratante_Cha_Branco_150g_4.jpg.jpg?v=638829933249930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199043-620-auto/KIT-PERFUMARIA-MEU-VERDE.png.png?v=638799792670630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199044-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799792670800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199720-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g.png.png?v=638829968326570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199721-620-auto/003L01800030K_Kit_Hidratante_Ventos_de_Lavanda_150g_4.jpg.jpg?v=638829968326770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199055-620-auto/KIT-PERFUMARIA-A-FRANCESA.png.png?v=638799796678430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199056-620-auto/011024_TB_CAMPANHA_NATAL0046_OK.jpg.jpg?v=638799796678600000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2147
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Uma jornada para te ajudar a encontrar sua própria identidade olfativa.",
+      "text_blocks": [
+        "Galeria Olfativa",
+        "Uma jornada para te ajudar a encontrar sua própria identidade olfativa.",
+        "Conheça"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_3_d722547a76.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_3_d722547a76.png",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_4_1_1b4f278873.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_4_1_1b4f278873.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_3_d722547a76.png",
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_4_1_1b4f278873.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_3_d722547a76.png",
+        "https://static.taniabulhoes.com.br/003_L02800143_Galeria_Olfativa_4_1_1b4f278873.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1336
+    },
+    {
+      "selector": "#\\32 11",
+      "attrs": {
+        "id": "211",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Kit Descoberta",
+      "text_blocks": [
+        "Kit Descoberta",
+        "Encante-se pelo universo da nossa perfumaria.",
+        "descubra",
+        "Kit Amadeirados",
+        "Kit Mais Vendidos",
+        "Kit Clássicos",
+        "Kit Florais",
+        "Kit Marcantes",
+        "Kit Ousados",
+        "Kit Vibrantes"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+          "alt": "Kit Amadeirados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+          "alt": "Kit Mais Vendidos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+          "alt": "Kit Mais Vendidos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+          "alt": "Kit Clássicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+          "alt": "Kit Clássicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195903-620-auto/Florais--1-.png?v=638615727913070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195903-620-auto/Florais--1-.png?v=638615727913070000",
+          "alt": "Kit Florais"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195904-620-auto/Florais_3.png?v=638866272379200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195904-620-auto/Florais_3.png?v=638866272379200000",
+          "alt": "Kit Florais"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+          "alt": "Kit Marcantes"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000",
+          "alt": "Kit Marcantes"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200454-620-auto/000003500K_Kit_Ousados--1-.png?v=638866263430300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200454-620-auto/000003500K_Kit_Ousados--1-.png?v=638866263430300000",
+          "alt": "Kit Ousados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200455-620-auto/KIT-PERFUMES-9ML-4.png?v=638866261689900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200455-620-auto/KIT-PERFUMES-9ML-4.png?v=638866261689900000",
+          "alt": "Kit Ousados"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200463-620-auto/000002989K_Kit_Vibrantes--1-.png?v=638920836085400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200463-620-auto/000002989K_Kit_Vibrantes--1-.png?v=638920836085400000",
+          "alt": "Kit Vibrantes"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200464-620-auto/KIT-PERFUMES-9ML-4.png?v=638866278096870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200464-620-auto/KIT-PERFUMES-9ML-4.png?v=638866278096870000",
+          "alt": "Kit Vibrantes"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200460-620-auto/003L02800138K_Kit_Amadeirados--1-.png?v=638866291348430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200461-620-auto/KIT-PERFUMES-9ML-4.png?v=638866265704330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195916-620-auto/Mais_Vendidos--2-.png?v=638615833857900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195917-620-auto/Mais_Vendidos_3.png?v=638866267629230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195906-620-auto/Classicos--1-.png?v=638615752200300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195907-620-auto/Classicos_3.png?v=638866272811830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195903-620-auto/Florais--1-.png?v=638615727913070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195904-620-auto/Florais_3.png?v=638866272379200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200457-620-auto/000002992K_Kit_Marcantes--1-.png?v=638866267917970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200458-620-auto/KIT-PERFUMES-9ML-4.png?v=638866263290000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200454-620-auto/000003500K_Kit_Ousados--1-.png?v=638866263430300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200455-620-auto/KIT-PERFUMES-9ML-4.png?v=638866261689900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200463-620-auto/000002989K_Kit_Vibrantes--1-.png?v=638920836085400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200464-620-auto/KIT-PERFUMES-9ML-4.png?v=638866278096870000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1169
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
+      },
+      "heading": "Nosso perfume premiado em 2023, agora com novas formas de perfumar e hidratar.",
+      "text_blocks": [
+        "Kit Rosas Roubadas",
+        "Nosso perfume premiado em 2023, agora com novas formas de perfumar e hidratar.",
+        "Experimente"
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/kit_rosas_roubadas_4_unidades_000004441k_2_1718671146154.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/kit_rosas_roubadas_4_unidades_000004441k_2_1718671146154.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://static.taniabulhoes.com.br/1_1_Rosas_Roubadas_02_75b8f7ea78.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/1_1_Rosas_Roubadas_02_75b8f7ea78.jpg",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/kit_rosas_roubadas_4_unidades_000004441k_2_1718671146154.jpg",
+        "https://static.taniabulhoes.com.br/1_1_Rosas_Roubadas_02_75b8f7ea78.jpg"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/kit_rosas_roubadas_4_unidades_000004441k_2_1718671146154.jpg",
+        "https://static.taniabulhoes.com.br/1_1_Rosas_Roubadas_02_75b8f7ea78.jpg"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1469
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
+      "attrs": {
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
+      },
+      "heading": "Rosas Roubadas Eau de Parfum",
+      "text_blocks": [
+        "Rosas Roubadas Eau de Parfum",
+        "Rosas Roubadas é a interpretação moderna de um floral, com pimenta preta, rosa centifólia e âmbar.",
+        "Em 2023, venceu o prêmio Atualidade Cosmética como Melhor Perfume Independente Latino-Americano Feminino."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/FOTOS_LP_S_1_b82948d854.png",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/FOTOS_LP_S_1_b82948d854.png",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/FOTOS_LP_S_1_b82948d854.png"
+      ],
+      "background_images": [
+        "https://static.taniabulhoes.com.br/FOTOS_LP_S_1_b82948d854.png"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1733
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:01:19.348Z",
+  "totalSections": 8
+}

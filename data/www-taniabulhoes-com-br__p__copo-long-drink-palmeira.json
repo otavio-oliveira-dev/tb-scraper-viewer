@@ -1,0 +1,550 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/copo-long-drink-palmeira",
+  "title": "Copo Long Drink Palmeira",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Copos",
+        "Copo Long Drink Palmeira"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 110
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Copo Long Drink Palmeira",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Copo Long Drink Palmeira",
+        "Serve 01 lugar à mesa",
+        "R$ 480,00",
+        "2x de R$ 240,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1",
+          "alt": "1001000546_COPO_LONG_DRINK_PALMEIRA"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1040
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Long Drink",
+        "Vidro",
+        "Estanho",
+        "11cm de altura",
+        "6.5cm",
+        "390ml",
+        "Lavar à mão com detergente neutro e não usar objetos abrasivos.",
+        "Descrição adicional",
+        "A coleção Palmeira conta com uma linha completa de acessórios para servir que trazem mais possibilidades para montar mesas completas. As esculturas em formato de folhas, que abraçam as peças, conferem leveza e um toque especial à mesa posta. A beleza e a funcionalidade se unem para atender a diversas ocasiões e momentos do servir, tornando o receber ainda mais agradável. Além disso, as peças são verdadeiras coringas, combinando perfeitamente com todas as coleções de louças Tania Bulhões."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_18_2_OK_cc11c41467.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_18_2_OK_cc11c41467.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_18_2_OK_cc11c41467.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1258
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_27_OK_84e4f6803c.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_27_OK_84e4f6803c.jpg",
+          "alt": "Coleção Palmeira"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/CAMPANHA_COLECAO_PALMEIRA_27_OK_84e4f6803c.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Coleção Palmeira",
+        "A essência da natureza brasileira, capturada em peças que refletem a exuberância e o encanto do nosso país."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 404
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Copo Long Drink Palmeira",
+        "R$ 480,00",
+        "Castiçal Palmeira P",
+        "R$ 700,00",
+        "incluso",
+        "Taça Flute Palmeira",
+        "R$ 670,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.850,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197907%2F1001000546_COPO_LONG_DRINK_PALMEIRA.png%3Fv%3D638684843467300000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197907%2F1001000546_COPO_LONG_DRINK_PALMEIRA.png%3Fv%3D638684843467300000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197907%2F1001000546_COPO_LONG_DRINK_PALMEIRA.png%3Fv%3D638684843467300000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197907%2F1001000546_COPO_LONG_DRINK_PALMEIRA.png%3Fv%3D638684843467300000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197904%2F1002401118_CASTICAL_PALMEIRA_P.png%3Fv%3D638684802514400000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197904%2F1002401118_CASTICAL_PALMEIRA_P.png%3Fv%3D638684802514400000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197904%2F1002401118_CASTICAL_PALMEIRA_P.png%3Fv%3D638684802514400000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197904%2F1002401118_CASTICAL_PALMEIRA_P.png%3Fv%3D638684802514400000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197906%2F1001000545_TACA_FLUTE_PALMEIRA.png%3Fv%3D638684835217270000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197906%2F1001000545_TACA_FLUTE_PALMEIRA.png%3Fv%3D638684835217270000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197906%2F1001000545_TACA_FLUTE_PALMEIRA.png%3Fv%3D638684835217270000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197906%2F1001000545_TACA_FLUTE_PALMEIRA.png%3Fv%3D638684835217270000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197993/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197993/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197904/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197904/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198004/1001000545_TACA_FLUTE_PALMEIRA.jpg?v=638695241037930000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198004/1001000545_TACA_FLUTE_PALMEIRA.jpg?v=638695241037930000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197906/1001000545_TACA_FLUTE_PALMEIRA.png?v=638684835217270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197906/1001000545_TACA_FLUTE_PALMEIRA.png?v=638684835217270000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197907%2F1001000546_COPO_LONG_DRINK_PALMEIRA.png%3Fv%3D638684843467300000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197904%2F1002401118_CASTICAL_PALMEIRA_P.png%3Fv%3D638684802514400000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197906%2F1001000545_TACA_FLUTE_PALMEIRA.png%3Fv%3D638684835217270000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197993/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197904/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198004/1001000545_TACA_FLUTE_PALMEIRA.jpg?v=638695241037930000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197906/1001000545_TACA_FLUTE_PALMEIRA.png?v=638684835217270000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/198005/1001000546_COPO_LONG_DRINK_PALMEIRA.jpg?v=638695241241270000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197907/1001000546_COPO_LONG_DRINK_PALMEIRA.png?v=638684843467300000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197993/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197904/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198004/1001000545_TACA_FLUTE_PALMEIRA.jpg?v=638695241037930000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197906/1001000545_TACA_FLUTE_PALMEIRA.png?v=638684835217270000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1481
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Castiçal Palmeira G",
+        "Castiçal Palmeira P",
+        "Balde de Gelo com Tampa Palmeira",
+        "Queijeira Palmeira"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197905-620-auto/1002401119_CASTICAL_PALMEIRA_G.png?v=638684810048530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197905-620-auto/1002401119_CASTICAL_PALMEIRA_G.png?v=638684810048530000",
+          "alt": "Castiçal Palmeira G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197999-620-auto/1002401119_CASTICAL_PALMEIRA_G_3-2.jpg?v=638695240064200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197999-620-auto/1002401119_CASTICAL_PALMEIRA_G_3-2.jpg?v=638695240064200000",
+          "alt": "Castiçal Palmeira G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197904-620-auto/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197904-620-auto/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000",
+          "alt": "Castiçal Palmeira P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197993-620-auto/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197993-620-auto/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000",
+          "alt": "Castiçal Palmeira P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+          "alt": "Balde de Gelo com Tampa Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+          "alt": "Balde de Gelo com Tampa Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197898-620-auto/1000200701_QUEIJEIRA_PALMEIRA.png?v=638684787892100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197898-620-auto/1000200701_QUEIJEIRA_PALMEIRA.png?v=638684787892100000",
+          "alt": "Queijeira Palmeira"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197985-620-auto/1000200701_QUEIJEIRA_PALMEIRA.jpg?v=638695234040100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197985-620-auto/1000200701_QUEIJEIRA_PALMEIRA.jpg?v=638695234040100000",
+          "alt": "Queijeira Palmeira"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197905-620-auto/1002401119_CASTICAL_PALMEIRA_G.png?v=638684810048530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197999-620-auto/1002401119_CASTICAL_PALMEIRA_G_3-2.jpg?v=638695240064200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197904-620-auto/1002401118_CASTICAL_PALMEIRA_P.png?v=638684802514400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197993-620-auto/1002401118_CASTICAL_PALMEIRA_P_2.jpg?v=638695239171400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197890-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.png?v=638684768006570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197978-620-auto/1000600215_BALDE_DE_GELO_COM_TAMPA_PALMEIRA.jpg?v=638695231738100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197898-620-auto/1000200701_QUEIJEIRA_PALMEIRA.png?v=638684787892100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197985-620-auto/1000200701_QUEIJEIRA_PALMEIRA.jpg?v=638695234040100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 883
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Copo Eclipse Tulipa",
+        "Copo Eclipse Turquesa",
+        "Copo Long Drink Seiva",
+        "Copo Fantasia Floresta"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+          "alt": "Copo Eclipse Tulipa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+          "alt": "Copo Eclipse Tulipa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+          "alt": "Copo Long Drink Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+          "alt": "Copo Long Drink Seiva"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+          "alt": "Copo Fantasia Floresta"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000",
+          "alt": "Copo Fantasia Floresta"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193737-620-auto/copo-long-drink-seiva-001001000440-1.jpg?v=638763470118530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194945-620-auto/000003325_Copo_Long_Drink_Seiva.png?v=638763470118670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191594-620-auto/copo-fantasia-floresta-001001000016-1.jpg?v=638763619480400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191595-620-auto/copo-fantasia-floresta-001001000016-2.jpg?v=638763619480400000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 883
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:43:01.723Z",
+  "totalSections": 11
+}

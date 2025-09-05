@@ -1,0 +1,506 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/taca-coupe-leblon-transparente",
+  "title": "Taça Coupe Leblon Transparente",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Taças",
+        "Taça Coupe Leblon Transparente"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 116
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Taça Coupe Leblon Transparente",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Taça Coupe Leblon Transparente",
+        "Serve 01 lugar à mesa",
+        "R$ 77,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "alt": "001001000559_Taca_Coupe_Leblon_Transp"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "alt": "001001000559_Taca_Coupe_Leblon_Transp"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "alt": "001001000559_Taca_Coupe_Leblon_Transp"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+          "alt": "001001000559_Taca_Coupe_Leblon_Transp"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "alt": "001001000559_Taca_Coupe_Leblon_Transp"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 659
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Coupe",
+        "Vidro",
+        "15cm de altura",
+        "9.5cm",
+        "180ml",
+        "Vai à lava-louças.",
+        "Não utilizar materiais de limpeza abrasivos.",
+        "Descrição adicional",
+        "Atemporal e sofisticada, a coleção conta com diferentes formatos de copos e taças para montar mesas surpreendentes em todos os momentos: do dia a dia às ocasiões especiais."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002891_Taca_Vinho_Leblon_Transp_3_dcdc955d47.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002891_Taca_Vinho_Leblon_Transp_3_dcdc955d47.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002891_Taca_Vinho_Leblon_Transp_3_dcdc955d47.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 925
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002897_Taca_Vinho_Leblon_Matcha_3_e04d041069.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002897_Taca_Vinho_Leblon_Matcha_3_e04d041069.jpg",
+          "alt": "Coleção Leblon"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002897_Taca_Vinho_Leblon_Matcha_3_e04d041069.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Coleção Leblon",
+        "Atemporal e sofisticada, a coleção conta com diferentes formatos de copos e taças para montar mesas surpreendentes em todos os momentos: do dia a dia às ocasiões especiais."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 467
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Taça Coupe Leblon Transparente",
+        "R$ 77,00",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "R$ 157,50",
+        "incluso",
+        "Bowl Mediterrâneo Areia",
+        "R$ 165,00",
+        "Compre Os 3 produtos por:",
+        "R$ 399,50",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F198010%2F001001000559_Taca_Coupe_Leblon_Transp.png%3Fv%3D638695253460470000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F198010%2F001001000559_Taca_Coupe_Leblon_Transp.png%3Fv%3D638695253460470000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F198010%2F001001000559_Taca_Coupe_Leblon_Transp.png%3Fv%3D638695253460470000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F198010%2F001001000559_Taca_Coupe_Leblon_Transp.png%3Fv%3D638695253460470000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192796%2Fprato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg%3Fv%3D638760028160670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192796%2Fprato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg%3Fv%3D638760028160670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192796%2Fprato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg%3Fv%3D638760028160670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192796%2Fprato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg%3Fv%3D638760028160670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192751%2Fbowl-mediterraneo-areia-001002300081-1.jpg%3Fv%3D638760799596170000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192751%2Fbowl-mediterraneo-areia-001002300081-1.jpg%3Fv%3D638760799596170000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192751%2Fbowl-mediterraneo-areia-001002300081-1.jpg%3Fv%3D638760799596170000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192751%2Fbowl-mediterraneo-areia-001002300081-1.jpg%3Fv%3D638760799596170000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192797/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192797/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192796/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192796/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192752/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192752/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192751/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192751/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F198010%2F001001000559_Taca_Coupe_Leblon_Transp.png%3Fv%3D638695253460470000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192796%2Fprato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg%3Fv%3D638760028160670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192751%2Fbowl-mediterraneo-areia-001002300081-1.jpg%3Fv%3D638760799596170000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192796/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192752/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192751/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/198010/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192796/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192752/bowl-mediterraneo-areia-001002300081-2.jpg?v=638760799596330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192751/bowl-mediterraneo-areia-001002300081-1.jpg?v=638760799596170000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1596
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Xícara de Café Mediterrâneo Areia",
+        "Refil Difusor para Carro Chá Branco 1,5g",
+        "30% OFF",
+        "Difusor Porcelana Flor Branco Chá Branco 250ml",
+        "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+          "alt": "Refil Difusor para Carro Chá Branco 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+          "alt": "Refil Difusor para Carro Chá Branco 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+          "alt": "Difusor Porcelana Flor Branco Chá Branco 250ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+          "alt": "Difusor Porcelana Flor Branco Chá Branco 250ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1150
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Taça Champagne Eclipse Verde",
+        "Taça Champagne Eclipse Âmbar",
+        "Taça Sobremesa Eclipse Verde",
+        "Taça Champagne Eclipse Rosa"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+          "alt": "Taça Champagne Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+          "alt": "Taça Champagne Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+          "alt": "Taça Champagne Eclipse Âmbar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+          "alt": "Taça Champagne Eclipse Âmbar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195416-620-auto/taca-champagne-eclipse-rosa-001001000337-1.png?v=638828260653970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195416-620-auto/taca-champagne-eclipse-rosa-001001000337-1.png?v=638828260653970000",
+          "alt": "Taça Champagne Eclipse Rosa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195417-620-auto/taca-champagne-eclipse-rosa-001001000337-2.jpg?v=638828260653970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195417-620-auto/taca-champagne-eclipse-rosa-001001000337-2.jpg?v=638828260653970000",
+          "alt": "Taça Champagne Eclipse Rosa"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195416-620-auto/taca-champagne-eclipse-rosa-001001000337-1.png?v=638828260653970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195417-620-auto/taca-champagne-eclipse-rosa-001001000337-2.jpg?v=638828260653970000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 911
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:58:44.243Z",
+  "totalSections": 11
+}

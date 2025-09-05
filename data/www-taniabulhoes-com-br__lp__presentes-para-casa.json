@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Presentes Para Casa",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
@@ -17,8 +59,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 685
+      "score": 815
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
@@ -56,8 +100,10 @@
         "https://www.taniabulhoes.com.br/images/banner.jpg",
         "https://static.taniabulhoes.com.br/1080_x_1080_Eclipse_ad91d5437b.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 918
+      "score": 1748
     },
     {
       "selector": "#\\32 72",
@@ -72,12 +118,12 @@
       "text_blocks": [
         "Taça Sobremesa Eclipse Rosa",
         "Copo Eclipse Tulipa",
+        "Copo Eclipse Turquesa",
         "Taça Sobremesa Eclipse Âmbar",
         "Taça Sobremesa Eclipse Verde",
         "Taça Champagne Eclipse Rosa",
         "Taça Champagne Eclipse Âmbar",
         "Taça Champagne Eclipse Verde",
-        "INDISPONÍVEL",
         "Moringa Eclipse Âmbar",
         "Copo Eclipse Sol",
         "Copo Eclipse Transparente"
@@ -106,6 +152,18 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
           "alt": "Copo Eclipse Tulipa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "alt": "Copo Eclipse Turquesa"
         },
         {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/195431-620-auto/taca-sobremesa-eclipse-ambar-001001000088-1.png?v=638798934377500000",
@@ -204,12 +262,6 @@
           "alt": "Copo Eclipse Sol"
         },
         {
-          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
-          "srcset": null,
-          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
-          "alt": null
-        },
-        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/195367-620-auto/copo-eclipse-transparente-001001000023-1.jpg?v=638828258056330000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/195367-620-auto/copo-eclipse-transparente-001001000023-1.jpg?v=638828258056330000",
@@ -227,6 +279,8 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195429-620-auto/taca-sobremesa-eclipse-rosa-001001000087-2.jpg?v=638828259946000000",
         "https://taniab.vteximg.com.br/arquivos/ids/195375-620-auto/copo-eclipse-tulipa-001001000022-1.jpg?v=638828256920100000",
         "https://taniab.vteximg.com.br/arquivos/ids/195377-620-auto/copo-eclipse-tulipa-001001000022-3.jpg?v=638828256920100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
         "https://taniab.vteximg.com.br/arquivos/ids/195431-620-auto/taca-sobremesa-eclipse-ambar-001001000088-1.png?v=638798934377500000",
         "https://taniab.vteximg.com.br/arquivos/ids/195432-620-auto/taca-sobremesa-eclipse-ambar-001001000088-2.jpg?v=638798934377500000",
         "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
@@ -243,13 +297,14 @@
         "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
         "https://taniab.vteximg.com.br/arquivos/ids/195361-620-auto/copo-eclipse-sol-001001000021-1.jpg?v=638828258394630000",
         "https://taniab.vteximg.com.br/arquivos/ids/195363-620-auto/copo-eclipse-sol-001001000021-3.jpg?v=638828258394630000",
-        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
         "https://taniab.vteximg.com.br/arquivos/ids/195367-620-auto/copo-eclipse-transparente-001001000023-1.jpg?v=638828258056330000",
         "https://taniab.vteximg.com.br/arquivos/ids/195368-620-auto/copo-eclipse-transparente-001001000023-2.jpg?v=638828258056330000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1744
+      "score": 1933
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -261,7 +316,8 @@
       "heading": "Afeto, delicadeza e charme em cada detalhe com as Xícaras de Café Coração.",
       "text_blocks": [
         "Para cafés especiais",
-        "Afeto, delicadeza e charme em cada detalhe com as Xícaras de Café Coração."
+        "Afeto, delicadeza e charme em cada detalhe com as Xícaras de Café Coração.",
+        "Conheça"
       ],
       "images": [
         {
@@ -287,8 +343,10 @@
         "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_3_1_314b8abcfd.png",
         "https://static.taniabulhoes.com.br/001002300867_Set_Xicara_de_Cafe_Coracao_Quartzo_Rosa_4_unid_1_Edited_d78aebe02d.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 555
+      "score": 1463
     },
     {
       "selector": "#tertiary__banner__container",
@@ -298,7 +356,9 @@
       },
       "heading": "Colmeia",
       "text_blocks": [
-        "Inspirada na beleza das abelhas, a coleção transforma o café da manhã ou chá da tarde em momentos aconchegantes e inspiradores."
+        "Colmeia",
+        "Inspirada na beleza das abelhas, a coleção transforma o café da manhã ou chá da tarde em momentos aconchegantes e inspiradores.",
+        "descubra"
       ],
       "images": [
         {
@@ -319,8 +379,10 @@
         "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_8_3c6da4bb87.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 477
+      "score": 594
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -332,7 +394,8 @@
       "heading": "Uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial.",
       "text_blocks": [
         "Coleção Provence",
-        "Uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial."
+        "Uma homenagem às boas memórias. As peças, inspiradas na região francesa da Provença e seus campos de lavanda, transformam qualquer ocasião em um momento especial.",
+        "Descubra"
       ],
       "images": [
         {
@@ -358,8 +421,10 @@
         "https://static.taniabulhoes.com.br/001002301081_Prato_Fundo_Provence_2_1_3a17cef23c.png",
         "https://static.taniabulhoes.com.br/11_Provence_1_1_742848bce3.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 739
+      "score": 1548
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6)",
@@ -397,8 +462,10 @@
         "https://www.taniabulhoes.com.br/images/banner.jpg",
         "https://static.taniabulhoes.com.br/1080_x_1080_Xicara_Ceu_ac3e247a9e.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 972
+      "score": 1802
     },
     {
       "selector": "#\\32 73",
@@ -413,7 +480,6 @@
       "text_blocks": [
         "Guardanapo Cravo e Canela Céu",
         "Aparelho de Jantar Cravo e Canela Céu 18 peças",
-        "INDISPONÍVEL",
         "Set Prato Raso Cravo e Canela Céu 2 Peças",
         "Set Xícara de Chá Cravo e Canela Céu 4 Peças",
         "Set Bowl Cravo e Canela Céu 2 Peças"
@@ -507,8 +573,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200119-620-auto/001002300216_Bowl_Cravo_e_Canela_Ceu_7.jpg?v=638848075161400000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1137
+      "score": 1074
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -517,17 +585,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:47:33.000Z",
-  "totalSections": 9
+  "scrapedAt": "2025-09-05T03:07:13.077Z",
+  "totalSections": 11
 }

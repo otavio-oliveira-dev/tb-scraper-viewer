@@ -1,0 +1,527 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/taca-vinho-apogeu-amarelo",
+  "title": "Taça Vinho Apogeu Amarelo",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Taças",
+        "Taça Vinho Apogeu Amarelo"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 111
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Taça Vinho Apogeu Amarelo",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Taça Vinho Apogeu Amarelo",
+        "Serve 01 lugar à mesa",
+        "R$ 570,00",
+        "2x de R$ 285,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "alt": "000003244_Taca_de_Vinho_Apogeu_Amarelo_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1",
+          "alt": "000003244_Taca_de_Vinho_Apogeu_Amarelo_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "alt": "000003244_Taca_de_Vinho_Apogeu_Amarelo_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+          "alt": "000003244_Taca_de_Vinho_Apogeu_Amarelo_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1",
+          "alt": "000003244_Taca_de_Vinho_Apogeu_Amarelo_3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1041
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Vinho",
+        "Cristal",
+        "20.8cm de altura",
+        "200ml",
+        "Não utilizar materiais de limpeza abrasivos.",
+        "Descrição adicional",
+        "A coleção conta com copos, taças, jarras e outros acessórios."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002878_Taca_de_Agua_Apogeu_Verde_3_70938bc1a6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002878_Taca_de_Agua_Apogeu_Verde_3_70938bc1a6.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002878_Taca_de_Agua_Apogeu_Verde_3_70938bc1a6.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 613
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002867_Garrafa_Apogeu_Verde_2_3baf38369d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002867_Garrafa_Apogeu_Verde_2_3baf38369d.jpg",
+          "alt": "Coleção Apogeu"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002867_Garrafa_Apogeu_Verde_2_3baf38369d.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Taça Vinho Apogeu Amarelo",
+        "R$ 570,00",
+        "Taça Champagne Apogeu Amarelo",
+        "R$ 547,50",
+        "incluso",
+        "Copo Short Drink Apogeu Amarelo",
+        "R$ 495,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.612,50",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196989%2Ftaca-vinho-apogeu-amarelo-001001000522-1.jpg%3Fv%3D638854234037070000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196989%2Ftaca-vinho-apogeu-amarelo-001001000522-1.jpg%3Fv%3D638854234037070000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196989%2Ftaca-vinho-apogeu-amarelo-001001000522-1.jpg%3Fv%3D638854234037070000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196989%2Ftaca-vinho-apogeu-amarelo-001001000522-1.jpg%3Fv%3D638854234037070000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193427%2Ftaca-champagne-apogeu-amarelo-001001000331-1.jpg%3Fv%3D638854246369530000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193427%2Ftaca-champagne-apogeu-amarelo-001001000331-1.jpg%3Fv%3D638854246369530000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193427%2Ftaca-champagne-apogeu-amarelo-001001000331-1.jpg%3Fv%3D638854246369530000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193427%2Ftaca-champagne-apogeu-amarelo-001001000331-1.jpg%3Fv%3D638854246369530000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193425%2Fcopo-short-drink-apogeu-amarelo-001001000274-1.jpg%3Fv%3D638854243653930000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193425%2Fcopo-short-drink-apogeu-amarelo-001001000274-1.jpg%3Fv%3D638854243653930000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193425%2Fcopo-short-drink-apogeu-amarelo-001001000274-1.jpg%3Fv%3D638854243653930000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193425%2Fcopo-short-drink-apogeu-amarelo-001001000274-1.jpg%3Fv%3D638854243653930000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193428/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193428/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193427/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193427/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193426/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193426/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193425/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193425/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196989%2Ftaca-vinho-apogeu-amarelo-001001000522-1.jpg%3Fv%3D638854234037070000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193427%2Ftaca-champagne-apogeu-amarelo-001001000331-1.jpg%3Fv%3D638854246369530000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193425%2Fcopo-short-drink-apogeu-amarelo-001001000274-1.jpg%3Fv%3D638854243653930000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193428/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193427/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193426/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193425/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197448/000003244_Taca_de_Vinho_Apogeu_Amarelo_3.jpg?v=638854234037200000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196989/taca-vinho-apogeu-amarelo-001001000522-1.jpg?v=638854234037070000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193428/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193427/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193426/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193425/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1684
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Taça de Vinho Apogeu Rosa",
+        "Taça Champagne Apogeu Amarelo",
+        "Taça Água Apogeu Rosa",
+        "Copo Short Drink Apogeu Amarelo"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197447-620-auto/000003243_Taca_de_Vinho_Apogeu_Rosa.png?v=638663490879370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197447-620-auto/000003243_Taca_de_Vinho_Apogeu_Rosa.png?v=638663490879370000",
+          "alt": "Taça de Vinho Apogeu Rosa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196767-620-auto/taca-de-vinho-apogeu-rosa-001001000521-1.jpg?v=638854228509400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196767-620-auto/taca-de-vinho-apogeu-rosa-001001000521-1.jpg?v=638854228509400000",
+          "alt": "Taça de Vinho Apogeu Rosa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193427-620-auto/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193427-620-auto/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000",
+          "alt": "Taça Champagne Apogeu Amarelo"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193428-620-auto/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193428-620-auto/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000",
+          "alt": "Taça Champagne Apogeu Amarelo"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193423-620-auto/taca-agua-apogeu-rosa-001001000388-1.jpg?v=638854230089900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193423-620-auto/taca-agua-apogeu-rosa-001001000388-1.jpg?v=638854230089900000",
+          "alt": "Taça Água Apogeu Rosa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193424-620-auto/taca-agua-apogeu-rosa-001001000388-2.jpg?v=638854230090200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193424-620-auto/taca-agua-apogeu-rosa-001001000388-2.jpg?v=638854230090200000",
+          "alt": "Taça Água Apogeu Rosa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193425-620-auto/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193425-620-auto/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000",
+          "alt": "Copo Short Drink Apogeu Amarelo"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193426-620-auto/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193426-620-auto/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000",
+          "alt": "Copo Short Drink Apogeu Amarelo"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197447-620-auto/000003243_Taca_de_Vinho_Apogeu_Rosa.png?v=638663490879370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196767-620-auto/taca-de-vinho-apogeu-rosa-001001000521-1.jpg?v=638854228509400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193427-620-auto/taca-champagne-apogeu-amarelo-001001000331-1.jpg?v=638854246369530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193428-620-auto/taca-champagne-apogeu-amarelo-001001000331-2.jpg?v=638854246369700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193423-620-auto/taca-agua-apogeu-rosa-001001000388-1.jpg?v=638854230089900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193424-620-auto/taca-agua-apogeu-rosa-001001000388-2.jpg?v=638854230090200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193425-620-auto/copo-short-drink-apogeu-amarelo-001001000274-1.jpg?v=638854243653930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193426-620-auto/copo-short-drink-apogeu-amarelo-001001000274-2.jpg?v=638854243654070000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 901
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Taça Champagne Eclipse Verde",
+        "Taça Champagne Eclipse Âmbar",
+        "Taça Coupe Leblon Transparente",
+        "Taça Sobremesa Eclipse Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+          "alt": "Taça Champagne Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+          "alt": "Taça Champagne Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+          "alt": "Taça Champagne Eclipse Âmbar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+          "alt": "Taça Champagne Eclipse Âmbar"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198010-620-auto/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198010-620-auto/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000",
+          "alt": "Taça Coupe Leblon Transparente"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Taça Coupe Leblon Transparente"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
+          "alt": "Taça Sobremesa Eclipse Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195412-620-auto/taca-champagne-eclipse-verde-001001000336-1.png?v=638828260400900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195529-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828260400900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195421-620-auto/taca-champagne-eclipse-ambar-001001000335-1.png?v=638798934192930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195422-620-auto/taca-champagne-eclipse-ambar-001001000335-2.jpg?v=638798934193100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198010-620-auto/001001000559_Taca_Coupe_Leblon_Transp.png?v=638695253460470000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/195426-620-auto/taca-sobremesa-eclipse-verde-001001000089-1.png?v=638828259687400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 914
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:55:39.433Z",
+  "totalSections": 10
+}

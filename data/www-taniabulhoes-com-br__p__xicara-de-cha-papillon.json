@@ -1,0 +1,621 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/xicara-de-cha-papillon",
+  "title": "Xícara de Chá Papillon",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Xícaras",
+        "Xícara de Chá Papillon"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 110
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Xícara de Chá Papillon",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Xícara de Chá Papillon",
+        "Serve 01 lugar à mesa",
+        "R$ 830,00",
+        "4x de R$ 207,50",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192720/xicara-de-cha-papillon-001002300512-3.jpg?v=638826538667470000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1338
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana",
+        "Xícara: 5cm de altura",
+        "Pires: 2cm de altura",
+        "Xícara: 8cm",
+        "Pires 14cm",
+        "200ml",
+        "Vai ao micro-ondas, lava-louças e freezer. Não levar ao forno.",
+        "Descrição adicional",
+        "As peças, produzidas na cidade francesa de Limoges, são atemporais e ao mesmo tempo possuem uma beleza leve e contemporânea."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0172_1_1cb3f34eb6.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0172_1_1cb3f34eb6.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0172_1_1cb3f34eb6.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 927
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0182_1_f51374c4c3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0182_1_f51374c4c3.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/STILL_GIFTABLES_0182_1_f51374c4c3.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Cada peça feita em Limoges é uma obra de arte singular, fruto de um longo processo artesanal."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 384
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Xícara de Chá Papillon",
+        "R$ 830,00",
+        "Xícara de Café Papillon",
+        "R$ 810,00",
+        "incluso",
+        "Sousplat Papillon",
+        "R$ 1.030,00",
+        "Compre Os 3 produtos por:",
+        "R$ 2.670,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192718%2Fxicara-de-cha-papillon-001002300512-1.jpg%3Fv%3D638826538667470000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192718%2Fxicara-de-cha-papillon-001002300512-1.jpg%3Fv%3D638826538667470000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192718%2Fxicara-de-cha-papillon-001002300512-1.jpg%3Fv%3D638826538667470000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192718%2Fxicara-de-cha-papillon-001002300512-1.jpg%3Fv%3D638826538667470000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192726%2Fxicara-de-cafe-papillon-001002300775-1.jpg%3Fv%3D638826538439970000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192726%2Fxicara-de-cafe-papillon-001002300775-1.jpg%3Fv%3D638826538439970000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192726%2Fxicara-de-cafe-papillon-001002300775-1.jpg%3Fv%3D638826538439970000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192726%2Fxicara-de-cafe-papillon-001002300775-1.jpg%3Fv%3D638826538439970000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196992%2Fsousplat-papillon-001002300352-1.jpg%3Fv%3D638826538256770000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196992%2Fsousplat-papillon-001002300352-1.jpg%3Fv%3D638826538256770000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196992%2Fsousplat-papillon-001002300352-1.jpg%3Fv%3D638826538256770000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196992%2Fsousplat-papillon-001002300352-1.jpg%3Fv%3D638826538256770000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192727/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192727/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192726/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192726/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192718%2Fxicara-de-cha-papillon-001002300512-1.jpg%3Fv%3D638826538667470000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192726%2Fxicara-de-cafe-papillon-001002300775-1.jpg%3Fv%3D638826538439970000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196992%2Fsousplat-papillon-001002300352-1.jpg%3Fv%3D638826538256770000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192727/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192726/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192719/xicara-de-cha-papillon-001002300512-2.jpg?v=638826538667470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192718/xicara-de-cha-papillon-001002300512-1.jpg?v=638826538667470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192727/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192726/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196992/sousplat-papillon-001002300352-1.jpg?v=638826538256770000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1483
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Xícara de Café Papillon",
+        "Sousplat Papillon",
+        "Prato Raso Papillon",
+        "Prato Fundo Papillon"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192726-620-auto/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192726-620-auto/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000",
+          "alt": "Xícara de Café Papillon"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192727-620-auto/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192727-620-auto/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000",
+          "alt": "Xícara de Café Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196992-620-auto/sousplat-papillon-001002300352-1.jpg?v=638826538256770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196992-620-auto/sousplat-papillon-001002300352-1.jpg?v=638826538256770000",
+          "alt": "Sousplat Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Sousplat Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Prato Raso Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196799-620-auto/prato-fundo-papillon-001002300459-1.jpg?v=638826537964770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196799-620-auto/prato-fundo-papillon-001002300459-1.jpg?v=638826537964770000",
+          "alt": "Prato Fundo Papillon"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Prato Fundo Papillon"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192726-620-auto/xicara-de-cafe-papillon-001002300775-1.jpg?v=638826538439970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192727-620-auto/xicara-de-cafe-papillon-001002300775-2.jpg?v=638826538439970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196992-620-auto/sousplat-papillon-001002300352-1.jpg?v=638826538256770000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196919-620-auto/prato-raso-papillon-001002300894-1.jpg?v=638826537316530000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196799-620-auto/prato-fundo-papillon-001002300459-1.jpg?v=638826537964770000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1074
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Xícara de Café Mediterrâneo Areia",
+        "Xícara de Chá Mediterrâneo Areia",
+        "Xícara de Café Mediterrâneo Verde",
+        "Set Xícaras de Café Borboleta 6 peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+          "alt": "Xícara de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+          "alt": "Xícara de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+          "alt": "Xícara de Café Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+          "alt": "Xícara de Café Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+          "alt": "Set Xícaras de Café Borboleta 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000",
+          "alt": "Set Xícaras de Café Borboleta 6 peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 935
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:43:01.994Z",
+  "totalSections": 11
+}

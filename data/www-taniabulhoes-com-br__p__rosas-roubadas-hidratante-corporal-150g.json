@@ -1,0 +1,710 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/rosas-roubadas-hidratante-corporal-150g",
+  "title": "Rosas Roubadas Hidratante Corporal 150g",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Hidratantes",
+        "Rosas Roubadas Hidratante Corporal 150g"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 220
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Rosas Roubadas Hidratante Corporal 150g",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Rosas Roubadas Hidratante Corporal 150g",
+        "R$ 160,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1",
+          "alt": "003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199739/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199740/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199741/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199742/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199743/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199744/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829974394800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199745/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829974620730000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2647
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Floral Floral",
+        "Pimenta Preta",
+        "Âmbar",
+        "Descrição adicional",
+        "Com alta concentração de fragrância, oferecem uma perfumação intensa e duradoura, aliada a uma textura cremosa de toque seco, que nutre profundamente sem pesar. Disponíveis nas fragrâncias Chá Branco, Rosas Roubadas, 1989, Meu Verde, À Francesa e Ventos de Lavanda, tornam o momento da hidratação um verdadeiro ritual de autocuidado.O uso do Hidratante Corporal combinado ao Eau de Parfum Tania Bulhões potencializa e prolonga a perfumação na pele. Principais ativos:• Manteiga de Karité – Proporciona hidratação intensa com ação nutritiva e regeneradora, rica em ômega 6 e 9.• Vitamina E – Potente antioxidante que protege e revitaliza a pele.• Ureia Modificada – Tecnologia avançada que garante hidratação eficaz, especialmente para peles sensíveis ou ressecadas."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/rosas_roubadas_vertical_02e2cd99cc.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": false,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/rosas_roubadas_vertical_02e2cd99cc.mp4"
+      ],
+      "html": null,
+      "score": 1699
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_e26df95360.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Uma combinação perfeita entre rosas e especiarias para fazer aflorar os sentidos, despertando a delicadeza e a sensualidade."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 415
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Rosas Roubadas Hidratante Corporal 150g",
+        "R$ 160,00",
+        "Rosas Roubadas Eau de Parfum 30ml",
+        "R$ 280,00",
+        "incluso",
+        "R$ 480,00",
+        "Compre Os 3 produtos por:",
+        "R$ 920,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199737%2F003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829974394630000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199737%2F003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829974394630000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199737%2F003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829974394630000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199737%2F003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829974394630000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199737%2F003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829974394630000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200665%2F000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png%3Fv%3D638887251045170000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199738/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829974394800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199737/003L01800031_ROSAS_ROUBADAS_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829974394630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1488
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Chá Branco Hidratante para Mãos e Corpo 290g",
+        "Best Seller",
+        "Chá Branco Hidratante Corporal 150g",
+        "Chá Branco Veludo Hidratante 290ml",
+        "Jade Hidratante para Mãos e Corpo 290g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+          "alt": "Chá Branco Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+          "alt": "Chá Branco Hidratante Corporal 150g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+          "alt": "Jade Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000",
+          "alt": "Jade Hidratante para Mãos e Corpo 290g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668-620-auto/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1143
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:46:27.177Z",
+  "totalSections": 10
+}

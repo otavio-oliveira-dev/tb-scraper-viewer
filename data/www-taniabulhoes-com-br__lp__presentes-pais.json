@@ -3,20 +3,63 @@
   "title": "Tania Bulhões - Presentes Pais",
   "sections": [
     {
-      "selector": "#home-banner",
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
       "attrs": {
-        "id": "home-banner",
-        "class": "sc-7620ef51-0 kYovvv"
+        "class": "button-section"
       },
       "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "#home-banner > div.sc-7620ef51-2.hqpLLx",
+      "attrs": {
+        "class": "sc-7620ef51-2 hqpLLx"
+      },
+      "heading": null,
       "text_blocks": [
         "Celebre o Dia dos Pais com um gesto perfumado"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 195
+      "score": 45
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
@@ -31,8 +74,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 266
+      "score": 346
     },
     {
       "selector": "article[data-cy=\"double-brand-section-container\"]",
@@ -71,8 +116,10 @@
         "https://static.taniabulhoes.com.br/002_L01300006_PK_Kit_Floresta_Difusor_para_Carro_Mini_Vela_1_e9bd884863.png",
         "https://static.taniabulhoes.com.br/Imagem_2_1_7afeb20ac5.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 755
+      "score": 1555
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -87,8 +134,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 684
+      "score": 814
     },
     {
       "selector": "article[data-sentry-component=\"TemplateSection\"]",
@@ -102,16 +151,17 @@
       "heading": "Preparamos sugestões de presentes para surpreender quem você ama neste dia especial.",
       "text_blocks": [
         "Preparamos sugestões de presentes para surpreender quem você ama neste dia especial.",
+        "Confira",
         "Set Faca de Churrasco Laguiole Verde 6 peças",
         "Segredo Eau de Parfum 80ml",
         "Balde de Gelo Esferas",
         "Garrafa Brilhante Azul Claro",
         "Taça Sobremesa Eclipse Verde",
         "Kit Difusor Para Carro Floresta",
+        "Copo Eclipse Turquesa",
         "Charuteira Plaza Athénée",
         "Bandeja Bar Esplanada",
         "Segredo Eau de Parfum 30ml",
-        "INDISPONÍVEL",
         "Balde para Garrafa Esferas"
       ],
       "images": [
@@ -188,6 +238,18 @@
           "alt": "Kit Difusor Para Carro Floresta"
         },
         {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
+          "alt": "Copo Eclipse Turquesa"
+        },
+        {
           "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
           "srcset": null,
           "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
@@ -242,12 +304,6 @@
           "alt": "Segredo Eau de Parfum 30ml"
         },
         {
-          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
-          "srcset": null,
-          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
-          "alt": null
-        },
-        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
@@ -273,6 +329,8 @@
         "https://taniab.vteximg.com.br/arquivos/ids/195527-620-auto/001001000336_Taca_Champagne_Eclipse_Verde_2.jpg?v=638828259687400000",
         "https://taniab.vteximg.com.br/arquivos/ids/199281-620-auto/000002670_Difusor_para_Carro_Tania_Bulhoes_2.png.png?v=638805138495430000",
         "https://taniab.vteximg.com.br/arquivos/ids/199282-620-auto/000002670_Difusor_para_Carro_Tania_Bulho%CC%83es_6.jpg?v=638805138495600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195371-620-auto/copo-eclipse-turquesa-001001000024-1.jpg?v=638828257035870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195372-620-auto/copo-eclipse-turquesa-001001000024-2.jpg?v=638828257036000000",
         "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/200442-620-auto/001002401278_Charuteira_Plaza_Athenee.png?v=638865552350870000",
         "https://taniab.vteximg.com.br/arquivos/ids/200443-620-auto/001002401278_Charuteira_Plaza_Athenee_3.png?v=638865552351070000",
@@ -282,13 +340,14 @@
         "https://taniab.vteximg.com.br/arquivos/ids/194806-620-auto/508912-052_Bandeja_Bar_Esplanada_2.png?v=638557176635930000",
         "https://taniab.vteximg.com.br/arquivos/ids/200728-620-auto/segredo-eau-de-parfum-30ml-patchouli-003l02800110-1.jpg?v=638887258831900000",
         "https://taniab.vteximg.com.br/arquivos/ids/200729-620-auto/Segredo-Cards-Perfumaria-pessoal-E-commerce-08.jpg?v=638887258831930000",
-        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
         "https://taniab.vteximg.com.br/arquivos/ids/200013-620-auto/balde-para-garrafa-esferas-001000600197-1.jpg?v=638841278914530000",
         "https://taniab.vteximg.com.br/arquivos/ids/200014-620-auto/508923-052_Balde_para_Garrafas_Esferas_2.jpg?v=638841278914700000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1932
+      "score": 2129
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -297,17 +356,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:54:26.811Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-05T03:05:11.160Z",
+  "totalSections": 8
 }

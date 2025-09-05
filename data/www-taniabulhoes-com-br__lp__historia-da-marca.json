@@ -3,28 +3,88 @@
   "title": "Tania Bulhões - História da Marca",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
       },
       "heading": "Nossa História",
       "text_blocks": [
+        "Nossa História",
         "Com 35 anos de história, somos uma marca de alta perfumaria e objetos para casa que combina exclusividade, brasilidade e sofisticação, para presentear nossos clientes com experiências memoráveis."
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/8c7634df30fb4d7d8fedfcbbdc3760ad_HD_1080p_7_2_Mbps_34850129_f74967e5a5.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/8c7634df30fb4d7d8fedfcbbdc3760ad_HD_1080p_7_2_Mbps_34850129_f74967e5a5.mp4"
+      ],
       "html": null,
-      "score": 445
+      "score": 1040
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2) > div:nth-of-type(2)",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
       "attrs": {
-        "data-cy": "double-brand-section-right-wrapper",
-        "class": "sc-b44bab58-1 govXhD"
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 iNTOL"
       },
-      "heading": null,
-      "text_blocks": [],
+      "heading": "Nossa História",
+      "text_blocks": [
+        "Tania abriu seu primeiro negócio em Uberaba, no interior de Minas Gerais, em 1989. Era uma lojinha onde ela vendia tudo o que pintava: pratos, quadros e móveis. Em 1991, ela se mudou para São Paulo e abriu sua primeira loja, marcando o início da nossa história."
+      ],
       "images": [
         {
           "src": "https://static.taniabulhoes.com.br/about_us_main_png_f260c4b02d.webp",
@@ -40,17 +100,22 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/about_us_main_png_f260c4b02d.webp"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 270
+      "score": 1761
     },
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2) > section.sc-b44bab58-4.jtuZUU",
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
       "attrs": {
-        "data-cy": "double-brand-section-right-image",
-        "class": "sc-b44bab58-4 jtuZUU"
+        "id": "double__template__container",
+        "data-cy": "double-brand-section-container",
+        "class": "sc-b44bab58-0 idrEFS"
       },
-      "heading": null,
-      "text_blocks": [],
+      "heading": "Nossa História",
+      "text_blocks": [
+        "Nossa paixão pela inovação e a valorização do trabalho artesanal nos levaram ainda mais longe. Em 2023, estreitamos nossa relação com a Royal Limoges, antiga fábrica francesa com mais de dois séculos de tradição. Um marco histórico em nossa jornada."
+      ],
       "images": [
         {
           "src": "https://static.taniabulhoes.com.br/about3_cc847cf0e3.jpg",
@@ -66,8 +131,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/about3_cc847cf0e3.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 270
+      "score": 1749
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -82,6 +149,8 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
       "score": 256
     },
@@ -111,50 +180,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/about9_b56bf45e30.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 954
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "As viagens de Tania também inspiram seu trabalho, trazendo uma perspectiva global às suas criações. Sua paixão pela vida e sua curiosidade sobre o mundo transparecem em cada detalhe."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 362
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div:nth-of-type(2) > section.sc-b44bab58-4.eUBZuE",
-      "attrs": {
-        "data-cy": "double-brand-section-right-image",
-        "class": "sc-b44bab58-4 eUBZuE"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/about7_jpg_b9341c5d6b.webp",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/about7_jpg_b9341c5d6b.webp",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/about7_jpg_b9341c5d6b.webp"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/about7_jpg_b9341c5d6b.webp"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1784
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -170,8 +199,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 737
+      "score": 867
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -180,17 +211,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:52:49.398Z",
+  "scrapedAt": "2025-09-05T02:55:08.156Z",
   "totalSections": 9
 }

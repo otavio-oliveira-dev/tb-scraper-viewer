@@ -17,6 +17,7 @@ class ContentViewer {
         this.totalSections = document.getElementById('total-sections');
         this.welcomeScreen = document.getElementById('welcome-screen');
         this.pageContent = document.getElementById('page-content');
+        this.contentArea = document.querySelector('.content-area');
         this.pageTitle = document.getElementById('page-title');
         this.pageUrl = document.getElementById('page-url');
         this.pageDate = document.getElementById('page-date');
@@ -212,6 +213,9 @@ class ContentViewer {
         // Hide welcome screen and show content
         this.welcomeScreen.style.display = 'none';
         this.pageContent.style.display = 'block';
+        
+        // Reset scroll to top when switching pages
+        this.contentArea.scrollTop = 0;
     }
     
     renderPageContent() {
@@ -244,6 +248,7 @@ class ContentViewer {
                 <div class="section-content">
                     ${this.renderTextBlocks(section.text_blocks)}
                     ${this.renderImageUrls(section.image_urls || section.images)}
+                    ${this.renderVideoUrls(section.video_urls || section.videos)}
                 </div>
             </div>
         `).join('');
@@ -321,6 +326,38 @@ class ContentViewer {
         `;
     }
     
+    renderVideoUrls(videos) {
+        let videoUrls = [];
+        
+        if (Array.isArray(videos)) {
+            if (videos.length > 0 && typeof videos[0] === 'string') {
+                // Array of URLs
+                videoUrls = videos;
+            } else {
+                // Array of video objects
+                videoUrls = videos.map(video => video.src).filter(Boolean);
+            }
+        }
+        
+        if (videoUrls.length === 0) {
+            return '<p class="text-muted">Nenhum vídeo encontrado</p>';
+        }
+        
+        return `
+            <div class="video-urls">
+                <h4>🎥 URLs dos Vídeos (${videoUrls.length})</h4>
+                <div class="video-list">
+                    ${videoUrls.map(url => `
+                        <div class="video-url">
+                            <span class="video-url-text">${url}</span>
+                            <button class="copy-btn" data-url="${url}">Copiar URL</button>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+    
     copySectionContent(sectionIndex) {
         if (!this.currentPage || !this.currentPage.sections[sectionIndex]) return;
         
@@ -344,6 +381,15 @@ class ContentViewer {
         if (imageUrls.length > 0) {
             content += '## Imagens:\n';
             imageUrls.forEach(url => {
+                content += `- ${url}\n`;
+            });
+            content += '\n';
+        }
+        
+        const videoUrls = section.video_urls || (section.videos || []).map(video => video.src).filter(Boolean);
+        if (videoUrls.length > 0) {
+            content += '## Vídeos:\n';
+            videoUrls.forEach(url => {
                 content += `- ${url}\n`;
             });
         }

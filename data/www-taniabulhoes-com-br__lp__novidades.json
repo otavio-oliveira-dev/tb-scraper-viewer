@@ -3,6 +3,28 @@
   "title": "Tania Bulhões - Novidades",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.byBQkm > article:nth-of-type(1) > div.sc-b600379b-0.kEjiws",
       "attrs": {
         "data-sentry-element": "unknown",
@@ -18,9 +40,13 @@
         "Difusores de Porcelana",
         "Bandeja Diamante",
         "Mais Procurados",
+        "Eclipse",
         "Chá Branco Perfumaria Casa",
         "Aparelhos de Jantar",
+        "Perfumes",
+        "Ocasiões",
         "Sala de Estar",
+        "Lavabo",
         "Escritório",
         "Campo e Praia"
       ],
@@ -57,8 +83,30 @@
         "https://static.taniabulhoes.com.br/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml_2_295b06db05.jpg",
         "https://static.taniabulhoes.com.br/Difusores_Porcelana_1_cb622b6ad7.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 833
+      "score": 1196
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
     },
     {
       "selector": "#\\32 28",
@@ -74,12 +122,12 @@
         "Lançamentos",
         "Fique por dentro dos lançamentos que chegaram recentemente por aqui.",
         "Descubra uma seleção especial de peças para vestir a casa, receber com elegância, perfumar com intensidade e revelar uma experiência de aconchego, conforto e bem-estar.",
+        "Veja Mais",
         "Taça Champagne Fantasia",
         "Cesto de Pão Colmeia Fibras Naturais",
         "Jogo Americano Arquipélago Redondo Verde",
         "Porta-Guardanapo Arquipélago Verde",
         "Jarra Eclipse Bergamota",
-        "INDISPONÍVEL",
         "Jogo Americano Arquipélago Redondo Natural"
       ],
       "images": [
@@ -171,8 +219,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/200017-620-auto/001000101007_Jg_Americano_Arquipelago_Redondo_Natural_3.jpg?v=638841279250030000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1416
+      "score": 1543
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -184,7 +234,8 @@
       "heading": "Nossas fragrâncias são inspiradas na natureza, e foram desenvolvidas para despertar os sentidos e transformar a casa em um verdadeiro santuário particular.",
       "text_blocks": [
         "Perfumaria Casa",
-        "Nossas fragrâncias são inspiradas na natureza, e foram desenvolvidas para despertar os sentidos e transformar a casa em um verdadeiro santuário particular."
+        "Nossas fragrâncias são inspiradas na natureza, e foram desenvolvidas para despertar os sentidos e transformar a casa em um verdadeiro santuário particular.",
+        "Confira"
       ],
       "images": [
         {
@@ -210,8 +261,10 @@
         "https://static.taniabulhoes.com.br/002001300008_CBK_Difusor_Porcelana_Passaros_3_d07464a1df.jpg",
         "https://static.taniabulhoes.com.br/DIFUSORES_PORCELANA_PASSAROS_CASA_DAS_ORQUIDEAS_35001_OK_1_143360a079.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 731
+      "score": 1539
     },
     {
       "selector": "#\\32 29",
@@ -227,15 +280,17 @@
         "Crie um ambiente relaxante, energizante ou romântico com a fragrância ideal.",
         "Lançamento",
         "Kit Difusor Dourado para Carro Chá Branco",
-        "Kit Floresta Difusor para Carro + Mini Vela",
+        "Bandeja Lavabo Simetria G",
         "Kit Difusor Dourado para Carro Casa das Orquídeas",
-        "Kit Difusor Elétrico Colmeia Chá Verde 10ml",
+        "Kit Floresta Difusor para Carro + Mini Vela",
+        "Bandeja Lavabo Simetria M",
         "Kit Difusor Dourado para Carro Floresta",
+        "Bandeja Lavabo Simetria GG",
+        "Kit Difusor Elétrico Colmeia Chá Verde 10ml",
         "Chá Verde Essência Para Difusor Elétrico 10ml",
         "Chef Difusor para Ambiente 470ml",
         "Difusor de Porcelana Orquídeas 290ml",
-        "Difusor de Porcelana Pássaros 290ml",
-        "INDISPONÍVEL"
+        "Difusor de Porcelana Pássaros 290ml"
       ],
       "images": [
         {
@@ -257,16 +312,22 @@
           "alt": "Kit Difusor Dourado para Carro Chá Branco"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
           "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
-          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200550-620-auto/1002100170_Bandeja_Lavabo_Simetria_G.png?v=638881995321800000",
           "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
-          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200550-620-auto/1002100170_Bandeja_Lavabo_Simetria_G.png?v=638881995321800000",
+          "alt": "Bandeja Lavabo Simetria G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200551-620-auto/1002100170_Bandeja_Lavabo_Simetria_G_3.png?v=638881995321970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200551-620-auto/1002100170_Bandeja_Lavabo_Simetria_G_3.png?v=638881995321970000",
+          "alt": "Bandeja Lavabo Simetria G"
         },
         {
           "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
@@ -287,16 +348,34 @@
           "alt": "Kit Difusor Dourado para Carro Casa das Orquídeas"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
           "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
-          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
           "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
-          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+          "alt": "Kit Floresta Difusor para Carro + Mini Vela"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200533-620-auto/1002100169_Bandeja_Lavabo_Simetria_M.png?v=638881986836230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200533-620-auto/1002100169_Bandeja_Lavabo_Simetria_M.png?v=638881986836230000",
+          "alt": "Bandeja Lavabo Simetria M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200534-620-auto/1002100169_Bandeja_Lavabo_Simetria_M_3.png?v=638881986836570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200534-620-auto/1002100169_Bandeja_Lavabo_Simetria_M_3.png?v=638881986836570000",
+          "alt": "Bandeja Lavabo Simetria M"
         },
         {
           "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
@@ -315,6 +394,36 @@
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/201066-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008285170000",
           "alt": "Kit Difusor Dourado para Carro Floresta"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+          "alt": "Lançamento"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200530-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200530-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000",
+          "alt": "Bandeja Lavabo Simetria GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200531-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200531-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000",
+          "alt": "Bandeja Lavabo Simetria GG"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+          "alt": "Kit Difusor Elétrico Colmeia Chá Verde 10ml"
         },
         {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/200516-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml.png?v=638881754506030000",
@@ -381,16 +490,25 @@
         "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/201074-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925008658170000",
         "https://taniab.vteximg.com.br/arquivos/ids/201075-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008658170000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200550-620-auto/1002100170_Bandeja_Lavabo_Simetria_G.png?v=638881995321800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200551-620-auto/1002100170_Bandeja_Lavabo_Simetria_G_3.png?v=638881995321970000",
         "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/201056-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.png.png?v=638925007379200000",
         "https://taniab.vteximg.com.br/arquivos/ids/201057-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925007379500000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200553-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela--1-.png?v=638882884205830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200554-620-auto/002L01300006PK_Kit_Floresta_Difusor_para_Carro_Mini-Vela_6.jpg?v=638884535887400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200533-620-auto/1002100169_Bandeja_Lavabo_Simetria_M.png?v=638881986836230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200534-620-auto/1002100169_Bandeja_Lavabo_Simetria_M_3.png?v=638881986836570000",
         "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/201065-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3--1-.png.png?v=638925008285000000",
         "https://taniab.vteximg.com.br/arquivos/ids/201066-620-auto/002L01300099_Difusor_para_Carro_Tania_Bulhoes_Dourado_3.jpg?v=638925008285170000",
+        "https://www.taniabulhoes.com.br/images/product-badges/star.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200530-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG.png?v=638881985778830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200531-620-auto/1002100168_Bandeja_Lavabo_Simetria_GG_3.png?v=638881985779130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200524-620-auto/002001300003KCV_Kit_Difusor_Eletrico_Colmeia_Tania_Bulhoes_CHA_VERDE.png?v=638881815668430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200525-620-auto/002001300003_Difusor_Eletrico_Colmeia_Tania_Bulhoes_6.jpg?v=638881815668770000",
         "https://taniab.vteximg.com.br/arquivos/ids/200516-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml.png?v=638881754506030000",
         "https://taniab.vteximg.com.br/arquivos/ids/200517-620-auto/002L01300104_Cha_Verde_Essencia_Para_Difusor_Eletrico_10ml_Caixa.png?v=638881754506330000",
         "https://taniab.vteximg.com.br/arquivos/ids/200518-620-auto/002001300002KCV_Kit_Difusor_Eletrico_Seixos_Tania_Bulhoes_CHA_VERDE.png?v=638881812220270000",
@@ -403,8 +521,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199884-620-auto/002001300008CBK_Difusor_Porcelana_Passaros_5.jpg?v=638836184791630000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1972
+      "score": 2618
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -434,8 +554,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/Imagens4_212c7f4a19.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 683
+      "score": 1483
     },
     {
       "selector": "#\\32 30",
@@ -449,6 +571,7 @@
       "heading": "Fragrâncias memoráveis, feitas para marcar presença.",
       "text_blocks": [
         "Fragrâncias memoráveis, feitas para marcar presença.",
+        "Best Seller",
         "Chá Branco Hidratante Corporal 150g",
         "Kit Amadeirados",
         "Rosas Roubadas Hidratante Corporal 150g",
@@ -560,8 +683,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199470-620-auto/Hidratantes_Corporal.jpg.jpg?v=638814364058100000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1338
+      "score": 1480
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -570,17 +695,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:58:41.563Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T03:02:13.007Z",
+  "totalSections": 9
 }

@@ -3,19 +3,65 @@
   "title": "Casa - Tania Bulhões",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(3) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1)",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
       },
       "heading": "Fênix",
       "text_blocks": [
-        "Beleza atemporal para vestir a mesa"
+        "Fênix",
+        "Beleza atemporal para vestir a mesa",
+        "Descubra"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 185
+      "score": 200
     },
     {
       "selector": "#\\31 38",
@@ -32,6 +78,7 @@
         "Encontre os itens essenciais para sua mesa posta.",
         "Aparelhos de Jantar",
         "Copos e Taças",
+        "Xícaras",
         "Acessórios"
       ],
       "images": [
@@ -95,8 +142,10 @@
         "https://static.taniabulhoes.com.br/Set_Faca_de_Churrasco_Laguiole_Verde_6_Pecas_2_02c7eced99.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 709
+      "score": 817
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3)",
@@ -108,7 +157,8 @@
       "heading": "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão",
       "text_blocks": [
         "Acessórios para Servir",
-        "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão"
+        "A alma brasileira à mesa, com acessórios que traduzem o frescor e a alegria do verão",
+        "Confira"
       ],
       "images": [
         {
@@ -134,8 +184,10 @@
         "https://static.taniabulhoes.com.br/001000200698_Galheteiro_Oliva_1_838796d7dd.jpg",
         "https://static.taniabulhoes.com.br/001002401268_Mini_Murano_Provence_3_7e86b9aaf1.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 667
+      "score": 1475
     },
     {
       "selector": "#\\33 6",
@@ -148,6 +200,8 @@
       },
       "heading": "Presentes",
       "text_blocks": [
+        "Presentes",
+        "Encontre o presente perfeito para cada ocasião com nossa curadoria especial.",
         "Set Xícaras de Café Coração 4 Peças",
         "Vide Poche Provence",
         "Set Xícaras de Café Coração Quartzo Rosa 4 Peças",
@@ -155,7 +209,6 @@
         "Set Xícara de Café Provence 4 Peças",
         "Mini Vaso Provence",
         "Jarra Eclipse Bergamota",
-        "INDISPONÍVEL",
         "Moringa Eclipse Âmbar"
       ],
       "images": [
@@ -275,8 +328,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/199497-620-auto/001000200740_Moringa_Eclipse_Ambar_3.jpg.jpg?v=638815417448900000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1393
+      "score": 1597
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -315,8 +370,10 @@
         "https://static.taniabulhoes.com.br/001002301105_XICARA_DE_CHA_PLAZA_ATHENEE_94d501f970.jpg",
         "https://static.taniabulhoes.com.br/001002301102_PRATO_SOBREMESA_PLAZA_ATHENEE_2_63dd3b409d.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 707
+      "score": 1507
     },
     {
       "selector": "#\\35 7",
@@ -329,7 +386,9 @@
       },
       "heading": "Pratos",
       "text_blocks": [
+        "Pratos",
         "Vista sua mesa de arte com nossas coleções de louças.",
+        "CONHEÇA",
         "Prato Raso Fênix",
         "Prato Raso Limoeiro",
         "Prato Raso Branco de Ouro",
@@ -344,15 +403,14 @@
         "Prato Raso Papillon",
         "Prato Raso Fleur Royal",
         "Prato Raso Flor de Maracujá",
-        "Set Prato Raso Trópicos 2 Peças",
         "Prato Raso Provence",
-        "INDISPONÍVEL",
         "Prato Raso Cravo e Canela",
         "Prato Raso Astro",
         "Prato Raso Terra Brasilis",
         "Prato Raso Tramas",
         "Prato Raso Fábula",
         "Set Prato Raso Cravo e Canela Céu 2 Peças",
+        "Set Prato Raso Trópicos 2 Peças",
         "Set de Pratos Raso Pássaros do Brasil 4 peças"
       ],
       "images": [
@@ -591,18 +649,6 @@
           "alt": "Prato Raso Flor de Maracujá"
         },
         {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
-          "alt": "Set Prato Raso Trópicos 2 Peças"
-        },
-        {
-          "src": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
-          "srcset": null,
-          "best": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
-          "alt": "Set Prato Raso Trópicos 2 Peças"
-        },
-        {
           "src": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
           "srcset": null,
           "best": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
@@ -693,6 +739,18 @@
           "alt": "Set Prato Raso Cravo e Canela Céu 2 Peças"
         },
         {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+          "alt": "Set Prato Raso Trópicos 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
+          "alt": "Set Prato Raso Trópicos 2 Peças"
+        },
+        {
           "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
           "srcset": null,
           "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
@@ -751,8 +809,6 @@
         "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/192662-620-auto/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000",
         "https://taniab.vteximg.com.br/arquivos/ids/192663-620-auto/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
-        "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
         "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
         "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
         "https://taniab.vteximg.com.br/arquivos/ids/199979-620-auto/prato-raso-cravo-e-canela-001002300883-1.jpg?v=638841254485730000",
@@ -768,13 +824,17 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193062-620-auto/prato-raso-fabula-001002300960-2.jpg?v=638782686920870000",
         "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
         "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200186-620-auto/000003078K_Set_Prato_Raso_Tropicos.png?v=638848086989370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200187-620-auto/set-prato-raso-tropicos-2-pecas-000003078k-4.jpg?v=638848086989670000",
         "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
         "https://taniab.vteximg.com.br/arquivos/ids/200563-620-auto/set-de-pratos-raso-passaros-do-brasil-4-pecas-001002300875-1.jpg?v=638882910303700000",
         "https://taniab.vteximg.com.br/arquivos/ids/200564-620-auto/308054-033_Set_Prato_Raso_Passaros_do_Brasil_4pc_6.jpg?v=638882910304000000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 3989
+      "score": 4121
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -785,6 +845,7 @@
       },
       "heading": "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
       "text_blocks": [
+        "ROYAL LIMOGES",
         "Há mais de 228 anos, saía do forno a primeira louça de Limoges, a capital mundial da porcelana.",
         "Saiba Mais"
       ],
@@ -812,8 +873,10 @@
         "https://static.taniabulhoes.com.br/MIX_LIMOGES_5_1_5de5fe0e5a.jpg",
         "https://static.taniabulhoes.com.br/1_1_Astro_06_5309a78e67.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 666
+      "score": 1480
     },
     {
       "selector": "#\\33 3",
@@ -826,6 +889,7 @@
       },
       "heading": "Limoges",
       "text_blocks": [
+        "Limoges",
         "Descubra nossas coleções produzidas em Limoges.",
         "Encante-se",
         "Prato Raso Casa das Orquídeas Rouge de Fer",
@@ -839,8 +903,7 @@
         "Xícara de Café Astro",
         "Set Prato de Sobremesa Frutas do Brasil 4 Peças",
         "Prato Raso Jade Azul",
-        "Set Xícara de Café Árvores do Brasil 4 peças",
-        "INDISPONÍVEL"
+        "Set Xícara de Café Árvores do Brasil 4 peças"
       ],
       "images": [
         {
@@ -1099,8 +1162,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/193335-620-auto/set-xicara-de-cafe-arvores-do-brasil-4-pecas-001002300811-2.jpg?v=638810120475570000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 2607
+      "score": 2732
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -1109,17 +1174,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:42:55.334Z",
-  "totalSections": 9
+  "scrapedAt": "2025-09-05T03:09:20.862Z",
+  "totalSections": 11
 }

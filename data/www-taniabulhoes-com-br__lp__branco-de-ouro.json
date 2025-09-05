@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Branco de Ouro",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "#\\32 33",
       "attrs": {
         "id": "233",
@@ -15,6 +57,7 @@
       "text_blocks": [
         "Branco de Ouro",
         "A Coleção Branco de Ouro foi desenvolvida em porcelana com delicados filetes de ouro.",
+        "Conheça",
         "Prato Raso Branco de Ouro",
         "Xícara de Café Branco de Ouro",
         "Travessa M Branco de Ouro",
@@ -110,50 +153,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/191848-620-auto/prato-sobremesa-branco-de-ouro-001002300678-2.jpg?v=638782692696800000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1183
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "Os delicados filetes de ouro que envolvem as peças da Coleção Branco de Ouro revelam nosso cuidado com cada detalhe."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 296
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2)",
-      "attrs": {
-        "data-cy": "double-brand-section-right-wrapper",
-        "class": "sc-b44bab58-1 rXbnI"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/2d10f9c4_c21f_4b7e_92ba_5ee6b6af2dc7_c2bdea2f71.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1321
     },
     {
       "selector": "#\\32 34",
@@ -173,7 +176,6 @@
         "Bule de Chá Branco de Ouro",
         "Molheira Branco de Ouro",
         "Sopeira Branco de Ouro",
-        "INDISPONÍVEL",
         "Saleiro e Pimenteiro Branco de Ouro"
       ],
       "images": [
@@ -293,50 +295,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/192541-620-auto/saleiro-e-pimenteiro-branco-de-ouro-001000200579-2.jpg?v=638782692434070000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1416
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "As louças da coleção Branco de Ouro podem ser usadas em composições monocromáticas ou com base neutra para combinar com peças coloridas."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 316
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5) > div:nth-of-type(2) > section.sc-b44bab58-4.hEMpQu",
-      "attrs": {
-        "data-cy": "double-brand-section-right-image",
-        "class": "sc-b44bab58-4 hEMpQu"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/3bb768c3_8433_43da_8001_2ca993681412_859dd58210.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1533
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -345,17 +307,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:51:03.480Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T03:02:00.009Z",
+  "totalSections": 5
 }

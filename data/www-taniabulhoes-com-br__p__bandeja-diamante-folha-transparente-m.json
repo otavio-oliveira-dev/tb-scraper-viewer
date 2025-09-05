@@ -1,0 +1,584 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/bandeja-diamante-folha-transparente-m",
+  "title": "Bandeja Diamante Folha Transparente M",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Lavabo",
+        "Bandejas",
+        "Bandeja Diamante Folha Transparente M"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 229
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Bandeja Diamante Folha Transparente M",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Bandeja Diamante Folha Transparente M",
+        "01 peça",
+        "R$ 390,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1",
+          "alt": "1002100172_Bandeja_Diamante_Folha_Transp_M"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200603/1002100172_Bandeja_Diamante_Folha_Transp_M.png?v=638882957899170000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1153
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Acrílico",
+        "20cm de comprimento",
+        "13cm de largura",
+        "5cm de altura",
+        "Não utilizar produtos abrasivos e não utilizar buchas.",
+        "Descrição adicional",
+        "Criadas para serem verdadeiros curingas na decoração, as peças em acrílico aliam funcionalidade e estilo. Disponíveis nas cores transparente, verde e âmbar, adaptam-se a diferentes propostas de ambiente, elevando a experiência sensorial do espaço. A combinação é perfeita com as coleções de perfumaria para a casa da marca, criando composições elegantes e harmoniosas."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/bandeja_de_servir_cabana_001000200123_4_1718670760199.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/bandeja_de_servir_cabana_001000200123_4_1718670760199.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/bandeja_de_servir_cabana_001000200123_4_1718670760199.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1132
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg",
+          "alt": "Experiência completa"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003320_Bandeja_de_Lavabo_Esferas_M_ab9b0d91ff.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Experiência completa",
+        "Acessórios que transformam a decoração e trazem praticidade para o seu lavabo no dia a dia."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 392
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Bandeja Diamante Folha Transparente M",
+        "R$ 390,00",
+        "Chá Branco Sabonete Líquido Com Vitamina E 290ml",
+        "R$ 265,00",
+        "incluso",
+        "Chá Branco Difusor para Ambiente 290ml",
+        "R$ 395,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.050,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200601%2F1002100172_Bandeja_Diamante_Folha_Transp_M_2.png%3Fv%3D638882957899000000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200601%2F1002100172_Bandeja_Diamante_Folha_Transp_M_2.png%3Fv%3D638882957899000000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200601%2F1002100172_Bandeja_Diamante_Folha_Transp_M_2.png%3Fv%3D638882957899000000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200601%2F1002100172_Bandeja_Diamante_Folha_Transp_M_2.png%3Fv%3D638882957899000000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192113%2Fcha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg%3Fv%3D638810286847930000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192113%2Fcha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg%3Fv%3D638810286847930000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192113%2Fcha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg%3Fv%3D638810286847930000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192113%2Fcha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg%3Fv%3D638810286847930000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192129%2Fcha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg%3Fv%3D638810284909230000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192129%2Fcha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg%3Fv%3D638810284909230000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192129%2Fcha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg%3Fv%3D638810284909230000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192129%2Fcha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg%3Fv%3D638810284909230000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192114/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192114/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192113/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192113/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192130/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192130/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192129/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192129/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200601%2F1002100172_Bandeja_Diamante_Folha_Transp_M_2.png%3Fv%3D638882957899000000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192113%2Fcha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg%3Fv%3D638810286847930000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192129%2Fcha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg%3Fv%3D638810284909230000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192114/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192113/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192130/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192129/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200602/1002100172_Bandeja_Diamante_Folha_Transp_M_3.png?v=638882957899000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200601/1002100172_Bandeja_Diamante_Folha_Transp_M_2.png?v=638882957899000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192114/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192113/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192130/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192129/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1722
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Toalha de Lavabo Tania Bulhões 25 unidades",
+        "Bandeja Cristal P",
+        "Bandeja Cristal G",
+        "Set Toalhas de Lavabo Treliça 3 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191475-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-1.jpg?v=638542475285130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191475-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-1.jpg?v=638542475285130000",
+          "alt": "Toalha de Lavabo Tania Bulhões 25 unidades"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191476-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-2.jpg?v=638542475287700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191476-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-2.jpg?v=638542475287700000",
+          "alt": "Toalha de Lavabo Tania Bulhões 25 unidades"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+          "alt": "Bandeja Cristal P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+          "alt": "Bandeja Cristal P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "alt": "Bandeja Cristal G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "alt": "Bandeja Cristal G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194137-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-1.jpg?v=638542663703370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194137-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-1.jpg?v=638542663703370000",
+          "alt": "Set Toalhas de Lavabo Treliça 3 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194138-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-2.jpg?v=638542663707170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194138-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-2.jpg?v=638542663707170000",
+          "alt": "Set Toalhas de Lavabo Treliça 3 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191475-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-1.jpg?v=638542475285130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191476-620-auto/toalha-de-lavabo-tania-bulhoes-25-unidades-001002100165-2.jpg?v=638542475287700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194137-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-1.jpg?v=638542663703370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194138-620-auto/set-toalhas-de-lavabo-trelica-3-pecas-001002100160-2.jpg?v=638542663707170000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 908
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Bandeja Diamante Folha Transparente G",
+        "Bandeja Provence",
+        "Bandeja Cristal P",
+        "Bandeja Cristal G"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200604-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_2.png?v=638882958874770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200604-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_2.png?v=638882958874770000",
+          "alt": "Bandeja Diamante Folha Transparente G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200605-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_3.png?v=638882958874930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200605-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_3.png?v=638882958874930000",
+          "alt": "Bandeja Diamante Folha Transparente G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+          "alt": "Bandeja Cristal P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+          "alt": "Bandeja Cristal P"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+          "alt": "Bandeja Cristal G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000",
+          "alt": "Bandeja Cristal G"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200604-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_2.png?v=638882958874770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200605-620-auto/1002100173_Bandeja_Diamante_Folha_Transp_G_3.png?v=638882958874930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193704-620-auto/bandeja-cristal-p-001002100092-1.jpg?v=638881985443100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193705-620-auto/bandeja-cristal-p-001002100092-2.jpg?v=638881985443100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193700-620-auto/bandeja-cristal-g-001002100093-1.jpg?v=638926127243400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193701-620-auto/bandeja-cristal-g-001002100093-2.jpg?v=638926127243900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 887
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:37:58.478Z",
+  "totalSections": 11
+}

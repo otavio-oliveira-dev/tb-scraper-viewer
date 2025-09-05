@@ -1,0 +1,161 @@
+{
+  "url": "https://www.taniabulhoes.com.br/politicas?page=privacy",
+  "title": "Políticas - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-sentry-component=\"TabHeader\"]",
+      "attrs": {
+        "data-sentry-element": "Container",
+        "data-sentry-component": "TabHeader",
+        "data-sentry-source-file": "TabHeader.tsx",
+        "class": "sc-16f70be4-0 cTmbFD"
+      },
+      "heading": "Políticas",
+      "text_blocks": [
+        "Políticas",
+        "POLÍTICA DE FRETE",
+        "POLÍTICA DE PRIVACIDADE"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 281
+    },
+    {
+      "selector": "div[data-sentry-component=\"PrivacyFP\"]",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "PrivacyFP",
+        "data-sentry-source-file": "Privacy.FP.tsx",
+        "class": "sc-8f9a2907-0 bjqpgI"
+      },
+      "heading": "QUAIS DADOS PESSOAIS COLETAMOS",
+      "text_blocks": [
+        "A loja online Tania Bulhões foi desenvolvida para você realizar compras em todo o território nacional, sem sair de casa, de forma fácil e 100% segura. Ao realizar uma compra em nossa loja online, é necessário fornecer alguns dados pessoais com o objetivo de viabilizar a sua operação. Garantimos padrões rígidos de segurança e confidencialidade a fim de proteger suas informações pessoais. Além disso, visando a sua privacidade e transparência com a utilização de seus dados pessoais, preparamos a presente Política de Privacidade para esclarecer como seus dados pessoais serão tratados pela Tania Bulhões e as medidas aplicadas para garantir sua segurança. Para fins de apresentação, somos a TB Comércio de Perfumes Ltda., inscrita no CNPJ sob o nº 08.613.254/0001-97 e com sede na Rua Colômbia, 182, Jardim América, na Capital do Estado de São Paulo. De acordo com a Lei Geral de Proteção de Dados “LGPD” (Lei Federal nº 13.709.2018), a partir do momento que você nos fornece alguns de seus dados pessoais, nos tornamos responsáveis pela utilização, armazenamento e proteção dos mesmos, na qualidade de controlador de suas informações conforme a definição legal.",
+        "Durante toda a sua navegação, você estará em um ambiente virtual, acolhedor e protegido. Sempre que você ler os termos “Tania Bulhões”, “nós” ou “nossos” estamos nos referindo ao controlador de seus dados pessoais, ou seja, a Tania Bulhões e, quando você encontrar os termos “usuário”, “você”, “cliente”, “seu” ou “sua”, nos referimos a você, nosso querido cliente ou usuário de nossas plataformas virtuais.",
+        "QUAIS DADOS PESSOAIS COLETAMOS",
+        "Durante sua navegação em nossa loja online, podemos coletar tipos diferentes de dados pessoais de forma automática, para fins de conferência, monitoramento e controle ou então fornecidas diretamente por você, tais como no momento de realização de seu cadastro.",
+        "Nesse sentido, listamos abaixo os dados pessoais que podemos coletar de acordo com cada situação:",
+        "Para cadastro: Informações que você digita em nossos formulários, tais como nome completo e endereço de e-mail;",
+        "Para compra e entrega: endereço residencial, CPF e dados do cartão de crédito;",
+        "Para mala direta: data de nascimento e RG;",
+        "Informações obtidas automaticamente através de sua navegação pelo site, tais como seu endereço de IP e os caminhos percorridos através de nossa página na web.",
+        "COMO UTILIZAMOS SEUS DADOS",
+        "Não vendemos nem negociamos dados pessoais de clientes. Nos comprometemos em utilizá-los exclusivamente para:",
+        "Realizar o transporte e a entrega dos produtos adquiridos em nosso site;",
+        "Emitir notas fiscais;",
+        "Identificar o destinatário da compra;",
+        "Criar relacionamento, interatividade e informar sobre novidades, tendências e promoções;",
+        "Realizar o atendimento de solicitações e dúvidas em nossa Central de Atendimento;",
+        "Entrar em contato com o cliente, quando necessário;",
+        "Criar comunicados personalizados e publicidade direcionada;",
+        "Enviar mala direta e e-mail marketing, quando autorizado.",
+        "COM QUEM SEUS DADOS PODEM SER PARTILHADOS",
+        "Para conseguirmos realizar as atividades listadas acima, poderemos compartilhar, quando necessário, seus dados pessoais com terceiros, tais como prestadores de serviço ou órgãos reguladores.",
+        "Abaixo, trazemos algumas destas possibilidades:",
+        "Prestadores de serviços de tecnologia e performance, em contrato com a empresa para tratarem os dados pessoais coletados em nosso nome e de acordo com nossas instruções;",
+        "Órgãos governamentais, autoridades reguladoras, tribunais ou outras autoridades públicas quando, quando solicitado.",
+        "ARMAZENAMENTO E SEGURANÇA DOS SEUS DADOS",
+        "Nosso armazenamento é feito no banco de dados da Oracle. A partir do momento que você faz um cadastro em nosso site, ou nos fornece suas informações pessoais de alguma maneira, seus dados pessoais são armazenados e mantidos de forma perene no sistema, de forma segura e protegida.",
+        "RETENÇÃO E EXCLUSÃO DOS DADOS PESSOAIS",
+        "Garantimos a proteção dos seus dados pessoais a partir do momento que você os fornece para nós, seja para viabilizar sua operação em nosso e-commerce, ou até para receber comunicados, promoções e para melhorar sua experiência de navegação em nosso site. Seus dados pessoais serão mantidos durante todo o período em que for um cliente ativo da Tania Bulhões. Caso opte em algum momento pela exclusão de seus dados pessoais do nosso banco de armazenamento, poderemos reter algumas informações pessoais por um período adicional para fins de cumprimento de obrigações legais ou regulatórias, para exercício regular de direito da empresa, bem como auditorias. A retenção de seus dados pessoais será feita durante o prazo necessário, sempre respeitando os prazos estabelecidos na legislação aplicável.",
+        "O QUE SÃO COOKIES E COMO OS UTILIZAMOS EM NOSSO SITE",
+        "Cookies são identificadores alfanuméricos que permitem o reconhecimento dos computadores que acessam o nosso site e acompanham a navegação dos usuários dentro da nossa loja. Eles não armazenam suas informações pessoais, contendo apenas dados de IP do usuário e podem ser descartados de seu computador a qualquer momento, sem prejuízo nenhum à performance do seu equipamento. Além disso, podem ser facilmente bloqueados em seu navegador. As informações coletadas por meio de Cookies são utilizadas para melhorar a sua experiência em nossos serviços, captar o comportamento dos usuários de forma geral e coletar dados de impressões de conteúdo.",
+        "TRANSFERÊNCIA INTERNACIONAL DE DADOS PESSOAIS",
+        "É importante destacar que alguns de seus dados pessoais poderão vir a ser transferidos para outros países, por exemplo, quando utilizarmos serviços computacionais em nuvem para processamento ou armazenamento de dados, localizados fora do Brasil. De todo modo, isso não é motivo de preocupação, a Tania Bulhões segue os requisitos estabelecidos na legislação vigente, bem como emprega as melhores práticas de mercado para garantir a proteção e privacidade dos seus dados pessoais nessas situações.",
+        "SEUS DIREITOS COMO TITULAR DE SEUS DADOS PESSOAIS",
+        "A Tania Bulhões se preocupa com a transparência acerca do tratamento de seus dados pessoais, de modo que além de todas as informações presentes nesta Política de Privacidade, você pode exercer os direitos previstos na LGPD, tais como:",
+        "Confirmação da existência de tratamento de dados pessoais;",
+        "Acesso aos dados pessoais;",
+        "Correção de dados pessoais incompletos, inexatos ou desatualizados;",
+        "Anonimização, bloqueio ou eliminação de dados pessoais tratados com o consentimento ou desnecessários, excessivos ou tratados em desconformidade com a LGPD;",
+        "Informação das entidades públicas e privadas com as quais nós realizamos o uso compartilhado de dados pessoais;",
+        "Informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa, quando aplicável;",
+        "Revogação do consentimento.",
+        "Suas solicitações serão atendidas de forma gratuita e respondidas dentro do prazo legal. Todas as solicitações recebidas pela Tania Bulhões serão submetidas a uma prévia avaliação da sua identidade e da viabilidade do atendimento, a fim de cumprir com eventuais obrigações que não permitam o completo atendimento das requisições.",
+        "ALTERAÇÕES DA POLÍTICA DE PRIVACIDADE",
+        "A Tania Bulhões está sempre trabalhando para aprimorar a experiência e segurança de nossos usuários e clientes. Por isso, nossas práticas de tratamento de dados pessoais poderão vir a sofrer alterações futuras de modo a refletir tais aprimoramentos. Sempre que alguma condição relevante desta Política de Privacidade for alterada, tais alterações serão válidas, eficazes e vinculantes após a nova versão ser publicada em nosso site. Comunicaremos vocês acerca das alterações por meio de um dos canais disponibilizados por você durante o seu cadastro.",
+        "FALE CONOSCO",
+        "Caso tenha alguma dúvida sobre esta Política de Privacidade, entre em contato conosco através do e-mail: atendimento@taniabulhoes.com.br. Estamos à disposição para ajudá-lo e mantê-lo informado sempre."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 8448
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T02:50:20.135Z",
+  "totalSections": 5
+}

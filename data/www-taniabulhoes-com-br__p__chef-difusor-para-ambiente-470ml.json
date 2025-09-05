@@ -1,0 +1,622 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/chef-difusor-para-ambiente-470ml",
+  "title": "Chef Difusor para Ambiente 470ml",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Ambientes",
+        "Difusores",
+        "Chef Difusor Para Ambiente 470ml"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 228
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Chef Difusor Para Ambiente 470ml",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Chef Difusor Para Ambiente 470ml",
+        "470ml",
+        "R$ 290,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_Detalhe_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_Detalhe_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_Detalhe_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+          "alt": "002L00500043_Chef_Difusor_470ml_Detalhe_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1",
+          "alt": "002L00500043_Chef_Difusor_470ml_Detalhe_2"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200035/002L00500043_Chef_Difusor_470ml.png?v=638841401945170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200036/002L00500043_Chef_Difusor_470ml_Detalhe_2.png?v=638841401945330000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1396
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Plástico",
+        "Maçã Verde",
+        "Folhas de Tomate Verde",
+        "Musk.",
+        "Abra o frasco e retire o tampo plástico de proteção. Recoloque a tampa em seguida colocar as varetas dentro do frasco, em 30 min você já começa sentir o perfume no ambiente. O difusor perfuma continuamente qualquer ambiente, com novas varetas de fibra que não precisam virar diariamente.",
+        "Descrição adicional",
+        "A nova fragrância Folhas de Tomate Verde traduz o frescor e a vitalidade da natureza: a vivacidade da Maçã Verde e do Grapefruit encontra o toque ácido e instigante do Ruibarbo. A doçura sutil do Figo se equilibra com a profundidade do Âmbar, enquanto o Musk envolve tudo em uma assinatura olfativa moderna e refinada.Com tecnologia exclusiva que encapsula e neutraliza odores indesejados, a nova fragrância perfuma delicadamente o espaço, tornando a cozinha ainda mais acolhedora e sofisticada. A linha Chef reúne itens indispensáveis – detergente, sabonete líquido, aromatizador, vela de porcelana e difusor de varetas – que combinam alta performance com um design elegante e contemporâneo."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_VERTICAL_9fde75d232.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": false,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/CAMPANHA_CHEF_VERTICAL_9fde75d232.mp4"
+      ],
+      "html": null,
+      "score": 1929
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/DETERGENTE_CHEF_02_4357c66f3d.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/DETERGENTE_CHEF_02_4357c66f3d.jpg",
+          "alt": "Chef"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/DETERGENTE_CHEF_02_4357c66f3d.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "A linha Chef neutraliza os odores, perfuma o ambiente e transforma a cozinha em um espaço ainda mais convidativo."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 393
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Chef Difusor Para Ambiente 470ml",
+        "R$ 290,00",
+        "Chef Sabonete Líquido 470ml",
+        "R$ 125,00",
+        "incluso",
+        "Chef Aromatizador de Ambiente 470ml",
+        "R$ 220,00",
+        "Compre Os 3 produtos por:",
+        "R$ 635,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200033%2F002L00500043_Chef_Difusor_470ml_2.png%3Fv%3D638841401945000000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200033%2F002L00500043_Chef_Difusor_470ml_2.png%3Fv%3D638841401945000000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200033%2F002L00500043_Chef_Difusor_470ml_2.png%3Fv%3D638841401945000000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200033%2F002L00500043_Chef_Difusor_470ml_2.png%3Fv%3D638841401945000000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200368%2F002L02900054_Sabonete_Liquido_Chef_480ml.png%3Fv%3D638860246160100000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200368%2F002L02900054_Sabonete_Liquido_Chef_480ml.png%3Fv%3D638860246160100000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200368%2F002L02900054_Sabonete_Liquido_Chef_480ml.png%3Fv%3D638860246160100000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200368%2F002L02900054_Sabonete_Liquido_Chef_480ml.png%3Fv%3D638860246160100000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200357%2F002L00500022_Aromatizador_Chef_480ml.png%3Fv%3D638860241550300000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200357%2F002L00500022_Aromatizador_Chef_480ml.png%3Fv%3D638860241550300000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200357%2F002L00500022_Aromatizador_Chef_480ml.png%3Fv%3D638860241550300000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200357%2F002L00500022_Aromatizador_Chef_480ml.png%3Fv%3D638860241550300000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200369/SABONETE_CHEF.jpg?v=638860246160230000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200369/SABONETE_CHEF.jpg?v=638860246160230000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200368/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200368/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200358/AROMATIZADOR_CHEF.jpg?v=638860241550470000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200358/AROMATIZADOR_CHEF.jpg?v=638860241550470000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200357/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200357/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200033%2F002L00500043_Chef_Difusor_470ml_2.png%3Fv%3D638841401945000000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200368%2F002L02900054_Sabonete_Liquido_Chef_480ml.png%3Fv%3D638860246160100000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200357%2F002L00500022_Aromatizador_Chef_480ml.png%3Fv%3D638860241550300000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200369/SABONETE_CHEF.jpg?v=638860246160230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200368/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200358/AROMATIZADOR_CHEF.jpg?v=638860241550470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200357/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200034/002L00500043_Chef_Difusor_470ml_4.png?v=638841401945000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200033/002L00500043_Chef_Difusor_470ml_2.png?v=638841401945000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200369/SABONETE_CHEF.jpg?v=638860246160230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200368/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200358/AROMATIZADOR_CHEF.jpg?v=638860241550470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200357/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1691
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Chef Sabonete Líquido 470ml",
+        "Chef Aromatizador de Ambiente 470ml",
+        "Chef Detergente 470ml",
+        "Chef Vela Porcelana 240g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200368-620-auto/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200368-620-auto/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000",
+          "alt": "Chef Sabonete Líquido 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200369-620-auto/SABONETE_CHEF.jpg?v=638860246160230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200369-620-auto/SABONETE_CHEF.jpg?v=638860246160230000",
+          "alt": "Chef Sabonete Líquido 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200357-620-auto/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200357-620-auto/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000",
+          "alt": "Chef Aromatizador de Ambiente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200358-620-auto/AROMATIZADOR_CHEF.jpg?v=638860241550470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200358-620-auto/AROMATIZADOR_CHEF.jpg?v=638860241550470000",
+          "alt": "Chef Aromatizador de Ambiente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200362-620-auto/002L01200003_Detergente_Chef_480ml.png?v=638860244113230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200362-620-auto/002L01200003_Detergente_Chef_480ml.png?v=638860244113230000",
+          "alt": "Chef Detergente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200363-620-auto/DETERGENTE_CHEF_02.jpg?v=638860244113400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200363-620-auto/DETERGENTE_CHEF_02.jpg?v=638860244113400000",
+          "alt": "Chef Detergente 470ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+          "alt": "Chef Vela Porcelana 240g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000",
+          "alt": "Chef Vela Porcelana 240g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200368-620-auto/002L02900054_Sabonete_Liquido_Chef_480ml.png?v=638860246160100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200369-620-auto/SABONETE_CHEF.jpg?v=638860246160230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200357-620-auto/002L00500022_Aromatizador_Chef_480ml.png?v=638860241550300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200358-620-auto/AROMATIZADOR_CHEF.jpg?v=638860241550470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200362-620-auto/002L01200003_Detergente_Chef_480ml.png?v=638860244113230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200363-620-auto/DETERGENTE_CHEF_02.jpg?v=638860244113400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197670-620-auto/002L03200075_Chef_Vela_240g.png?v=638666718326900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197689-620-auto/VELA_CHEF.jpg?v=638784413343700000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 902
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Refil Difusor para Carro Chá Branco 1,5g",
+        "30% OFF",
+        "Difusor Porcelana Flor Branco Chá Branco 250ml",
+        "Chá Branco Refil para Difusor de Ambiente 300ml",
+        "Chá Branco Difusor para Ambiente 290ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+          "alt": "Refil Difusor para Carro Chá Branco 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+          "alt": "Refil Difusor para Carro Chá Branco 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+          "alt": "Difusor Porcelana Flor Branco Chá Branco 250ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+          "alt": "Difusor Porcelana Flor Branco Chá Branco 250ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196818-620-auto/cha-branco-refil-para-difusor-de-ambiente-300ml-002l01300009-1.jpg?v=638810286668430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196818-620-auto/cha-branco-refil-para-difusor-de-ambiente-300ml-002l01300009-1.jpg?v=638810286668430000",
+          "alt": "Chá Branco Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Chá Branco Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000",
+          "alt": "Chá Branco Difusor para Ambiente 290ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200859-620-auto/000002796_Cha_Branco_Refil_Difusor_para_Carro_Tania_Bulhoes_1,5g_5.png?v=638901735844670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200860-620-auto/refil-difusor-para-carro-cha-branco-15g-002l01300004-2.jpg?v=638901735844970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191759-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-1.jpg?v=638852448581770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191760-620-auto/difusor-porcelana-flor-branco-cha-branco-250ml-193012013bk-2.jpg?v=638852448581800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196818-620-auto/cha-branco-refil-para-difusor-de-ambiente-300ml-002l01300009-1.jpg?v=638810286668430000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/192129-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-1.jpg?v=638810284909230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192130-620-auto/cha-branco-difusor-para-ambiente-290ml-002l01300030-2.jpg?v=638810284909230000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1159
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:55:39.094Z",
+  "totalSections": 11
+}

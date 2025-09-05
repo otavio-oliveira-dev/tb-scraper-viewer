@@ -1,0 +1,584 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/sousplat-astro",
+  "title": "Sousplat Astro",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Sousplat Astro",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Sousplat Astro",
+        "Serve 01 lugar à mesa",
+        "R$ 1.320,00",
+        "6x de R$ 220,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg",
+          "alt": "Product video thumbnail 4fkL"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg",
+          "alt": "Product video thumbnail CSpp"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+        "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=1",
+        "https://img.youtube.com/vi/52znwGyzW0w/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1182
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana Limoges",
+        "3cm de altura",
+        "Não levar ao micro-ondas ou à lava-louças. Não levar ao forno.",
+        "Descrição adicional",
+        "Produzida em Limoges, na França, a coleção de porcelanas decoradas Astro veste a mesa com modernidade e sofisticação."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/LANCAMENTO_ASTRO_V1_b4dc1ac042.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/LANCAMENTO_ASTRO_V1_b4dc1ac042.mp4"
+      ],
+      "html": null,
+      "score": 1120
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/BANNER_COLECOES_ASTRO_16448d42dc.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/BANNER_COLECOES_ASTRO_16448d42dc.jpg",
+          "alt": "Inspire-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/BANNER_COLECOES_ASTRO_16448d42dc.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Inspire-se",
+        "Com um arranjo completo de peças, a coleção permite a composição de mesas originais e sofisticadas para diversas ocasiões."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 413
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Sousplat Astro",
+        "R$ 1.320,00",
+        "Prato Fundo Astro",
+        "R$ 935,00",
+        "incluso",
+        "Prato de Sobremesa Astro",
+        "R$ 960,00",
+        "Compre Os 3 produtos por:",
+        "R$ 3.215,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193694%2Fsousplat-astro-001002300406-1.jpg%3Fv%3D638815302222330000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193694%2Fsousplat-astro-001002300406-1.jpg%3Fv%3D638815302222330000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193694%2Fsousplat-astro-001002300406-1.jpg%3Fv%3D638815302222330000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193694%2Fsousplat-astro-001002300406-1.jpg%3Fv%3D638815302222330000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193654%2Fprato-fundo-astro-001002300474-1.jpg%3Fv%3D638815302509700000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193654%2Fprato-fundo-astro-001002300474-1.jpg%3Fv%3D638815302509700000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193654%2Fprato-fundo-astro-001002300474-1.jpg%3Fv%3D638815302509700000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193654%2Fprato-fundo-astro-001002300474-1.jpg%3Fv%3D638815302509700000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193692%2Fprato-de-sobremesa-astro-001002300709-1.jpg%3Fv%3D638815302312970000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193692%2Fprato-de-sobremesa-astro-001002300709-1.jpg%3Fv%3D638815302312970000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193692%2Fprato-de-sobremesa-astro-001002300709-1.jpg%3Fv%3D638815302312970000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193692%2Fprato-de-sobremesa-astro-001002300709-1.jpg%3Fv%3D638815302312970000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193655/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193655/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193654/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193654/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198319/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198319/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193692/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193692/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193694%2Fsousplat-astro-001002300406-1.jpg%3Fv%3D638815302222330000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193654%2Fprato-fundo-astro-001002300474-1.jpg%3Fv%3D638815302509700000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193692%2Fprato-de-sobremesa-astro-001002300709-1.jpg%3Fv%3D638815302312970000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193655/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193654/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198319/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193692/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193695/sousplat-astro-001002300406-2.jpg?v=638815302222330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193694/sousplat-astro-001002300406-1.jpg?v=638815302222330000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193655/prato-fundo-astro-001002300474-2.jpg?v=638815302509700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193654/prato-fundo-astro-001002300474-1.jpg?v=638815302509700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/198319/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193692/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1476
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Xícara de Chá Astro",
+        "Xícara de Café Astro",
+        "Prato de Sobremesa Astro",
+        "Prato de Pão Astro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+          "alt": "Xícara de Chá Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+          "alt": "Xícara de Chá Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+          "alt": "Xícara de Café Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+          "alt": "Prato de Sobremesa Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+          "alt": "Prato de Sobremesa Astro"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+          "alt": "Prato de Pão Astro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000",
+          "alt": "Prato de Pão Astro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193688-620-auto/xicara-de-cha-astro-001002300574-1.jpg?v=638815298884270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193689-620-auto/xicara-de-cha-astro-001002300574-2.jpg?v=638815298884400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193684-620-auto/xicara-de-cafe-astro-001002300830-1.jpg?v=638815298977470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193685-620-auto/xicara-de-cafe-astro-001002300830-2.jpg?v=638815298977630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193692-620-auto/prato-de-sobremesa-astro-001002300709-1.jpg?v=638815302312970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198319-620-auto/000003066_Prato_Sobremesa_Astro.jpg?v=638815302313130000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193678-620-auto/prato-de-pao-astro-001002300306-1.jpg?v=638815299070630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198321-620-auto/000003093_Prato_Pao_Astro.jpg?v=638815299070630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1076
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Sousplat Plaza Athénée",
+        "Sousplat Trópicos",
+        "Sousplat Marquesa",
+        "Sousplat Limoeiro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+          "alt": "Sousplat Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+          "alt": "Sousplat Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+          "alt": "Sousplat Trópicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+          "alt": "Sousplat Trópicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+          "alt": "Sousplat Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+          "alt": "Sousplat Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 923
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:45:58.404Z",
+  "totalSections": 10
+}

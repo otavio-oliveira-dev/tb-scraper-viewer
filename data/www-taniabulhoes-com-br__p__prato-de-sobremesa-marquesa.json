@@ -1,0 +1,547 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/prato-de-sobremesa-marquesa",
+  "title": "Prato de Sobremesa Marquesa",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Pratos",
+        "Prato de Sobremesa Marquesa"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 114
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Prato de Sobremesa Marquesa",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Prato de Sobremesa Marquesa",
+        "Serve 01 lugar à mesa",
+        "R$ 230,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 907
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Sobremesa",
+        "Porcelana",
+        "2.5cm de altura",
+        "18.5cm",
+        "Não vai ao micro-ondas. Vai à lava louças e ao freezer. Não levar ao forno.",
+        "Descrição adicional",
+        "Prato de sobremesa em porcelana com filete ouro e desenho de limões, borboletas e flores. Usado na mesa do café da manhã e lanche, servindo fatias de bolo, pães, frutas e tortas, traz para a mesa e dia a dia sofisticação e praticidade. Das antigas e imponentes fazendas de Minas Gerais com suas mesas fartas que tinham detalhe por detalhe caprichosamente escolhido pelas baronesas, que se dedicavam a manter a casa aconchegante; vem à inspiração de Tania para desenhar está louça de porcelana com borboletas, abelhas e limões. Remetendo a natureza, com beleza e sofisticação. Com lindas bordas detalhadas em filete dourado, este aparelho é delicado, luxuoso e intimista. Conforme comunicado na data 07/02/2025, essa coleção será descontinuada, aproveite a última oportunidade para garantir suas peças."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8523_OK_928e60f1eb.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8523_OK_928e60f1eb.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8523_OK_928e60f1eb.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1570
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8556_6786704893.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8556_6786704893.jpg",
+          "alt": "encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/EOS_5_D_Mark_IV_8556_6786704893.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "encante-se",
+        "Delicadeza é a palavra para descrever essa coleção cheia de charme."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 238
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Prato de Sobremesa Marquesa",
+        "R$ 230,00",
+        "Xícara de Chá Marquesa",
+        "R$ 210,00",
+        "incluso",
+        "Prato Raso Marquesa",
+        "R$ 320,00",
+        "Compre Os 3 produtos por:",
+        "R$ 760,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191879%2Fprato-de-sobremesa-marquesa-001002300635-1.jpg%3Fv%3D638782711388000000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191879%2Fprato-de-sobremesa-marquesa-001002300635-1.jpg%3Fv%3D638782711388000000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191879%2Fprato-de-sobremesa-marquesa-001002300635-1.jpg%3Fv%3D638782711388000000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191879%2Fprato-de-sobremesa-marquesa-001002300635-1.jpg%3Fv%3D638782711388000000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191865%2Fxicara-de-cha-marquesa-001002300509-1.jpg%3Fv%3D638782710575800000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191865%2Fxicara-de-cha-marquesa-001002300509-1.jpg%3Fv%3D638782710575800000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191865%2Fxicara-de-cha-marquesa-001002300509-1.jpg%3Fv%3D638782710575800000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191865%2Fxicara-de-cha-marquesa-001002300509-1.jpg%3Fv%3D638782710575800000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191881%2Fprato-raso-marquesa-001002300890-1.jpg%3Fv%3D638782711087970000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191881%2Fprato-raso-marquesa-001002300890-1.jpg%3Fv%3D638782711087970000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191881%2Fprato-raso-marquesa-001002300890-1.jpg%3Fv%3D638782711087970000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191881%2Fprato-raso-marquesa-001002300890-1.jpg%3Fv%3D638782711087970000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191866/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191866/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191865/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191865/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191882/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191882/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191881/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191881/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191879%2Fprato-de-sobremesa-marquesa-001002300635-1.jpg%3Fv%3D638782711388000000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191865%2Fxicara-de-cha-marquesa-001002300509-1.jpg%3Fv%3D638782710575800000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191881%2Fprato-raso-marquesa-001002300890-1.jpg%3Fv%3D638782711087970000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191866/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191865/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191882/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191881/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191880/prato-de-sobremesa-marquesa-001002300635-2.jpg?v=638782711388000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191879/prato-de-sobremesa-marquesa-001002300635-1.jpg?v=638782711388000000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191866/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191865/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191882/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191881/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1485
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Xícara de Chá Marquesa",
+        "Bowl com Tampa Marquesa",
+        "Prato Raso Marquesa",
+        "Petit Four Marquesa"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191865-620-auto/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191865-620-auto/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000",
+          "alt": "Xícara de Chá Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191866-620-auto/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191866-620-auto/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000",
+          "alt": "Xícara de Chá Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191751-620-auto/bowl-com-tampa-marquesa-001002300029-1.jpg?v=638782712035270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191751-620-auto/bowl-com-tampa-marquesa-001002300029-1.jpg?v=638782712035270000",
+          "alt": "Bowl com Tampa Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191752-620-auto/bowl-com-tampa-marquesa-001002300029-2.jpg?v=638782712035400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191752-620-auto/bowl-com-tampa-marquesa-001002300029-2.jpg?v=638782712035400000",
+          "alt": "Bowl com Tampa Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+          "alt": "Prato Raso Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+          "alt": "Prato Raso Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191874-620-auto/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191874-620-auto/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000",
+          "alt": "Petit Four Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191875-620-auto/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191875-620-auto/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000",
+          "alt": "Petit Four Marquesa"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191865-620-auto/xicara-de-cha-marquesa-001002300509-1.jpg?v=638782710575800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191866-620-auto/xicara-de-cha-marquesa-001002300509-2.jpg?v=638782710575800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191751-620-auto/bowl-com-tampa-marquesa-001002300029-1.jpg?v=638782712035270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191752-620-auto/bowl-com-tampa-marquesa-001002300029-2.jpg?v=638782712035400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191881-620-auto/prato-raso-marquesa-001002300890-1.jpg?v=638782711087970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191882-620-auto/prato-raso-marquesa-001002300890-2.jpg?v=638782711088100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191874-620-auto/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191875-620-auto/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 878
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "Prato Raso Mediterrâneo Areia",
+        "Prato de Sobremesa Mediterrâneo Verde",
+        "Prato Raso Mediterrâneo Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 932
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:36:47.944Z",
+  "totalSections": 11
+}

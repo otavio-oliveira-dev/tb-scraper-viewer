@@ -12,13 +12,16 @@
       },
       "heading": "Coleções",
       "text_blocks": [
+        "Coleções",
         "Perfumaria Para Casa"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 170
+      "score": 179
     },
     {
       "selector": "#tertiary__banner__container",
@@ -50,8 +53,10 @@
         "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 488
+      "score": 588
     },
     {
       "selector": "main[data-sentry-component=\"Page\"] > section.sc-55b2635c-0.jHtHAZ",
@@ -62,18 +67,28 @@
       "text_blocks": [
         "Entre Rios Blanc",
         "Plaza Athénée",
+        "Provence",
         "Cravo e Canela Céu",
         "Terra Brasilis",
         "Rouge de Fer",
+        "Portrait",
+        "Fábula",
+        "Tramas",
         "Entre Rios",
+        "Trópicos",
+        "Fênix",
+        "Astro",
         "Branco de Ouro",
         "Mediterrâneo",
         "Cravo e Canela",
         "Fleur Royal",
         "Flor de Maracujá",
+        "Limoeiro",
+        "Papillon",
         "Árvores do Brasil",
         "Flor do Ocidente",
         "Frutas do Brasil",
+        "Marquesa",
         "Casa das Orquídeas",
         "Pássaros do Brasil"
       ],
@@ -460,10 +475,12 @@
         "https://static.taniabulhoes.com.br/308054_033_Set_Prato_Raso_Passaros_do_Brasil_4pc_851c650724.png"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 3350
+      "score": 3560
     }
   ],
-  "scrapedAt": "2025-09-04T01:41:27.206Z",
+  "scrapedAt": "2025-09-05T02:48:44.913Z",
   "totalSections": 3
 }

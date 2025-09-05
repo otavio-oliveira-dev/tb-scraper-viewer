@@ -3,6 +3,75 @@
   "title": "Tania Bulhões - Chá Verde",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CHA_ue_VEDE_3333376009.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/CHA_ue_VEDE_3333376009.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
       "selector": "#\\31 97",
       "attrs": {
         "id": "197",
@@ -14,7 +83,9 @@
       },
       "heading": "Chá Verde",
       "text_blocks": [
+        "Chá Verde",
         "A fragrância Chá Verde é fresca, leve e cítrica, ideal para trazer a natureza para dentro de casa.",
+        "Veja Mais",
         "Chá Verde Difusor para Ambiente 290ml",
         "Chá Verde Hidratante Mãos e Corpo 290g",
         "Chá Verde Aromatizador de Ambiente 290ml",
@@ -81,34 +152,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/198375-620-auto/STILL-CHA-VERDE-102OK.jpg?v=638810181101500000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1059
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(3) > div:nth-of-type(2) > section.sc-b44bab58-4.dSTjRo",
-      "attrs": {
-        "data-cy": "double-brand-section-right-image",
-        "class": "sc-b44bab58-4 dSTjRo"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/1_1_Cha_Verde_01_46616dbdf6.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/1_1_Cha_Verde_01_46616dbdf6.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/1_1_Cha_Verde_01_46616dbdf6.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/1_1_Cha_Verde_01_46616dbdf6.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 1209
     },
     {
       "selector": "#\\31 98",
@@ -188,8 +235,10 @@
         "https://taniab.vteximg.com.br/arquivos/ids/196448-620-auto/kit-trio-mini-velas-cha-verde-002l03200073k-2.png?v=638787873411270000"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 804
+      "score": 904
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(5)",
@@ -200,7 +249,9 @@
       },
       "heading": "Vista o ambiente de sensações olfativas únicas.",
       "text_blocks": [
-        "Vista o ambiente de sensações olfativas únicas."
+        "Difusores",
+        "Vista o ambiente de sensações olfativas únicas.",
+        "Conheça"
       ],
       "images": [
         {
@@ -226,8 +277,10 @@
         "https://static.taniabulhoes.com.br/DIFUSOR_VITORIA_REGIA_832f18cfbd.png",
         "https://static.taniabulhoes.com.br/1_1_Cha_Verde_02_5e29b254ee.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 507
+      "score": 1305
     },
     {
       "selector": "#\\31 99",
@@ -308,8 +361,10 @@
         "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png"
       ],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 1045
+      "score": 1175
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -318,17 +373,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:54:25.365Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-05T02:56:54.028Z",
+  "totalSections": 8
 }

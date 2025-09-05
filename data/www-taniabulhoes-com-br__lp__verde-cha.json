@@ -3,20 +3,94 @@
   "title": "Tania Bulhões - Verde Chá",
   "sections": [
     {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
       "attrs": {
-        "data-cy": "text-section-container",
-        "class": "sc-5e4fd09-0 gmSUWR"
+        "class": "button-section"
       },
       "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Hero_c17eee7ffb.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Hero_c17eee7ffb.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2) > section:nth-of-type(1)",
+      "attrs": {
+        "data-cy": "text-box-with-cta-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TextBoxWithCTA",
+        "data-sentry-source-file": "TextBoxWithCTA.tsx",
+        "class": "sc-3f6bc78a-0 heQJlg"
+      },
+      "heading": null,
       "text_blocks": [
         "Resolutamente inclasificável, a icônica fragrância Louis Vuitton difunde os reflexos mutáveis do oud como se fossem várias plumas de fumaça, moldadas pelo vento na areia do deserto."
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 511
+      "score": 611
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4) > section:nth-of-type(1)",
@@ -34,40 +108,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 352
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(6) > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "Com seus fortes acentos de couro, especiarias e madeira, um monumental oud assam é misturado com um toque de benjoim e acentos de framboesa. Nunca o oud foi tão místico."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 349
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7) > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "Eu absolutamente queria atender às expectativas dos conhecedores, dos verdadeiros amantes de oud."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 177
+      "score": 602
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div:nth-of-type(1)",
@@ -95,8 +139,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_247b1528ec.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 208
+      "score": 158
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-af9ea86b-0.juyfKt > div:nth-of-type(2)",
@@ -124,6 +170,8 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/002_L00500035_CHA_VERDE_AROMATIZADOR_DE_AMBIENTE_290_ML_2_607a33c067.png"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
       "score": 212
     },
@@ -134,17 +182,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:56:01.993Z",
-  "totalSections": 7
+  "scrapedAt": "2025-09-05T03:05:01.708Z",
+  "totalSections": 8
 }

@@ -3,6 +3,48 @@
   "title": "Tania Bulhões - Plaza Athenee",
   "sections": [
     {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-cd1016d2-0.ctreEY",
       "attrs": {
         "class": "sc-cd1016d2-0 ctreEY"
@@ -14,50 +56,10 @@
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 363
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(1)",
-      "attrs": {
-        "data-cy": "double-brand-section-left-wrapper",
-        "class": "sc-b44bab58-1 iqASMM"
-      },
-      "heading": null,
-      "text_blocks": [
-        "As peças trazem em seus traços a história de amor entre Jean Gabin e Marlene Dietrich, eternizada nos tons vibrantes de vermelho, preto e dourado."
-      ],
-      "images": [],
-      "image_urls": [],
-      "background_images": [],
-      "html": null,
-      "score": 326
-    },
-    {
-      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-b44bab58-0.idrEFS > div:nth-of-type(2)",
-      "attrs": {
-        "data-cy": "double-brand-section-right-wrapper",
-        "class": "sc-b44bab58-1 rXbnI"
-      },
-      "heading": null,
-      "text_blocks": [],
-      "images": [
-        {
-          "src": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg",
-          "srcset": null,
-          "best": "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg",
-          "alt": "Background image",
-          "isBackground": true
-        }
-      ],
-      "image_urls": [
-        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg"
-      ],
-      "background_images": [
-        "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1455_OK_74cbdef28c.jpg"
-      ],
-      "html": null,
-      "score": 270
+      "score": 463
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(4)",
@@ -85,8 +87,28 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/2025_03_TANIA_PLAZA_ATHENEE_1454_OK_eaf9b0b9aa.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 990
+      "score": 1820
+    },
+    {
+      "selector": "article[data-cy=\"text-section-container\"]",
+      "attrs": {
+        "data-cy": "text-section-container",
+        "class": "sc-5e4fd09-0 gmSUWR"
+      },
+      "heading": "Produzida pela Royal Limoges, na França, a coleção celebra os encantos de um ícone parisiense através da visão criativa de Tania Bulhões.",
+      "text_blocks": [
+        "Produzida pela Royal Limoges, na França, a coleção celebra os encantos de um ícone parisiense através da visão criativa de Tania Bulhões."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 517
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(7)",
@@ -115,8 +137,10 @@
       "background_images": [
         "https://static.taniabulhoes.com.br/Web_1920_5_14_5bbbab86bf.jpg"
       ],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 931
+      "score": 1761
     },
     {
       "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
@@ -125,17 +149,24 @@
       },
       "heading": "Frete Grátis",
       "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
         "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
         "Atendimento ao cliente",
         "+55 (11) 94597-2753"
       ],
       "images": [],
       "image_urls": [],
       "background_images": [],
+      "videos": [],
+      "video_urls": [],
       "html": null,
-      "score": 136
+      "score": 676
     }
   ],
-  "scrapedAt": "2025-09-04T01:51:02.713Z",
-  "totalSections": 6
+  "scrapedAt": "2025-09-05T02:59:58.770Z",
+  "totalSections": 7
 }

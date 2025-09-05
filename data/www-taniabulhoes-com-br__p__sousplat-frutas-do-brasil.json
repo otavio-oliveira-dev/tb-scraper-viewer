@@ -1,0 +1,591 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/sousplat-frutas-do-brasil",
+  "title": "Sousplat Frutas do Brasil",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Sousplat",
+        "Sousplat Frutas do Brasil"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 114
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Sousplat Frutas do Brasil",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Sousplat Frutas do Brasil",
+        "Serve 01 lugar à mesa",
+        "R$ 1.320,00",
+        "6x de R$ 220,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg",
+          "alt": "Product video thumbnail 3BBK"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg",
+          "alt": "Product video thumbnail IX25"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+        "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=1",
+        "https://img.youtube.com/vi/gi3j2r8b-ME/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1193
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana Limoges",
+        "3cm de altura",
+        "Não levar ao micro-ondas ou à lava-louças. Não levar ao forno.",
+        "Descrição adicional",
+        "Feita em Limoges, a coleção de porcelanas decoradas Frutas do Brasil traz à mesa a beleza de quatro espécies de frutas presentes na nossa flora: a carambola, o cambuci, o caju e a graviola."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/MESA_FRUTAS_DO_BRASIL_V1_6de5289046.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/MESA_FRUTAS_DO_BRASIL_V1_6de5289046.mp4"
+      ],
+      "html": null,
+      "score": 1192
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_9_52e5b8f0d1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_9_52e5b8f0d1.jpg",
+          "alt": "Apaixone-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000002583_Prato_Raso_Frutas_do_Brasil_9_52e5b8f0d1.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Apaixone-se",
+        "A riqueza da nossa natureza traduzida em uma arte de encher os olhos. Louças com detalhes em ouro, que agregam ainda mais sofisticação às composições."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 442
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Sousplat Frutas do Brasil",
+        "R$ 1.320,00",
+        "Guardanapo Nuances Pluma",
+        "R$ 120,00",
+        "incluso",
+        "Copo de Cristal Frutas do Brasil",
+        "R$ 360,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.800,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194174%2Fsousplat-frutas-do-brasil-001002300391-1.jpg%3Fv%3D638826548718670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194174%2Fsousplat-frutas-do-brasil-001002300391-1.jpg%3Fv%3D638826548718670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194174%2Fsousplat-frutas-do-brasil-001002300391-1.jpg%3Fv%3D638826548718670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194174%2Fsousplat-frutas-do-brasil-001002300391-1.jpg%3Fv%3D638826548718670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196794%2Fguardanapo-nuances-pluma-001000100169-1.jpg%3Fv%3D638829346801430000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196794%2Fguardanapo-nuances-pluma-001000100169-1.jpg%3Fv%3D638829346801430000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196794%2Fguardanapo-nuances-pluma-001000100169-1.jpg%3Fv%3D638829346801430000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196794%2Fguardanapo-nuances-pluma-001000100169-1.jpg%3Fv%3D638829346801430000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194251%2Fcopo-de-cristal-frutas-do-brasil-001001000011-1.jpg%3Fv%3D638542672001330000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194251%2Fcopo-de-cristal-frutas-do-brasil-001001000011-1.jpg%3Fv%3D638542672001330000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194251%2Fcopo-de-cristal-frutas-do-brasil-001001000011-1.jpg%3Fv%3D638542672001330000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194251%2Fcopo-de-cristal-frutas-do-brasil-001001000011-1.jpg%3Fv%3D638542672001330000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194252/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194252/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194251/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194251/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194174%2Fsousplat-frutas-do-brasil-001002300391-1.jpg%3Fv%3D638826548718670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196794%2Fguardanapo-nuances-pluma-001000100169-1.jpg%3Fv%3D638829346801430000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194251%2Fcopo-de-cristal-frutas-do-brasil-001001000011-1.jpg%3Fv%3D638542672001330000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194252/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194251/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194175/sousplat-frutas-do-brasil-001002300391-2.jpg?v=638826548718670000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194174/sousplat-frutas-do-brasil-001002300391-1.jpg?v=638826548718670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196794/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194252/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194251/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1682
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Taça de Cristal Frutas do Brasil",
+        "Set Xícara de Chá Frutas do Brasil 4 Peças",
+        "Set Prato de Pão Frutas do Brasil 4 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194249-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-1.jpg?v=638542671862930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194249-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-1.jpg?v=638542671862930000",
+          "alt": "Taça de Cristal Frutas do Brasil"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194250-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-2.jpg?v=638542671864470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194250-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-2.jpg?v=638542671864470000",
+          "alt": "Taça de Cristal Frutas do Brasil"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+          "alt": "Set Xícara de Chá Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+          "alt": "Set Xícara de Chá Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+          "alt": "Set Prato de Pão Frutas do Brasil 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194251-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194251-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000",
+          "alt": "Copo de Cristal Frutas do Brasil"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194252-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194252-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000",
+          "alt": "Copo de Cristal Frutas do Brasil"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194249-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-1.jpg?v=638542671862930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194250-620-auto/taca-de-cristal-frutas-do-brasil-001001000115-2.jpg?v=638542671864470000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194214-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-1.jpg?v=638826545479770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194215-620-auto/set-xicara-de-cha-frutas-do-brasil-4-pecas-001002300550-2.jpg?v=638826545479770000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200381-620-auto/set-prato-de-pao-frutas-do-brasil-4-pecas-001002300296-9.jpg?v=638865360876230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200382-620-auto/000002586%20_Set_Prato_de_Pao_Frutas_do_Brasil_4unid_10.jpg?v=638865360876530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194251-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-1.jpg?v=638542672001330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194252-620-auto/copo-de-cristal-frutas-do-brasil-001001000011-2.jpg?v=638542672003000000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1009
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Sousplat Plaza Athénée",
+        "Sousplat Trópicos",
+        "Sousplat Marquesa",
+        "Sousplat Limoeiro"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+          "alt": "Sousplat Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+          "alt": "Sousplat Plaza Athénée"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+          "alt": "Sousplat Trópicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+          "alt": "Sousplat Trópicos"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+          "alt": "Sousplat Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+          "alt": "Sousplat Marquesa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000",
+          "alt": "Sousplat Limoeiro"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/199623-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE.png.png?v=638824161401130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199624-620-auto/001002301100_SOUSPLAT_PLAZA_ATHENEE--1-.jpg.jpg?v=638826475272870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193550-620-auto/sousplat-tropicos-001002300403-1.jpg?v=638826522233500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193551-620-auto/sousplat-tropicos-001002300403-2.jpg?v=638826522233670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196934-620-auto/sousplat-marquesa-001002300350-1.jpg?v=638826551650230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197367-620-auto/311229-046_Bowl_Marquesa_6.jpg?v=638826551650230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191450-620-auto/sousplat-limoeiro-001002300398-1.jpg?v=638782696428900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198245-620-auto/CAMPANHA-VERAO-LIMOEIRO-00088_OK--1-.jpg?v=638782696428900000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 923
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:27:14.600Z",
+  "totalSections": 11
+}

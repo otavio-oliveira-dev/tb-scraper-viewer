@@ -1,0 +1,478 @@
+{
+  "url": "https://www.taniabulhoes.com.br/lp/provence",
+  "title": "Tania Bulhões - Provence",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(1) > div.sc-7620ef51-4.fULiJr",
+      "attrs": {
+        "class": "sc-7620ef51-4 fULiJr"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Hero_Wide_7afd200fc8.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Hero_Wide_7afd200fc8.mp4"
+      ],
+      "html": null,
+      "score": 100
+    },
+    {
+      "selector": "#\\32 41",
+      "attrs": {
+        "id": "241",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Coleção Provence",
+      "text_blocks": [
+        "Coleção Provence",
+        "Conheça",
+        "Xícara de Chá Provence",
+        "Bule de Chá Provence",
+        "Set Xícara de Café Provence 4 Peças",
+        "Sopeira Provence",
+        "Aparelho de Jantar Provence 18 peças",
+        "Prato Raso Provence",
+        "Prato de Sobremesa Provence",
+        "Prato Fundo Provence",
+        "Saladeira Provence",
+        "Travessa Provence",
+        "Molheira Provence"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200480-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence.png.png?v=638871580574630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200480-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence.png.png?v=638871580574630000",
+          "alt": "Xícara de Chá Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200481-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence_2--1-.png.png?v=638871580574970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200481-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence_2--1-.png.png?v=638871580574970000",
+          "alt": "Xícara de Chá Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+          "alt": "Bule de Chá Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000",
+          "alt": "Bule de Chá Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+          "alt": "Set Xícara de Café Provence 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+          "alt": "Set Xícara de Café Provence 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198751-620-auto/001000200757_Sopeira_Angelina_Provence.png.png?v=638781885709330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198751-620-auto/001000200757_Sopeira_Angelina_Provence.png.png?v=638781885709330000",
+          "alt": "Sopeira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198752-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781915065230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198752-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781915065230000",
+          "alt": "Sopeira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198789-620-auto/001002301079PK_Aparelho_de_Jantar_Provence.png.png?v=638784451084730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198789-620-auto/001002301079PK_Aparelho_de_Jantar_Provence.png.png?v=638784451084730000",
+          "alt": "Aparelho de Jantar Provence 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198790-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638784451084900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198790-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638784451084900000",
+          "alt": "Aparelho de Jantar Provence 18 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+          "alt": "Prato Raso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+          "alt": "Prato Raso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198599-620-auto/001002301080_Prato_Sobremesa_Provence_2.png.png?v=638780899002130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198599-620-auto/001002301080_Prato_Sobremesa_Provence_2.png.png?v=638780899002130000",
+          "alt": "Prato de Sobremesa Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198719-620-auto/001002301080_Prato_Sobremesa_Provence_2--1-.png.png?v=638781911680930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198719-620-auto/001002301080_Prato_Sobremesa_Provence_2--1-.png.png?v=638781911680930000",
+          "alt": "Prato de Sobremesa Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198602-620-auto/001002301081_Prato_Fundo_Provence_2.png.png?v=638780910744770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198602-620-auto/001002301081_Prato_Fundo_Provence_2.png.png?v=638780910744770000",
+          "alt": "Prato Fundo Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198721-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638781870747370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198721-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638781870747370000",
+          "alt": "Prato Fundo Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198671-620-auto/001000200753_Saladeira_Provence.png.png?v=638781795457700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198671-620-auto/001000200753_Saladeira_Provence.png.png?v=638781795457700000",
+          "alt": "Saladeira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198672-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781857185430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198672-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781857185430000",
+          "alt": "Saladeira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198675-620-auto/001000200754_Travessa_Provence.png.png?v=638781797250500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198675-620-auto/001000200754_Travessa_Provence.png.png?v=638781797250500000",
+          "alt": "Travessa Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198676-620-auto/001000200754_Travessa_Provence--1-.png.png?v=638781857459530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198676-620-auto/001000200754_Travessa_Provence--1-.png.png?v=638781857459530000",
+          "alt": "Travessa Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198665-620-auto/001000200752_Molheira_Provence.png.png?v=638781793905430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198665-620-auto/001000200752_Molheira_Provence.png.png?v=638781793905430000",
+          "alt": "Molheira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198666-620-auto/001000200752_Molheira_Provence--1-.png.png?v=638781856952930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198666-620-auto/001000200752_Molheira_Provence--1-.png.png?v=638781856952930000",
+          "alt": "Molheira Provence"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200480-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence.png.png?v=638871580574630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200481-620-auto/001002301082%C2%A0_Xicara_de_Cha_Provence_2--1-.png.png?v=638871580574970000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198777-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence.png.png?v=638781920432670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198778-620-auto/001002301083%C2%A0_Xicara_de_Cafe_Provence_2--1-.png.png?v=638782774582600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198751-620-auto/001000200757_Sopeira_Angelina_Provence.png.png?v=638781885709330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198752-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781915065230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198789-620-auto/001002301079PK_Aparelho_de_Jantar_Provence.png.png?v=638784451084730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198790-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638784451084900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198711-620-auto/001002301079_Prato_Raso_Provence_2.png.png?v=638781862477900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198712-620-auto/001002301079_Prato_Raso_Provence--1-.png.png?v=638781912032170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198599-620-auto/001002301080_Prato_Sobremesa_Provence_2.png.png?v=638780899002130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198719-620-auto/001002301080_Prato_Sobremesa_Provence_2--1-.png.png?v=638781911680930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198602-620-auto/001002301081_Prato_Fundo_Provence_2.png.png?v=638780910744770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198721-620-auto/001002301081_Prato_Fundo_Provence_3.png.png?v=638781870747370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198671-620-auto/001000200753_Saladeira_Provence.png.png?v=638781795457700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198672-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781857185430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198675-620-auto/001000200754_Travessa_Provence.png.png?v=638781797250500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198676-620-auto/001000200754_Travessa_Provence--1-.png.png?v=638781857459530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198665-620-auto/001000200752_Molheira_Provence.png.png?v=638781793905430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198666-620-auto/001000200752_Molheira_Provence--1-.png.png?v=638781856952930000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1862
+    },
+    {
+      "selector": "#\\32 42",
+      "attrs": {
+        "id": "242",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Vide Poche Provence",
+      "text_blocks": [
+        "Provence é uma experiência completa: além dos itens principais da mesa posta, a coleção inclui uma ampla seleção de acessórios para trazer beleza e funcionalidade a todos os momentos do servir.",
+        "Vide Poche Provence",
+        "Set Prato de Pão Provence 2 Peças",
+        "Bandeja Provence",
+        "Vaso Provence",
+        "Set Porta Guardanapo Provence 4 peças",
+        "Fruteira Provence",
+        "Jarra Provence",
+        "Mini Vaso Provence",
+        "Mini Bowl Provence",
+        "Consome Provence",
+        "Travessa Funda Provence"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+          "alt": "Vide Poche Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+          "alt": "Vide Poche Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+          "alt": "Set Prato de Pão Provence 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000",
+          "alt": "Set Prato de Pão Provence 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+          "alt": "Bandeja Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198573-620-auto/001002401256_Vaso_Provence.png.png?v=638780799166870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198573-620-auto/001002401256_Vaso_Provence.png.png?v=638780799166870000",
+          "alt": "Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198744-620-auto/001002401256_Vaso_Provence--1-.png.png?v=638781918410000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198744-620-auto/001002401256_Vaso_Provence--1-.png.png?v=638781918410000000",
+          "alt": "Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+          "alt": "Set Porta Guardanapo Provence 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+          "alt": "Set Porta Guardanapo Provence 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198774-620-auto/001000200758_Fruteira_Quadrada_Provence.png.png?v=638781914475930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198774-620-auto/001000200758_Fruteira_Quadrada_Provence.png.png?v=638781914475930000",
+          "alt": "Fruteira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198775-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781914672000000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198775-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781914672000000",
+          "alt": "Fruteira Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198767-620-auto/001000200759_Jarra_Provence.png.png?v=638781913277400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198767-620-auto/001000200759_Jarra_Provence.png.png?v=638781913277400000",
+          "alt": "Jarra Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198768-620-auto/001000200759_Jarra_Provence--1-.png.png?v=638784220972500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198768-620-auto/001000200759_Jarra_Provence--1-.png.png?v=638784220972500000",
+          "alt": "Jarra Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+          "alt": "Mini Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+          "alt": "Mini Vaso Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199486-620-auto/001002301085_Mini_Bowl_Provence.png.png?v=638814697657830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199486-620-auto/001002301085_Mini_Bowl_Provence.png.png?v=638814697657830000",
+          "alt": "Mini Bowl Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199487-620-auto/001000200756_Bule_Provence_2--1-.png.png?v=638814698013500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199487-620-auto/001000200756_Bule_Provence_2--1-.png.png?v=638814698013500000",
+          "alt": "Mini Bowl Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198657-620-auto/001000200750_Consume_Provence.png.png?v=638781788369500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198657-620-auto/001000200750_Consume_Provence.png.png?v=638781788369500000",
+          "alt": "Consome Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198658-620-auto/001000200750_Consume_Provence--1-.png.png?v=638781856128600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198658-620-auto/001000200750_Consume_Provence--1-.png.png?v=638781856128600000",
+          "alt": "Consome Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199483-620-auto/001000200755_Travessa_Funda_Provence--2-.png.png?v=638814468845770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199483-620-auto/001000200755_Travessa_Funda_Provence--2-.png.png?v=638814468845770000",
+          "alt": "Travessa Funda Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199484-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638814546459300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199484-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638814546459300000",
+          "alt": "Travessa Funda Provence"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/198739-620-auto/001002301086_Vide_Poche_Provence_2.png.png?v=638781878484470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198740-620-auto/001002301086_Vide_Poche_Provence--2-.png.png?v=638781910099000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200050-620-auto/TESTE_PRATO_PAO_02.png?v=638847427566870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200051-620-auto/001002301084_Prato_de_Pao_Provence--1-.png.png?v=638847427567200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198661-620-auto/001000200751_Bandeja_Provence_2.png.png?v=638781791172730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198662-620-auto/001000200751_Bandeja_Provence--2-.png.png?v=638781856656670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198573-620-auto/001002401256_Vaso_Provence.png.png?v=638780799166870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198744-620-auto/001002401256_Vaso_Provence--1-.png.png?v=638781918410000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198774-620-auto/001000200758_Fruteira_Quadrada_Provence.png.png?v=638781914475930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198775-620-auto/001000200753_Saladeira_Provence--1-.png.png?v=638781914672000000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198767-620-auto/001000200759_Jarra_Provence.png.png?v=638781913277400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198768-620-auto/001000200759_Jarra_Provence--1-.png.png?v=638784220972500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198574-620-auto/001002401268_Mini_Murano_Provence.png.png?v=638780802211230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198764-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638781909482700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199486-620-auto/001002301085_Mini_Bowl_Provence.png.png?v=638814697657830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199487-620-auto/001000200756_Bule_Provence_2--1-.png.png?v=638814698013500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198657-620-auto/001000200750_Consume_Provence.png.png?v=638781788369500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198658-620-auto/001000200750_Consume_Provence--1-.png.png?v=638781856128600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199483-620-auto/001000200755_Travessa_Funda_Provence--2-.png.png?v=638814468845770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/199484-620-auto/001002401268_Mini_Murano_Provence--1-.png.png?v=638814546459300000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1983
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T02:56:54.173Z",
+  "totalSections": 6
+}

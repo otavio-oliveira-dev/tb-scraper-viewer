@@ -1,0 +1,631 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/guardanapo-cravo-e-canela-ceu",
+  "title": "Guardanapo Cravo e Canela Céu",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Guardanapos",
+        "Guardanapo Cravo e Canela Céu"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 121
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Guardanapo Cravo e Canela Céu",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Guardanapo Cravo e Canela Céu",
+        "Serve 01 lugar à mesa",
+        "R$ 195,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_4"
+        },
+        {
+          "src": "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg",
+          "alt": "Product video thumbnail KfEh"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+          "alt": "001000100985_Guardanapo_Cravo_e_Canela_Ceu_4"
+        },
+        {
+          "src": "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg",
+          "alt": "Product video thumbnail h-s3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+        "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197541/001000100985_Guardanapo_Cravo_e_Canela_Ceu_2--1-.png?v=638798160618570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197542/001000100985_Guardanapo_Cravo_e_Canela_Ceu_4.jpg?v=638798160618570000&quality=1",
+        "https://img.youtube.com/vi/_ocBYikvdms/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1509
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Linho Vintage",
+        "50cm de comprimento",
+        "50cm de largura",
+        "Lavar com água em temperatura ambiente. Não vai à secadora. Não expor à alvejantes.",
+        "Descrição adicional",
+        "A coleção de porcelanas decoradas Cravo e Canela Céu ilustra, com delicadeza e irreverência, louças e acessórios para todos os momentos à mesa."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/CRAVO_E_CANELA_CE_ue_U_WIDE_V1_4eed70a0ad.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/CRAVO_E_CANELA_CE_ue_U_WIDE_V1_4eed70a0ad.mp4"
+      ],
+      "html": null,
+      "score": 1177
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3_e38bf74022.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3_e38bf74022.jpg",
+          "alt": "Cravo e Canela Céu"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3_e38bf74022.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Cravo e Canela Céu",
+        "Uma reinterpretação da clássica Cravo e Canela com tons mais suaves e delicadas nuances de azul que remetem ao céu."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 414
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Guardanapo Cravo e Canela Céu",
+        "R$ 195,00",
+        "Guardanapo Cravo e Canela",
+        "incluso",
+        "Prato de Sobremesa Cravo e Canela",
+        "R$ 140,00",
+        "Compre Os 3 produtos por:",
+        "R$ 530,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197539%2F001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png%3Fv%3D638664315136800000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197539%2F001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png%3Fv%3D638664315136800000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197539%2F001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png%3Fv%3D638664315136800000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197539%2F001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png%3Fv%3D638664315136800000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199983%2Fguardanapo-cravo-e-canela-001000100113-1.jpg%3Fv%3D638841258186730000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199983%2Fguardanapo-cravo-e-canela-001000100113-1.jpg%3Fv%3D638841258186730000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199983%2Fguardanapo-cravo-e-canela-001000100113-1.jpg%3Fv%3D638841258186730000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199983%2Fguardanapo-cravo-e-canela-001000100113-1.jpg%3Fv%3D638841258186730000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199976%2Fprato-de-sobremesa-cravo-e-canela-001002300628-1.jpg%3Fv%3D638841248048070000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199976%2Fprato-de-sobremesa-cravo-e-canela-001002300628-1.jpg%3Fv%3D638841248048070000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199976%2Fprato-de-sobremesa-cravo-e-canela-001002300628-1.jpg%3Fv%3D638841248048070000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199976%2Fprato-de-sobremesa-cravo-e-canela-001002300628-1.jpg%3Fv%3D638841248048070000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199984/321062_021_Guardanapo_Cravo_e_Canela_4.jpg?v=638841258187070000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199984/321062_021_Guardanapo_Cravo_e_Canela_4.jpg?v=638841258187070000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199983/guardanapo-cravo-e-canela-001000100113-1.jpg?v=638841258186730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199983/guardanapo-cravo-e-canela-001000100113-1.jpg?v=638841258186730000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199977/308010-949_Prato_Sobremesa_Cravo_e_Canela_4.jpg?v=638841248048370000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199977/308010-949_Prato_Sobremesa_Cravo_e_Canela_4.jpg?v=638841248048370000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199976/prato-de-sobremesa-cravo-e-canela-001002300628-1.jpg?v=638841248048070000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199976/prato-de-sobremesa-cravo-e-canela-001002300628-1.jpg?v=638841248048070000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F197539%2F001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png%3Fv%3D638664315136800000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199983%2Fguardanapo-cravo-e-canela-001000100113-1.jpg%3Fv%3D638841258186730000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199976%2Fprato-de-sobremesa-cravo-e-canela-001002300628-1.jpg%3Fv%3D638841248048070000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199984/321062_021_Guardanapo_Cravo_e_Canela_4.jpg?v=638841258187070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199983/guardanapo-cravo-e-canela-001000100113-1.jpg?v=638841258186730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199977/308010-949_Prato_Sobremesa_Cravo_e_Canela_4.jpg?v=638841248048370000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199976/prato-de-sobremesa-cravo-e-canela-001002300628-1.jpg?v=638841248048070000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197540/001000100985_Guardanapo_Cravo_e_Canela_Ceu_3.jpg?v=638798160618570000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/197539/001000100985_Guardanapo_Cravo_e_Canela_Ceu--1-.png?v=638664315136800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199984/321062_021_Guardanapo_Cravo_e_Canela_4.jpg?v=638841258187070000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199983/guardanapo-cravo-e-canela-001000100113-1.jpg?v=638841258186730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199977/308010-949_Prato_Sobremesa_Cravo_e_Canela_4.jpg?v=638841248048370000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199976/prato-de-sobremesa-cravo-e-canela-001002300628-1.jpg?v=638841248048070000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1674
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Set Xícara de Chá Cravo e Canela Céu 4 Peças",
+        "Set Bowl Cravo e Canela Céu 2 Peças",
+        "Set Prato Sobremesa Cravo e Canela Céu 2 Peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200126-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_4.png?v=638848075996630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200126-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_4.png?v=638848075996630000",
+          "alt": "Set Xícara de Chá Cravo e Canela Céu 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200127-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_7.jpg?v=638848075996800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200127-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_7.jpg?v=638848075996800000",
+          "alt": "Set Xícara de Chá Cravo e Canela Céu 4 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200118-620-auto/001002300216K_Set_Bowl_Cravo_e_Canela_Ceu.png?v=638848075161070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200118-620-auto/001002300216K_Set_Bowl_Cravo_e_Canela_Ceu.png?v=638848075161070000",
+          "alt": "Set Bowl Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200119-620-auto/001002300216_Bowl_Cravo_e_Canela_Ceu_7.jpg?v=638848075161400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200119-620-auto/001002300216_Bowl_Cravo_e_Canela_Ceu_7.jpg?v=638848075161400000",
+          "alt": "Set Bowl Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200140-620-auto/001002301007K_Set_Prato_de_Sobremesa_Cravo_e_Canela_Ceu.png?v=638848077479600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200140-620-auto/001002301007K_Set_Prato_de_Sobremesa_Cravo_e_Canela_Ceu.png?v=638848077479600000",
+          "alt": "Set Prato Sobremesa Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200141-620-auto/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3.jpg?v=638848077479600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200141-620-auto/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3.jpg?v=638848077479600000",
+          "alt": "Set Prato Sobremesa Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+          "alt": "Set Prato Raso Cravo e Canela Céu 2 Peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000",
+          "alt": "Set Prato Raso Cravo e Canela Céu 2 Peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200126-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_4.png?v=638848075996630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200127-620-auto/001002300614_Xicara_de_Cha_Cravo_e_Canela_Ceu_7.jpg?v=638848075996800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200118-620-auto/001002300216K_Set_Bowl_Cravo_e_Canela_Ceu.png?v=638848075161070000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200119-620-auto/001002300216_Bowl_Cravo_e_Canela_Ceu_7.jpg?v=638848075161400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200140-620-auto/001002301007K_Set_Prato_de_Sobremesa_Cravo_e_Canela_Ceu.png?v=638848077479600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200141-620-auto/001002301007_Prato_de_Sobremesa_Cravo_e_Canela_Ceu_3.jpg?v=638848077479600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200134-620-auto/001002301005K_Set_Prato_Raso_Cravo_e_Canela_Ceu.png?v=638848076541800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200135-620-auto/001002301005_Prat_Raso_Cravo_e_Canela_Ceu_3.jpg?v=638848076541970000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 919
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Set Guardanapo Fábula 4 peças",
+        "Guardanapo Nuances Pluma",
+        "Set Porta Guardanapo Provence 4 peças",
+        "Guardanapo Nuances Lima"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+          "alt": "Set Guardanapo Fábula 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196794-620-auto/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196794-620-auto/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000",
+          "alt": "Guardanapo Nuances Pluma"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Guardanapo Nuances Pluma"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+          "alt": "Set Porta Guardanapo Provence 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+          "alt": "Set Porta Guardanapo Provence 4 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193448-620-auto/guardanapo-nuances-lima-001000100168-1.jpg?v=638829346566530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193448-620-auto/guardanapo-nuances-lima-001000100168-1.jpg?v=638829346566530000",
+          "alt": "Guardanapo Nuances Lima"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193449-620-auto/guardanapo-nuances-lima-001000100168-2.jpg?v=638829346566530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193449-620-auto/guardanapo-nuances-lima-001000100168-2.jpg?v=638829346566530000",
+          "alt": "Guardanapo Nuances Lima"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193962-620-auto/set-guardanapo-fabula-4-pecas-001000100194-3.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197471-620-auto/000003893_Set_Guardanapo_Fabula_6.jpg?v=638774011232700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196794-620-auto/guardanapo-nuances-pluma-001000100169-1.jpg?v=638829346801430000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/198652-620-auto/001000101018_Set_Pt_Guardanapo_Provence.png.png?v=638781781271630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198653-620-auto/001000101006_Set_Guardanapo_Nuances_Provence--2-.png.png?v=638781852766600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193448-620-auto/guardanapo-nuances-lima-001000100168-1.jpg?v=638829346566530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193449-620-auto/guardanapo-nuances-lima-001000100168-2.jpg?v=638829346566530000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 913
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:03:21.388Z",
+  "totalSections": 11
+}

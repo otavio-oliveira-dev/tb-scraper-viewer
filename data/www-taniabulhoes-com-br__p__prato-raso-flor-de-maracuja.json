@@ -1,0 +1,609 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/prato-raso-flor-de-maracuja",
+  "title": "Prato Raso Flor de Maracujá",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Pratos",
+        "Prato Raso Flor de Maracujá"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 114
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Prato Raso Flor de Maracujá",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Prato Raso Flor de Maracujá",
+        "Serve 01 lugar à mesa",
+        "R$ 790,00",
+        "3x de R$ 263,33",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192664/prato-raso-flor-de-maracuja-001002300885-3.jpg?v=638763627355100000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1343
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana Limoges",
+        "2.3cm de altura",
+        "26.5cm",
+        "Vai ao micro-ondas, lava-louças e freezer. Não levar ao forno.",
+        "Descrição adicional",
+        "Produzida em Limoges, na França, a coleção de porcelanas decoradas Flor de Maracujá retrata a exuberância da espécie."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/308067_034_Prato_de_Sobremesa_Flor_de_Maracuja_6_5c91f7b1ca.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308067_034_Prato_de_Sobremesa_Flor_de_Maracuja_6_5c91f7b1ca.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/308067_034_Prato_de_Sobremesa_Flor_de_Maracuja_6_5c91f7b1ca.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 879
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/308120_034_Xicara_de_Cha_Flor_de_Maracuja_4_a02481f9fd.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/308120_034_Xicara_de_Cha_Flor_de_Maracuja_4_a02481f9fd.jpg",
+          "alt": "Apaixone-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/308120_034_Xicara_de_Cha_Flor_de_Maracuja_4_a02481f9fd.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Apaixone-se",
+        "Verdadeiras joias para vestir a mesa com sofisticação."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 226
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Prato Raso Flor de Maracujá",
+        "R$ 790,00",
+        "Xícara de Chá Flor de Maracujá",
+        "R$ 830,00",
+        "incluso",
+        "R$ 810,00",
+        "Compre Os 3 produtos por:",
+        "R$ 2.430,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192662%2Fprato-raso-flor-de-maracuja-001002300885-1.jpg%3Fv%3D638763627354970000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192662%2Fprato-raso-flor-de-maracuja-001002300885-1.jpg%3Fv%3D638763627354970000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192662%2Fprato-raso-flor-de-maracuja-001002300885-1.jpg%3Fv%3D638763627354970000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192662%2Fprato-raso-flor-de-maracuja-001002300885-1.jpg%3Fv%3D638763627354970000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192699%2Fxicara-de-cha-flor-de-maracuja-001002300502-1.jpg%3Fv%3D638763628153470000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192699%2Fxicara-de-cha-flor-de-maracuja-001002300502-1.jpg%3Fv%3D638763628153470000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192699%2Fxicara-de-cha-flor-de-maracuja-001002300502-1.jpg%3Fv%3D638763628153470000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192699%2Fxicara-de-cha-flor-de-maracuja-001002300502-1.jpg%3Fv%3D638763628153470000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192704%2Fxicara-de-cafe-flor-de-maracuja-001002300768-1.jpg%3Fv%3D638763628001700000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192704%2Fxicara-de-cafe-flor-de-maracuja-001002300768-1.jpg%3Fv%3D638763628001700000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192704%2Fxicara-de-cafe-flor-de-maracuja-001002300768-1.jpg%3Fv%3D638763628001700000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192704%2Fxicara-de-cafe-flor-de-maracuja-001002300768-1.jpg%3Fv%3D638763628001700000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192700/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192700/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192699/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192699/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192705/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192705/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192704/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192704/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192662%2Fprato-raso-flor-de-maracuja-001002300885-1.jpg%3Fv%3D638763627354970000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192699%2Fxicara-de-cha-flor-de-maracuja-001002300502-1.jpg%3Fv%3D638763628153470000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192704%2Fxicara-de-cafe-flor-de-maracuja-001002300768-1.jpg%3Fv%3D638763628001700000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192700/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192699/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192705/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192704/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192663/prato-raso-flor-de-maracuja-001002300885-2.jpg?v=638763627355100000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192662/prato-raso-flor-de-maracuja-001002300885-1.jpg?v=638763627354970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192700/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192699/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192705/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192704/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1475
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Porta-Guardanapo Flor de Maracujá Amarelo",
+        "Xícara de Chá Flor de Maracujá",
+        "Prato Fundo Flor de Maracujá"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197365-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo.png?v=638658313639800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197365-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo.png?v=638658313639800000",
+          "alt": "Porta-Guardanapo Flor de Maracujá Amarelo"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197366-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo_2.png?v=638658313779570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197366-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo_2.png?v=638658313779570000",
+          "alt": "Porta-Guardanapo Flor de Maracujá Amarelo"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192699-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192699-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000",
+          "alt": "Xícara de Chá Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192700-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192700-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000",
+          "alt": "Xícara de Chá Flor de Maracujá"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192704-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192704-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000",
+          "alt": "Xícara de Café Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192705-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192705-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000",
+          "alt": "Xícara de Café Flor de Maracujá"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+          "alt": "Prato Fundo Flor de Maracujá"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000",
+          "alt": "Prato Fundo Flor de Maracujá"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197365-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo.png?v=638658313639800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197366-620-auto/1000100997_Pt_Flor_de_Maracuja_Amarelo_2.png?v=638658313779570000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192699-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-1.jpg?v=638763628153470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192700-620-auto/xicara-de-cha-flor-de-maracuja-001002300502-2.jpg?v=638763628153470000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192704-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-1.jpg?v=638763628001700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192705-620-auto/xicara-de-cafe-flor-de-maracuja-001002300768-2.jpg?v=638763628001870000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192674-620-auto/prato-fundo-flor-de-maracuja-001002300453-1.jpg?v=638763627829700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192675-620-auto/prato-fundo-flor-de-maracuja-001002300453-2.jpg?v=638763627829700000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1043
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "Prato Raso Mediterrâneo Areia",
+        "Prato de Sobremesa Mediterrâneo Verde",
+        "Prato Raso Mediterrâneo Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 932
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:19:01.761Z",
+  "totalSections": 11
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://www.taniabulhoes.com.br/compras-e-devolucoes?page=shipping",
+  "title": "Compras e Devoluções - Tania Bulhões",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-sentry-component=\"TabHeader\"]",
+      "attrs": {
+        "data-sentry-element": "Container",
+        "data-sentry-component": "TabHeader",
+        "data-sentry-source-file": "TabHeader.tsx",
+        "class": "sc-16f70be4-0 cTmbFD"
+      },
+      "heading": "Compras e Devoluções",
+      "text_blocks": [
+        "Compras e Devoluções",
+        "FORMAS DE PAGAMENTO",
+        "TROCAS E DEVOLUÇÕES"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 290
+    },
+    {
+      "selector": "div[data-sentry-component=\"PaymentPE\"]",
+      "attrs": {
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "PaymentPE",
+        "data-sentry-source-file": "Payment.PE.tsx",
+        "class": "sc-8b1e8830-0 EAEyn"
+      },
+      "heading": "Cartão de Crédito",
+      "text_blocks": [
+        "Cartão de Crédito",
+        "Trabalhamos com as principais bandeiras do mercado e todo parcelamento é sem juros.",
+        "Bandeiras: Visa, MasterCard, Diners, American Express e Elo. Parcelamento: até 10x sem juros, parcelas mínimas de R$200,00. Não aceitamos cartões emitidos fora do Brasil.",
+        "O Pix é uma forma de pagamento instantânea, prática e segura para suas compras. Após a confirmação do pagamento, o prazo de processamento do pedido começa imediatamente, garantindo mais agilidade na entrega. Tempo válido para realizar o Pix: 15 minutos.",
+        "Atenção: após esse tempo, seu pedido será cancelado automaticamente e, caso efetue o pagamento, o valor será reembolsado.",
+        "É possível parcelar com Pix?",
+        "Não é possível parcelamento através do Pix. O parcelamento é válido somente para compras realizadas com cartão de crédito, em até 10x sem juros, parcelas mínimas de R$200,00.",
+        "É possível alterar a forma de pagamento?",
+        "Não. Após a finalização do pedido não é possível alterar a forma de pagamento.",
+        "Crédito da Lista de Casamento",
+        "Ainda não é possível utilizar crédito da lista de casamento na sua compra online, apenas nas lojas físicas.",
+        "Cupom de desconto",
+        "Insira o seu cupom de desconto diretamente no carrinho de compras. É possível utilizar somente 1 cupom de desconto por transação.",
+        "Vale troca ou cartão presente",
+        "Ainda não é possível utilizar vale presente na sua compra online, apenas nas lojas físicas."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1910
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T02:53:31.830Z",
+  "totalSections": 5
+}

@@ -1,0 +1,560 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/prato-de-pao-jade-azul",
+  "title": "Prato de Pão Jade Azul",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Prato de Pão Jade Azul",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Prato de Pão Jade Azul",
+        "Serve 01 lugar à mesa",
+        "R$ 715,00",
+        "3x de R$ 238,33",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "alt": "000000805_Prato_Raso_Jade_Azul_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1",
+          "alt": "000000805_Prato_Raso_Jade_Azul_5"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "alt": "000000805_Prato_Raso_Jade_Azul_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+          "alt": "000000805_Prato_Raso_Jade_Azul_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1",
+          "alt": "000000805_Prato_Raso_Jade_Azul_5"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1088
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana Limoges",
+        "2cm de altura",
+        "Não levar ao micro-ondas ou à lava-louças. Não levar ao forno.",
+        "Descrição adicional",
+        "Produzida em Limoges, na França, a coleção de porcelanas decoradas Jade Azul veste a mesa com modernidade e elegância."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Tania_limoges_4394_OK_0c000ec5c9.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Tania_limoges_4394_OK_0c000ec5c9.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Tania_limoges_4394_OK_0c000ec5c9.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 871
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Tania_limoges_4385_OK_be962b112b.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Tania_limoges_4385_OK_be962b112b.jpg",
+          "alt": "encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Tania_limoges_4385_OK_be962b112b.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "encante-se",
+        "A atenção aos detalhes torna cada peça única."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 216
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Prato de Pão Jade Azul",
+        "R$ 715,00",
+        "Petit Four Marquesa",
+        "R$ 210,00",
+        "incluso",
+        "Xícara de Café Jade Azul",
+        "R$ 825,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.750,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196823%2Fprato-de-pao-jade-azul-001002300294-1.jpg%3Fv%3D638826548471700000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196823%2Fprato-de-pao-jade-azul-001002300294-1.jpg%3Fv%3D638826548471700000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196823%2Fprato-de-pao-jade-azul-001002300294-1.jpg%3Fv%3D638826548471700000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196823%2Fprato-de-pao-jade-azul-001002300294-1.jpg%3Fv%3D638826548471700000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191874%2Fpetit-four-marquesa-001000200670-1.jpg%3Fv%3D638826551897870000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191874%2Fpetit-four-marquesa-001000200670-1.jpg%3Fv%3D638826551897870000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191874%2Fpetit-four-marquesa-001000200670-1.jpg%3Fv%3D638826551897870000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191874%2Fpetit-four-marquesa-001000200670-1.jpg%3Fv%3D638826551897870000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192141%2Fxicara-de-cafe-jade-azul-001002300795-1.jpg%3Fv%3D638826548806400000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192141%2Fxicara-de-cafe-jade-azul-001002300795-1.jpg%3Fv%3D638826548806400000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192141%2Fxicara-de-cafe-jade-azul-001002300795-1.jpg%3Fv%3D638826548806400000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192141%2Fxicara-de-cafe-jade-azul-001002300795-1.jpg%3Fv%3D638826548806400000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191875/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191875/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191874/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191874/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197264/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197264/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192141/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192141/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F196823%2Fprato-de-pao-jade-azul-001002300294-1.jpg%3Fv%3D638826548471700000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191874%2Fpetit-four-marquesa-001000200670-1.jpg%3Fv%3D638826551897870000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192141%2Fxicara-de-cafe-jade-azul-001002300795-1.jpg%3Fv%3D638826548806400000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191875/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191874/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197264/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192141/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/197267/000000805_Prato_Raso_Jade_Azul_5.jpg?v=638826548471700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/196823/prato-de-pao-jade-azul-001002300294-1.jpg?v=638826548471700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191875/petit-four-marquesa-001000200670-2.jpg?v=638826551897870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191874/petit-four-marquesa-001000200670-1.jpg?v=638826551897870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197264/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192141/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1484
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Xícara de Chá Jade Azul",
+        "Xícara de Café Jade Azul",
+        "Sousplat Jade Azul",
+        "Prato Fundo Jade Azul"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+          "alt": "Xícara de Chá Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+          "alt": "Xícara de Chá Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192141-620-auto/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192141-620-auto/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000",
+          "alt": "Xícara de Café Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197264-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197264-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000",
+          "alt": "Xícara de Café Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196824-620-auto/sousplat-jade-azul-001002300386-1.jpg?v=638826549072200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196824-620-auto/sousplat-jade-azul-001002300386-1.jpg?v=638826549072200000",
+          "alt": "Sousplat Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Sousplat Jade Azul"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192245-620-auto/prato-fundo-jade-azul-001002300462-1.jpg?v=638826548114500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192245-620-auto/prato-fundo-jade-azul-001002300462-1.jpg?v=638826548114500000",
+          "alt": "Prato Fundo Jade Azul"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192247-620-auto/prato-fundo-jade-azul-001002300462-3.jpg?v=638826548114500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192247-620-auto/prato-fundo-jade-azul-001002300462-3.jpg?v=638826548114500000",
+          "alt": "Prato Fundo Jade Azul"
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/193096-620-auto/xicara-de-cha-jade-azul-001002300538-1.jpg?v=638826547523500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197261-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826547523630000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192141-620-auto/xicara-de-cafe-jade-azul-001002300795-1.jpg?v=638826548806400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197264-620-auto/000000808_Xicara_de_Cha_Jade_Azul_4.jpg?v=638826548806400000",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/196824-620-auto/sousplat-jade-azul-001002300386-1.jpg?v=638826549072200000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://www.taniabulhoes.com.br/images/product-badges/limoges.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192245-620-auto/prato-fundo-jade-azul-001002300462-1.jpg?v=638826548114500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192247-620-auto/prato-fundo-jade-azul-001002300462-3.jpg?v=638826548114500000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1081
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Prato de Sobremesa Mediterrâneo Areia",
+        "Prato Raso Mediterrâneo Areia",
+        "Prato de Sobremesa Mediterrâneo Verde",
+        "Prato Raso Mediterrâneo Verde"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+          "alt": "Prato de Sobremesa Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+          "alt": "Prato Raso Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+          "alt": "Prato de Sobremesa Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000",
+          "alt": "Prato Raso Mediterrâneo Verde"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192796-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-1.jpg?v=638760028160670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192797-620-auto/prato-de-sobremesa-mediterraneo-areia-001002300663-2.jpg?v=638760028160830000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192790-620-auto/prato-raso-mediterraneo-areia-001002300916-1.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192791-620-auto/prato-raso-mediterraneo-areia-001002300916-2.jpg?v=638760026104700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192186-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-1.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192187-620-auto/prato-de-sobremesa-mediterraneo-verde-001002300664-2.jpg?v=638782678740330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192121-620-auto/prato-raso-mediterraneo-verde-001002300917-1.jpg?v=638782678222470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192122-620-auto/prato-raso-mediterraneo-verde-001002300917-2.jpg?v=638782678222630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 932
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:28:51.776Z",
+  "totalSections": 10
+}

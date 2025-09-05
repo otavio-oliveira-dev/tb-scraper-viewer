@@ -1,0 +1,584 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/frenesi-eau-de-parfum-30ml",
+  "title": "Frenesi Eau de Parfum 30ml",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Eau de Parfum",
+        "Frenesi Eau de Parfum 30ml"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 129
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Frenesi Eau de Parfum 30ml",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Frenesi Eau de Parfum 30ml",
+        "R$ 280,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "alt": "Frenesi--Cards-Perfumaria-pessoal-E-commerce-04"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+          "alt": "Frenesi--Cards-Perfumaria-pessoal-E-commerce-04"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "alt": "Frenesi--Cards-Perfumaria-pessoal-E-commerce-04"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+          "alt": "Frenesi--Cards-Perfumaria-pessoal-E-commerce-04"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+          "alt": "Frenesi--Cards-Perfumaria-pessoal-E-commerce-04"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1",
+          "alt": "003002800002_Frenesi_Eau_de_Parfum_30ml_3"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200691/003002800002_Frenesi_Eau_de_Parfum_30ml_2.jpg?v=638887254260830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200692/003002800002_Frenesi_Eau_de_Parfum_30ml_Caixa.png?v=638887254261100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200693/003002800002_Frenesi_Eau_de_Parfum_30ml_3.jpg?v=638887254261100000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1634
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Amadeirada Floral",
+        "Pimenta Sichuan",
+        "Couro",
+        "Cashmeran",
+        "Descrição adicional",
+        "Frenesi é a verdadeira essência da sinestesia e da intimidade. Fragrância fresca e sensual, que abre com a explosão exótica da pimenta Sichuan e o néctar da pera. No corpo, a cremosa frésia se une à força do couro, trazendo modernidade e delicadeza. Cashmeran e musks envolvem como uma segunda pele, com notas solares e madeiras que equilibram frescor e conforto."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/PERFUMES_SITE_1x1_V2_c225c23737.mp4"
+      ],
+      "html": null,
+      "score": 1313
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg",
+          "alt": "Apaixone-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003002800003_Frenesi_Eau_de_Parfum_80ml_11433463a0.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Apaixone-se",
+        "Frenesi é sobre conforto de habitar a própria pele. Experimente a verdadeira essência da sinestesia."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 392
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Frenesi Eau de Parfum 30ml",
+        "R$ 280,00",
+        "Rosas Roubadas Eau de Parfum 30ml",
+        "incluso",
+        "Frenesi Eau de Parfum 80ml",
+        "R$ 480,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.040,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200689%2Ffrenesi-eau-de-parfum-30ml-003002800002-1.png%3Fv%3D638887254260670000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200689%2Ffrenesi-eau-de-parfum-30ml-003002800002-1.png%3Fv%3D638887254260670000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200689%2Ffrenesi-eau-de-parfum-30ml-003002800002-1.png%3Fv%3D638887254260670000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200689%2Ffrenesi-eau-de-parfum-30ml-003002800002-1.png%3Fv%3D638887254260670000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200684%2Ffrenesi-eau-de-parfum-80ml-003002800003-1.png%3Fv%3D638887253979870000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200684%2Ffrenesi-eau-de-parfum-80ml-003002800003-1.png%3Fv%3D638887253979870000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200684%2Ffrenesi-eau-de-parfum-80ml-003002800003-1.png%3Fv%3D638887253979870000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200684%2Ffrenesi-eau-de-parfum-80ml-003002800003-1.png%3Fv%3D638887253979870000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200685/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200685/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200684/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200684/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200689%2Ffrenesi-eau-de-parfum-30ml-003002800002-1.png%3Fv%3D638887254260670000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200670%2F000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png%3Fv%3D638887251367870000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F200684%2Ffrenesi-eau-de-parfum-80ml-003002800003-1.png%3Fv%3D638887253979870000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200685/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200684/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200690/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638911206051170000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200689/frenesi-eau-de-parfum-30ml-003002800002-1.png?v=638887254260670000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/200685/Frenesi--Cards-Perfumaria-pessoal-E-commerce-04.jpg?v=638907017664600000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/200684/frenesi-eau-de-parfum-80ml-003002800003-1.png?v=638887253979870000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1674
+    },
+    {
+      "selector": "article[data-component=\"listing-section-v2\"]",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Best Seller",
+        "Chá Branco Eau de Parfum 30ml",
+        "Premiado",
+        "Rosas Roubadas Eau de Parfum 30ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+          "alt": "Chá Branco Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+          "alt": "Rosas Roubadas Eau de Parfum 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+          "alt": "Chá Branco Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+          "alt": "Premiado"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000",
+          "alt": "Rosas Roubadas Eau de Parfum 80ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200761-620-auto/cha-branco-eau-de-parfum-30ml-003l02800091-1.jpg?v=638887263561630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200762-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887263561970000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200670-620-auto/000003501_Rosas_Roubadas_Eau_de_Parfum_30ml.png?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200671-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251367870000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200765-620-auto/cha-branco-eau-de-parfum-80ml-003l02800012-1.jpg?v=638887264483130000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200766-620-auto/Cha-Branco-Cards-Perfumaria-pessoal-E-commerce-01.jpg?v=638887264483300000",
+        "https://www.taniabulhoes.com.br/images/product-badges/award.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/200665-620-auto/000003502_Rosas_Roubadas_Eau_de_Parfum-_0ml--1-.png?v=638887251045170000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200666-620-auto/Cards-Perfumaria-pessoal-E-commerce-11.jpg?v=638887251045470000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 981
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:24:04.004Z",
+  "totalSections": 10
+}

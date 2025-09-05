@@ -1,0 +1,719 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/bule-colmeia",
+  "title": "Bule Colmeia",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Bule Colmeia",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Bule Colmeia",
+        "500ml",
+        "R$ 490,00",
+        "2x de R$ 245,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "alt": "000002687_Bule_Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "alt": "000002687_Bule_Colmeia_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "alt": "000002687_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "alt": "000002687_Bule_Colmeia_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "alt": "000002687_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "alt": "000002687_Bule_Colmeia_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "alt": "000002687_Bule_Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+          "alt": "000002687_Bule_Colmeia_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+          "alt": "000002687_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+          "alt": "000002687_Bule_Colmeia_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+          "alt": "000002687_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+          "alt": "000002687_Bule_Colmeia_2"
+        },
+        {
+          "src": "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg",
+          "alt": "Product video thumbnail -89q"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "alt": "000002687_Bule_Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+          "alt": "000002687_Bule_Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "alt": "000002687_Bule_Colmeia_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+          "alt": "000002687_Bule_Colmeia_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "alt": "000002687_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+          "alt": "000002687_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "alt": "000002687_Bule_Colmeia_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+          "alt": "000002687_Bule_Colmeia_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "alt": "000002687_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+          "alt": "000002687_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "alt": "000002687_Bule_Colmeia_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+          "alt": "000002687_Bule_Colmeia_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "alt": "000002687_Bule_Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+          "alt": "000002687_Bule_Colmeia_3"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+          "alt": "000002687_5"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+          "alt": "000002687_Bule_Colmeia_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+          "alt": "000002687_4"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+          "alt": "000002687_Bule_Colmeia_2"
+        },
+        {
+          "src": "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg",
+          "alt": "Product video thumbnail qmzs"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+        "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194597/000002687_Bule_Colmeia_3.png?v=638545113426930000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194598/000002687_5.jpg?v=638545115073900000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194599/000002687_Bule_Colmeia_4.png?v=638545115259730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194600/000002687_4.jpg?v=638545115619830000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/194601/000002687_Bule_Colmeia_2.png?v=638545116222800000&quality=1",
+        "https://img.youtube.com/vi/J2toRRMMlNQ/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2242
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Bule de Chá",
+        "Vidro",
+        "22.0 cm de altura",
+        "13 cm",
+        "500ml",
+        "Não vai à lava-louças e ao micro-ondas.",
+        "Descrição adicional",
+        "Delicadas pinturas de abelhas em folha de ouro viajam por xícaras, copos, taças, pratos de sobremesa, bule e talheres, transformando o café da manhã ou chá da tarde em momentos aconchegantes e inspiradores."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/COLMEIA_ADS_6a9caf8757.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/COLMEIA_ADS_6a9caf8757.mp4"
+      ],
+      "html": null,
+      "score": 1194
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_6_fe8e00b6b0.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_6_fe8e00b6b0.jpg",
+          "alt": "Encante-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000004246_Set_de_Copo_Colmeia_2_unid_6_fe8e00b6b0.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Encante-se",
+        "Com infinitas possibilidades de combinações, a Coleção Colmeia se destaca pela originalidade e riqueza de detalhes."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 406
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Bule Colmeia",
+        "R$ 490,00",
+        "Set Xícara de Chá Mediterrâneo Ouro 4 Peças",
+        "R$ 840,00",
+        "incluso",
+        "Set Copo Colmeia 2 peças",
+        "R$ 450,00",
+        "Compre Os 3 produtos por:",
+        "R$ 1.780,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194595%2F000002687_Bule_Colmeia.png%3Fv%3D638545111628230000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194595%2F000002687_Bule_Colmeia.png%3Fv%3D638545111628230000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194595%2F000002687_Bule_Colmeia.png%3Fv%3D638545111628230000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194595%2F000002687_Bule_Colmeia.png%3Fv%3D638545111628230000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199799%2F1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png%3Fv%3D638830008217970000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199799%2F1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png%3Fv%3D638830008217970000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199799%2F1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png%3Fv%3D638830008217970000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199799%2F1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png%3Fv%3D638830008217970000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195898%2Fset-de-copo-colmeia-2-unid-001001000558-1.png%3Fv%3D638830047285100000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195898%2Fset-de-copo-colmeia-2-unid-001001000558-1.png%3Fv%3D638830047285100000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195898%2Fset-de-copo-colmeia-2-unid-001001000558-1.png%3Fv%3D638830047285100000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195898%2Fset-de-copo-colmeia-2-unid-001001000558-1.png%3Fv%3D638830047285100000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196094/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196094/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195898/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195898/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F194595%2F000002687_Bule_Colmeia.png%3Fv%3D638545111628230000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199799%2F1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png%3Fv%3D638830008217970000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F195898%2Fset-de-copo-colmeia-2-unid-001001000558-1.png%3Fv%3D638830047285100000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196094/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/195898/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191325/bule-colmeia-001000200199-3.jpg?v=638542466370630000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/194595/000002687_Bule_Colmeia.png?v=638545111628230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199800/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_2.jpg.jpg?v=638830008217970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199799/1002301051_Set_de_Xicara_de_Cha_Mediterraneo_Ouro_4_unid_4.png.png?v=638830008217970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/196094/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/195898/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1678
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Set Copo Colmeia 2 peças",
+        "Taça Água Colmeia",
+        "Jarra Colmeia",
+        "Copo Long Drink Colmeia"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+          "alt": "Set Copo Colmeia 2 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+          "alt": "Set Copo Colmeia 2 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191965-620-auto/taca-agua-colmeia-001001000381-1.jpg?v=638542507615770000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191965-620-auto/taca-agua-colmeia-001001000381-1.jpg?v=638542507615770000",
+          "alt": "Taça Água Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191966-620-auto/taca-agua-colmeia-001001000381-2.jpg?v=638542507616700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191966-620-auto/taca-agua-colmeia-001001000381-2.jpg?v=638542507616700000",
+          "alt": "Taça Água Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/195874-620-auto/jarra-colmeia-001000200707-1.png?v=638611592807700000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/195874-620-auto/jarra-colmeia-001000200707-1.png?v=638611592807700000",
+          "alt": "Jarra Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196089-620-auto/000004245_Jarra_Colmeia_5.jpg?v=638628900510200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196089-620-auto/000004245_Jarra_Colmeia_5.jpg?v=638628900510200000",
+          "alt": "Jarra Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192092-620-auto/copo-long-drink-colmeia-001001000429-1.jpg?v=638542517075900000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192092-620-auto/copo-long-drink-colmeia-001001000429-1.jpg?v=638542517075900000",
+          "alt": "Copo Long Drink Colmeia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192093-620-auto/copo-long-drink-colmeia-001001000429-2.jpg?v=638542517077170000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192093-620-auto/copo-long-drink-colmeia-001001000429-2.jpg?v=638542517077170000",
+          "alt": "Copo Long Drink Colmeia"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/195898-620-auto/set-de-copo-colmeia-2-unid-001001000558-1.png?v=638830047285100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196094-620-auto/000004246_Set_de_Copo_Colmeia_2_unid_6.jpg?v=638830047285270000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191965-620-auto/taca-agua-colmeia-001001000381-1.jpg?v=638542507615770000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191966-620-auto/taca-agua-colmeia-001001000381-2.jpg?v=638542507616700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/195874-620-auto/jarra-colmeia-001000200707-1.png?v=638611592807700000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196089-620-auto/000004245_Jarra_Colmeia_5.jpg?v=638628900510200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192092-620-auto/copo-long-drink-colmeia-001001000429-1.jpg?v=638542517075900000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192093-620-auto/copo-long-drink-colmeia-001001000429-2.jpg?v=638542517077170000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 872
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Bule de Chá Mediterrâneo Verde",
+        "Bule de Café Branco de Ouro",
+        "Bule de Chá Mediterrâneo Areia",
+        "Bule de Chá Provence"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192322-620-auto/bule-de-cha-mediterraneo-verde-001000200192-1.jpg?v=638782679135100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192322-620-auto/bule-de-cha-mediterraneo-verde-001000200192-1.jpg?v=638782679135100000",
+          "alt": "Bule de Chá Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192323-620-auto/bule-de-cha-mediterraneo-verde-001000200192-2.jpg?v=638782679135100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192323-620-auto/bule-de-cha-mediterraneo-verde-001000200192-2.jpg?v=638782679135100000",
+          "alt": "Bule de Chá Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+          "alt": "Bule de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+          "alt": "Bule de Café Branco de Ouro"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192348-620-auto/bule-de-cha-mediterraneo-areia-001000200191-1.jpg?v=638782677424730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192348-620-auto/bule-de-cha-mediterraneo-areia-001000200191-1.jpg?v=638782677424730000",
+          "alt": "Bule de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192349-620-auto/bule-de-cha-mediterraneo-areia-001000200191-2.jpg?v=638782677424730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192349-620-auto/bule-de-cha-mediterraneo-areia-001000200191-2.jpg?v=638782677424730000",
+          "alt": "Bule de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+          "alt": "Bule de Chá Provence"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000",
+          "alt": "Bule de Chá Provence"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192322-620-auto/bule-de-cha-mediterraneo-verde-001000200192-1.jpg?v=638782679135100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192323-620-auto/bule-de-cha-mediterraneo-verde-001000200192-2.jpg?v=638782679135100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192537-620-auto/bule-de-cafe-branco-de-ouro-001000200201-1.jpg?v=638782691700530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192538-620-auto/bule-de-cafe-branco-de-ouro-001000200201-2.jpg?v=638782691700530000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192348-620-auto/bule-de-cha-mediterraneo-areia-001000200191-1.jpg?v=638782677424730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192349-620-auto/bule-de-cha-mediterraneo-areia-001000200191-2.jpg?v=638782677424730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200486-620-auto/001000200756_Bule_Provence.png?v=638871584700570000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200487-620-auto/001000200756_Bule_Provence_2--1-.png?v=638871585814330000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 907
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:00:18.620Z",
+  "totalSections": 10
+}

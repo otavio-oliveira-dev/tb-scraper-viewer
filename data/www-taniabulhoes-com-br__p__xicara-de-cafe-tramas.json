@@ -1,0 +1,631 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/xicara-de-cafe-tramas",
+  "title": "Xícara de Café Tramas",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Xícara de Café Tramas",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Xícara de Café Tramas",
+        "Serve 01 lugar à mesa",
+        "R$ 160,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1",
+          "alt": null
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193969/xicara-de-cafe-tramas-001001900084-3.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193970/xicara-de-cafe-tramas-001001900084-4.jpg?v=638815283832700000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193971/xicara-de-cafe-tramas-001001900084-5.jpg?v=638815283832700000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1651
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Porcelana",
+        "Xícara: 6cm de altura",
+        "Pires: 1cm de altura",
+        "Xícara: 6cm",
+        "Pires 11cm",
+        "Pode ir em micro-ondas e lava louças. Não levar ao forno.",
+        "Descrição adicional",
+        "A coleção de porcelanas decoradas Tramas ilustra com leveza louças e acessórios para todos os momentos à mesa."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003908_Bowl_Tramas_4_bcab3f48f4.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003908_Bowl_Tramas_4_bcab3f48f4.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003908_Bowl_Tramas_4_bcab3f48f4.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 894
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/000003909_Xicara_de_Cha_Tramas_5_c16c7ed4d1.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/000003909_Xicara_de_Cha_Tramas_5_c16c7ed4d1.jpg",
+          "alt": "Inspire-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/000003909_Xicara_de_Cha_Tramas_5_c16c7ed4d1.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Inspire-se",
+        "Seja para um belo almoço no jardim ou para aquele momento especial do café, a Coleção Tramas oferece a versatilidade perfeita para qualquer ocasião."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 439
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Xícara de Café Tramas",
+        "R$ 160,00",
+        "Sousplat Tramas",
+        "R$ 420,00",
+        "incluso",
+        "Prato de Sobremesa Tramas",
+        "R$ 170,00",
+        "Compre Os 3 produtos por:",
+        "R$ 750,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193967%2Fxicara-de-cafe-tramas-001001900084-1.jpg%3Fv%3D638815283832570000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193967%2Fxicara-de-cafe-tramas-001001900084-1.jpg%3Fv%3D638815283832570000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193967%2Fxicara-de-cafe-tramas-001001900084-1.jpg%3Fv%3D638815283832570000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193967%2Fxicara-de-cafe-tramas-001001900084-1.jpg%3Fv%3D638815283832570000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193950%2Fsousplat-tramas-001002300396-1.jpg%3Fv%3D638815284155230000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193950%2Fsousplat-tramas-001002300396-1.jpg%3Fv%3D638815284155230000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193950%2Fsousplat-tramas-001002300396-1.jpg%3Fv%3D638815284155230000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193950%2Fsousplat-tramas-001002300396-1.jpg%3Fv%3D638815284155230000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192793%2Fprato-de-sobremesa-tramas-001002300692-1.jpg%3Fv%3D638815284539500000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192793%2Fprato-de-sobremesa-tramas-001002300692-1.jpg%3Fv%3D638815284539500000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192793%2Fprato-de-sobremesa-tramas-001002300692-1.jpg%3Fv%3D638815284539500000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192793%2Fprato-de-sobremesa-tramas-001002300692-1.jpg%3Fv%3D638815284539500000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193952/sousplat-tramas-001002300396-3.jpg?v=638815284155230000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193952/sousplat-tramas-001002300396-3.jpg?v=638815284155230000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193950/sousplat-tramas-001002300396-1.jpg?v=638815284155230000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193950/sousplat-tramas-001002300396-1.jpg?v=638815284155230000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192794/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192794/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192793/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192793/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193967%2Fxicara-de-cafe-tramas-001001900084-1.jpg%3Fv%3D638815283832570000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193950%2Fsousplat-tramas-001002300396-1.jpg%3Fv%3D638815284155230000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192793%2Fprato-de-sobremesa-tramas-001002300692-1.jpg%3Fv%3D638815284539500000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193952/sousplat-tramas-001002300396-3.jpg?v=638815284155230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193950/sousplat-tramas-001002300396-1.jpg?v=638815284155230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192794/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192793/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193968/xicara-de-cafe-tramas-001001900084-2.jpg?v=638815283832700000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193967/xicara-de-cafe-tramas-001001900084-1.jpg?v=638815283832570000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193952/sousplat-tramas-001002300396-3.jpg?v=638815284155230000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193950/sousplat-tramas-001002300396-1.jpg?v=638815284155230000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192794/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192793/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1478
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Taça Vinho Tramas",
+        "Sousplat Tramas",
+        "Prato de Sobremesa Tramas",
+        "Cesta Tramas G"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193974-620-auto/taca-vinho-tramas-001001000494-1.jpg?v=638815284756030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193974-620-auto/taca-vinho-tramas-001001000494-1.jpg?v=638815284756030000",
+          "alt": "Taça Vinho Tramas"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Taça Vinho Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193950-620-auto/sousplat-tramas-001002300396-1.jpg?v=638815284155230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193950-620-auto/sousplat-tramas-001002300396-1.jpg?v=638815284155230000",
+          "alt": "Sousplat Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193952-620-auto/sousplat-tramas-001002300396-3.jpg?v=638815284155230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193952-620-auto/sousplat-tramas-001002300396-3.jpg?v=638815284155230000",
+          "alt": "Sousplat Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192793-620-auto/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192793-620-auto/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000",
+          "alt": "Prato de Sobremesa Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192794-620-auto/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192794-620-auto/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000",
+          "alt": "Prato de Sobremesa Tramas"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194045-620-auto/cesta-tramas-g-001000100009-1.jpg?v=638542656161230000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194045-620-auto/cesta-tramas-g-001000100009-1.jpg?v=638542656161230000",
+          "alt": "Cesta Tramas G"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/194046-620-auto/cesta-tramas-g-001000100009-2.jpg?v=638542656163100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/194046-620-auto/cesta-tramas-g-001000100009-2.jpg?v=638542656163100000",
+          "alt": "Cesta Tramas G"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/193974-620-auto/taca-vinho-tramas-001001000494-1.jpg?v=638815284756030000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/193950-620-auto/sousplat-tramas-001002300396-1.jpg?v=638815284155230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193952-620-auto/sousplat-tramas-001002300396-3.jpg?v=638815284155230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192793-620-auto/prato-de-sobremesa-tramas-001002300692-1.jpg?v=638815284539500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192794-620-auto/prato-de-sobremesa-tramas-001002300692-2.jpg?v=638815284539500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194045-620-auto/cesta-tramas-g-001000100009-1.jpg?v=638542656161230000",
+        "https://taniab.vteximg.com.br/arquivos/ids/194046-620-auto/cesta-tramas-g-001000100009-2.jpg?v=638542656163100000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 866
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Xícara de Café Mediterrâneo Areia",
+        "Xícara de Chá Mediterrâneo Areia",
+        "Xícara de Café Mediterrâneo Verde",
+        "Set Xícaras de Café Borboleta 6 peças"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+          "alt": "Xícara de Café Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+          "alt": "Xícara de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+          "alt": "Xícara de Chá Mediterrâneo Areia"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+          "alt": "Xícara de Café Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+          "alt": "Xícara de Café Mediterrâneo Verde"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+          "alt": "Set Xícaras de Café Borboleta 6 peças"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000",
+          "alt": "Set Xícaras de Café Borboleta 6 peças"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191536-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-1.jpg?v=638760026523430000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191537-620-auto/xicara-de-cafe-mediterraneo-areia-001002300789-2.jpg?v=638760026523600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192883-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-1.jpg?v=638782678008330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192884-620-auto/xicara-de-cha-mediterraneo-areia-001002300534-2.jpg?v=638782678008330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192158-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-1.jpg?v=638760031330600000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192159-620-auto/xicara-de-cafe-mediterraneo-verde-001002300790-2.jpg?v=638760031330730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191297-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-1.jpg?v=638542465364030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191298-620-auto/set-xicaras-de-cafe-borboleta-6-pecas-001002300801-2.jpg?v=638542465366070000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 935
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:55:38.203Z",
+  "totalSections": 10
+}

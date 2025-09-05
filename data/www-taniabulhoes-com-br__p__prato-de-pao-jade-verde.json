@@ -1,0 +1,268 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/prato-de-pao-jade-verde",
+  "title": "Prato de Pão Jade Verde",
+  "sections": [
+    {
+      "selector": "div[data-cy=\"pdp-breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "pdp-breadcrumb-container",
+        "class": "sc-9b54df8f-1 kSVRzd"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Pratos",
+        "Prato de Pão Jade Verde"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 110
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Prato de Pão Jade Verde",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Prato de Pão Jade Verde",
+        "Serve 01 lugar à mesa",
+        "R$ 715,00",
+        "3x de R$ 238,33",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "alt": "308084-948_Prato_de_Pao_Jade_Verde_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1",
+          "alt": "308084-948_Prato_de_Pao_Jade_Verde_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "alt": "308084-948_Prato_de_Pao_Jade_Verde_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+          "alt": "308084-948_Prato_de_Pao_Jade_Verde_2"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1",
+          "alt": "308084-948_Prato_de_Pao_Jade_Verde_2"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/192660/prato-de-pao-jade-001002300293-1.jpg?v=638826547260430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192661/prato-de-pao-jade-001002300293-2.jpg?v=638826547260600000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197278/308084-948_Prato_de_Pao_Jade_Verde_2.jpg?v=638826547260600000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1289
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Limoges",
+        "Porcelana Limoges",
+        "2cm de altura",
+        "Não levar ao micro-ondas ou à lava-louças. Não levar ao forno.",
+        "Descrição adicional",
+        "Produzida em Limoges, na França, a coleção de porcelanas decoradas Jade Verde veste a mesa com modernidade e elegância."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Tania_limoges_4563_OK_ad4db1e4f4.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Tania_limoges_4563_OK_ad4db1e4f4.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Tania_limoges_4563_OK_ad4db1e4f4.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 872
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Tania_limoges_4369_OK_d0bbd11ba3.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/Tania_limoges_4369_OK_d0bbd11ba3.jpg",
+          "alt": "Inspire-se"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/Tania_limoges_4369_OK_d0bbd11ba3.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Inspire-se",
+        "Torne cada momento único com a coleção Jade Verde."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 221
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T04:28:48.531Z",
+  "totalSections": 6
+}

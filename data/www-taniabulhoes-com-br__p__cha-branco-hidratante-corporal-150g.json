@@ -1,0 +1,828 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/cha-branco-hidratante-corporal-150g",
+  "title": "Chá Branco Hidratante Corporal 150g",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumes",
+        "Hidratantes",
+        "Chá Branco Hidratante Corporal 150g"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 216
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Chá Branco Hidratante Corporal 150g",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Best Seller",
+        "Chá Branco Hidratante Corporal 150g",
+        "R$ 160,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "alt": "Hidratantes_Corporal.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+          "alt": "Hidratantes_Corporal.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "alt": "Hidratantes_Corporal.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+          "alt": "Hidratantes_Corporal.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+          "alt": "003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+          "alt": "Hidratantes_Corporal.jpg"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1",
+          "alt": "STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199669/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_3.png.png?v=638829932735800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199670/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_4.jpg.jpg?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199671/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_2.png.png?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199672/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_6.jpg.jpg?v=638829932735970000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199673/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_CAIXA.png.png?v=638829932736100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199674/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_5.jpg.jpg?v=638829932736100000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199675/Hidratantes_Corporal.jpg.jpg?v=638829932736270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/199676/STILL-KITS-PERFUMARIA-PROVENCE-DIA-DAS-MAES0453-1_OK.jpg.jpg?v=638829932736430000&quality=1"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 2905
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Fougère Aromático",
+        "Folhas do Chá Branco",
+        "Rosa Damascena",
+        "Fava Tonka",
+        "Descrição adicional",
+        "Com alta concentração de fragrância, oferecem uma perfumação intensa e duradoura, aliada a uma textura cremosa de toque seco, que nutre profundamente sem pesar. Disponíveis nas fragrâncias Chá Branco, Rosas Roubadas, 1989, Meu Verde, À Francesa e Ventos de Lavanda, tornam o momento da hidratação um verdadeiro ritual de autocuidado.O uso do Hidratante Corporal combinado ao Eau de Parfum Tania Bulhões potencializa e prolonga a perfumação na pele. Principais ativos:• Manteiga de Karité – Proporciona hidratação intensa com ação nutritiva e regeneradora, rica em ômega 6 e 9.• Vitamina E – Potente antioxidante que protege e revitaliza a pele.• Ureia Modificada – Tecnologia avançada que garante hidratação eficaz, especialmente para peles sensíveis ou ressecadas."
+      ],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_4_b206ea0142.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_4_b206ea0142.jpg",
+          "alt": "Detalhes do produto"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_4_b206ea0142.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1480
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_3_02bc1436ca.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_3_02bc1436ca.jpg",
+          "alt": "Descubra"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/003_L01800029_K_Kit_Hidratante_Cha_Branco_150g_3_02bc1436ca.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Descubra",
+        "A harmonia perfeita das notas cítricas do Chá Branco, flores aromáticas e fava tonka."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 254
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Chá Branco Hidratante Corporal 150g",
+        "R$ 160,00",
+        "Chá Branco Colônia para Cabelo 30ml",
+        "R$ 150,00",
+        "incluso",
+        "Chá Branco Veludo Hidratante 15ml",
+        "R$ 130,00",
+        "Compre Os 3 produtos por:",
+        "R$ 440,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199667%2F003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829932735500000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199667%2F003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829932735500000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199667%2F003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829932735500000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199667%2F003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829932735500000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191440%2Fcha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg%3Fv%3D638810290799730000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191440%2Fcha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg%3Fv%3D638810290799730000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191440%2Fcha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg%3Fv%3D638810290799730000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191440%2Fcha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg%3Fv%3D638810290799730000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193529%2Fcha-branco-veludo-hidratante-15ml-003l01800003-1.jpg%3Fv%3D638810290968330000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193529%2Fcha-branco-veludo-hidratante-15ml-003l01800003-1.jpg%3Fv%3D638810290968330000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193529%2Fcha-branco-veludo-hidratante-15ml-003l01800003-1.jpg%3Fv%3D638810290968330000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193529%2Fcha-branco-veludo-hidratante-15ml-003l01800003-1.jpg%3Fv%3D638810290968330000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197884/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197884/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191440/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191440/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193530/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193530/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193529/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193529/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F199667%2F003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png%3Fv%3D638829932735500000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191440%2Fcha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg%3Fv%3D638810290799730000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F193529%2Fcha-branco-veludo-hidratante-15ml-003l01800003-1.jpg%3Fv%3D638810290968330000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197884/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191440/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193530/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193529/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/199668/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G_7.jpg.jpg?v=638829932735800000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/199667/003L01800029_CHA_BRANCO_HIDRATANTE_DEO_CORPORAL_150G.png.png?v=638829932735500000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/197884/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191440/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/193530/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/193529/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1700
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Best Seller",
+        "Chá Branco Colônia para Cabelo 30ml",
+        "Chá Branco Veludo Hidratante 15ml",
+        "Chá Branco Creme para Mãos 40g",
+        "Chá Branco Álcool Gel Hidratante 28g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191440-620-auto/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191440-620-auto/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000",
+          "alt": "Chá Branco Colônia para Cabelo 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197884-620-auto/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197884-620-auto/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000",
+          "alt": "Chá Branco Colônia para Cabelo 30ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+          "alt": "Chá Branco Veludo Hidratante 15ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+          "alt": "Chá Branco Veludo Hidratante 15ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193127-620-auto/cha-branco-creme-para-maos-40g-003l01800013-1.jpg?v=638810292548200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193127-620-auto/cha-branco-creme-para-maos-40g-003l01800013-1.jpg?v=638810292548200000",
+          "alt": "Chá Branco Creme para Mãos 40g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/197888-620-auto/CREME-PARA-MAOS-CHA-BRANCO_2.jpg?v=638810292548200000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/197888-620-auto/CREME-PARA-MAOS-CHA-BRANCO_2.jpg?v=638810292548200000",
+          "alt": "Chá Branco Creme para Mãos 40g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198452-620-auto/003L00400002_Alcool_Gel_Cha_Branco.png.png?v=638778198245630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198452-620-auto/003L00400002_Alcool_Gel_Cha_Branco.png.png?v=638778198245630000",
+          "alt": "Chá Branco Álcool Gel Hidratante 28g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198453-620-auto/003L00400002_Alcool_Gel_Cha_Branco_Caixa.png.png?v=638778198245800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198453-620-auto/003L00400002_Alcool_Gel_Cha_Branco_Caixa.png.png?v=638778198245800000",
+          "alt": "Chá Branco Álcool Gel Hidratante 28g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191440-620-auto/cha-branco-colonia-para-cabelo-30ml-003l02800003-1.jpg?v=638810290799730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197884-620-auto/COLONIA-PARA-CABELO-CHA-BRANCO-2.jpg?v=638810290799730000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193127-620-auto/cha-branco-creme-para-maos-40g-003l01800013-1.jpg?v=638810292548200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/197888-620-auto/CREME-PARA-MAOS-CHA-BRANCO_2.jpg?v=638810292548200000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198452-620-auto/003L00400002_Alcool_Gel_Cha_Branco.png.png?v=638778198245630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198453-620-auto/003L00400002_Alcool_Gel_Cha_Branco_Caixa.png.png?v=638778198245800000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 941
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Chá Branco Hidratante para Mãos e Corpo 290g",
+        "Chá Branco Veludo Hidratante 290ml",
+        "Chá Branco Veludo Hidratante 15ml",
+        "Jade Hidratante para Mãos e Corpo 290g"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+          "alt": "Chá Branco Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+          "alt": "Chá Branco Veludo Hidratante 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+          "alt": "Chá Branco Veludo Hidratante 15ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+          "alt": "Chá Branco Veludo Hidratante 15ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+          "alt": "Jade Hidratante para Mãos e Corpo 290g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000",
+          "alt": "Jade Hidratante para Mãos e Corpo 290g"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191768-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-1.jpg?v=638810288351500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191769-620-auto/cha-branco-hidratante-para-maos-e-corpo-290g-002l01800002-2.jpg?v=638810288351670000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198380-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-1.jpg?v=638759979662300000",
+        "https://taniab.vteximg.com.br/arquivos/ids/198381-620-auto/cha-branco-veludo-hidratante-290ml-002l01800030-5.jpg?v=638759979662630000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193529-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-1.jpg?v=638810290968330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193530-620-auto/cha-branco-veludo-hidratante-15ml-003l01800003-2.jpg?v=638810290968330000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193321-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-1.jpg?v=638542601621400000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193322-620-auto/jade-hidratante-para-maos-e-corpo-290g-002l01800021-2.jpg?v=638542601622930000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 949
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:52:33.195Z",
+  "totalSections": 11
+}

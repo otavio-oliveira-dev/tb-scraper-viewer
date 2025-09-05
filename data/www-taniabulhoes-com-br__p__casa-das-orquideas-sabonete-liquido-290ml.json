@@ -1,0 +1,681 @@
+{
+  "url": "https://www.taniabulhoes.com.br/p/casa-das-orquideas-sabonete-liquido-290ml",
+  "title": "Casa das Orquídeas Sabonete Líquido 290ml",
+  "sections": [
+    {
+      "selector": "header[data-sentry-element=\"unknown\"] > div.button-section",
+      "attrs": {
+        "class": "button-section"
+      },
+      "heading": "Ops, sua sacola está vazia!",
+      "text_blocks": [
+        "Veja nossas principais categorias",
+        "perfumaria casa",
+        "eau de parfum",
+        "taniapele",
+        "colecoes",
+        "presentes"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 322
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(4) > section.sc-ed6ed672-0.lheTQi > article:nth-of-type(1) > div:nth-of-type(1)",
+      "attrs": {},
+      "heading": null,
+      "text_blocks": [
+        "mediterrâneo",
+        "fênix",
+        "perfumes",
+        "provence",
+        "marquesa",
+        "aromatizadores"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 140
+    },
+    {
+      "selector": "div[data-cy=\"breadcrumb-container\"]",
+      "attrs": {
+        "data-cy": "breadcrumb-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "BreadCrumb",
+        "data-sentry-source-file": "Breadcrumb.tsx",
+        "class": "sc-2826dc89-0 liviSj"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Perfumaria Casa",
+        "Lavabo",
+        "Sabonetes",
+        "Casa das Orquídeas Sabonete Líquido 290ml"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 234
+    },
+    {
+      "selector": "div[data-cy=\"buybox-container\"]",
+      "attrs": {
+        "data-cy": "buybox-container",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "Buybox",
+        "data-sentry-source-file": "Buybox.tsx",
+        "class": "sc-a1fdb6ea-0 cHSzbj"
+      },
+      "heading": "Casa das Orquídeas Sabonete Líquido 290ml",
+      "text_blocks": [
+        "Double tap to zoom",
+        "Casa das Orquídeas Sabonete Líquido 290ml",
+        "290ml",
+        "R$ 265,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg",
+          "alt": "Product video thumbnail cfYv"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+          "alt": null
+        },
+        {
+          "src": "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg",
+          "srcset": null,
+          "best": "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg",
+          "alt": "Product video thumbnail EKT5"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+        "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=8",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191317/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-3.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191318/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-4.jpg?v=638810204722400000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191319/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-5.jpg?v=638810204722400000&quality=1",
+        "https://img.youtube.com/vi/dyHqv-qdPZ8/maxresdefault.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1755
+    },
+    {
+      "selector": "section[data-cy=\"product-description-container\"]",
+      "attrs": {
+        "class": "sc-373ac856-0 iMwMXr product-description",
+        "data-cy": "product-description-container",
+        "data-sentry-element": "Container",
+        "data-sentry-component": "ProductDescription",
+        "data-sentry-source-file": "index.tsx"
+      },
+      "heading": "Detalhes do produto",
+      "text_blocks": [
+        "Detalhes do produto",
+        "Sabonete Líquido",
+        "Vidro",
+        "Limão Siciliano",
+        "Orquídea",
+        "Musgo de Carvalho",
+        "Para o primeiro uso gire a trave para a lateral do pump e retire-a.",
+        "Descrição adicional",
+        "Uma fragrância criada para transmitir toda a magia das flores, com acordes cítricos na saída e um corpo repleto de orquídea e jasmim. Leve, fresca e ao mesmo tempo marcante, desperta sensações de aconchego, com muita sofisticação."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [
+        {
+          "src": "https://static.taniabulhoes.com.br/Casa_das_orquideas_1e9ccb75d6.mp4",
+          "type": "video/mp4",
+          "poster": null,
+          "autoplay": true,
+          "loop": true,
+          "muted": true,
+          "controls": false
+        }
+      ],
+      "video_urls": [
+        "https://static.taniabulhoes.com.br/Casa_das_orquideas_1e9ccb75d6.mp4"
+      ],
+      "html": null,
+      "score": 1264
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-image-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-image-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-1 WJHfc"
+      },
+      "heading": null,
+      "text_blocks": [],
+      "images": [
+        {
+          "src": "https://static.taniabulhoes.com.br/TB_BANNER_Casa_Das_Orquideas_2_b7aa1901ef.jpg",
+          "srcset": null,
+          "best": "https://static.taniabulhoes.com.br/TB_BANNER_Casa_Das_Orquideas_2_b7aa1901ef.jpg",
+          "alt": "Casa das Orquídeas"
+        }
+      ],
+      "image_urls": [
+        "https://static.taniabulhoes.com.br/TB_BANNER_Casa_Das_Orquideas_2_b7aa1901ef.jpg"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 130
+    },
+    {
+      "selector": "div[data-cy=\"product-highlight-info-wrapper\"]",
+      "attrs": {
+        "data-cy": "product-highlight-info-wrapper",
+        "data-sentry-element": "unknown",
+        "data-sentry-source-file": "ProductHighlight.tsx",
+        "class": "sc-332ed9d7-2 ikwDUv"
+      },
+      "heading": null,
+      "text_blocks": [
+        "Casa das Orquídeas",
+        "Os acordes cítricos na saída e o corpo repleto de flores de orquídea e jasmim despertam uma deliciosa sensação de aconchego no ambiente."
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 435
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div:nth-of-type(8)",
+      "attrs": {},
+      "heading": "comprados frequentemente juntos",
+      "text_blocks": [
+        "comprados frequentemente juntos",
+        "Casa das Orquídeas Sabonete Líquido 290ml",
+        "R$ 265,00",
+        "Casa das Orquídeas Hidratante para Mãos e Corpo 290g",
+        "R$ 255,00",
+        "incluso",
+        "Casa das Orquídeas Difusor para Ambiente 290ml",
+        "R$ 395,00",
+        "Compre Os 3 produtos por:",
+        "R$ 915,00",
+        "Adicionar à sacola"
+      ],
+      "images": [
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191315%2Fcasa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg%3Fv%3D638810204722270000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191315%2Fcasa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg%3Fv%3D638810204722270000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191315%2Fcasa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg%3Fv%3D638810204722270000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191315%2Fcasa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg%3Fv%3D638810204722270000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192496%2Fcasa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg%3Fv%3D638810204252800000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192496%2Fcasa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg%3Fv%3D638810204252800000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192496%2Fcasa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg%3Fv%3D638810204252800000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192496%2Fcasa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg%3Fv%3D638810204252800000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191714%2Fcasa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg%3Fv%3D638810203906470000%26quality%3D1&w=640&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191714%2Fcasa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg%3Fv%3D638810203906470000%26quality%3D1&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191714%2Fcasa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg%3Fv%3D638810203906470000%26quality%3D1&w=640&q=75 2x",
+          "best": "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191714%2Fcasa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg%3Fv%3D638810203906470000%26quality%3D1&w=640&q=75",
+          "alt": "Combo Card"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192497/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-2.jpg?v=638810204252970000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192497/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-2.jpg?v=638810204252970000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192496/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg?v=638810204252800000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192496/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg?v=638810204252800000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191715/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000&quality=4",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191715/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000&quality=4",
+          "alt": "Background image",
+          "isBackground": true
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191714/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000&quality=1",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191714/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000&quality=1",
+          "alt": "Background image",
+          "isBackground": true
+        }
+      ],
+      "image_urls": [
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191315%2Fcasa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg%3Fv%3D638810204722270000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F192496%2Fcasa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg%3Fv%3D638810204252800000%26quality%3D1&w=640&q=75",
+        "https://www.taniabulhoes.com.br/_next/image?url=https%3A%2F%2Ftaniab.vteximg.com.br%2Farquivos%2Fids%2F191714%2Fcasa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg%3Fv%3D638810203906470000%26quality%3D1&w=640&q=75",
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192497/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-2.jpg?v=638810204252970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192496/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg?v=638810204252800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191715/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191714/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000&quality=1"
+      ],
+      "background_images": [
+        "https://taniab.vteximg.com.br/arquivos/ids/191316/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-2.jpg?v=638810204722400000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191315/casa-das-orquideas-sabonete-liquido-290ml-002l02900051-1.jpg?v=638810204722270000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/192497/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-2.jpg?v=638810204252970000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/192496/casa-das-orquideas-hidratante-para-maos-e-corpo-290g-002l01800004-1.jpg?v=638810204252800000&quality=1",
+        "https://taniab.vteximg.com.br/arquivos/ids/191715/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-2.jpg?v=638810203906630000&quality=4",
+        "https://taniab.vteximg.com.br/arquivos/ids/191714/casa-das-orquideas-difusor-para-ambiente-290ml-002l01300034-1.jpg?v=638810203906470000&quality=1"
+      ],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1736
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article.sc-70cd0c58-0.evgCYK.title",
+      "attrs": {
+        "class": "sc-70cd0c58-0 evgCYK title",
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx"
+      },
+      "heading": "Conheça outros itens da coleção",
+      "text_blocks": [
+        "Conheça outros itens da coleção",
+        "Refil Difusor para Carro Casa das Orquídeas 1,5g",
+        "Casa das Orquídeas Refil Sabonete Líquido 300ml",
+        "Casa das Orquídeas Refil para Difusor de Ambiente 300ml",
+        "30% OFF",
+        "Difusor Porcelana Flor Branco Casa das Orquídeas 250ml"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200851-620-auto/000003525_Casa_das_Orquideas_Refil_Difusor_para_Carro_Tania_Bulhoes%20-1-.png?v=638901733155500000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200851-620-auto/000003525_Casa_das_Orquideas_Refil_Difusor_para_Carro_Tania_Bulhoes%20-1-.png?v=638901733155500000",
+          "alt": "Refil Difusor para Carro Casa das Orquídeas 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/200852-620-auto/refil-difusor-para-carro-casa-das-orquideas-15g-002l01300005-2.jpg?v=638901733155800000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/200852-620-auto/refil-difusor-para-carro-casa-das-orquideas-15g-002l01300005-2.jpg?v=638901733155800000",
+          "alt": "Refil Difusor para Carro Casa das Orquídeas 1,5g"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196801-620-auto/casa-das-orquideas-refil-sabonete-liquido-300ml-002l02900091-1.jpg?v=638810206177530000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196801-620-auto/casa-das-orquideas-refil-sabonete-liquido-300ml-002l02900091-1.jpg?v=638810206177530000",
+          "alt": "Casa das Orquídeas Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Casa das Orquídeas Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192590-620-auto/casa-das-orquideas-refil-para-difusor-de-ambiente-300ml-002l01300011-1.jpg?v=638810206365870000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192590-620-auto/casa-das-orquideas-refil-para-difusor-de-ambiente-300ml-002l01300011-1.jpg?v=638810206365870000",
+          "alt": "Casa das Orquídeas Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Casa das Orquídeas Refil para Difusor de Ambiente 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191742-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-1.jpg?v=638852448759470000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191742-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-1.jpg?v=638852448759470000",
+          "alt": "Difusor Porcelana Flor Branco Casa das Orquídeas 250ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/191743-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-2.jpg?v=638852448759630000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/191743-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-2.jpg?v=638852448759630000",
+          "alt": "Difusor Porcelana Flor Branco Casa das Orquídeas 250ml"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/200851-620-auto/000003525_Casa_das_Orquideas_Refil_Difusor_para_Carro_Tania_Bulhoes%20-1-.png?v=638901733155500000",
+        "https://taniab.vteximg.com.br/arquivos/ids/200852-620-auto/refil-difusor-para-carro-casa-das-orquideas-15g-002l01300005-2.jpg?v=638901733155800000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196801-620-auto/casa-das-orquideas-refil-sabonete-liquido-300ml-002l02900091-1.jpg?v=638810206177530000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/192590-620-auto/casa-das-orquideas-refil-para-difusor-de-ambiente-300ml-002l01300011-1.jpg?v=638810206365870000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/191742-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-1.jpg?v=638852448759470000",
+        "https://taniab.vteximg.com.br/arquivos/ids/191743-620-auto/difusor-porcelana-flor-branco-casa-das-orquideas-250ml-193016036bk-2.jpg?v=638852448759630000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1187
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > article:nth-of-type(2)",
+      "attrs": {
+        "data-component": "listing-section-v2",
+        "data-sentry-element": "unknown",
+        "data-sentry-component": "TemplateSection",
+        "data-sentry-source-file": "TemplateSection.tsx",
+        "class": "sc-70cd0c58-0 evgCYK"
+      },
+      "heading": "Explore outros itens desta categoria",
+      "text_blocks": [
+        "Explore outros itens desta categoria",
+        "Chá Branco Sabonete Líquido Com Vitamina E 290ml",
+        "Chá Branco Refil Sabonete Líquido 300ml",
+        "Figo Negro Sabonete Líquido 290ml",
+        "Cruelty free",
+        "Sabonete Corporal em Barra"
+      ],
+      "images": [
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+          "alt": "Chá Branco Sabonete Líquido Com Vitamina E 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196871-620-auto/cha-branco-refil-sabonete-liquido-300ml-002l02900089-1.jpg?v=638810287501730000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196871-620-auto/cha-branco-refil-sabonete-liquido-300ml-002l02900089-1.jpg?v=638810287501730000",
+          "alt": "Chá Branco Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+          "alt": "Chá Branco Refil Sabonete Líquido 300ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193596-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193596-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000",
+          "alt": "Figo Negro Sabonete Líquido 290ml"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/193597-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/193597-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000",
+          "alt": "Figo Negro Sabonete Líquido 290ml"
+        },
+        {
+          "src": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "srcset": null,
+          "best": "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+          "alt": "Cruelty free"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+          "alt": "Sabonete Corporal em Barra"
+        },
+        {
+          "src": "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000",
+          "srcset": null,
+          "best": "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000",
+          "alt": "Sabonete Corporal em Barra"
+        }
+      ],
+      "image_urls": [
+        "https://taniab.vteximg.com.br/arquivos/ids/192113-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-1.jpg?v=638810286847930000",
+        "https://taniab.vteximg.com.br/arquivos/ids/192114-620-auto/cha-branco-sabonete-liquido-com-vitamina-e-290ml-002l02900049-2.jpg?v=638810286848100000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196871-620-auto/cha-branco-refil-sabonete-liquido-300ml-002l02900089-1.jpg?v=638810287501730000",
+        "https://www.taniabulhoes.com.br/_next/static/media/image_transparent.cb8bcc10.png",
+        "https://taniab.vteximg.com.br/arquivos/ids/193596-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-1.jpg?v=638542620159030000",
+        "https://taniab.vteximg.com.br/arquivos/ids/193597-620-auto/figo-negro-sabonete-liquido-290ml-002l02900072-2.jpg?v=638542620160100000",
+        "https://www.taniabulhoes.com.br/images/product-badges/cruelty-free.svg",
+        "https://taniab.vteximg.com.br/arquivos/ids/192847-620-auto/sabonete-corporal-em-barra-009l02900001-1.jpg?v=638542567781370000",
+        "https://taniab.vteximg.com.br/arquivos/ids/196018-620-auto/SABONETE-EM-BARRA.jpg?v=638620969389600000"
+      ],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 1009
+    },
+    {
+      "selector": "html[data-sentry-component=\"RootLayout\"] > body:nth-of-type(1) > div.sc-5003fafc-0.gKAzof",
+      "attrs": {
+        "class": "sc-5003fafc-0 gKAzof"
+      },
+      "heading": "Frete Grátis",
+      "text_blocks": [
+        "Frete Grátis",
+        "A partir de R$ 400,00 em compras.",
+        "Compre pelo WhatsApp",
+        "+55 (11) 4864-1999",
+        "Encontre o presente perfeito",
+        "Embalagens especiais para tornar o gesto ainda mais memorável.",
+        "Atendimento ao cliente",
+        "+55 (11) 94597-2753"
+      ],
+      "images": [],
+      "image_urls": [],
+      "background_images": [],
+      "videos": [],
+      "video_urls": [],
+      "html": null,
+      "score": 676
+    }
+  ],
+  "scrapedAt": "2025-09-05T03:50:46.285Z",
+  "totalSections": 11
+}
