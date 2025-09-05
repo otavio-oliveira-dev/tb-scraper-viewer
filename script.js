@@ -198,7 +198,7 @@ class ContentViewer {
         this.pagesList.innerHTML = this.filteredPages.map(page => `
             <div class="page-item" data-filename="${page.filename}">
                 <div class="page-name">${this.getPageDisplayName(page)}</div>
-                <div class="page-sections">${page.sections?.length || 0} seções</div>
+                <div class="page-sections">${page.sections?.length || 0} ${(page.sections?.length || 0) === 1 ? 'seção' : 'seções'}</div>
             </div>
         `).join('');
         
@@ -240,7 +240,8 @@ class ContentViewer {
         this.pageUrl.textContent = page.url || '';
         this.pageUrl.href = page.url || '#';
         this.pageDate.textContent = page.scrapedAt ? new Date(page.scrapedAt).toLocaleString('pt-BR') : '';
-        this.sectionsCount.textContent = `${page.sections?.length || 0} seção${(page.sections?.length || 0) !== 1 ? 'ões' : ''}`;
+        const sectionsLength = page.sections?.length || 0;
+        this.sectionsCount.textContent = `${sectionsLength} ${sectionsLength === 1 ? 'seção' : 'seções'}`;
         
         // Render sections
         this.sectionsContainer.innerHTML = (page.sections || []).map((section, index) => `
